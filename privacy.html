@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-3N8JQ3GBDV"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-3N8JQ3GBDV');
+  </script>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="only light">
+  <meta name="theme-color" content="#F7F8F6">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="/favicon.ico" sizes="32x32">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <meta name="description" content="싼타임 핫딜 앱·사이트 개인정보처리방침 — 수집 정보, 푸시 알림(FCM 토픽), 제3자 서비스, 앱 권한 고지.">
+  <link rel="canonical" href="https://ssantime.com/privacy.html">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="싼타임 핫딜">
+  <meta property="og:locale" content="ko_KR">
+  <meta property="og:title" content="개인정보처리방침">
+  <meta property="og:description" content="싼타임 핫딜 앱·사이트 개인정보처리방침 — 수집 정보, 푸시 알림(FCM 토픽), 제3자 서비스, 앱 권한 고지.">
+  <meta property="og:image" content="https://ssantime.com/img/og-default.png">
+  <meta property="og:url" content="https://ssantime.com/privacy.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="개인정보처리방침">
+  <meta name="twitter:description" content="싼타임 핫딜 앱·사이트 개인정보처리방침 — 수집 정보, 푸시 알림(FCM 토픽), 제3자 서비스, 앱 권한 고지.">
+  <meta name="twitter:image" content="https://ssantime.com/img/og-default.png">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"싼타임 핫딜","item":"https://ssantime.com/"},{"@type":"ListItem","position":2,"name":"개인정보처리방침","item":"https://ssantime.com/privacy.html"}]}</script>
+  <title>개인정보처리방침 · 싼타임 핫딜</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="page-guide">
+  <header class="site-header">
+    <div class="header-row">
+      <div class="brand">
+        <span class="brand-tag" aria-hidden="true">↓</span>
+        <a class="brand-name" href="index.html"><span class="wm-time">싼타임</span><span class="wm-deal">핫딜</span></a>
+      </div>
+    </div>
+    <h1 class="guide-title">개인정보처리방침</h1>
+    <p class="guide-lead">싼타임 핫딜 앱과 웹사이트가 개인정보를 어떻게 다루는지 정리했어요. 모든 딜 탐색 기능은 로그인 없이 쓸 수 있고, 계정은 선택이에요.</p>
+  </header>
+  <main class="guide-main">
+    <section class="guide-sec">
+      <h2 class="guide-h">수집하는 개인정보</h2>
+      <p>핫딜 탐색 등 앱과 웹사이트의 모든 기본 기능은 회원가입·로그인 없이 사용할 수 있습니다.</p>
+      <p>선택 기능인 계정을 만들면(구글 로그인 또는 이메일/비밀번호) 이메일 주소, 사용자 식별자(UID), 구글 로그인 시 구글 계정의 프로필 이름, 가입·최근 로그인 시각이 Google Firebase(Authentication·Cloud Firestore)에 저장됩니다. 이 정보는 로그인 상태 유지 등 계정 관리 목적으로만 사용합니다.</p>
+      <p>선택 기능인 쿠팡 가격 알림을 사용하면, 회원님이 등록한 쿠팡 상품 링크와 원하는 할인율(10·20·30·40%), 알림을 받을 기기의 푸시 등록 토큰이 회원님 계정(Cloud Firestore)에 본인만 접근할 수 있도록 저장됩니다. 등록한 상품의 판매가는 회원님이 지정한 공개 상품 페이지에서 낮은 빈도로 자동 확인하며, 쿠팡 계정·주문·결제 정보에는 접근하지 않습니다. 저장한 가격 이력은 상품 단위로만 보관되어 개인을 식별하지 않습니다.</p>
+      <p>웹사이트와 앱 안의 웹 화면은 Google Analytics(GA4)를 통해 방문 통계(페이지뷰·기기 유형·유입 경로 등)를 수집하며, 이것으로 개인을 식별하지 않습니다.</p>
+    </section>
+    <section class="guide-sec">
+      <h2 class="guide-h">푸시 알림 (FCM)</h2>
+      <p>앱은 핫딜 다이제스트 알림을 Firebase Cloud Messaging의 &#x27;토픽&#x27; 방식으로 보냅니다. 이는 특정 개인을 지정하지 않는 broadcast이며, 이 다이제스트 알림에 한해 당사는 기기 토큰을 자체 서버에 저장하거나 개인과 연결하지 않습니다(토큰은 Google이 생성·관리).</p>
+      <p>다만 선택 기능인 쿠팡 가격 알림을 사용하면, 회원님에게만 보내는 개인 알림을 위해 알림 기기의 푸시 등록 토큰을 회원님 계정에 저장합니다(알림 대상 지정 목적). 이 토큰과 등록한 상품 정보는 계정을 삭제하면 함께 삭제됩니다.</p>
+      <p>알림 수신은 기기의 알림 권한으로 통제됩니다. 알림을 끄거나 앱을 삭제하면 즉시 중단됩니다.</p>
+    </section>
+    <section class="guide-sec">
+      <h2 class="guide-h">제3자 서비스</h2>
+      <p>Google Firebase(계정 인증·사용자 프로필 저장·푸시 발송)·Google Analytics(방문 통계): 처리는 Google 개인정보처리방침을 따릅니다.</p>
+      <p>쿠팡 파트너스·애드픽: 일부 상품 링크는 제휴 링크이며, 이를 통한 구매 시 당사가 일정 수수료를 받을 수 있습니다. 외부 쇼핑몰에서의 개인정보 처리는 각 사이트의 방침을 따릅니다.</p>
+    </section>
+    <section class="guide-sec">
+      <h2 class="guide-h">앱 권한</h2>
+      <p>알림(POST_NOTIFICATIONS): 핫딜 다이제스트 알림 표시에만 사용합니다.</p>
+      <p>인터넷·네트워크 상태: 사이트 로드와 알림 수신에 사용합니다.</p>
+    </section>
+    <section class="guide-sec">
+      <h2 class="guide-h">보관 및 삭제</h2>
+      <p>계정 정보(이메일·UID·프로필 이름·가입 및 로그인 시각)는 계정을 삭제할 때까지 보관하며, 삭제 시 지체 없이 파기합니다(법령상 별도 보관 의무 없음).</p>
+      <p>쿠팡 가격 알림에 저장된 정보(등록 상품 링크·할인율·푸시 등록 토큰)도 계정을 삭제하면 함께 삭제됩니다. 상품 가격 이력은 특정 개인과 연결되지 않는 상품 단위 기록이라 개인정보에 해당하지 않습니다.</p>
+      <p>계정이 없는 이용에는 당사가 보관하는 개인정보가 없습니다. 익명 분석 데이터는 Google Analytics의 보관 정책에 따라 처리됩니다.</p>
+      <p>방침이 변경되면 본 페이지에 시행일과 함께 갱신합니다.</p>
+    </section>
+    <section class="guide-sec">
+      <h2 class="guide-h">계정 삭제</h2>
+      <p>계정과 관련 데이터의 삭제는 <a href="account-delete.html">계정 삭제 안내</a> 페이지의 절차를 따라 언제든 요청할 수 있으며, 접수 후 7일 이내에 처리합니다.</p>
+    </section>
+    <section class="guide-sec">
+      <h2 class="guide-h">문의</h2>
+      <p>본 방침 관련 문의는 싼타임 핫딜 운영자(사이트 하단 정보)로 연락해 주세요. 시행일: 2026-06-23 · 최종 개정: 2026-07-07.</p>
+    </section>
+  </main>
+  <footer class="site-foot">
+    <section class="identity" aria-label="사이트 소개">
+      <p class="identity-q">이 사이트는?</p>
+      <p class="identity-a">싼타임 핫딜은 인터넷에 올라온 핫딜을 네이버 최저가와 비교해, <b>네이버보다 싼 딜만</b> 골라 모아드려요.</p>
+      <p class="identity-feedback">의견이나 개선 제안이 있으신가요? <a class="feedback-link" href="mailto:furster.official@gmail.com?subject=%EC%8B%BC%ED%83%80%EC%9E%84%20%ED%94%BC%EB%93%9C%EB%B0%B1" onclick="if(typeof gtag==='function')gtag('event','feedback_click')">의견 보내기</a></p>
+    </section>
+    <p>싼타임 핫딜 · 가격은 수집 시점 기준이며 실제와 다를 수 있어요.</p>
+    <p class="affiliate-notice">이 사이트는 쿠팡 파트너스, 애드픽 등 제휴 마케팅 활동의 일환으로, 이에 따라 일정액의 수수료를 제공받을 수 있습니다.</p>
+  </footer>
+</body>
+</html>
