@@ -1,5 +1,40 @@
 [
   {
+    "deal_id": "047e7371e581",
+    "title": "무표 와이드 제습제 250g 24개입",
+    "deal_total": 14601,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 18500,
+    "gap": 3899,
+    "mall_name": null,
+    "buy_url": "https://bitl.bz/api@0RQGvFJm",
+    "source_url": "https://arca.live/b/hotdeal/179838038",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6070484/60704849192.1.jpg?type=f300",
+    "created_iso": "2026-08-13T15:22:01.015631+00:00",
+    "naver_url": null,
+    "naver_product_id": "60704849192",
+    "buy_url_orig": "https://store.ohou.se/goods/4140625",
+    "price_label": "14,601원",
+    "discount_guide": "1. 상품 페이지에서 '쿠폰 받기'를 눌러 상품쿠폰을 받습니다.\n2. 상품쿠폰 적용 시 판매가 18,500원이 최종 14,601원(개당 608원)으로 결제됩니다.",
+    "product_summary": "무표 와이드 제습제(습기제거제)입니다.\n520ml 용량에 습기제거 내용물 250g이 담긴 제품입니다.\n24개입으로 구성되어 있습니다.",
+    "source_site": "arca",
+    "category": "생활용품",
+    "category_bucket": "생활",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "무표",
+      "MUPYO",
+      "제습제",
+      "습기제거제",
+      "와이드 제습제",
+      "제습",
+      "제습용품"
+    ]
+  },
+  {
     "deal_id": "72cce9365ec3",
     "title": "[네이버쇼핑] 2.5kg 샤오커오라 무설탕 12종믹스캔디(26,800원/무료)",
     "deal_total": 26800,
@@ -21676,7 +21711,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "상하목장",
@@ -21712,7 +21747,7 @@
     "category": "생활용품",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "매직캔",
@@ -21747,7 +21782,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://store.ohou.se/exhibitions/13062"
     ],
@@ -21787,7 +21822,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "빙그레",
@@ -21825,7 +21860,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "나이키",
