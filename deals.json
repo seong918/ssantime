@@ -1,5 +1,42 @@
 [
   {
+    "deal_id": "c69537998aef",
+    "title": "BYC 60수 위클리 박서 트렁크",
+    "deal_total": 26730,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 32900,
+    "gap": 6170,
+    "mall_name": "네이버",
+    "buy_url": "https://www.lotteon.com/p/product/LO2367401660",
+    "source_url": "https://www.fmkorea.com/10209999293",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5972616/59726161457.20260622072401.jpg?type=f300",
+    "created_iso": "2026-08-14T04:02:56.038741+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/59726161457",
+    "naver_product_id": "59726161457",
+    "buy_url_orig": "",
+    "price_label": "26,730원",
+    "discount_guide": "1. 정가 64,200원에서 53% 할인, 판매가 30,050원 (나의 혜택가 26,730원)\n2. L.POINT 최대 14P 적립\n3. 롯데오너스 추가 0.5% 적립\n4. 최대 5% 적립 멤버십 무료 신청\n5. 최대 6개월 무이자 할부",
+    "product_summary": "BYC WEEKLY PREMIUM 남성용 60수 면 박서 트렁크입니다.\n60수 면 소재로 통풍이 잘되고 편안한 착용감을 제공합니다.\n한 세트는 5매입으로 구성되며, 모델명은 ONP4002입니다.",
+    "source_site": "fmkorea",
+    "category": "의류",
+    "category_bucket": "패션",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "BYC",
+      "박서트렁크",
+      "트렁크팬티",
+      "남성속옷",
+      "60수 면",
+      "면팬티",
+      "위클리프리미엄",
+      "ONP4002",
+      "박서팬티"
+    ]
+  },
+  {
     "deal_id": "c1043aae96a1",
     "title": "[롯데온] 주영엔에스 뼈엔 엠비피MBP 5개월분 (5박스x30캡슐) (183,000원/무료)",
     "deal_total": 183000,
@@ -20733,7 +20770,7 @@
     "category": "가전/가구",
     "category_bucket": "전자",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "위닉스",
@@ -20769,7 +20806,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "타미힐피거",
@@ -20805,7 +20842,7 @@
     "category": "컴퓨터",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "앱코",
@@ -20843,7 +20880,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "농협안심한우",
@@ -20880,7 +20917,7 @@
     "category": "패키지/이용권",
     "category_bucket": "기타",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "강동워터파크",
@@ -20916,7 +20953,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "구운계란",
