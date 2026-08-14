@@ -1,5 +1,78 @@
 [
   {
+    "deal_id": "f9024d49e6cd",
+    "title": "[네이버] 냉각 카라비너 BLDC 모터 휴대용 선풍기 (9,900원/무료)",
+    "deal_total": 9900,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 13500,
+    "gap": 3600,
+    "mall_name": null,
+    "buy_url": "https://m.brand.naver.com/nuart/products/12006391886",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=115&&no=726956",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_9106446/91064465721.jpg?type=f300",
+    "created_iso": "2026-08-14T02:28:59.147676+00:00",
+    "naver_url": null,
+    "naver_product_id": "91064465721",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. 정상가 25,800원에서 61% 할인된 9,900원이며 무료배송입니다.\n2. N+멤버십 적립 시 최대 적립 포인트 1,095원이 적립됩니다.\n3. N 20,000원 이상 사용가능 쿠폰이 제공됩니다.\n4. 라인프렌즈 카드 결제 시 최대 198원 추가 적립(2%)됩니다.\n5. 최대 12개월 무이자 할부·60개월 특별금리가 적용됩니다.\n6. 포토리뷰 작성 시 아메리카노를 증정합니다.",
+    "product_summary": "BLDC 모터를 탑재한 무선 휴대용 손선풍기 '에어릿 프로쿨'입니다.\n급속냉각과 무소음 작동을 지원하며, 대용량 배터리를 갖췄습니다.\n키링형으로 휴대하거나 탁상용으로 거치해 사용할 수 있으며, 유아·아기용으로도 활용할 수 있습니다.",
+    "source_site": "ppomppu",
+    "category": "가전/가구",
+    "category_bucket": "전자",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "에어릿 프로쿨",
+      "BLDC 선풍기",
+      "휴대용 선풍기",
+      "손선풍기",
+      "무선 선풍기",
+      "미니 선풍기",
+      "핸디 선풍기",
+      "냉각 선풍기",
+      "아기 선풍기"
+    ]
+  },
+  {
+    "deal_id": "14dbc2ef7077",
+    "title": "[네이버] 지센 여름 원피스 특가 (29,900원~/무료)",
+    "deal_total": 29900,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 41400,
+    "gap": 11500,
+    "mall_name": "네이버",
+    "buy_url": "https://brand.naver.com/zishen/shoppingstory/detail?id=5002852847&page=1",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=115&&no=726954",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5369174/53691743946.20260806115144.jpg?type=f300",
+    "created_iso": "2026-08-14T02:29:03.703659+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/53691743946",
+    "naver_product_id": "53691743946",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. 네이버 플러스 스토어 단독 여름 원피스 특가, 최대 ~91% 할인 (혜택가 29,900원~)\n2. 신상품 30,000원 할인 쿠폰 적용\n3. 신상품 구매 시 10% 네이버 페이 포인트 적립\n4. 리뷰 작성 시 네이버페이 포인트 적립 (텍스트 리뷰 1,000원 / 포토 리뷰 2,000원)\n※ 네이버 단독 최대혜택은 단 3일 한정\n※ 리뷰 이벤트 기간: 8/5~8/31",
+    "product_summary": "국내 브랜드 지센(ZISHEN)의 여름 원피스입니다.\n대표 상품인 '프레쉬 노카라 버튼업 원피스'는 정상가 79,000원, 혜택가 29,900원입니다.\n상품마다 할인율이 다르며, 여러 종류의 여름 원피스를 함께 확인하실 수 있습니다.\n배송비는 무료입니다.",
+    "source_site": "ppomppu",
+    "category": "기타",
+    "category_bucket": "패션",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "지센",
+      "ZISHEN",
+      "여름원피스",
+      "원피스",
+      "버튼업원피스",
+      "노카라원피스",
+      "프레쉬노카라버튼업원피스",
+      "dress"
+    ]
+  },
+  {
     "deal_id": "92febf4476a2",
     "title": "[오늘의집] 아이오트 S7 무선 가정용 CCTV (61,655원/무료)",
     "deal_total": 61655,
@@ -20766,7 +20839,7 @@
     "category": "음식",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "바리스타룰스",
@@ -20803,7 +20876,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "리피트인",
@@ -20838,7 +20911,7 @@
     "category": "의류/잡화",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "크리넥스",
@@ -20875,7 +20948,7 @@
     "category": "가전/가구",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "LG",
@@ -20911,7 +20984,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "디센느",
@@ -20947,7 +21020,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "민물장어",
@@ -20983,7 +21056,7 @@
     "category": "기타",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "밀레",
@@ -21020,7 +21093,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://kko.to/xOeaJcNm0k"
     ],
@@ -21057,7 +21130,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "사리원",
@@ -21093,7 +21166,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "하이트제로",
@@ -21130,7 +21203,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "진주닮은쌀",
@@ -21166,7 +21239,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "광동초이스",
@@ -21204,7 +21277,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "험머",
@@ -21241,7 +21314,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "더단백",
@@ -21276,7 +21349,7 @@
     "category": "생활용품",
     "category_bucket": "기타",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "불스원",
@@ -21314,7 +21387,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "아이스망고바",
@@ -21351,7 +21424,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "일리",
