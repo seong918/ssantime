@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "106f1018e7d9",
+    "title": "[롯데온] 컬럼비아 남성 랜드로머 카고 쇼츠 (21,330원/2장이상무료)",
+    "deal_total": 21330,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 24330,
+    "gap": 3000,
+    "mall_name": null,
+    "buy_url": "https://s.lotteon.com/dzDsJAS-EN",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=115&&no=727104",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6125972/61259727749.jpg?type=f300",
+    "created_iso": "2026-08-14T16:44:21.039304+00:00",
+    "naver_url": null,
+    "naver_product_id": "61259727749",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "2장 이상 구매 시 무료배송이 적용됩니다",
+    "product_summary": "컬럼비아 남성 랜드로머 카고 쇼츠입니다.\n편하게 입기 좋은 반바지입니다.\n차콜, 그레이, 그린 색상으로 선택할 수 있습니다.",
+    "source_site": "ppomppu",
+    "category": "의류/잡화",
+    "category_bucket": "패션",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "컬럼비아",
+      "Columbia",
+      "랜드로머",
+      "카고쇼츠",
+      "카고반바지",
+      "반바지",
+      "쇼츠",
+      "남성쇼츠"
+    ]
+  },
+  {
     "deal_id": "f19c79d67b30",
     "title": "[오늘의집] 바베큐 쪽갈비 숯불/핫 500g 3팩 (19,837원/무료)",
     "deal_total": 19837,
@@ -275,7 +311,7 @@
     "source_site": "quasarzone",
     "category": "가전/TV",
     "category_bucket": "전자",
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [],
     "tags": [
@@ -20208,7 +20244,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "갓김치",
@@ -20245,7 +20281,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://store.ohou.se/exhibitions/13062"
     ],
@@ -20282,7 +20318,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "초록매실",
@@ -20318,7 +20354,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://ozip.me/LmKkqdf"
     ],
@@ -20358,7 +20394,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "산들내음",
@@ -20395,7 +20431,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://store.ohou.se/exhibitions/13062"
     ],
@@ -20434,7 +20470,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "초록매실",
@@ -20470,7 +20506,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://store.ohou.se/exhibitions/13062"
     ],
@@ -20509,7 +20545,7 @@
     "category": "생활용품",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "질레트",
@@ -20546,7 +20582,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "갈아만든배",
