@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "f19c79d67b30",
+    "title": "[오늘의집] 바베큐 쪽갈비 숯불/핫 500g 3팩 (19,837원/무료)",
+    "deal_total": 19837,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 25900,
+    "gap": 6063,
+    "mall_name": null,
+    "buy_url": "https://bitl.bz/api@qCd19Z61",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=115&&no=727094",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6125676/61256763595.jpg?type=f300",
+    "created_iso": "2026-08-14T15:36:54.091610+00:00",
+    "naver_url": null,
+    "naver_product_id": "61256763595",
+    "buy_url_orig": "https://store.ohou.se/goods/4180388",
+    "price_label": "",
+    "discount_guide": null,
+    "product_summary": "미식미풍의 두툼 바베큐 쪽갈비(숯불/핫) 500g 3팩입니다.\n숯불과 핫 두 가지 종류로 구성되어 있습니다.\n별도 조리 없이 전자레인지에 데워 간편하게 드실 수 있습니다.\n뼈가 크고 살이 두툼합니다.",
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "미식미풍",
+      "바베큐 쪽갈비",
+      "쪽갈비",
+      "바베큐",
+      "BBQ",
+      "숯불",
+      "간편식",
+      "전자레인지 조리"
+    ]
+  },
+  {
     "deal_id": "0a0b37ecf840",
     "title": "[이마트]닌텐도 스위치2 본체 + 포켓몬스터 Z-A 717,800원",
     "deal_total": 717800,
@@ -20546,7 +20582,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "매일두유",
@@ -20584,7 +20620,7 @@
     "category": "게임S/W",
     "category_bucket": "전자",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "PS5",
@@ -20621,7 +20657,7 @@
     "category": "생활/식품",
     "category_bucket": "식품",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "민물장어",
