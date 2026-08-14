@@ -1,5 +1,47 @@
 [
   {
+    "deal_id": "4239b1b5c1cc",
+    "title": "[종근당건강몰] 프로메가 오메가3 트리플 장용성 6개월분 외 (52,968원/무료)",
+    "deal_total": 52968,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 67760,
+    "gap": 14792,
+    "mall_name": null,
+    "buy_url": "https://ckdhcmall.co.kr/prdView.do?prdCode=G2303161200_0095",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=115&&no=727107",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6118724/61187240475.jpg?type=f300",
+    "created_iso": "2026-08-14T17:40:19.428315+00:00",
+    "naver_url": null,
+    "naver_product_id": "61187240475",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. 프로메가 오메가(트리플장용성)에 15% 할인쿠폰을 적용합니다.\n2. 토스페이 20%를 적용하면 52,968원입니다.\n3. 토스쿠폰은 뽐뿌 추천릴레이 게시판에서 받습니다.\n※ 토스쿠폰을 공유받고 결제해야 토스포인트 5.1% 추가적립이 가능합니다.",
+    "product_summary": "프로메가 오메가3 트리플 장용성 6개월분입니다.\n종근당건강 공식몰인 종근당건강몰에서 판매하는 건강기능식품입니다.\n구매 시 알티지오메가3 30캡슐이 추가 증정됩니다.\n전 제품 무료배송이 적용됩니다.",
+    "source_site": "ppomppu",
+    "category": "기타",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [
+      "https://ckdhcmall.co.kr/prdExhibitView.do?idx=527",
+      "https://ckdhcmall.co.kr/prdView.do?prdCode=G2303161200_0095",
+      "https://ckdhcmall.co.kr/prdView.do?prdCode=G2309130925_0433"
+    ],
+    "tags": [
+      "종근당건강",
+      "종근당",
+      "프로메가",
+      "오메가3",
+      "omega3",
+      "트리플장용성",
+      "장용성오메가3",
+      "알티지오메가3",
+      "건강기능식품",
+      "영양제"
+    ]
+  },
+  {
     "deal_id": "106f1018e7d9",
     "title": "[롯데온] 컬럼비아 남성 랜드로머 카고 쇼츠 (21,330원/2장이상무료)",
     "deal_total": 21330,
