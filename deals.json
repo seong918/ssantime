@@ -1,5 +1,42 @@
 [
   {
+    "deal_id": "ae7bab15f373",
+    "title": "[카카오] 비에이치 슬림 파워 온열 미니종아리발마사지기 (22,400원/무료)",
+    "deal_total": 22400,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 26750,
+    "gap": 4350,
+    "mall_name": "네이버",
+    "buy_url": "https://store.kakao.com/jycompanykorea/products/476207394",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=115&&no=727184",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5232783/52327835185.20260621070830.jpg?type=f300",
+    "created_iso": "2026-08-15T08:42:10.790208+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/52327835185",
+    "naver_product_id": "52327835185",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. 카카오 톡딜가 22,900원\n2. 쿠폰 적용 후 최종 쿠폰가 22,400원",
+    "product_summary": "비에이치 슬림 파워 온열 미니 종아리·발 마사지기입니다.\n공기압 방식으로 작동하며 온열과 롤링 기능을 갖췄습니다.\n커버는 분리해 세척할 수 있습니다.",
+    "source_site": "ppomppu",
+    "category": "가전/가구",
+    "category_bucket": "전자",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "비에이치",
+      "BH",
+      "종아리마사지기",
+      "발마사지기",
+      "미니마사지기",
+      "온열마사지기",
+      "공기압마사지기",
+      "롤링마사지기",
+      "마사지기"
+    ]
+  },
+  {
     "deal_id": "2a2ad0323c06",
     "title": "[알리] 하이뮨 프로틴 밸런스 액티브 비건 250ml 24입 (21,170원)",
     "deal_total": 21170,
@@ -19883,7 +19920,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "새청무",
@@ -19920,7 +19957,7 @@
     "category": "생활용품",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "헤드앤숄더",
@@ -19957,7 +19994,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "닭가슴살",
@@ -19993,7 +20030,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "산과들에",
