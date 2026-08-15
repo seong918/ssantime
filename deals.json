@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "a2ed65a7198b",
+    "title": "[카카오] 오넛티 땅콩버터 오리지널 230g (9,400원/무료)",
+    "deal_total": 9400,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 14300,
+    "gap": 4900,
+    "mall_name": "네이버",
+    "buy_url": "https://shoppinglive.kakao.com/live/59029",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=115&&no=727143",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5509932/55099326305.20260403222632.jpg?type=f300",
+    "created_iso": "2026-08-15T02:42:44.357067+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/55099326305",
+    "naver_product_id": "55099326305",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. 카카오 쇼핑에서 '쿠폰받기'로 쿠폰을 받아 적용하면 230g 1개를 36% 할인가 9,400원에 구매할 수 있습니다(정상가 14,900원).\n2. 230g 4개입은 37,600원이며, 카카오 '선물하기'에서 '나에게' 쿠폰을 적용하면 3,000원 추가 할인됩니다.\n※ 할인은 내일 오전 10시까지만 적용됩니다.\n※ 카카오쇼핑 LIVE 방송은 8.15(토) 11:30~12:30에 진행되며, 최대 37% 혜택과 선착순 증정품, 라이브 제품 구매 시 100% 사은품 증정, 방송 중 구매 인증 시 이벤트 추첨 증정이 제공됩니다.",
+    "product_summary": "오넛티 땅콩버터 오리지널 100% 230g입니다.\n땅콩 100%로 만들어 별도의 첨가물을 넣지 않은 제품입니다.\n용량은 230g이며 열량은 1,382kcal입니다.\n원산지는 상세설명에 표시되어 있습니다.",
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "오넛티",
+      "OH NUTTY",
+      "땅콩버터",
+      "peanut butter",
+      "오리지널",
+      "무첨가",
+      "땅콩",
+      "스프레드"
+    ]
+  },
+  {
     "deal_id": "7f043c0398e4",
     "title": "[네이버] 폴햄 공용 튜블러 반팔티 5팩 (17,010원/무료배송)",
     "deal_total": 17010,
@@ -20062,7 +20098,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "갈비탕",
@@ -20098,7 +20134,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "허니듀메론",
@@ -20134,7 +20170,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "보프",
@@ -20170,7 +20206,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "더마토리",
@@ -20207,7 +20243,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "크리넥스",
@@ -20243,7 +20279,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "웅진",
@@ -20280,7 +20316,7 @@
     "category": "PC/하드웨어",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "팀그룹",
@@ -20318,7 +20354,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "빙그레",
