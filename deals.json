@@ -823,7 +823,7 @@
     "source_site": "fmkorea",
     "category": "먹거리",
     "category_bucket": "식품",
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [],
     "tags": [
@@ -20111,7 +20111,7 @@
     "category": "먹거리",
     "category_bucket": null,
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -20138,7 +20138,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "참푸른 메뚜기쌀",
