@@ -1,5 +1,42 @@
 [
   {
+    "deal_id": "e311b8d44b05",
+    "title": "[네이버] 오뚜기 진라면 매운맛 120g, 40개",
+    "deal_total": 19100,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 24500,
+    "gap": 5400,
+    "mall_name": "네이버",
+    "buy_url": "https://smartstore.naver.com/hannam0304/products/13700277063",
+    "source_url": "https://quasarzone.com/bbs/qb_saleinfo/views/1978678",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5300055/53000554643.20250213162224.jpg?type=f300",
+    "created_iso": "2026-08-16T05:33:21.729995+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/53000554643",
+    "naver_product_id": "53000554643",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. 네이버 B2B 20% 할인 쿠폰을 받아 적용합니다.\n2. 알림받기를 더하면 'B2B 20% + 알림 = 개당 478원꼴'이 되어 40봉 19,100원입니다.",
+    "product_summary": "오뚜기 진라면 매운맛 봉지라면입니다.\n낱개 용량 120g 제품입니다.\n한 세트에 총 40개(40봉)가 들어 있는 대용량 묶음 구성입니다.",
+    "source_site": "quasarzone",
+    "category": "생활/식품",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [
+      "https://shopping.naver.com/festa/onsale/living/6a4e2ac1ed642b19b9c1454d"
+    ],
+    "tags": [
+      "오뚜기",
+      "진라면",
+      "진라면매운맛",
+      "라면",
+      "봉지라면",
+      "매운맛라면",
+      "인스턴트라면"
+    ]
+  },
+  {
     "deal_id": "fa8aff7113d3",
     "title": "[롯데온] 허시파피 남성 소가죽 페니 로퍼 (61,000원/무료)",
     "deal_total": 61000,
@@ -20175,7 +20212,7 @@
     "category": "디지털",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "MSI",
@@ -20213,7 +20250,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "원데이",
