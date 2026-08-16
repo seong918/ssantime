@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "1b69b525de37",
+    "title": "와이드 제습제 270g 대용량 습기제거제 24개",
+    "deal_total": 12720,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 17890,
+    "gap": 5170,
+    "mall_name": "네이버",
+    "buy_url": "https://www.lotteon.com/product/bundle/LO2742652905",
+    "source_url": "https://www.fmkorea.com/10219705191",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6030121/60301215553.20260604135047.jpg?type=f300",
+    "created_iso": "2026-08-16T10:41:55.963720+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/60301215553",
+    "naver_product_id": "60301215553",
+    "buy_url_orig": "",
+    "price_label": "12,720원",
+    "discount_guide": "20% 쿠폰을 적용하면 판매가 15,900원에서 12,720원(나의 혜택가)에 구매할 수 있습니다.",
+    "product_summary": "홈블리 와이드 제습제(습기제거제)입니다.\n제습량 570ml, 270g의 와이드 대용량 제품입니다.\n9개입과 24개입 구성으로 판매됩니다.\n국내(MADE IN KOREA)에서 제조되었습니다.",
+    "source_site": "fmkorea",
+    "category": "기타",
+    "category_bucket": "생활",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "홈블리",
+      "Homevely",
+      "제습제",
+      "습기제거제",
+      "와이드제습제",
+      "대용량제습제",
+      "제습",
+      "습기제거"
+    ]
+  },
+  {
     "deal_id": "9d4cd02c5a25",
     "title": "[카카오] 홈스타 세정제 500ml 4개+배수구 세정제 1L(카페 11,067원/무배)",
     "deal_total": 11067,
@@ -19787,7 +19823,7 @@
     "category": "음식",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "오리온",
@@ -19823,7 +19859,7 @@
     "category": "가전/가구",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "오므론",
@@ -19859,7 +19895,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "얼라이브",
@@ -19897,7 +19933,7 @@
     "category": "디지털",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "드리미",
@@ -19933,7 +19969,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "서울우유",
@@ -19969,7 +20005,7 @@
     "category": "기타",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "퓨리얼",
@@ -20005,7 +20041,7 @@
     "category": "기타",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "에너자이저",
