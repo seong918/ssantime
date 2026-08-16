@@ -21,7 +21,7 @@
     "source_site": "fmkorea",
     "category": "먹거리",
     "category_bucket": "식품",
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [],
     "tags": [
@@ -19911,7 +19911,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "초록매실",
