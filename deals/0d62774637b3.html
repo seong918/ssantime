@@ -36,7 +36,7 @@
   <link rel="stylesheet" href="../style.css">
 </head>
 <body class="page-deal">
-  <div id="app-nudge" hidden>
+  <div id="app-nudge" data-defer="post_buy" hidden>
     <span class="app-nudge-txt">📱 매일 아침, 네이버보다 싼 검증 딜만 알림으로</span>
     <a class="app-nudge-cta" href="https://play.google.com/store/apps/details?id=com.ssantime.app&referrer=utm_source%3Dssantime%26utm_medium%3Dweb%26utm_campaign%3Dapp_nudge" rel="noopener">앱 받기</a>
     <button class="app-nudge-x" type="button" aria-label="알림 배너 닫기">✕</button>
@@ -46,7 +46,9 @@
     <a class="brand-mini" href="../index.html"><span class="brand-tag brand-tag--mini" aria-hidden="true">↓</span><span class="wm-time">싼타임</span><span class="wm-deal">핫딜</span></a>
   </header>
   <main class="deal" data-ga-id="0d62774637b3" data-ga-price="142860" data-ga-gap="6130" data-ga-site="ppomppu" data-ga-cat="의류/잡화" data-ga-mall="naver.me">
-    <div class="ended-banner" role="status">⏰ 아쉽지만 종료된 딜이에요 — 당시 가격은 아래에서 시세 참고용으로 확인할 수 있어요</div>
+    <div class="ended-banner" role="status">⏰ 아쉽지만 종료된 딜이에요 — 당시 가격은 아래에서 시세 참고용으로 확인할 수 있어요
+      <a class="ended-kakao" href="https://open.kakao.com/o/gzcPhduh" target="_blank" rel="noopener nofollow" onclick="if(typeof gtag==='function')gtag('event','kakao_cta_click',{placement:'ended_deal'})">다음 딜은 놓치지 마세요 — 💬 카톡으로 먼저 받기 →</a>
+    </div>
     <p class="deal-intro">네이버 최저가보다 <b>싼 핫딜</b>만 모아요</p>
     <figure class="deal-figure deal-figure--expired">
       <span class="expired-mark">종료된 딜입니다</span>
@@ -76,6 +78,9 @@
     <p class="time-note time-note--box time-note--guide">💡 이 가격을 받는 방법이 있어요 — <a href="#deal-guide">받는 법 먼저 보기 ↓</a><br>핫딜은 예고 없이 마감될 수 있으니 구매 전 판매처에서 최종 가격·재고를 확인하세요.</p>
     <a class="buy-btn" href="https://bitl.bz/api@tXAf7JlQ" target="_blank" rel="noopener nofollow"><span class="buy-main"><span class="buy-label">naver.me에서 상품 보기</span><span class="buy-dom">naver.me</span></span></a>
     <p class="buy-note">새 탭에서 판매처로 이동합니다</p>
+    <div class="kakao-wrap kakao-wrap--detail" id="post-buy-kakao" hidden>
+      <a class="kakao-cta" href="https://open.kakao.com/o/gzcPhduh" target="_blank" rel="noopener nofollow" onclick="if(typeof gtag==='function')gtag('event','kakao_cta_click',{placement:'post_buy'})"><span class="kakao-ico" aria-hidden="true">💬</span><span class="kakao-txt">방금 그 가격, 다음 딜은 <b>카톡으로 먼저</b> 받아보세요</span><span class="kakao-add" aria-hidden="true">채널 추가 →</span></a>
+    </div>
     <section class="deal-guide" id="deal-guide" aria-label="딜 정보">
       <div class="guide-block"><h2 class="guide-h">💡 이 가격 받는 법</h2><p class="guide-body">카카오페이 7% 할인 적용 시 142,860원입니다.</p></div>
       <div class="guide-block"><h2 class="guide-h">🛍 상품 설명</h2><p class="guide-body">아이더 남녀공용 플리스 3IN1 세트입니다.
@@ -86,86 +91,86 @@
     <section class="related" aria-labelledby="related-h">
       <h2 class="related-h" id="related-h">이런 딜은 어때요</h2>
       <ul class="related-grid" id="related-grid">
-    <li class="card" data-pct="11" data-price="433630" data-gap="56050" data-ts="2026-08-08T12:23:41.655947+00:00" data-mall="롯데ON" data-category="패션" data-title="[롯데온] 아이더 캄피로 대장급 초헤비 구스다운 (433,630원/무료) 토스 42.7만 [롯데온]아이더캄피로대장급초헤비구스다운(433,630원/무료)토스42.7만 ㄹㄷㅇㅇㅇㄷㅋㅍㄹㄷㅈㄱㅊㅎㅂㄱㅅㄷㅇㅇㅁㄹㅌㅅㅁ" data-search="[롯데온] 아이더 캄피로 대장급 초헤비 구스다운 (433,630원/무료) 토스 42.7만 롯데on 아이더 eider 캄피로 구스다운 헤비구스다운 구스다운패딩 고어텍스 윈드스토퍼 필파워800 [롯데온]아이더캄피로대장급초헤비구스다운(433,630원/무료)토스42.7만롯데on아이더eider캄피로구스다운헤비구스다운구스다운패딩고어텍스윈드스토퍼필파워800 ㄹㄷㅇㅇㅇㄷㅋㅍㄹㄷㅈㄱㅊㅎㅂㄱㅅㄷㅇㅇㅁㄹㅌㅅㅁㄹㄷㅇㅇㄷㅋㅍㄹㄱㅅㄷㅇㅎㅂㄱㅅㄷㅇㄱㅅㄷㅇㅍㄷㄱㅇㅌㅅㅇㄷㅅㅌㅍㅍㅍㅇ" data-id="1de8935021be">
-      <button class="fav-btn" type="button" hidden data-fav="1de8935021be" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
-      <a class="card-link" href="https://ssantime.com/deals/1de8935021be.html">
+    <li class="card" data-pct="22" data-price="592500" data-gap="172500" data-ts="2026-08-14T09:00:00.936268+00:00" data-mall="네이버 스마트스토어" data-category="패션" data-title="[네이버스토어] 로우로우 alu 체크인 라지 (88l/29인치) 알루미늄 캐리어 (592,500원/무료) [네이버스토어]로우로우alu체크인라지(88l/29인치)알루미늄캐리어(592,500원/무료) ㄴㅇㅂㅅㅌㅇㄹㅇㄹㅇㅊㅋㅇㄹㅈㅇㅊㅇㄹㅁㄴㅋㄹㅇㅇㅁㄹ" data-search="[네이버스토어] 로우로우 alu 체크인 라지 (88l/29인치) 알루미늄 캐리어 (592,500원/무료) 네이버 스마트스토어 로우로우 rawrow 알루미늄 캐리어 캐리어 29인치 88l 여행가방 위탁수하물 alu 체크인 [네이버스토어]로우로우alu체크인라지(88l/29인치)알루미늄캐리어(592,500원/무료)네이버스마트스토어로우로우rawrow알루미늄캐리어캐리어29인치88l여행가방위탁수하물alu체크인 ㄴㅇㅂㅅㅌㅇㄹㅇㄹㅇㅊㅋㅇㄹㅈㅇㅊㅇㄹㅁㄴㅋㄹㅇㅇㅁㄹㄴㅇㅂㅅㅁㅌㅅㅌㅇㄹㅇㄹㅇㅇㄹㅁㄴㅋㄹㅇㅋㄹㅇㅇㅊㅇㅎㄱㅂㅇㅌㅅㅎㅁㅊㅋㅇ" data-id="ccfb29922f8a">
+      <button class="fav-btn" type="button" hidden data-fav="ccfb29922f8a" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
+      <a class="card-link" href="https://ssantime.com/deals/ccfb29922f8a.html">
         <div class="thumb-wrap">
-        <img class="thumb" src="https://ssantime.com/img/1de8935021be.jpg" alt="아이더 캄피로 대장급 초헤비 구스다운 (433,630원/무료) 토스 42.7만" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
-        <span class="card-badge card-badge--soft" aria-label="네이버 최저가 대비 11% 저렴">11%<span class="off">↓</span></span>
+        <img class="thumb" src="https://ssantime.com/img/ccfb29922f8a.jpg" alt="로우로우 ALU 체크인 라지 (88L/29인치) 알루미늄 캐리어" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
+        <span class="card-badge" aria-label="네이버 최저가 대비 22% 저렴">22%<span class="off">↓</span></span>
         </div>
         <div class="card-body">
-          <h2 class="card-title">아이더 캄피로 대장급 초헤비 구스다운 (433,630원/무료) 토스 42.7만</h2>
+          <h2 class="card-title">로우로우 ALU 체크인 라지 (88L/29인치) 알루미늄 캐리어</h2>
           <div class="card-prices">
-          <div class="card-deal">433,630<span class="won">원</span></div>
-          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−56,050원</b></div>
-          <div class="card-lprice">네이버 <s>489,680</s>원</div>
-          </div>
-          <div class="card-foot">
-            <span class="card-mall card-mall--sell">롯데ON</span>
-            <time class="card-ago" datetime="2026-08-08T12:23:41.655947+00:00" data-ago="2026-08-08T12:23:41.655947+00:00">08-08</time>
-          </div>
-        </div>
-      </a>
-    </li>
-    <li class="card" data-pct="20" data-price="192000" data-gap="48000" data-ts="2026-08-07T09:39:36.336444+00:00" data-mall="fashionp…" data-category="패션" data-title="[패션플러스] 아디다스 골프 26fw 코드케이오스 27 보아 스파이크리스 골프화 (192,000원/무료) [패션플러스]아디다스골프26fw코드케이오스27보아스파이크리스골프화(192,000원/무료) ㅍㅅㅍㄹㅅㅇㄷㄷㅅㄱㅍㅋㄷㅋㅇㅇㅅㅂㅇㅅㅍㅇㅋㄹㅅㄱㅍㅎㅇㅁㄹ" data-search="[패션플러스] 아디다스 골프 26fw 코드케이오스 27 보아 스파이크리스 골프화 (192,000원/무료) fashionp… 아디다스 adidas 아디다스 골프 코드케이오스 27 코드케이오스 골프화 스파이크리스 골프화 보아 다이얼 boa 26fw [패션플러스]아디다스골프26fw코드케이오스27보아스파이크리스골프화(192,000원/무료)fashionp…아디다스adidas아디다스골프코드케이오스27코드케이오스골프화스파이크리스골프화보아다이얼boa26fw ㅍㅅㅍㄹㅅㅇㄷㄷㅅㄱㅍㅋㄷㅋㅇㅇㅅㅂㅇㅅㅍㅇㅋㄹㅅㄱㅍㅎㅇㅁㄹㅇㄷㄷㅅㅇㄷㄷㅅㄱㅍㅋㄷㅋㅇㅇㅅㅋㄷㅋㅇㅇㅅㄱㅍㅎㅅㅍㅇㅋㄹㅅㄱㅍㅎㅂㅇㄷㅇㅇ" data-id="729b2dd87657">
-      <button class="fav-btn" type="button" hidden data-fav="729b2dd87657" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
-      <a class="card-link" href="https://ssantime.com/deals/729b2dd87657.html">
-        <div class="thumb-wrap">
-        <img class="thumb" src="https://ssantime.com/img/729b2dd87657.jpg" alt="아디다스 골프 26FW 코드케이오스 27 보아 스파이크리스 골프화" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
-        <span class="card-badge" aria-label="네이버 최저가 대비 20% 저렴">20%<span class="off">↓</span></span>
-        </div>
-        <div class="card-body">
-          <h2 class="card-title">아디다스 골프 26FW 코드케이오스 27 보아 스파이크리스 골프화</h2>
-          <div class="card-prices">
-          <div class="card-deal">192,000<span class="won">원</span></div>
-          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−48,000원</b></div>
-          <div class="card-lprice">네이버 <s>240,000</s>원</div>
-          </div>
-          <div class="card-foot">
-            <span class="card-mall card-mall--sell">fashionp…</span>
-            <time class="card-ago" datetime="2026-08-07T09:39:36.336444+00:00" data-ago="2026-08-07T09:39:36.336444+00:00">08-07</time>
-          </div>
-        </div>
-      </a>
-    </li>
-    <li class="card" data-pct="26" data-price="119000" data-gap="44000" data-ts="2026-08-08T03:53:39.759764+00:00" data-mall="네이버 스마트스토어" data-category="패션" data-title="아디다스 에보슬 아디다스에보슬 ㅇㄷㄷㅅㅇㅂㅅ" data-search="아디다스 에보슬 네이버 스마트스토어 아디다스 adidas 아디제로 adizero evo sl 에보슬 런닝화 러닝화 남성 런닝화 js4487 아디다스에보슬네이버스마트스토어아디다스adidas아디제로adizeroevosl에보슬런닝화러닝화남성런닝화js4487 ㅇㄷㄷㅅㅇㅂㅅㄴㅇㅂㅅㅁㅌㅅㅌㅇㅇㄷㄷㅅㅇㄷㅈㄹㅇㅂㅅㄹㄴㅎㄹㄴㅎㄴㅅㄹㄴㅎ" data-id="9974145a1477">
-      <button class="fav-btn" type="button" hidden data-fav="9974145a1477" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
-      <a class="card-link" href="https://ssantime.com/deals/9974145a1477.html">
-        <div class="thumb-wrap">
-        <img class="thumb" src="https://ssantime.com/img/9974145a1477.jpg" alt="아디다스 에보슬" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
-        <span class="card-badge" aria-label="네이버 최저가 대비 26% 저렴">26%<span class="off">↓</span></span>
-        </div>
-        <div class="card-body">
-          <h2 class="card-title">아디다스 에보슬</h2>
-          <div class="card-prices">
-          <div class="card-deal">119,000<span class="won">원</span></div>
-          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−44,000원</b></div>
-          <div class="card-lprice">네이버 <s>163,000</s>원</div>
+          <div class="card-deal">592,500<span class="won">원</span></div>
+          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−172,500원</b></div>
+          <div class="card-lprice">네이버 <s>765,000</s>원</div>
           </div>
           <div class="card-foot">
             <span class="card-mall card-mall--sell">네이버 스마트스토어</span>
-            <time class="card-ago" datetime="2026-08-08T03:53:39.759764+00:00" data-ago="2026-08-08T03:53:39.759764+00:00">08-08</time>
+            <time class="card-ago" datetime="2026-08-14T09:00:00.936268+00:00" data-ago="2026-08-14T09:00:00.936268+00:00">08-14</time>
           </div>
         </div>
       </a>
     </li>
-    <li class="card" data-pct="23" data-price="131620" data-gap="41390" data-ts="2026-08-08T05:30:43.688946+00:00" data-mall="29CM" data-category="패션" data-title="푸마 디비에이트 나이트로 4 와이드 - 블랙:플랫 다크 그레이 푸마디비에이트나이트로4와이드-블랙:플랫다크그레이 ㅍㅁㄷㅂㅇㅇㅌㄴㅇㅌㄹㅇㅇㄷㅂㄹㅍㄹㄷㅋㄱㄹㅇ" data-search="푸마 디비에이트 나이트로 4 와이드 - 블랙:플랫 다크 그레이 29cm 푸마 puma 디비에이트 나이트로 4 deviate nitro 4 러닝화 운동화 와이드 나이트로 푸마디비에이트나이트로4와이드-블랙:플랫다크그레이29cm푸마puma디비에이트나이트로4deviatenitro4러닝화운동화와이드나이트로 ㅍㅁㄷㅂㅇㅇㅌㄴㅇㅌㄹㅇㅇㄷㅂㄹㅍㄹㄷㅋㄱㄹㅇㅍㅁㄷㅂㅇㅇㅌㄴㅇㅌㄹㄹㄴㅎㅇㄷㅎㅇㅇㄷㄴㅇㅌㄹ" data-id="0767f3ddd4d2">
-      <button class="fav-btn" type="button" hidden data-fav="0767f3ddd4d2" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
-      <a class="card-link" href="https://ssantime.com/deals/0767f3ddd4d2.html">
+    <li class="card" data-pct="29" data-price="141680" data-gap="58320" data-ts="2026-08-12T08:47:44.618725+00:00" data-mall="롯데ON" data-category="패션" data-title="[롯데온] k2(수지착용) golden k95 베이글 구스다운 (141,680원/무료) [롯데온]k2(수지착용)goldenk95베이글구스다운(141,680원/무료) ㄹㄷㅇㅅㅈㅊㅇㅂㅇㄱㄱㅅㄷㅇㅇㅁㄹ" data-search="[롯데온] k2(수지착용) golden k95 베이글 구스다운 (141,680원/무료) 롯데on k2 구스다운 여성패딩 숏패딩 베이글패딩 다운점퍼 golden k95 수지패딩 [롯데온]k2(수지착용)goldenk95베이글구스다운(141,680원/무료)롯데onk2구스다운여성패딩숏패딩베이글패딩다운점퍼goldenk95수지패딩 ㄹㄷㅇㅅㅈㅊㅇㅂㅇㄱㄱㅅㄷㅇㅇㅁㄹㄹㄷㄱㅅㄷㅇㅇㅅㅍㄷㅅㅍㄷㅂㅇㄱㅍㄷㄷㅇㅈㅍㅅㅈㅍㄷ" data-id="57e6f2736911">
+      <button class="fav-btn" type="button" hidden data-fav="57e6f2736911" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
+      <a class="card-link" href="https://ssantime.com/deals/57e6f2736911.html">
         <div class="thumb-wrap">
-        <img class="thumb" src="https://ssantime.com/img/0767f3ddd4d2.jpg" alt="푸마 디비에이트 나이트로 4 와이드 - 블랙:플랫 다크 그레이" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
-        <span class="card-badge" aria-label="네이버 최저가 대비 23% 저렴">23%<span class="off">↓</span></span>
+        <img class="thumb" src="https://ssantime.com/img/57e6f2736911.jpg" alt="K2(수지착용) GOLDEN K95 베이글 구스다운" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
+        <span class="card-badge" aria-label="네이버 최저가 대비 29% 저렴">29%<span class="off">↓</span></span>
         </div>
         <div class="card-body">
-          <h2 class="card-title">푸마 디비에이트 나이트로 4 와이드 - 블랙:플랫 다크 그레이</h2>
+          <h2 class="card-title">K2(수지착용) GOLDEN K95 베이글 구스다운</h2>
           <div class="card-prices">
-          <div class="card-deal">131,620<span class="won">원</span></div>
-          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−41,390원</b></div>
-          <div class="card-lprice">네이버 <s>173,010</s>원</div>
+          <div class="card-deal">141,680<span class="won">원</span></div>
+          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−58,320원</b></div>
+          <div class="card-lprice">네이버 <s>200,000</s>원</div>
           </div>
           <div class="card-foot">
-            <span class="card-mall card-mall--sell">29CM</span>
-            <time class="card-ago" datetime="2026-08-08T05:30:43.688946+00:00" data-ago="2026-08-08T05:30:43.688946+00:00">08-08</time>
+            <span class="card-mall card-mall--sell">롯데ON</span>
+            <time class="card-ago" datetime="2026-08-12T08:47:44.618725+00:00" data-ago="2026-08-12T08:47:44.618725+00:00">08-12</time>
+          </div>
+        </div>
+      </a>
+    </li>
+    <li class="card" data-pct="30" data-price="52150" data-gap="22900" data-ts="2026-08-10T02:35:16.730797+00:00" data-mall="pond-gro…" data-category="패션" data-title="[기타] 밀레 메쉬 운동화 (블랙) [기타]밀레메쉬운동화(블랙) ㄱㅌㅁㄹㅁㅅㅇㄷㅎㅂㄹ" data-search="[기타] 밀레 메쉬 운동화 (블랙) pond-gro… 밀레 millet 메쉬 운동화 운동화 스니커즈 메쉬 스니커즈 블랙 운동화 [기타]밀레메쉬운동화(블랙)pond-gro…밀레millet메쉬운동화운동화스니커즈메쉬스니커즈블랙운동화 ㄱㅌㅁㄹㅁㅅㅇㄷㅎㅂㄹㅁㄹㅁㅅㅇㄷㅎㅇㄷㅎㅅㄴㅋㅈㅁㅅㅅㄴㅋㅈㅂㄹㅇㄷㅎ" data-id="52f7c8a7606f">
+      <button class="fav-btn" type="button" hidden data-fav="52f7c8a7606f" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
+      <a class="card-link" href="https://ssantime.com/deals/52f7c8a7606f.html">
+        <div class="thumb-wrap">
+        <img class="thumb" src="https://ssantime.com/img/52f7c8a7606f.jpg" alt="밀레 메쉬 운동화 (블랙)" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
+        <span class="card-badge" aria-label="네이버 최저가 대비 30% 저렴">30%<span class="off">↓</span></span>
+        </div>
+        <div class="card-body">
+          <h2 class="card-title">밀레 메쉬 운동화 (블랙)</h2>
+          <div class="card-prices">
+          <div class="card-deal">52,150<span class="won">원</span></div>
+          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−22,900원</b></div>
+          <div class="card-lprice">네이버 <s>75,050</s>원</div>
+          </div>
+          <div class="card-foot">
+            <span class="card-mall card-mall--sell">pond-gro…</span>
+            <time class="card-ago" datetime="2026-08-10T02:35:16.730797+00:00" data-ago="2026-08-10T02:35:16.730797+00:00">08-10</time>
+          </div>
+        </div>
+      </a>
+    </li>
+    <li class="card" data-pct="31" data-price="45649" data-gap="20611" data-ts="2026-08-10T03:07:00.416243+00:00" data-mall="H패션몰" data-category="패션" data-title="[h패션] 타미힐피거 포퍼먼스 스트럭처 티셔츠 (45,649원/무료) [h패션]타미힐피거포퍼먼스스트럭처티셔츠(45,649원/무료) ㅍㅅㅌㅁㅎㅍㄱㅍㅍㅁㅅㅅㅌㄹㅊㅌㅅㅊㅇㅁㄹ" data-search="[h패션] 타미힐피거 포퍼먼스 스트럭처 티셔츠 (45,649원/무료) h패션몰 타미힐피거 tommy hilfiger 타미 티셔츠 반팔티셔츠 남성티셔츠 스트럭처티셔츠 퍼포먼스 [h패션]타미힐피거포퍼먼스스트럭처티셔츠(45,649원/무료)h패션몰타미힐피거tommyhilfiger타미티셔츠반팔티셔츠남성티셔츠스트럭처티셔츠퍼포먼스 ㅍㅅㅌㅁㅎㅍㄱㅍㅍㅁㅅㅅㅌㄹㅊㅌㅅㅊㅇㅁㄹㅍㅅㅁㅌㅁㅎㅍㄱㅌㅁㅌㅅㅊㅂㅍㅌㅅㅊㄴㅅㅌㅅㅊㅅㅌㄹㅊㅌㅅㅊㅍㅍㅁㅅ" data-id="8267a9241646">
+      <button class="fav-btn" type="button" hidden data-fav="8267a9241646" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
+      <a class="card-link" href="https://ssantime.com/deals/8267a9241646.html">
+        <div class="thumb-wrap">
+        <img class="thumb" src="https://ssantime.com/img/8267a9241646.jpg" alt="타미힐피거 포퍼먼스 스트럭처 티셔츠" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
+        <span class="card-badge" aria-label="네이버 최저가 대비 31% 저렴">31%<span class="off">↓</span></span>
+        </div>
+        <div class="card-body">
+          <h2 class="card-title">타미힐피거 포퍼먼스 스트럭처 티셔츠</h2>
+          <div class="card-prices">
+          <div class="card-deal">45,649<span class="won">원</span></div>
+          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−20,611원</b></div>
+          <div class="card-lprice">네이버 <s>66,260</s>원</div>
+          </div>
+          <div class="card-foot">
+            <span class="card-mall card-mall--sell">H패션몰</span>
+            <time class="card-ago" datetime="2026-08-10T03:07:00.416243+00:00" data-ago="2026-08-10T03:07:00.416243+00:00">08-10</time>
           </div>
         </div>
       </a>
@@ -193,7 +198,7 @@
     <p class="affiliate-notice">이 사이트는 쿠팡 파트너스, 애드픽 등 제휴 마케팅 활동의 일환으로, 이에 따라 일정액의 수수료를 제공받을 수 있습니다.</p>
   </main>
   <script>(function(){'use strict';
-function ssAgo(iso){var d=new Date(iso);if(isNaN(d))return '';var s=Math.floor((Date.now()-d.getTime())/1000);if(s<60)return '등록 방금 전';var m=Math.floor(s/60);if(m<60)return '등록 '+m+'분 전';var h=Math.floor(m/60);if(h<24)return '등록 '+h+'시간 전';var dd=Math.floor(h/24);if(dd<7)return '등록 '+dd+'일 전';return '등록 '+(d.getMonth()+1)+'월 '+d.getDate()+'일';}function ssFillTimes(root){(root||document).querySelectorAll('[data-ago]').forEach(function(el){var t=ssAgo(el.getAttribute('data-ago'));if(t)el.textContent=t;});}function ssGa(n,p){try{if(typeof window.gtag==='function'){window.gtag('event',n,p||{});}}catch(e){}}var SS_FAV='ss_fav';function ssFavGet(){try{var r=localStorage.getItem(SS_FAV);var a=r?JSON.parse(r):[];return Object.prototype.toString.call(a)==='[object Array]'?a:[];}catch(e){return [];}}function ssFavSet(a){try{localStorage.setItem(SS_FAV,JSON.stringify(a));return true;}catch(e){return false;}}function ssFavHas(id){return ssFavGet().indexOf(id)>=0;}function ssFavToggle(id){var a=ssFavGet();var i=a.indexOf(id);if(i>=0){a.splice(i,1);}else{a.unshift(id);}ssFavSet(a);return i<0;}function ssFavPaint(btn,on){btn.hidden=false;btn.setAttribute('aria-pressed',on?'true':'false');btn.classList[on?'add':'remove']('is-on');btn.setAttribute('aria-label',on?'찜 해제':'찜하기');var ic=btn.querySelector('.fav-ico');if(ic)ic.textContent=on?'♥':'♡';}function ssFavInit(scope){var set={};ssFavGet().forEach(function(x){set[x]=1;});var bs=(scope||document).querySelectorAll('.fav-btn');[].forEach.call(bs,function(b){ssFavPaint(b,!!set[b.getAttribute('data-fav')]);});}function ssFavBind(onChange){document.addEventListener('click',function(e){var b=e.target.closest?e.target.closest('.fav-btn'):null;if(!b)return;e.preventDefault();e.stopPropagation();var id=b.getAttribute('data-fav');var on=ssFavToggle(id);var all=document.querySelectorAll('.fav-btn[data-fav="'+id+'"]');[].forEach.call(all,function(x){ssFavPaint(x,on);});ssGa(on?'deal_fav_add':'deal_fav_remove',{deal_id:id,total:ssFavGet().length});if(onChange)onChange(on,id);});}function ssScrollDepth(){var ms=[25,50,75],sent={};window.addEventListener('scroll',function(){var h=document.documentElement,max=h.scrollHeight-h.clientHeight;if(max<=0)return;var p=(h.scrollTop||document.body.scrollTop)/max*100;ms.forEach(function(m){if(!sent[m]&&p>=m){sent[m]=1;ssGa('scroll_depth',{percent_scrolled:m});}});},{passive:true});}function ssToast(m){var t=document.createElement('div');t.className='ss-toast';t.textContent=m;document.body.appendChild(t);requestAnimationFrame(function(){t.classList.add('show');});setTimeout(function(){t.classList.remove('show');setTimeout(function(){t.remove();},300);},1600);}function ssShareInit(){document.addEventListener('click',function(e){var sb=e.target.closest&&e.target.closest('[data-share]');if(!sb)return;e.preventDefault();var url=sb.getAttribute('data-share-url')||location.href;var title=sb.getAttribute('data-share-title')||document.title;var id=sb.getAttribute('data-share-id')||'';ssGa('share',{method:navigator.share?'web_share':'clipboard',content_type:'deal',item_id:id});if(navigator.share){navigator.share({title:title,url:url}).catch(function(){});return;}if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(url).then(function(){ssToast('링크 복사됨 ✓');}).catch(function(){window.prompt('링크를 복사하세요',url);});return;}window.prompt('링크를 복사하세요',url);});}function ssNudge(){var el=document.getElementById('app-nudge');if(!el)return;var ua=navigator.userAgent||'';if(ua.indexOf('SsantimeApp')>=0)return;if(!/Android/i.test(ua))return;try{var off=+localStorage.getItem('ssNudgeOff')||0;if(off&&Date.now()-off<14*864e5)return;if(sessionStorage.getItem('ssNudgeSeen'))return;sessionStorage.setItem('ssNudgeSeen','1');}catch(e){return;}el.hidden=false;ssGa('app_nudge_show',{placement:'strip'});el.addEventListener('click',function(e){var x=e.target.closest&&e.target.closest('.app-nudge-x');var c=e.target.closest&&e.target.closest('.app-nudge-cta');if(!x&&!c)return;try{localStorage.setItem('ssNudgeOff',String(Date.now()));}catch(err){}if(x){el.hidden=true;ssGa('app_nudge_dismiss',{placement:'strip'});}else{ssGa('app_nudge_click',{placement:'strip'});}});}ssShareInit();ssNudge();
+function ssAgo(iso){var d=new Date(iso);if(isNaN(d))return '';var s=Math.floor((Date.now()-d.getTime())/1000);if(s<60)return '등록 방금 전';var m=Math.floor(s/60);if(m<60)return '등록 '+m+'분 전';var h=Math.floor(m/60);if(h<24)return '등록 '+h+'시간 전';var dd=Math.floor(h/24);if(dd<7)return '등록 '+dd+'일 전';return '등록 '+(d.getMonth()+1)+'월 '+d.getDate()+'일';}function ssFillTimes(root){(root||document).querySelectorAll('[data-ago]').forEach(function(el){var t=ssAgo(el.getAttribute('data-ago'));if(t)el.textContent=t;});}function ssGa(n,p){try{if(typeof window.gtag==='function'){window.gtag('event',n,p||{});}}catch(e){}}var SS_FAV='ss_fav';function ssFavGet(){try{var r=localStorage.getItem(SS_FAV);var a=r?JSON.parse(r):[];return Object.prototype.toString.call(a)==='[object Array]'?a:[];}catch(e){return [];}}function ssFavSet(a){try{localStorage.setItem(SS_FAV,JSON.stringify(a));return true;}catch(e){return false;}}function ssFavHas(id){return ssFavGet().indexOf(id)>=0;}function ssFavToggle(id){var a=ssFavGet();var i=a.indexOf(id);if(i>=0){a.splice(i,1);}else{a.unshift(id);}ssFavSet(a);return i<0;}function ssFavPaint(btn,on){btn.hidden=false;btn.setAttribute('aria-pressed',on?'true':'false');btn.classList[on?'add':'remove']('is-on');btn.setAttribute('aria-label',on?'찜 해제':'찜하기');var ic=btn.querySelector('.fav-ico');if(ic)ic.textContent=on?'♥':'♡';}function ssFavInit(scope){var set={};ssFavGet().forEach(function(x){set[x]=1;});var bs=(scope||document).querySelectorAll('.fav-btn');[].forEach.call(bs,function(b){ssFavPaint(b,!!set[b.getAttribute('data-fav')]);});}function ssFavBind(onChange){document.addEventListener('click',function(e){var b=e.target.closest?e.target.closest('.fav-btn'):null;if(!b)return;e.preventDefault();e.stopPropagation();var id=b.getAttribute('data-fav');var on=ssFavToggle(id);var all=document.querySelectorAll('.fav-btn[data-fav="'+id+'"]');[].forEach.call(all,function(x){ssFavPaint(x,on);});ssGa(on?'deal_fav_add':'deal_fav_remove',{deal_id:id,total:ssFavGet().length});if(onChange)onChange(on,id);});}function ssScrollDepth(){var ms=[25,50,75],sent={};window.addEventListener('scroll',function(){var h=document.documentElement,max=h.scrollHeight-h.clientHeight;if(max<=0)return;var p=(h.scrollTop||document.body.scrollTop)/max*100;ms.forEach(function(m){if(!sent[m]&&p>=m){sent[m]=1;ssGa('scroll_depth',{percent_scrolled:m});}});},{passive:true});}function ssToast(m){var t=document.createElement('div');t.className='ss-toast';t.textContent=m;document.body.appendChild(t);requestAnimationFrame(function(){t.classList.add('show');});setTimeout(function(){t.classList.remove('show');setTimeout(function(){t.remove();},300);},1600);}function ssShareInit(){document.addEventListener('click',function(e){var sb=e.target.closest&&e.target.closest('[data-share]');if(!sb)return;e.preventDefault();var url=sb.getAttribute('data-share-url')||location.href;var title=sb.getAttribute('data-share-title')||document.title;var id=sb.getAttribute('data-share-id')||'';ssGa('share',{method:navigator.share?'web_share':'clipboard',content_type:'deal',item_id:id});if(navigator.share){navigator.share({title:title,url:url}).catch(function(){});return;}if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(url).then(function(){ssToast('링크 복사됨 ✓');}).catch(function(){window.prompt('링크를 복사하세요',url);});return;}window.prompt('링크를 복사하세요',url);});}function ssNudge(force){var el=document.getElementById('app-nudge');if(!el)return;var ua=navigator.userAgent||'';if(ua.indexOf('SsantimeApp')>=0)return;if(!/Android/i.test(ua))return;if(el.getAttribute('data-defer')&&!force)return;try{var off=+localStorage.getItem('ssNudgeOff')||0;if(off&&Date.now()-off<14*864e5)return;if(sessionStorage.getItem('ssNudgeSeen'))return;sessionStorage.setItem('ssNudgeSeen','1');}catch(e){return;}var pl=force||'strip';el.hidden=false;ssGa('app_nudge_show',{placement:pl});el.addEventListener('click',function(e){var x=e.target.closest&&e.target.closest('.app-nudge-x');var c=e.target.closest&&e.target.closest('.app-nudge-cta');if(!x&&!c)return;try{localStorage.setItem('ssNudgeOff',String(Date.now()));}catch(err){}if(x){el.hidden=true;ssGa('app_nudge_dismiss',{placement:pl});}else{ssGa('app_nudge_click',{placement:pl});}});}ssShareInit();ssNudge();
 ssFillTimes();
 ssFavInit();ssFavBind();
 var mainEl=document.querySelector('main.deal');
@@ -202,7 +207,13 @@ function dItem(){var t=document.querySelector('.deal-title');return {item_id:D.i
 if(D&&D.id){
   ssGa('view_item',{currency:'KRW',value:D.price,items:[dItem()]});
   var bb=document.querySelector('.buy-btn');
-  if(bb){bb.addEventListener('click',function(){ssGa('buy_click',{deal_id:D.id,price:D.price,gap:D.gap,mall:D.mall,category:D.cat,site:D.site,link_url:bb.getAttribute('href')||''});});}
+  if(bb){var pbDone=false;bb.addEventListener('click',function(){ssGa('buy_click',{deal_id:D.id,price:D.price,gap:D.gap,mall:D.mall,category:D.cat,site:D.site,link_url:bb.getAttribute('href')||''});
+  if(pbDone)return;pbDone=true;
+  var pua=navigator.userAgent||'';if(pua.indexOf('SsantimeApp')>=0)return;
+  if(/Android/i.test(pua)){ssNudge('post_buy');}
+  else{var pb=document.getElementById('post-buy-kakao');if(pb){pb.hidden=false;ssGa('kakao_cta_show',{placement:'post_buy'});
+  var fk=document.querySelector('.kakao-wrap--detail:not(#post-buy-kakao)');if(fk)fk.hidden=true;}}
+  });}
   var nl=document.querySelector('.naver-link');
   if(nl){nl.addEventListener('click',function(){ssGa('naver_click',{deal_id:D.id,link_url:nl.getAttribute('href')||''});});}
   [].slice.call(document.querySelectorAll('.coupon-link')).forEach(function(cl){cl.addEventListener('click',function(){ssGa('coupon_click',{deal_id:D.id,coupon_type:cl.getAttribute('data-coupon-type')||'',link_url:cl.getAttribute('href')||''});});});

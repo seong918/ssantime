@@ -36,7 +36,7 @@
   <link rel="stylesheet" href="../style.css">
 </head>
 <body class="page-deal">
-  <div id="app-nudge" hidden>
+  <div id="app-nudge" data-defer="post_buy" hidden>
     <span class="app-nudge-txt">📱 매일 아침, 네이버보다 싼 검증 딜만 알림으로</span>
     <a class="app-nudge-cta" href="https://play.google.com/store/apps/details?id=com.ssantime.app&referrer=utm_source%3Dssantime%26utm_medium%3Dweb%26utm_campaign%3Dapp_nudge" rel="noopener">앱 받기</a>
     <button class="app-nudge-x" type="button" aria-label="알림 배너 닫기">✕</button>
@@ -46,7 +46,9 @@
     <a class="brand-mini" href="../index.html"><span class="brand-tag brand-tag--mini" aria-hidden="true">↓</span><span class="wm-time">싼타임</span><span class="wm-deal">핫딜</span></a>
   </header>
   <main class="deal" data-ga-id="63c08755415d" data-ga-price="35650" data-ga-gap="3940" data-ga-site="ppomppu" data-ga-cat="식품/건강" data-ga-mall="G마켓">
-    <div class="ended-banner" role="status">⏰ 아쉽지만 종료된 딜이에요 — 당시 가격은 아래에서 시세 참고용으로 확인할 수 있어요</div>
+    <div class="ended-banner" role="status">⏰ 아쉽지만 종료된 딜이에요 — 당시 가격은 아래에서 시세 참고용으로 확인할 수 있어요
+      <a class="ended-kakao" href="https://open.kakao.com/o/gzcPhduh" target="_blank" rel="noopener nofollow" onclick="if(typeof gtag==='function')gtag('event','kakao_cta_click',{placement:'ended_deal'})">다음 딜은 놓치지 마세요 — 💬 카톡으로 먼저 받기 →</a>
+    </div>
     <p class="deal-intro">네이버 최저가보다 <b>싼 핫딜</b>만 모아요</p>
     <figure class="deal-figure deal-figure--expired">
       <span class="expired-mark">종료된 딜입니다</span>
@@ -76,6 +78,9 @@
     <p class="time-note time-note--box time-note--guide">💡 이 가격을 받는 방법이 있어요 — <a href="#deal-guide">받는 법 먼저 보기 ↓</a><br>핫딜은 예고 없이 마감될 수 있으니 구매 전 판매처에서 최종 가격·재고를 확인하세요.</p>
     <a class="buy-btn" href="https://bitl.bz/api@s0RP2tgi" target="_blank" rel="noopener nofollow"><span class="buy-main"><span class="buy-label">G마켓에서 상품 보기</span><span class="buy-dom">m.gmarket.co.kr</span></span></a>
     <p class="buy-note">새 탭에서 판매처로 이동합니다</p>
+    <div class="kakao-wrap kakao-wrap--detail" id="post-buy-kakao" hidden>
+      <a class="kakao-cta" href="https://open.kakao.com/o/gzcPhduh" target="_blank" rel="noopener nofollow" onclick="if(typeof gtag==='function')gtag('event','kakao_cta_click',{placement:'post_buy'})"><span class="kakao-ico" aria-hidden="true">💬</span><span class="kakao-txt">방금 그 가격, 다음 딜은 <b>카톡으로 먼저</b> 받아보세요</span><span class="kakao-add" aria-hidden="true">채널 추가 →</span></a>
+    </div>
     <section class="deal-guide" id="deal-guide" aria-label="딜 정보">
       <div class="guide-block"><h2 class="guide-h">💡 이 가격 받는 법</h2><p class="guide-body">1. 최대 할인 쿠폰 적용: 쿠폰적용 시 49,500원 → 39,610원
 2. [모든결제수단] 매일유업 10% 결제할인 -3,960원 (최종 결제 35,650원)
@@ -91,88 +96,86 @@
     <section class="related" aria-labelledby="related-h">
       <h2 class="related-h" id="related-h">이런 딜은 어때요</h2>
       <ul class="related-grid" id="related-grid">
-    <li class="card" data-pct="25" data-price="107770" data-gap="37730" data-ts="2026-08-07T00:27:33.619096+00:00" data-mall="롯데ON" data-category="식품" data-title="[롯데온] 바이오가이아 스웨덴 아기 유산균+비타민d 10ml 이지드롭 4개 개당 26,900원 (107,770원/무배) [롯데온]바이오가이아스웨덴아기유산균+비타민d10ml이지드롭4개개당26,900원(107,770원/무배) ㄹㄷㅇㅂㅇㅇㄱㅇㅇㅅㅇㄷㅇㄱㅇㅅㄱㅂㅌㅁㅇㅈㄷㄹㄱㄱㄷㅇㅇㅁㅂ" data-search="[롯데온] 바이오가이아 스웨덴 아기 유산균+비타민d 10ml 이지드롭 4개 개당 26,900원 (107,770원/무배) 롯데on 바이오가이아 biogaia 아기유산균 유산균 비타민d 이지드롭 프로바이오틱스 스웨덴유산균 베이비드롭 [롯데온]바이오가이아스웨덴아기유산균+비타민d10ml이지드롭4개개당26,900원(107,770원/무배)롯데on바이오가이아biogaia아기유산균유산균비타민d이지드롭프로바이오틱스스웨덴유산균베이비드롭 ㄹㄷㅇㅂㅇㅇㄱㅇㅇㅅㅇㄷㅇㄱㅇㅅㄱㅂㅌㅁㅇㅈㄷㄹㄱㄱㄷㅇㅇㅁㅂㄹㄷㅂㅇㅇㄱㅇㅇㅇㄱㅇㅅㄱㅇㅅㄱㅂㅌㅁㅇㅈㄷㄹㅍㄹㅂㅇㅇㅌㅅㅅㅇㄷㅇㅅㄱㅂㅇㅂㄷㄹ" data-id="76c9bfd08a11">
-      <button class="fav-btn" type="button" hidden data-fav="76c9bfd08a11" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
-      <a class="card-link" href="https://ssantime.com/deals/76c9bfd08a11.html">
+    <li class="card" data-pct="36" data-price="75240" data-gap="42470" data-ts="2026-08-16T04:24:34.983137+00:00" data-mall="쿠팡" data-category="식품" data-title="evl 웨이 프로틴 더블 리치 초콜릿 맛, 2.268kg evl웨이프로틴더블리치초콜릿맛,2.268kg ㅇㅇㅍㄹㅌㄷㅂㄹㅊㅊㅋㄹㅁ" data-search="evl 웨이 프로틴 더블 리치 초콜릿 맛, 2.268kg 쿠팡 evl evlutionnutrition 웨이프로틴 프로틴 단백질보충제 유청단백질 초콜릿맛 헬스보충제 bcaa evl웨이프로틴더블리치초콜릿맛,2.268kg쿠팡evlevlutionnutrition웨이프로틴프로틴단백질보충제유청단백질초콜릿맛헬스보충제bcaa ㅇㅇㅍㄹㅌㄷㅂㄹㅊㅊㅋㄹㅁㅋㅍㅇㅇㅍㄹㅌㅍㄹㅌㄷㅂㅈㅂㅊㅈㅇㅊㄷㅂㅈㅊㅋㄹㅁㅎㅅㅂㅊㅈ" data-id="2eea0b0747c0">
+      <button class="fav-btn" type="button" hidden data-fav="2eea0b0747c0" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
+      <a class="card-link" href="https://ssantime.com/deals/2eea0b0747c0.html">
         <div class="thumb-wrap">
-        <img class="thumb" src="https://ssantime.com/img/76c9bfd08a11.jpg" alt="바이오가이아 스웨덴 아기 유산균+비타민d 10ml 이지드롭 4개 개당" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
-        <span class="card-badge" aria-label="네이버 최저가 대비 25% 저렴">25%<span class="off">↓</span></span>
+        <img class="thumb" src="https://ssantime.com/img/2eea0b0747c0.jpg" alt="EVL 웨이 프로틴 더블 리치 초콜릿 맛, 2.268kg" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
+        <span class="card-badge" aria-label="네이버 최저가 대비 36% 저렴">36%<span class="off">↓</span></span>
         </div>
         <div class="card-body">
-          <h2 class="card-title">바이오가이아 스웨덴 아기 유산균+비타민d 10ml 이지드롭 4개 개당</h2>
+          <h2 class="card-title">EVL 웨이 프로틴 더블 리치 초콜릿 맛, 2.268kg</h2>
           <div class="card-prices">
-          <div class="card-deal">107,770<span class="won">원</span></div>
-          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−37,730원</b></div>
-          <div class="card-lprice">네이버 <s>145,500</s>원</div>
+          <div class="card-deal">75,240<span class="won">원</span></div>
+          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−42,470원</b></div>
+          <div class="card-lprice">네이버 <s>117,710</s>원</div>
           </div>
           <div class="card-foot">
-            <span class="card-mall card-mall--sell">롯데ON</span>
-            <time class="card-ago" datetime="2026-08-07T00:27:33.619096+00:00" data-ago="2026-08-07T00:27:33.619096+00:00">08-07</time>
+            <span class="card-mall card-mall--sell">쿠팡</span>
+            <time class="card-ago" datetime="2026-08-16T04:24:34.983137+00:00" data-ago="2026-08-16T04:24:34.983137+00:00">08-16</time>
           </div>
         </div>
       </a>
     </li>
-    <li class="card" data-pct="26" data-price="54390" data-gap="19910" data-ts="2026-08-07T02:35:47.466841+00:00" data-mall="롯데ON" data-category="식품" data-title="일리 네스프레소 호환 캡슐 커피 5종 세트 100캡슐 일리네스프레소호환캡슐커피5종세트100캡슐 ㅇㄹㄴㅅㅍㄹㅅㅎㅎㅋㅅㅋㅍㅈㅅㅌㅋㅅ" data-search="일리 네스프레소 호환 캡슐 커피 5종 세트 100캡슐 롯데on 일리 illy 네스프레소 호환 캡슐커피 커피캡슐 에스프레소 디카페인 아라비카 일리네스프레소호환캡슐커피5종세트100캡슐롯데on일리illy네스프레소호환캡슐커피커피캡슐에스프레소디카페인아라비카 ㅇㄹㄴㅅㅍㄹㅅㅎㅎㅋㅅㅋㅍㅈㅅㅌㅋㅅㄹㄷㅇㄹㄴㅅㅍㄹㅅㅎㅎㅋㅅㅋㅍㅋㅍㅋㅅㅇㅅㅍㄹㅅㄷㅋㅍㅇㅇㄹㅂㅋ" data-id="39ad9aefb801">
-      <button class="fav-btn" type="button" hidden data-fav="39ad9aefb801" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
-      <a class="card-link" href="https://ssantime.com/deals/39ad9aefb801.html">
+    <li class="card" data-pct="34" data-price="50048" data-gap="26152" data-ts="2026-08-15T05:35:59.155051+00:00" data-mall="selexmal…" data-category="식품" data-title="[셀렉스몰] 셀렉스 프로핏 wpi 음료 330ml 36팩 (50,048원/무료) [셀렉스몰]셀렉스프로핏wpi음료330ml36팩(50,048원/무료) ㅅㄹㅅㅁㅅㄹㅅㅍㄹㅍㅇㄹㅍㅇㅁㄹ" data-search="[셀렉스몰] 셀렉스 프로핏 wpi 음료 330ml 36팩 (50,048원/무료) selexmal… 셀렉스 selex 프로핏 프로핏 스포츠 wpi 분리유청단백질 단백질음료 프로틴 락토프리 초콜릿 [셀렉스몰]셀렉스프로핏wpi음료330ml36팩(50,048원/무료)selexmal…셀렉스selex프로핏프로핏스포츠wpi분리유청단백질단백질음료프로틴락토프리초콜릿 ㅅㄹㅅㅁㅅㄹㅅㅍㄹㅍㅇㄹㅍㅇㅁㄹㅅㄹㅅㅍㄹㅍㅍㄹㅍㅅㅍㅊㅂㄹㅇㅊㄷㅂㅈㄷㅂㅈㅇㄹㅍㄹㅌㄹㅌㅍㄹㅊㅋㄹ" data-id="abb6ad92474c">
+      <button class="fav-btn" type="button" hidden data-fav="abb6ad92474c" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
+      <a class="card-link" href="https://ssantime.com/deals/abb6ad92474c.html">
         <div class="thumb-wrap">
-        <img class="thumb" src="https://ssantime.com/img/39ad9aefb801.jpg" alt="일리 네스프레소 호환 캡슐 커피 5종 세트 100캡슐" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
-        <span class="card-badge" aria-label="네이버 최저가 대비 26% 저렴">26%<span class="off">↓</span></span>
+        <img class="thumb" src="https://ssantime.com/img/abb6ad92474c.jpg" alt="셀렉스 프로핏 WPI 음료 330ml 36팩" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
+        <span class="card-badge" aria-label="네이버 최저가 대비 34% 저렴">34%<span class="off">↓</span></span>
         </div>
         <div class="card-body">
-          <h2 class="card-title">일리 네스프레소 호환 캡슐 커피 5종 세트 100캡슐</h2>
+          <h2 class="card-title">셀렉스 프로핏 WPI 음료 330ml 36팩</h2>
           <div class="card-prices">
-          <div class="card-deal">54,390<span class="won">원</span></div>
-          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−19,910원</b></div>
-          <div class="card-lprice">네이버 <s>74,300</s>원</div>
+          <div class="card-deal">50,048<span class="won">원</span></div>
+          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−26,152원</b></div>
+          <div class="card-lprice">네이버 <s>76,200</s>원</div>
           </div>
           <div class="card-foot">
-            <span class="card-mall card-mall--sell">롯데ON</span>
-            <time class="card-ago" datetime="2026-08-07T02:35:47.466841+00:00" data-ago="2026-08-07T02:35:47.466841+00:00">08-07</time>
+            <span class="card-mall card-mall--sell">selexmal…</span>
+            <time class="card-ago" datetime="2026-08-15T05:35:59.155051+00:00" data-ago="2026-08-15T05:35:59.155051+00:00">08-15</time>
           </div>
         </div>
       </a>
     </li>
-    <li class="card" data-pct="25" data-price="49950" data-gap="17320" data-ts="2026-08-07T02:30:09.093945+00:00" data-mall="롯데ON" data-category="식품" data-title="[롯데온] 더단백 단백질 드링크 8종 250ml x 14+14+14 / 42팩 (49,950원/무료) [롯데온]더단백단백질드링크8종250mlx14+14+14/42팩(49,950원/무료) ㄹㄷㅇㄷㄷㅂㄷㅂㅈㄷㄹㅋㅈㅍㅇㅁㄹ" data-search="[롯데온] 더단백 단백질 드링크 8종 250ml x 14+14+14 / 42팩 (49,950원/무료) 롯데on 더단백 단백질 드링크 단백질음료 프로틴 드링크 프로틴음료 protein drink 단백질 보충 [롯데온]더단백단백질드링크8종250mlx14+14+14/42팩(49,950원/무료)롯데on더단백단백질드링크단백질음료프로틴드링크프로틴음료proteindrink단백질보충 ㄹㄷㅇㄷㄷㅂㄷㅂㅈㄷㄹㅋㅈㅍㅇㅁㄹㄹㄷㄷㄷㅂㄷㅂㅈㄷㄹㅋㄷㅂㅈㅇㄹㅍㄹㅌㄷㄹㅋㅍㄹㅌㅇㄹㄷㅂㅈㅂㅊ" data-id="0a8d1013116d">
-      <button class="fav-btn" type="button" hidden data-fav="0a8d1013116d" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
-      <a class="card-link" href="https://ssantime.com/deals/0a8d1013116d.html">
+    <li class="card" data-pct="31" data-price="34080" data-gap="15650" data-ts="2026-08-15T13:05:18.966606+00:00" data-mall="네이버 스마트스토어" data-category="식품" data-title="올반 수비드 닭가슴살 130g 20개 올반수비드닭가슴살130g20개 ㅇㅂㅅㅂㄷㄷㄱㅅㅅㄱ" data-search="올반 수비드 닭가슴살 130g 20개 네이버 스마트스토어 신세계푸드 올반 올바르고반듯한 닭가슴살 수비드닭가슴살 수비드 고단백 냉동식품 올반수비드닭가슴살130g20개네이버스마트스토어신세계푸드올반올바르고반듯한닭가슴살수비드닭가슴살수비드고단백냉동식품 ㅇㅂㅅㅂㄷㄷㄱㅅㅅㄱㄴㅇㅂㅅㅁㅌㅅㅌㅇㅅㅅㄱㅍㄷㅇㅂㅇㅂㄹㄱㅂㄷㅎㄷㄱㅅㅅㅅㅂㄷㄷㄱㅅㅅㅅㅂㄷㄱㄷㅂㄴㄷㅅㅍ" data-id="c14d702a44fa">
+      <button class="fav-btn" type="button" hidden data-fav="c14d702a44fa" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
+      <a class="card-link" href="https://ssantime.com/deals/c14d702a44fa.html">
         <div class="thumb-wrap">
-        <img class="thumb" src="https://ssantime.com/img/0a8d1013116d.jpg" alt="더단백 단백질 드링크 8종 250ml X 14+14+14 / 42팩" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
-        <span class="card-badge" aria-label="네이버 최저가 대비 25% 저렴">25%<span class="off">↓</span></span>
+        <img class="thumb" src="https://ssantime.com/img/c14d702a44fa.jpg" alt="올반 수비드 닭가슴살 130g 20개" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
+        <span class="card-badge" aria-label="네이버 최저가 대비 31% 저렴">31%<span class="off">↓</span></span>
         </div>
         <div class="card-body">
-          <h2 class="card-title">더단백 단백질 드링크 8종 250ml X 14+14+14 / 42팩</h2>
+          <h2 class="card-title">올반 수비드 닭가슴살 130g 20개</h2>
           <div class="card-prices">
-          <div class="card-deal">49,950<span class="won">원</span></div>
-          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−17,320원</b></div>
-          <div class="card-lprice">네이버 <s>67,270</s>원</div>
+          <div class="card-deal">34,080<span class="won">원</span></div>
+          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−15,650원</b></div>
+          <div class="card-lprice">네이버 <s>49,730</s>원</div>
           </div>
           <div class="card-foot">
-            <span class="card-mall card-mall--sell">롯데ON</span>
-            <time class="card-ago" datetime="2026-08-07T02:30:09.093945+00:00" data-ago="2026-08-07T02:30:09.093945+00:00">08-07</time>
+            <span class="card-mall card-mall--sell">네이버 스마트스토어</span>
+            <time class="card-ago" datetime="2026-08-15T13:05:18.966606+00:00" data-ago="2026-08-15T13:05:18.966606+00:00">08-15</time>
           </div>
         </div>
       </a>
     </li>
-    <li class="card" data-pct="32" data-price="34920" data-gap="16680" data-ts="2026-08-07T02:29:43.843218+00:00" data-mall="jinroton…" data-category="식품" data-title="[공홈] 하이트제로 350ml 72캔 (페이코34,920원/무료) [공홈]하이트제로350ml72캔(페이코34,920원/무료) ㄱㅎㅎㅇㅌㅈㄹㅋㅍㅇㅋㅇㅁㄹ" data-search="[공홈] 하이트제로 350ml 72캔 (페이코34,920원/무료) jinroton… 하이트제로 하이트제로 0.00 hite zero 무알코올맥주 논알콜 올프리 all-free 무알콜음료 제로맥주 [공홈]하이트제로350ml72캔(페이코34,920원/무료)jinroton…하이트제로하이트제로0.00hitezero무알코올맥주논알콜올프리all-free무알콜음료제로맥주 ㄱㅎㅎㅇㅌㅈㄹㅋㅍㅇㅋㅇㅁㄹㅎㅇㅌㅈㄹㅎㅇㅌㅈㄹㅁㅇㅋㅇㅁㅈㄴㅇㅋㅇㅍㄹㅁㅇㅋㅇㄹㅈㄹㅁㅈ" data-id="04e0619e13b0">
-      <button class="fav-btn" type="button" hidden data-fav="04e0619e13b0" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
-      <a class="card-link" href="https://ssantime.com/deals/04e0619e13b0.html">
+    <li class="card" data-pct="34" data-price="29190" data-gap="15630" data-ts="2026-08-11T03:03:20.902179+00:00" data-mall="11번가" data-category="식품" data-title="한양식품 꽃보다오징어 슬라이스 230g+230g t멤버십 한양식품꽃보다오징어슬라이스230g+230gt멤버십 ㅎㅇㅅㅍㄲㅂㄷㅇㅈㅇㅅㄹㅇㅅㅁㅂㅅ" data-search="한양식품 꽃보다오징어 슬라이스 230g+230g t멤버십 11번가 한양식품 꽃보다오징어 오징어슬라이스 오징어채 오징어 마른오징어 건어물 오징어안주 오징어스낵 한양식품꽃보다오징어슬라이스230g+230gt멤버십11번가한양식품꽃보다오징어오징어슬라이스오징어채오징어마른오징어건어물오징어안주오징어스낵 ㅎㅇㅅㅍㄲㅂㄷㅇㅈㅇㅅㄹㅇㅅㅁㅂㅅㅂㄱㅎㅇㅅㅍㄲㅂㄷㅇㅈㅇㅇㅈㅇㅅㄹㅇㅅㅇㅈㅇㅊㅇㅈㅇㅁㄹㅇㅈㅇㄱㅇㅁㅇㅈㅇㅇㅈㅇㅈㅇㅅㄴ" data-id="1fd5ccc10ee2">
+      <button class="fav-btn" type="button" hidden data-fav="1fd5ccc10ee2" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
+      <a class="card-link" href="https://ssantime.com/deals/1fd5ccc10ee2.html">
         <div class="thumb-wrap">
-        <div class="thumb thumb--ph" aria-hidden="true">
-          <span class="ph-note">사진 없음</span>
-        </div>
-        <span class="card-badge" aria-label="네이버 최저가 대비 32% 저렴">32%<span class="off">↓</span></span>
+        <img class="thumb" src="https://ssantime.com/img/1fd5ccc10ee2.jpg" alt="한양식품 꽃보다오징어 슬라이스 230g+230g" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
+        <span class="card-badge" aria-label="네이버 최저가 대비 34% 저렴">34%<span class="off">↓</span></span>
         </div>
         <div class="card-body">
-          <h2 class="card-title">하이트제로 350ml 72캔</h2>
+          <h2 class="card-title">한양식품 꽃보다오징어 슬라이스 230g+230g</h2>
           <div class="card-prices">
-          <div class="card-deal">34,920<span class="won">원</span></div>
-          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−16,680원</b></div>
-          <div class="card-lprice">네이버 <s>51,600</s>원</div>
+          <div class="card-deal">29,190<span class="won">원</span></div>
+          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−15,630원</b></div>
+          <div class="card-lprice">네이버 <s>44,820</s>원</div>
           </div>
           <div class="card-foot">
-            <span class="card-mall card-mall--sell">jinroton…</span>
-            <time class="card-ago" datetime="2026-08-07T02:29:43.843218+00:00" data-ago="2026-08-07T02:29:43.843218+00:00">08-07</time>
+            <span class="card-mall card-mall--sell">11번가</span>
+            <time class="card-ago" datetime="2026-08-11T03:03:20.902179+00:00" data-ago="2026-08-11T03:03:20.902179+00:00">08-11</time>
           </div>
         </div>
       </a>
@@ -200,7 +203,7 @@
     <p class="affiliate-notice">이 사이트는 쿠팡 파트너스, 애드픽 등 제휴 마케팅 활동의 일환으로, 이에 따라 일정액의 수수료를 제공받을 수 있습니다.</p>
   </main>
   <script>(function(){'use strict';
-function ssAgo(iso){var d=new Date(iso);if(isNaN(d))return '';var s=Math.floor((Date.now()-d.getTime())/1000);if(s<60)return '등록 방금 전';var m=Math.floor(s/60);if(m<60)return '등록 '+m+'분 전';var h=Math.floor(m/60);if(h<24)return '등록 '+h+'시간 전';var dd=Math.floor(h/24);if(dd<7)return '등록 '+dd+'일 전';return '등록 '+(d.getMonth()+1)+'월 '+d.getDate()+'일';}function ssFillTimes(root){(root||document).querySelectorAll('[data-ago]').forEach(function(el){var t=ssAgo(el.getAttribute('data-ago'));if(t)el.textContent=t;});}function ssGa(n,p){try{if(typeof window.gtag==='function'){window.gtag('event',n,p||{});}}catch(e){}}var SS_FAV='ss_fav';function ssFavGet(){try{var r=localStorage.getItem(SS_FAV);var a=r?JSON.parse(r):[];return Object.prototype.toString.call(a)==='[object Array]'?a:[];}catch(e){return [];}}function ssFavSet(a){try{localStorage.setItem(SS_FAV,JSON.stringify(a));return true;}catch(e){return false;}}function ssFavHas(id){return ssFavGet().indexOf(id)>=0;}function ssFavToggle(id){var a=ssFavGet();var i=a.indexOf(id);if(i>=0){a.splice(i,1);}else{a.unshift(id);}ssFavSet(a);return i<0;}function ssFavPaint(btn,on){btn.hidden=false;btn.setAttribute('aria-pressed',on?'true':'false');btn.classList[on?'add':'remove']('is-on');btn.setAttribute('aria-label',on?'찜 해제':'찜하기');var ic=btn.querySelector('.fav-ico');if(ic)ic.textContent=on?'♥':'♡';}function ssFavInit(scope){var set={};ssFavGet().forEach(function(x){set[x]=1;});var bs=(scope||document).querySelectorAll('.fav-btn');[].forEach.call(bs,function(b){ssFavPaint(b,!!set[b.getAttribute('data-fav')]);});}function ssFavBind(onChange){document.addEventListener('click',function(e){var b=e.target.closest?e.target.closest('.fav-btn'):null;if(!b)return;e.preventDefault();e.stopPropagation();var id=b.getAttribute('data-fav');var on=ssFavToggle(id);var all=document.querySelectorAll('.fav-btn[data-fav="'+id+'"]');[].forEach.call(all,function(x){ssFavPaint(x,on);});ssGa(on?'deal_fav_add':'deal_fav_remove',{deal_id:id,total:ssFavGet().length});if(onChange)onChange(on,id);});}function ssScrollDepth(){var ms=[25,50,75],sent={};window.addEventListener('scroll',function(){var h=document.documentElement,max=h.scrollHeight-h.clientHeight;if(max<=0)return;var p=(h.scrollTop||document.body.scrollTop)/max*100;ms.forEach(function(m){if(!sent[m]&&p>=m){sent[m]=1;ssGa('scroll_depth',{percent_scrolled:m});}});},{passive:true});}function ssToast(m){var t=document.createElement('div');t.className='ss-toast';t.textContent=m;document.body.appendChild(t);requestAnimationFrame(function(){t.classList.add('show');});setTimeout(function(){t.classList.remove('show');setTimeout(function(){t.remove();},300);},1600);}function ssShareInit(){document.addEventListener('click',function(e){var sb=e.target.closest&&e.target.closest('[data-share]');if(!sb)return;e.preventDefault();var url=sb.getAttribute('data-share-url')||location.href;var title=sb.getAttribute('data-share-title')||document.title;var id=sb.getAttribute('data-share-id')||'';ssGa('share',{method:navigator.share?'web_share':'clipboard',content_type:'deal',item_id:id});if(navigator.share){navigator.share({title:title,url:url}).catch(function(){});return;}if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(url).then(function(){ssToast('링크 복사됨 ✓');}).catch(function(){window.prompt('링크를 복사하세요',url);});return;}window.prompt('링크를 복사하세요',url);});}function ssNudge(){var el=document.getElementById('app-nudge');if(!el)return;var ua=navigator.userAgent||'';if(ua.indexOf('SsantimeApp')>=0)return;if(!/Android/i.test(ua))return;try{var off=+localStorage.getItem('ssNudgeOff')||0;if(off&&Date.now()-off<14*864e5)return;if(sessionStorage.getItem('ssNudgeSeen'))return;sessionStorage.setItem('ssNudgeSeen','1');}catch(e){return;}el.hidden=false;ssGa('app_nudge_show',{placement:'strip'});el.addEventListener('click',function(e){var x=e.target.closest&&e.target.closest('.app-nudge-x');var c=e.target.closest&&e.target.closest('.app-nudge-cta');if(!x&&!c)return;try{localStorage.setItem('ssNudgeOff',String(Date.now()));}catch(err){}if(x){el.hidden=true;ssGa('app_nudge_dismiss',{placement:'strip'});}else{ssGa('app_nudge_click',{placement:'strip'});}});}ssShareInit();ssNudge();
+function ssAgo(iso){var d=new Date(iso);if(isNaN(d))return '';var s=Math.floor((Date.now()-d.getTime())/1000);if(s<60)return '등록 방금 전';var m=Math.floor(s/60);if(m<60)return '등록 '+m+'분 전';var h=Math.floor(m/60);if(h<24)return '등록 '+h+'시간 전';var dd=Math.floor(h/24);if(dd<7)return '등록 '+dd+'일 전';return '등록 '+(d.getMonth()+1)+'월 '+d.getDate()+'일';}function ssFillTimes(root){(root||document).querySelectorAll('[data-ago]').forEach(function(el){var t=ssAgo(el.getAttribute('data-ago'));if(t)el.textContent=t;});}function ssGa(n,p){try{if(typeof window.gtag==='function'){window.gtag('event',n,p||{});}}catch(e){}}var SS_FAV='ss_fav';function ssFavGet(){try{var r=localStorage.getItem(SS_FAV);var a=r?JSON.parse(r):[];return Object.prototype.toString.call(a)==='[object Array]'?a:[];}catch(e){return [];}}function ssFavSet(a){try{localStorage.setItem(SS_FAV,JSON.stringify(a));return true;}catch(e){return false;}}function ssFavHas(id){return ssFavGet().indexOf(id)>=0;}function ssFavToggle(id){var a=ssFavGet();var i=a.indexOf(id);if(i>=0){a.splice(i,1);}else{a.unshift(id);}ssFavSet(a);return i<0;}function ssFavPaint(btn,on){btn.hidden=false;btn.setAttribute('aria-pressed',on?'true':'false');btn.classList[on?'add':'remove']('is-on');btn.setAttribute('aria-label',on?'찜 해제':'찜하기');var ic=btn.querySelector('.fav-ico');if(ic)ic.textContent=on?'♥':'♡';}function ssFavInit(scope){var set={};ssFavGet().forEach(function(x){set[x]=1;});var bs=(scope||document).querySelectorAll('.fav-btn');[].forEach.call(bs,function(b){ssFavPaint(b,!!set[b.getAttribute('data-fav')]);});}function ssFavBind(onChange){document.addEventListener('click',function(e){var b=e.target.closest?e.target.closest('.fav-btn'):null;if(!b)return;e.preventDefault();e.stopPropagation();var id=b.getAttribute('data-fav');var on=ssFavToggle(id);var all=document.querySelectorAll('.fav-btn[data-fav="'+id+'"]');[].forEach.call(all,function(x){ssFavPaint(x,on);});ssGa(on?'deal_fav_add':'deal_fav_remove',{deal_id:id,total:ssFavGet().length});if(onChange)onChange(on,id);});}function ssScrollDepth(){var ms=[25,50,75],sent={};window.addEventListener('scroll',function(){var h=document.documentElement,max=h.scrollHeight-h.clientHeight;if(max<=0)return;var p=(h.scrollTop||document.body.scrollTop)/max*100;ms.forEach(function(m){if(!sent[m]&&p>=m){sent[m]=1;ssGa('scroll_depth',{percent_scrolled:m});}});},{passive:true});}function ssToast(m){var t=document.createElement('div');t.className='ss-toast';t.textContent=m;document.body.appendChild(t);requestAnimationFrame(function(){t.classList.add('show');});setTimeout(function(){t.classList.remove('show');setTimeout(function(){t.remove();},300);},1600);}function ssShareInit(){document.addEventListener('click',function(e){var sb=e.target.closest&&e.target.closest('[data-share]');if(!sb)return;e.preventDefault();var url=sb.getAttribute('data-share-url')||location.href;var title=sb.getAttribute('data-share-title')||document.title;var id=sb.getAttribute('data-share-id')||'';ssGa('share',{method:navigator.share?'web_share':'clipboard',content_type:'deal',item_id:id});if(navigator.share){navigator.share({title:title,url:url}).catch(function(){});return;}if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(url).then(function(){ssToast('링크 복사됨 ✓');}).catch(function(){window.prompt('링크를 복사하세요',url);});return;}window.prompt('링크를 복사하세요',url);});}function ssNudge(force){var el=document.getElementById('app-nudge');if(!el)return;var ua=navigator.userAgent||'';if(ua.indexOf('SsantimeApp')>=0)return;if(!/Android/i.test(ua))return;if(el.getAttribute('data-defer')&&!force)return;try{var off=+localStorage.getItem('ssNudgeOff')||0;if(off&&Date.now()-off<14*864e5)return;if(sessionStorage.getItem('ssNudgeSeen'))return;sessionStorage.setItem('ssNudgeSeen','1');}catch(e){return;}var pl=force||'strip';el.hidden=false;ssGa('app_nudge_show',{placement:pl});el.addEventListener('click',function(e){var x=e.target.closest&&e.target.closest('.app-nudge-x');var c=e.target.closest&&e.target.closest('.app-nudge-cta');if(!x&&!c)return;try{localStorage.setItem('ssNudgeOff',String(Date.now()));}catch(err){}if(x){el.hidden=true;ssGa('app_nudge_dismiss',{placement:pl});}else{ssGa('app_nudge_click',{placement:pl});}});}ssShareInit();ssNudge();
 ssFillTimes();
 ssFavInit();ssFavBind();
 var mainEl=document.querySelector('main.deal');
@@ -209,7 +212,13 @@ function dItem(){var t=document.querySelector('.deal-title');return {item_id:D.i
 if(D&&D.id){
   ssGa('view_item',{currency:'KRW',value:D.price,items:[dItem()]});
   var bb=document.querySelector('.buy-btn');
-  if(bb){bb.addEventListener('click',function(){ssGa('buy_click',{deal_id:D.id,price:D.price,gap:D.gap,mall:D.mall,category:D.cat,site:D.site,link_url:bb.getAttribute('href')||''});});}
+  if(bb){var pbDone=false;bb.addEventListener('click',function(){ssGa('buy_click',{deal_id:D.id,price:D.price,gap:D.gap,mall:D.mall,category:D.cat,site:D.site,link_url:bb.getAttribute('href')||''});
+  if(pbDone)return;pbDone=true;
+  var pua=navigator.userAgent||'';if(pua.indexOf('SsantimeApp')>=0)return;
+  if(/Android/i.test(pua)){ssNudge('post_buy');}
+  else{var pb=document.getElementById('post-buy-kakao');if(pb){pb.hidden=false;ssGa('kakao_cta_show',{placement:'post_buy'});
+  var fk=document.querySelector('.kakao-wrap--detail:not(#post-buy-kakao)');if(fk)fk.hidden=true;}}
+  });}
   var nl=document.querySelector('.naver-link');
   if(nl){nl.addEventListener('click',function(){ssGa('naver_click',{deal_id:D.id,link_url:nl.getAttribute('href')||''});});}
   [].slice.call(document.querySelectorAll('.coupon-link')).forEach(function(cl){cl.addEventListener('click',function(){ssGa('coupon_click',{deal_id:D.id,coupon_type:cl.getAttribute('data-coupon-type')||'',link_url:cl.getAttribute('href')||''});});});
