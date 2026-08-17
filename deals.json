@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "6f1f60798fae",
+    "title": "파워에이드 퍼플스톰, 600ml, 20개",
+    "deal_total": 15880,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 19850,
+    "gap": 3970,
+    "mall_name": "네이버",
+    "buy_url": "https://link.coupang.com/a/ghe6iqStJA",
+    "source_url": "https://arca.live/b/hotdeal/180126056",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5364976/53649764132.20250319201131.jpg?type=f300",
+    "created_iso": "2026-08-17T00:31:37.622085+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/53649764132",
+    "naver_product_id": "53649764132",
+    "buy_url_orig": "https://www.coupang.com/vp/products/8106313335?itemId=19704418892&vendorItemId=90861669040",
+    "price_label": "15,880원",
+    "discount_guide": "1. 와우할인 3,970원이 적용되어 19,850원 → 15,880원(정가 30,400원 대비 47%)에 구매합니다.\n2. 쿠페이머니로 결제 시 159원 쿠팡캐시가 적립됩니다.",
+    "product_summary": "파워에이드 퍼플스톰은 포도맛의 스포츠·이온음료입니다.\n600ml 용량 20개로 구성되어 있습니다.\n체내 에너지 생성에 필요한 나이아신(비타민B3)을 함유하고 있습니다.\n원산지는 상품 상세설명을 참조하시면 됩니다.",
+    "source_site": "arca",
+    "category": "식품",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "파워에이드",
+      "powerade",
+      "퍼플스톰",
+      "포도맛",
+      "이온음료",
+      "스포츠음료",
+      "나이아신",
+      "600ml"
+    ]
+  },
+  {
     "deal_id": "962b9dc1cf6e",
     "title": "켈로그 라이스 크리스피 트리츠 바 오리지널, 1.32kg",
     "deal_total": 24610,
@@ -656,7 +692,7 @@
     "source_site": "arca",
     "category": "PC/하드웨어",
     "category_bucket": "전자",
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [],
     "tags": [
@@ -19655,7 +19691,7 @@
     "category": "생활용품",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "식기건조대",
@@ -19692,7 +19728,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "펩시",
@@ -19729,7 +19765,7 @@
     "category": "기타",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "샥즈",
@@ -19766,7 +19802,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "농심",
@@ -19802,7 +19838,7 @@
     "category": "생활용품",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "유한락스",
@@ -19838,7 +19874,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "코카콜라",
@@ -19875,7 +19911,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "이클립스",
