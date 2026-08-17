@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "06e546f5beef",
+    "title": "[네이버] 산지직송 대월 딱딱이 털복숭아 4키로",
+    "deal_total": 21900,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 26800,
+    "gap": 4900,
+    "mall_name": null,
+    "buy_url": "https://smartstore.naver.com/iambom1004/products/13649119397",
+    "source_url": "https://quasarzone.com/bbs/qb_saleinfo/views/1979248",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_8783920/87839208469.5.jpg?type=f300",
+    "created_iso": "2026-08-17T14:39:31.035391+00:00",
+    "naver_url": null,
+    "naver_product_id": "87839208469",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": null,
+    "product_summary": "산지직송 대월 딱딱이 털복숭아 4kg입니다.\n과육이 단단한 딱딱이 타입의 털복숭아입니다.\n산지에서 곧바로 보내는 산지직송 상품이며, 배송비는 무료입니다.",
+    "source_site": "quasarzone",
+    "category": "생활/식품",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "털복숭아",
+      "복숭아",
+      "딱딱이복숭아",
+      "딱딱이 털복숭아",
+      "대월 딱딱이",
+      "산지직송",
+      "peach",
+      "여름과일"
+    ]
+  },
+  {
     "deal_id": "6073bae36758",
     "title": "[G마켓] 서울우유 흑임자 우유 190mlx24개(최종13,010원/무배)",
     "deal_total": 13010,
@@ -18699,7 +18735,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "카포드",
@@ -18736,7 +18772,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "마니커에프앤지",
@@ -18772,7 +18808,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "더미식",
@@ -18810,7 +18846,7 @@
     "category": "생활/식품",
     "category_bucket": "식품",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "복숭아",
