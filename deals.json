@@ -1,5 +1,44 @@
 [
   {
+    "deal_id": "51937bc017ee",
+    "title": "[오늘의집] 제스프리 골드 키위 25과 3.9kg내외 점보사이즈 (27,459원/무료)",
+    "deal_total": 27459,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 37320,
+    "gap": 9861,
+    "mall_name": null,
+    "buy_url": "https://bitl.bz/api@WUDV5eAV",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=115&&no=727727",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5965971/59659710803.jpg?type=f300",
+    "created_iso": "2026-08-18T11:06:45.880192+00:00",
+    "naver_url": null,
+    "naver_product_id": "59659710803",
+    "buy_url_orig": "https://store.ohou.se/goods/3991572",
+    "price_label": "",
+    "discount_guide": "1. 20시부터 아래 링크에서 쿠폰을 다운받습니다: https://events.ohou.se/promotions/big-promotion?special_feed=true\n2. 상품에 10% 쿠폰을 적용합니다 (33,900원 → 30,510원)\n3. 장바구니 쿠폰 '집요한세일 선착순 0818 10시 10% 쿠폰'으로 3,051원 할인을 받습니다 (3만원 이상 구매시 최대 5천원 할인)\n※ 쿠폰을 받아야 최종 27,459원에 결제됩니다.",
+    "product_summary": "제스프리(Zespri) 골드키위 점보사이즈입니다.\n25과 3.9kg 내외로 구성된 한정수량 상품입니다.\n감동몰에서 무료배송으로 제공됩니다.",
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [
+      "https://events.ohou.se/promotions/big-promotion?special_feed=true"
+    ],
+    "tags": [
+      "제스프리",
+      "Zespri",
+      "골드키위",
+      "골드 키위",
+      "키위",
+      "kiwi",
+      "점보키위",
+      "썬골드",
+      "SunGold"
+    ]
+  },
+  {
     "deal_id": "5fb1fd5ffda7",
     "title": "[쿠팡] iPC 2026 게임용 조립PC 코어Ultra5 인텔 14세대 지포스 RTX 5060 (1,248,300원/무료)",
     "deal_total": 1248300,
