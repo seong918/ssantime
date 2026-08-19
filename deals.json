@@ -4473,7 +4473,7 @@
     "source_site": "ppomppu",
     "category": "디지털",
     "category_bucket": "전자",
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [],
     "tags": [
