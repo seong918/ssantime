@@ -1,5 +1,42 @@
 [
   {
+    "deal_id": "1cd764f28c18",
+    "title": "[네이버] 아이폰 12 PRO MAX 크래용 맥세이프 케이스 (5,900원/3,000원)",
+    "deal_total": 5900,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 8900,
+    "gap": 3000,
+    "mall_name": null,
+    "buy_url": "https://smartstore.naver.com/si_story/products/12792398058",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=115&&no=728005",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_9033690/90336909007.jpg?type=f300",
+    "created_iso": "2026-08-19T13:20:42.334879+00:00",
+    "naver_url": null,
+    "naver_product_id": "90336909007",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. N+ 멤버십 최대 적립 포인트 712원\n2. 라인프렌즈 카드 최대 118원 추가 적립(2%)",
+    "product_summary": "아이폰 12 PRO MAX용 맥세이프 케이스입니다.\n맥세이프 케이스에 거치대 겸용 카드지갑, 맥세이프 고속 충전기, 고속 충전 어댑터가 함께 구성됩니다.\n색상과 맥세이프 적용 여부는 랜덤으로 발송됩니다.",
+    "source_site": "ppomppu",
+    "category": "기타",
+    "category_bucket": "전자",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "아이폰 12 PRO MAX",
+      "iPhone 12 Pro Max",
+      "맥세이프 케이스",
+      "MagSafe",
+      "휴대폰 케이스",
+      "카드지갑",
+      "그립톡",
+      "맥세이프 충전기",
+      "고속충전 어댑터"
+    ]
+  },
+  {
     "deal_id": "bd36c03b2155",
     "title": "[롯데온] 스파이더 공용 ENOCK 이녹 운동화 (46,110원 / 무배)",
     "deal_total": 46110,
@@ -18469,7 +18506,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "엄지네꼬막",
@@ -18505,7 +18542,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "A2R",
@@ -18541,7 +18578,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "지오다노",
@@ -18577,7 +18614,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://brand.naver.com/naturalize/shoppingstory/detail?id=5002869833"
     ],
@@ -18616,7 +18653,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "매일유업",
@@ -18651,7 +18688,7 @@
     "category": "기타",
     "category_bucket": "기타",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://kidikidi.elandmall.co.kr/p/planshop?exhibitionNo=202607099783"
     ],
