@@ -17274,7 +17274,7 @@
     "category": "기타",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://ckdhcmall.co.kr/prdExhibitView.do?idx=527",
       "https://ckdhcmall.co.kr/prdView.do?prdCode=G2303161200_0095",
