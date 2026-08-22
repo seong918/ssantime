@@ -1,5 +1,32 @@
 [
   {
+    "deal_id": "4645dafe137e",
+    "title": "[11번가/아싸컴]9850X3D + 5080완본체",
+    "deal_total": 3869900,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 5590000,
+    "gap": 1720100,
+    "mall_name": null,
+    "buy_url": "https://bitl.bz/api@I9hSobKc",
+    "source_url": "https://arca.live/b/hotdeal/180700991",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_9058070/90580703854.1.jpg?type=f300",
+    "created_iso": "2026-08-22T11:22:21.481361+00:00",
+    "naver_url": null,
+    "naver_product_id": "90580703854",
+    "buy_url_orig": "http://www.11st.co.kr/products/8795147327/share",
+    "price_label": "3,869,900원",
+    "discount_guide": null,
+    "product_summary": null,
+    "source_site": "arca",
+    "category": "PC/하드웨어",
+    "category_bucket": null,
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": []
+  },
+  {
     "deal_id": "3879998a32e0",
     "title": "[네이버] 아이스 타올 10매입 쿨 타월 특대형 사이즈 (9,900원/2만이상무배)",
     "deal_total": 9900,
@@ -16699,7 +16726,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "에디션 센서빌리티",
@@ -16735,7 +16762,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "애슐리",
@@ -16773,7 +16800,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "뉴발란스",
@@ -16810,7 +16837,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "미고랭",
@@ -16848,7 +16875,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "던킨",
