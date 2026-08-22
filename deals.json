@@ -1,5 +1,32 @@
 [
   {
+    "deal_id": "ee84962893c8",
+    "title": "[토스쇼핑] 크리넥스 데코&소프트, 3겹, 28m, 24롤, 2팩 (24,400원/무배)",
+    "deal_total": 24400,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 29900,
+    "gap": 5500,
+    "mall_name": "네이버",
+    "buy_url": "https://toss.shopping/t/170131943?k=ba5b7d00-42cc-404e-9df5-f29aa6ff95a4",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=115&&no=728668",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5354696/53546968160.20250314110112.jpg?type=f300",
+    "created_iso": "2026-08-22T16:30:10.556075+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/53546968160",
+    "naver_product_id": "53546968160",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": null,
+    "product_summary": null,
+    "source_site": "ppomppu",
+    "category": "기타",
+    "category_bucket": null,
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": []
+  },
+  {
     "deal_id": "12ca234c9eac",
     "title": "[오늘의집] 오뚜기 크러스트피자 4종 4개 택1 (19,200원/무료)",
     "deal_total": 19200,
@@ -16090,7 +16117,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "K2",
@@ -16127,7 +16154,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "로투스",
@@ -16164,7 +16191,7 @@
     "category": "기타",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "테이크핏",
@@ -16201,7 +16228,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "아산맑은쌀",
