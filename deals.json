@@ -1,5 +1,32 @@
 [
   {
+    "deal_id": "99d40c9d3d78",
+    "title": "[네이버] 국산 활숫꽃게 1kg 3~5미 (8,800원 / 무료)",
+    "deal_total": 8800,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 12610,
+    "gap": 3810,
+    "mall_name": null,
+    "buy_url": "https://brand.naver.com/chamjoen/products/2720250295",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=115&&no=728641",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6134579/61345799703.jpg?type=f300",
+    "created_iso": "2026-08-22T13:17:05.516654+00:00",
+    "naver_url": null,
+    "naver_product_id": "61345799703",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": null,
+    "product_summary": null,
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": null,
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": []
+  },
+  {
     "deal_id": "d117468864fb",
     "title": "[네이버] 피그비 항균 아기지퍼백 대용량 외 5종 (13,850원/무료배송)",
     "deal_total": 13850,
@@ -16275,7 +16302,7 @@
     "category": "가전제품",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "앤커",
@@ -16312,7 +16339,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "신세계푸드",
@@ -16348,7 +16375,7 @@
     "category": "의류",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "지오다노",
@@ -16384,7 +16411,7 @@
     "category": "생활용품",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "도루코",
@@ -16420,7 +16447,7 @@
     "category": "생활용품",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "휘슬러",
@@ -16458,7 +16485,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "햅푸드",
@@ -16494,7 +16521,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "리복",
@@ -16530,7 +16557,7 @@
     "category": "패션/의류",
     "category_bucket": "패션",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "몬트벤치",
@@ -16567,7 +16594,7 @@
     "category": "기타",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "닭터",
@@ -16603,7 +16630,7 @@
     "category": "PC제품",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "ALLDOCUBE",
@@ -16641,7 +16668,7 @@
     "category": "가전제품",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "애플",
@@ -16679,7 +16706,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "농심",
@@ -16717,7 +16744,7 @@
     "category": "의류",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "마인드브릿지",
