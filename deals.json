@@ -1,5 +1,32 @@
 [
   {
+    "deal_id": "96d688abb0c1",
+    "title": "[토스] 스파클 생수 2L 24개 (8,990원/무료)",
+    "deal_total": 8990,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 11990,
+    "gap": 3000,
+    "mall_name": "네이버",
+    "buy_url": "https://toss.shopping/t/56199215",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=115&&no=728651",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5192920/51929205739.20241213204807.jpg?type=f300",
+    "created_iso": "2026-08-22T14:52:49.144441+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/51929205739",
+    "naver_product_id": "51929205739",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": null,
+    "product_summary": null,
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": null,
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": []
+  },
+  {
     "deal_id": "99d40c9d3d78",
     "title": "[네이버] 국산 활숫꽃게 1kg 3~5미 (8,800원 / 무료)",
     "deal_total": 8800,
@@ -75,7 +102,7 @@
     "source_site": "arca",
     "category": "PC/하드웨어",
     "category_bucket": null,
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [],
     "tags": []
@@ -16158,7 +16185,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "아워홈",
@@ -16194,7 +16221,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "쟌슨빌",
@@ -16230,7 +16257,7 @@
     "category": "가전/TV",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "TCL",
@@ -16266,7 +16293,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "쟌슨빌",
