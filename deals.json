@@ -212,7 +212,7 @@
     "source_site": "arca",
     "category": "식품",
     "category_bucket": null,
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [
       "https://store.ohou.se/exhibitions/19262"
@@ -15670,7 +15670,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "쌀",
@@ -15707,7 +15707,7 @@
     "category": "생활/식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://shopping.naver.com/festa/onsale/living/6a4e2ac1ed642b19b9c1454d"
     ],
