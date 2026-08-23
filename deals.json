@@ -2642,7 +2642,7 @@
     "source_site": "ppomppu",
     "category": "식품/건강",
     "category_bucket": null,
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [],
     "tags": []
@@ -13422,7 +13422,7 @@
     "source_site": "ppomppu",
     "category": "식품/건강",
     "category_bucket": "식품",
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [],
     "tags": [
@@ -15615,7 +15615,7 @@
     "category": "PC제품",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "AMD",
