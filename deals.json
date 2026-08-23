@@ -1,5 +1,32 @@
 [
   {
+    "deal_id": "dc6c7e9fea50",
+    "title": "[농심몰] 신라면 120g 40개 1박스(25,328원/무료)",
+    "deal_total": 25328,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 34790,
+    "gap": 9462,
+    "mall_name": null,
+    "buy_url": "https://m.nongshimmall.com/product/detail.html?product_no=2460&cate_no=43",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=115&&no=728828",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6139768/61397683468.jpg?type=f300",
+    "created_iso": "2026-08-23T21:40:31.737850+00:00",
+    "naver_url": null,
+    "naver_product_id": "61397683468",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": null,
+    "product_summary": null,
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": null,
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": []
+  },
+  {
     "deal_id": "6b96b7396701",
     "title": "[네이버] WD BLUE 8TB HDD WD80EAAZ 정발·CMR방식 (국민/삼성/롯데)",
     "deal_total": 377330,
@@ -21,7 +48,7 @@
     "source_site": "quasarzone",
     "category": "PC/하드웨어",
     "category_bucket": null,
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [],
     "tags": []
@@ -488,7 +515,7 @@
     "source_site": "fmkorea",
     "category": "먹거리",
     "category_bucket": null,
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [
       "https://shopping.naver.com/festa/onsale/6a756315790f733cbe66f216"
@@ -15502,7 +15529,7 @@
     "category": "PC/하드웨어",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "MANLI",
@@ -15540,7 +15567,7 @@
     "category": "PC/하드웨어",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://ko.aliexpress.com/item/1005008976362329.html"
     ],
