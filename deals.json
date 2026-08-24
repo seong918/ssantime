@@ -1,5 +1,32 @@
 [
   {
+    "deal_id": "712ed9784090",
+    "title": "[카카오] 고구마순 김치 1kg (16,900원/무료)",
+    "deal_total": 16900,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 20500,
+    "gap": 3600,
+    "mall_name": null,
+    "buy_url": "https://store.kakao.com/babdodukfood/products/773733036",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=115&&no=729020",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_8969959/89699599604.jpg?type=f300",
+    "created_iso": "2026-08-24T10:18:58.937990+00:00",
+    "naver_url": null,
+    "naver_product_id": "89699599604",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": null,
+    "product_summary": null,
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": null,
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": []
+  },
+  {
     "deal_id": "b04e4828bf94",
     "title": "[네이버] 부르르 제로콜라 + 사이다 250ml X 각30캔 (멤버십 16,940원/무료)",
     "deal_total": 16940,
@@ -15232,7 +15259,7 @@
     "category": "가전/가구",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "쿠쿠",
@@ -15269,7 +15296,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "블랙야크",
@@ -15305,7 +15332,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "고구마말랭이",
@@ -15341,7 +15368,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "컬럼비아",
@@ -15378,7 +15405,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "구운란",
@@ -15415,7 +15442,7 @@
     "category": "가전/가구",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "쿠쿠",
@@ -15453,7 +15480,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "한우",
@@ -15490,7 +15517,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "풀무원",
