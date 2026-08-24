@@ -1,5 +1,32 @@
 [
   {
+    "deal_id": "7ec852c8431c",
+    "title": "[11번가] 코카콜라 오리지날 350ml 24캔 (티멤14,900원/무료)",
+    "deal_total": 14900,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 22540,
+    "gap": 7640,
+    "mall_name": "네이버",
+    "buy_url": "https://bitl.bz/api@PTwAObEb",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=115&&no=729104",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5390317/53903177906.20251021133858.jpg?type=f300",
+    "created_iso": "2026-08-24T17:43:32.072197+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/53903177906",
+    "naver_product_id": "53903177906",
+    "buy_url_orig": "https://m.11st.co.kr/products/ma/8778886301?deliveryType=01&pathType=NA",
+    "price_label": "",
+    "discount_guide": null,
+    "product_summary": null,
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": null,
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": []
+  },
+  {
     "deal_id": "55d128072371",
     "title": "[네이버] 네이버멤버십_ 크리넥스 데코&소프트 와이드 화이트 33m 24롤 2팩 (29,360원/무료)",
     "deal_total": 29360,
@@ -15005,7 +15032,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://shopping.naver.com/festa/onsale/699ceb9398f1530c6f40ef49"
     ],
@@ -15043,7 +15070,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "롯데웰푸드",
