@@ -1,5 +1,32 @@
 [
   {
+    "deal_id": "ffa4d76b151b",
+    "title": "[ssg] [나이키코리아공식]남성 나이키 줌 플라이 (104,500원) (무료)",
+    "deal_total": 104500,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 112449,
+    "gap": 7949,
+    "mall_name": "네이버",
+    "buy_url": "https://bitl.bz/api@3LpEcaLg",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=115&&no=729365",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6004022/60040222121.20260514150410.jpg?type=f300",
+    "created_iso": "2026-08-25T14:13:17.551940+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/60040222121",
+    "naver_product_id": "60040222121",
+    "buy_url_orig": "http://ssg.li/52VuflBHzd",
+    "price_label": "",
+    "discount_guide": null,
+    "product_summary": null,
+    "source_site": "ppomppu",
+    "category": "의류/잡화",
+    "category_bucket": null,
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": []
+  },
+  {
     "deal_id": "436ffefb5893",
     "title": "[지마켓] 르꼬끄 남여공용 아투즈 에어 백팩 (45,951원/무료)",
     "deal_total": 45951,
@@ -14265,7 +14292,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "풀무원",
@@ -14303,7 +14330,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "스팸",
@@ -14339,7 +14366,7 @@
     "category": "화장품",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "세타필",
@@ -14375,7 +14402,7 @@
     "category": "기타",
     "category_bucket": "기타",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "데카트론",
@@ -14412,7 +14439,7 @@
     "category": "가전제품",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "엡손",
