@@ -1,5 +1,32 @@
 [
   {
+    "deal_id": "46fac763e1d5",
+    "title": "순수본가 야심찬 냉면, 면사리, 2kg + 냉면육수, 320g, 10봉, 1세트",
+    "deal_total": 8000,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 12460,
+    "gap": 4460,
+    "mall_name": "네이버",
+    "buy_url": "https://toss.im/_m/vfuOHTGz",
+    "source_url": "https://arca.live/b/hotdeal/180973115",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6048821/60488210260.20260617163710.jpg?type=f300",
+    "created_iso": "2026-08-25T06:13:32.807220+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/60488210260",
+    "naver_product_id": "60488210260",
+    "buy_url_orig": "",
+    "price_label": "8,000원",
+    "discount_guide": null,
+    "product_summary": null,
+    "source_site": "arca",
+    "category": "식품",
+    "category_bucket": null,
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": []
+  },
+  {
     "deal_id": "aec35353e4e9",
     "title": "[29cm] 오로바일렌 엑스트라버진 올리브오일 피쿠알 500ml (27,600원/유료)",
     "deal_total": 27600,
@@ -10000,7 +10027,7 @@
     "source_site": "ppomppu",
     "category": "의류/잡화",
     "category_bucket": "패션",
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [],
     "tags": [
@@ -15040,7 +15067,7 @@
     "category": "음식",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "올반",
@@ -15076,7 +15103,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "OVACO",
@@ -15114,7 +15141,7 @@
     "category": "PC/하드웨어",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://shopping.naver.com/festa/onsale/play/6a50a45ce73d32500f2710ee"
     ],
@@ -15152,7 +15179,7 @@
     "category": "PC/하드웨어",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "ATK",
@@ -15190,7 +15217,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "수미칩",
@@ -15227,7 +15254,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "한우",
@@ -15263,7 +15290,7 @@
     "category": "PC/하드웨어",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "ZOTAC",
