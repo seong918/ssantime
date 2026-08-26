@@ -1,5 +1,32 @@
 [
   {
+    "deal_id": "d77bd0500509",
+    "title": "화려한우 국산 돼지 목살 1kg",
+    "deal_total": 18920,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 26400,
+    "gap": 7480,
+    "mall_name": null,
+    "buy_url": "https://m.brand.naver.com/gorgeouscowofficial/products/11901264626",
+    "source_url": "https://arca.live/b/hotdeal/181138586",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_8944577/89445775235.1.jpg?type=f300",
+    "created_iso": "2026-08-26T16:50:36.497785+00:00",
+    "naver_url": null,
+    "naver_product_id": "89445775235",
+    "buy_url_orig": "",
+    "price_label": "18,920원",
+    "discount_guide": null,
+    "product_summary": null,
+    "source_site": "arca",
+    "category": "식품",
+    "category_bucket": null,
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": []
+  },
+  {
     "deal_id": "bc8b5c035637",
     "title": "[토스] 에어보나 올클린 스팀 클렌저 AB-SM800 (34,900원/무배)",
     "deal_total": 34900,
@@ -12433,7 +12460,7 @@
     "category": "레저용품",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "이튼울프",
@@ -12470,7 +12497,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "칭따오",
@@ -12506,7 +12533,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "통뼈감자탕",
@@ -12541,7 +12568,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://events.ohou.se/promotions/big-promotion"
     ],
@@ -12579,7 +12606,7 @@
     "category": "생활용품",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "시그니앙",
