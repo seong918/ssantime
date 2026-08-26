@@ -12423,7 +12423,7 @@
     "category": "게임S/W",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "소니",
