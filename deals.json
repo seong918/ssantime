@@ -1,5 +1,32 @@
 [
   {
+    "deal_id": "0332a36776b1",
+    "title": "[카카오] 한끼통살 한끼팩 15팩 외 (17,580원/무료)",
+    "deal_total": 17580,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 24840,
+    "gap": 7260,
+    "mall_name": null,
+    "buy_url": "https://store.kakao.com/hankkitongsal/products/70651815",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=115&&no=729640",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6124458/61244587750.1.jpg?type=f300",
+    "created_iso": "2026-08-26T14:17:52.184159+00:00",
+    "naver_url": null,
+    "naver_product_id": "61244587750",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": null,
+    "product_summary": null,
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": null,
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": []
+  },
+  {
     "deal_id": "62140d46a69a",
     "title": "[지마켓] 산지직송 고당도 샤인머스켓 2kg 3~4수 (11,940원/무료배송)",
     "deal_total": 11940,
@@ -2771,7 +2798,7 @@
     "source_site": "ppomppu",
     "category": "식품/건강",
     "category_bucket": null,
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [
       "https://www.greating.co.kr/market/marketDetail?ctgryId=&itemId=162195&idx=3"
