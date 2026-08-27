@@ -1,5 +1,34 @@
 [
   {
+    "deal_id": "95ab965d659b",
+    "title": "[오늘의집] 스팸 클래식 340g x5개 + 스팸 라이트 340g x5개(30,600원)",
+    "deal_total": 30600,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 39200,
+    "gap": 8600,
+    "mall_name": null,
+    "buy_url": "https://bitl.bz/api@A6fdGS6Q",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=115&&no=729729",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5488211/54882116651.2.jpg?type=f300",
+    "created_iso": "2026-08-27T03:53:00.600882+00:00",
+    "naver_url": null,
+    "naver_product_id": "54882116651",
+    "buy_url_orig": "https://ozip.me/CL6pkJO",
+    "price_label": "",
+    "discount_guide": null,
+    "product_summary": null,
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": null,
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [
+      "https://ozip.me/rcoU0CN"
+    ],
+    "tags": []
+  },
+  {
     "deal_id": "b3f2f8abf08b",
     "title": "[11번가] 미니덕트 펩시 45W 충전기+C to C 케이블 (24,600원/무료)",
     "deal_total": 24600,
@@ -12041,7 +12070,7 @@
     "category": "가전/가구",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "삼성",
@@ -12077,7 +12106,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "얼갈이",
@@ -12113,7 +12142,7 @@
     "category": "가전/TV",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "PHILOGEO",
@@ -12149,7 +12178,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://store.ohou.se/exhibitions/19259"
     ],
