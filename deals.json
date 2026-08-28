@@ -1,5 +1,32 @@
 [
   {
+    "deal_id": "7a97bdc26fbf",
+    "title": "[롯데온] 국내산 빨간사과 3kg 중대과(5-14과 내외) (12,690원/무료)",
+    "deal_total": 12690,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 17550,
+    "gap": 4860,
+    "mall_name": null,
+    "buy_url": "https://www.lotteon.com/product/LO2754580393",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=115&&no=729956",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6142111/61421114579.jpg?type=f300",
+    "created_iso": "2026-08-28T03:04:28.673262+00:00",
+    "naver_url": null,
+    "naver_product_id": "61421114579",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": null,
+    "product_summary": null,
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": null,
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": []
+  },
+  {
     "deal_id": "a1bbe7ae1a90",
     "title": "[네이버] 캡슐세제 브라이트닝 35입 + 파워플러스 35입 총 70입 (29,760원/무료)",
     "deal_total": 29760,
@@ -10761,7 +10788,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://www.lotteon.com/p/product/LO2452690699",
       "https://www.lotteon.com/p/product/LO2667324737"
@@ -10800,7 +10827,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "미각제빵소",
@@ -10837,7 +10864,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "못난이치즈",
@@ -10873,7 +10900,7 @@
     "category": "생활용품",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "다우니",
@@ -10909,7 +10936,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "터치",
@@ -10946,7 +10973,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "하리보",
@@ -10982,7 +11009,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "매일유업",
@@ -11018,7 +11045,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "실크테라피",
@@ -11054,7 +11081,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "식기건조대",
@@ -11091,7 +11118,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "캘빈클라인",
@@ -11128,7 +11155,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "봄날엔",
@@ -11165,7 +11192,7 @@
     "category": "기타",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "렉슨",
@@ -11202,7 +11229,7 @@
     "category": "디지털",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "에코백스",
