@@ -30,6 +30,8 @@
 - [편집·가격 검증 원칙](https://ssantime.com/editorial-policy.html): 운영 주체·근거·정정 정책
 - [블로그](https://ssantime.com/blog/): 구매 가이드·핫딜 비교 분석(에버그린)
 - [블로그 RSS](https://ssantime.com/blog/feed.xml): 색인 가능한 글만 담은 최신순 피드
+- [싼타임 리서치](https://ssantime.com/research/): 현재 활성 검증 딜의 판매처·카테고리·절약액 집계와 방법론
+- [리서치 집계 JSON](https://ssantime.com/research/hotdeal-market-summary.json): 리서치 페이지와 같은 값의 기계 판독용 공개 데이터
 - 카테고리: [전자](https://ssantime.com/category/digital.html) [식품](https://ssantime.com/category/food.html) [생활](https://ssantime.com/category/living.html) [패션](https://ssantime.com/category/fashion.html) [기타](https://ssantime.com/category/etc.html)
 
 ## 블로그 글
