@@ -30,9 +30,13 @@
 - [편집·가격 검증 원칙](https://ssantime.com/editorial-policy.html): 운영 주체·근거·정정 정책
 - [블로그](https://ssantime.com/blog/): 구매 가이드·핫딜 비교 분석(에버그린)
 - [블로그 RSS](https://ssantime.com/blog/feed.xml): 색인 가능한 글만 담은 최신순 피드
+- [싼타임 리서치](https://ssantime.com/research/): 현재 활성 검증 딜의 판매처·카테고리·절약액 집계와 방법론
+- [리서치 집계 JSON](https://ssantime.com/research/hotdeal-market-summary.json): 리서치 페이지와 같은 값의 기계 판독용 공개 데이터
 - 카테고리: [전자](https://ssantime.com/category/digital.html) [식품](https://ssantime.com/category/food.html) [생활](https://ssantime.com/category/living.html) [패션](https://ssantime.com/category/fashion.html) [기타](https://ssantime.com/category/etc.html)
 
 ## 블로그 글
+- [쿠팡 가격 추적과 가격 비교 — 언제 쓸까](https://ssantime.com/blog/coupang-price-tracking-vs-comparison.html): 쿠팡 상품 가격이 내려가길 기다릴 때 쓰는 가격 추적, 현재 여러 판매처를 보는 가격 비교, 커뮤니티 딜을 외부 기준가와 대조하는 핫딜 검증의 차이와 싼타임 가격 알림 범위를 설명합니다. (발행 2026-08-29)
+- [가격 비교와 가격 추적의 차이 — 핫딜 서비스 5유형](https://ssantime.com/blog/hotdeal-price-comparison-types.html): 핫딜 커뮤니티, 모아보기, 쇼핑 가격 비교, 가격 추적, 외부 기준가 검증은 서로 다른 일을 합니다. 빠른 발견부터 개별 상품 가격 추적까지 목적에 맞는 도구 조합을 정리했습니다. (발행 2026-08-29)
 - [핫딜 사이트 고를 때 확인할 5가지 — 게시물 수보다 중요한 것](https://ssantime.com/blog/hotdeal-site-checklist.html): 핫딜 사이트를 고를 때는 딜 개수보다 같은 상품 비교, 배송비 포함 총액, 할인 조건, 확인 시점, 출처·제휴 공개 여부를 먼저 보세요. 싸 보이는 글과 실제로 싼 가격을 가르는 기준을 정리했습니다. (발행 2026-08-29)
 - [생활용품 핫딜 4종 비교 — 할인율과 절감액은 같은 말이 아니다](https://ssantime.com/blog/living-compare.html): 휴지통·화장지·섬유유연제·물티슈 네 생활 핫딜을 네이버 최저가와 나란히 비교했습니다. 할인율 1위는 물티슈 37.0%, 절감액 1위는 휴지통 14,460원으로 서로 다릅니다. 결제 총액은 17,640원에서 42,440원까지 벌어졌고, 조건과 구성 차이도 함께 짚었습니다. (발행 2026-07-13)
 - [생활용품 세일, 지금 사도 될까 — 재고와 주기로 판단하기](https://ssantime.com/blog/living-sale-timing.html): 생활용품 세일 앞에서 지금 살지 말지는 재고와 재구매 주기, 그리고 네이버 최저가와 실결제가의 차액으로 판단합니다. 매직캔 휴지통·크리넥스 화장지·스너글 섬유유연제·두피 샴푸 네 건의 검증 가격으로, 지금 사도 되는지 따지는 신호를 정리했습니다. (발행 2026-07-12)

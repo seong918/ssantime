@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-3N8JQ3GBDV"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-3N8JQ3GBDV');
+  </script>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="only light">
+  <meta name="robots" content="max-image-preview:large">
+  <meta name="theme-color" content="#F7F8F6">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="/favicon.ico" sizes="32x32">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <meta name="description" content="쿠팡 상품 가격이 내려가길 기다릴 때 쓰는 가격 추적, 현재 여러 판매처를 보는 가격 비교, 커뮤니티 딜을 외부 기준가와 대조하는 핫딜 검증의 차이와 싼타임 가격 알림 범위를 설명합니다.">
+  <link rel="canonical" href="https://ssantime.com/blog/coupang-price-tracking-vs-comparison.html">
+  <link rel="alternate" type="application/rss+xml" title="싼타임 핫딜" href="https://ssantime.com/blog/feed.xml">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="싼타임 핫딜">
+  <meta property="og:locale" content="ko_KR">
+  <meta property="og:title" content="쿠팡 가격 추적과 가격 비교 — 언제 쓸까">
+  <meta property="og:description" content="쿠팡 상품 가격이 내려가길 기다릴 때 쓰는 가격 추적, 현재 여러 판매처를 보는 가격 비교, 커뮤니티 딜을 외부 기준가와 대조하는 핫딜 검증의 차이와 싼타임 가격 알림 범위를 설명합니다.">
+  <meta property="og:image" content="https://ssantime.com/img/blog/coupang-price-tracking-vs-comparison.png">
+  <meta property="og:url" content="https://ssantime.com/blog/coupang-price-tracking-vs-comparison.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="쿠팡 가격 추적과 가격 비교 — 언제 쓸까">
+  <meta name="twitter:description" content="쿠팡 상품 가격이 내려가길 기다릴 때 쓰는 가격 추적, 현재 여러 판매처를 보는 가격 비교, 커뮤니티 딜을 외부 기준가와 대조하는 핫딜 검증의 차이와 싼타임 가격 알림 범위를 설명합니다.">
+  <meta name="twitter:image" content="https://ssantime.com/img/blog/coupang-price-tracking-vs-comparison.png">
+  <meta property="article:published_time" content="2026-08-29T00:00:00+09:00">
+  <meta property="article:modified_time" content="2026-08-29T00:00:00+09:00">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","@id":"https://ssantime.com/blog/coupang-price-tracking-vs-comparison.html#article","headline":"쿠팡 가격 추적과 가격 비교 — 언제 쓸까","image":["https://ssantime.com/img/blog/coupang-price-tracking-vs-comparison.png"],"mainEntityOfPage":{"@type":"WebPage","@id":"https://ssantime.com/blog/coupang-price-tracking-vs-comparison.html"},"url":"https://ssantime.com/blog/coupang-price-tracking-vs-comparison.html","isPartOf":{"@type":"Blog","@id":"https://ssantime.com/blog/#blog"},"publishingPrinciples":"https://ssantime.com/editorial-policy.html","publisher":{"@type":"Organization","@id":"https://ssantime.com/#org","name":"싼타임 핫딜","alternateName":"싼타임","url":"https://ssantime.com/","logo":{"@type":"ImageObject","url":"https://ssantime.com/apple-touch-icon.png"},"sameAs":["https://www.instagram.com/ssantime.kr/","https://www.threads.com/@jsw9_0","https://blog.naver.com/berkiss231"],"contactPoint":{"@type":"ContactPoint","contactType":"customer support","email":"furster.official@gmail.com","availableLanguage":"ko-KR"}},"isAccessibleForFree":true,"inLanguage":"ko-KR","datePublished":"2026-08-29T00:00:00+09:00","dateModified":"2026-08-29T00:00:00+09:00","author":{"@type":"Organization","@id":"https://ssantime.com/editorial-policy.html#team","name":"싼타임 편집팀","url":"https://ssantime.com/editorial-policy.html#team"},"articleSection":"etc","citation":["https://www.coupang.com/","https://play.google.com/store/apps/details?id=com.ssantime.app"],"description":"쿠팡 상품 가격이 내려가길 기다릴 때 쓰는 가격 추적, 현재 여러 판매처를 보는 가격 비교, 커뮤니티 딜을 외부 기준가와 대조하는 핫딜 검증의 차이와 싼타임 가격 알림 범위를 설명합니다."}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"싼타임 쿠팡 가격 알림은 실시간인가요?","acceptedAnswer":{"@type":"Answer","text":"아닙니다. 정상 운영 시 아침에 하루 한 번 공개 상품 페이지의 가격 확인을 시도하는 저빈도 베타 기능입니다. 접속 실패나 재시도 대기로 확인이 지연될 수 있어 짧게 열렸다 닫히는 할인이나 실시간 변동을 모두 잡는다고 보장하지 않습니다."}},{"@type":"Question","name":"어떤 가격을 기준으로 알림 조건을 확인하나요?","acceptedAnswer":{"@type":"Answer","text":"앱에 표시된 기준가를 바탕으로 하락 조건을 확인합니다. 등록 순간의 가격이나 개인에게 적용되는 와우회원가·카드·쿠폰·적립 가격과 같다고 보장하지 않으므로 앱의 기준가와 실제 결제 화면을 함께 확인해야 합니다."}},{"@type":"Question","name":"쿠팡의 역대 최저가를 알려주나요?","acceptedAnswer":{"@type":"Answer","text":"아닙니다. 싼타임 가격 알림은 앱에 표시된 기준가 대비 하락 조건을 확인하는 베타 기능입니다. 쿠팡 전체 상품의 장기 가격 이력이나 역대 최저가를 보장하는 기능이 아닙니다."}},{"@type":"Question","name":"가격 추적만 보면 가장 싸게 살 수 있나요?","acceptedAnswer":{"@type":"Answer","text":"가격 추적은 한 상품의 시간 변화를 보는 기능이라 다른 판매처가 더 싼지는 별도입니다. 추적 알림을 받은 뒤 같은 모델·옵션의 현재 가격 비교와 결제창 배송비·쿠폰 조건까지 확인하는 것이 좋습니다."}}]}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"싼타임 핫딜","item":"https://ssantime.com/"},{"@type":"ListItem","position":2,"name":"블로그","item":"https://ssantime.com/blog/"},{"@type":"ListItem","position":3,"name":"쿠팡 가격 추적과 가격 비교 — 언제 쓸까","item":"https://ssantime.com/blog/coupang-price-tracking-vs-comparison.html"}]}</script>
+  <title>쿠팡 가격 추적과 가격 비교 — 언제 쓸까 · 싼타임 핫딜</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body class="page-blog">
+  <header class="site-header">
+    <div class="header-row">
+      <div class="brand">
+        <span class="brand-tag" aria-hidden="true">↓</span>
+        <a class="brand-name" href="../index.html"><span class="wm-time">싼타임</span><span class="wm-deal">핫딜</span></a>
+      </div>
+    </div>
+  </header>
+  <main class="blog-main">
+    <nav class="crumbs" aria-label="이동 경로">
+      <a href="../index.html">홈</a>
+      <span class="crumb-sep" aria-hidden="true">/</span>
+      <a href="index.html">블로그</a>
+      <span class="crumb-sep" aria-hidden="true">/</span>
+      <span class="crumb-current" aria-current="page">쿠팡 가격 추적과 가격 비교 — 언제 쓸까</span>
+    </nav>
+    <article class="blog-article" aria-labelledby="post-title">
+      <header class="post-head">
+        <h1 class="post-title" id="post-title">쿠팡 가격 추적과 가격 비교 — 언제 쓸까</h1>
+    <p class="post-meta">글 <a class="post-author" rel="author" href="https://ssantime.com/editorial-policy.html#team">싼타임 편집팀</a> · 기타 · 작성 <time datetime="2026-08-29">2026.08.29</time></p>
+        <p class="post-deck">쿠팡 상품 가격이 내려가길 기다릴 때 쓰는 가격 추적, 현재 여러 판매처를 보는 가격 비교, 커뮤니티 딜을 외부 기준가와 대조하는 핫딜 검증의 차이와 싼타임 가격 알림 범위를 설명합니다.</p>
+      </header>
+    <figure class="post-hero">
+      <img src="../img/blog/coupang-price-tracking-vs-comparison.png" alt="쿠팡 가격 추적과 가격 비교 — 언제 쓸까 — 싼타임 실측 가격 비교" width="1200" height="630" fetchpriority="high" decoding="async">
+    </figure>
+    <div class="post-body">
+<p class="standfirst"><strong>쿠팡 가격 추적은 ‘이 상품이 나중에 내려갔나’를 보고, 가격 비교는 ‘지금 다른 판매처가 더 싼가’를 봅니다. 핫딜 검증은 ‘커뮤니티에 올라온 이 조건이 외부 비교가보다 낮은가’를 확인합니다. 급하지 않으면 추적, 오늘 살 거면 비교, 커뮤니티 딜을 봤다면 외부 기준가 검증을 함께 보세요.</strong></p>
+<p>“쿠팡 가격을 추적하면 최저가 비교도 끝나는 것 아닌가요?”라는 질문이 생길 수 있습니다. 그러나 한 상품의 어제와 오늘을 비교하는 일과, 오늘 여러 판매처를 비교하는 일은 축부터 다릅니다.</p>
+<table>
+<thead>
+<tr>
+<th>구분</th>
+<th>비교하는 축</th>
+<th>잘 맞는 질문</th>
+<th>한계</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>가격 추적</td>
+<td>같은 상품의 과거 ↔ 현재</td>
+<td>등록한 뒤 가격이 충분히 내렸나?</td>
+<td>다른 판매처의 현재 가격은 별도 확인</td>
+</tr>
+<tr>
+<td>가격 비교</td>
+<td>여러 판매처의 현재 ↔ 현재</td>
+<td>지금 어디서 사는 게 싼가?</td>
+<td>과거보다 싼 시점인지는 알기 어려울 수 있음</td>
+</tr>
+<tr>
+<td>핫딜 검증</td>
+<td>커뮤니티 딜 ↔ 외부 현재 비교가</td>
+<td>이 핫딜이 지금 비교가보다 실제로 낮나?</td>
+<td>자동 상품 매칭과 시점 변동 가능</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_1">쿠팡 가격 추적은 ‘기다릴 상품’에 씁니다</h2>
+<p>이미 살 상품을 정했지만 급하지 않을 때 가격 추적이 유용합니다. 상품 링크를 등록하고 원하는 하락 폭을 정해 두면, 매번 페이지를 열지 않아도 기준가보다 충분히 내렸는지 확인할 수 있습니다.</p>
+<p><a href="https://play.google.com/store/apps/details?id=com.ssantime.app">싼타임 Android 앱</a>의 <strong>쿠팡 가격 알림</strong>도 이 역할을 돕는 베타 기능입니다. 로그인한 뒤 마이페이지의 <code>쿠팡 가격 알림</code>에서 상품 링크를 붙여넣고 10%·20%·30%·40% 중 원하는 하락 폭을 고를 수 있습니다. 앱에 표시된 기준가를 바탕으로 하락 조건을 확인하고, 조건이 충족되면 등록 기기로 푸시 알림 전송을 시도합니다.</p>
+<blockquote>
+<p><strong>기능 범위(2026.08.29 기준)</strong> — 이 기능은 비로그인 공개 상품 페이지의 구조화된 표시 가격을 낮은 빈도로 확인합니다. 와우회원가·카드·쿠폰·적립·배송비처럼 사용자나 주문 조건에 따라 달라지는 최종 결제 혜택을 별도로 반영하거나 보장하지 않습니다.</p>
+</blockquote>
+<p>여기서 범위를 분명히 해둘 게 있습니다.</p>
+<ul>
+<li>실시간 감시가 아닙니다. 정상 운영 시 <strong>아침에 하루 한 번 확인을 시도</strong>하며, 접속 실패나 재시도 대기로 늦어질 수 있습니다.</li>
+<li>등록 버튼을 누른 순간의 가격과 같다고 단정할 수 없습니다. <strong>앱에 표시된 기준가</strong>를 확인해야 합니다.</li>
+<li>공개 페이지의 표시 가격을 대상으로 하며 개인별 쿠폰·카드·멤버십·적립 조건과 최종 배송비는 별도로 확인해야 합니다.</li>
+<li>등록 전의 긴 가격 이력이나 쿠팡 전체의 <strong>역대 최저가를 판정하지 않습니다.</strong></li>
+<li>가격 확인이나 푸시 알림의 실시간성·도달을 보장하지 않는 베타 기능입니다.</li>
+</ul>
+<p>짧게 열리는 타임딜을 한 분 단위로 잡는 용도보다는, 며칠이나 몇 주 기다릴 수 있는 상품을 반복해서 확인하는 번거로움을 줄이는 기능에 가깝습니다.</p>
+<h2 id="_2">가격 비교는 ‘오늘 어디서 살지’ 정할 때 씁니다</h2>
+<p>쿠팡에서 가격이 내렸더라도 다른 쇼핑몰이 더 쌀 수 있습니다. 반대로 가격 비교 첫 줄이 더 낮아 보여도 배송비, 옵션, 카드 조건을 넣으면 쿠팡 결제액이 유리할 수도 있습니다. 그래서 알림이 왔다는 사실과 지금 가장 싼 판매처는 같은 답이 아닙니다.</p>
+<p>가격 비교를 할 때는 상품명보다 모델·용량·수량·색상까지 맞추는 게 먼저입니다. 그 다음 배송비, 와우회원 가격, 카드 즉시할인, 쿠폰, 적립처럼 사람마다 달라지는 조건을 나눠 봅니다. 최종 판단은 장바구니나 결제 화면의 실제 금액으로 해야 합니다.</p>
+<h2 id="_3">핫딜 검증은 ‘싸 보이는 글’을 한 번 더 거릅니다</h2>
+<p>커뮤니티 핫딜은 발견이 빠르지만 제목의 숫자에 쿠폰·카드·적립이 모두 섞이기도 합니다. 싼타임은 이런 후보를 같은 상품으로 자동 매칭된 수집 시점 네이버 쇼핑 비교가와 대조합니다. 확인된 배송비를 반영한 표시가가 비교가보다 낮은 후보를 현재 목록에 남기고, 원문과 구매 링크를 함께 보여줍니다. 배송비 미확인 건의 실제 결제 총액은 달라질 수 있습니다.</p>
+<p>이 방식도 만능은 아닙니다. 자동 매칭이 다른 옵션을 잡을 수 있고, 확인한 뒤 가격이나 재고가 바뀔 수 있습니다. 그래서 “쿠팡이 항상 가장 싸다”거나 “싼타임에 나온 가격이 역대 최저다”라고 말하지 않습니다. 현재 싼타임이 관측한 활성 딜 중 쿠팡 판매처 표본과 집계 범위는 <a href="../research/">리서치 페이지</a>에서 수시로 갱신합니다. 이 비중은 쿠팡의 시장점유율이 아닙니다.</p>
+<h2 id="_4">세 가지를 함께 쓰는 순서</h2>
+<ol>
+<li><strong>사고 싶은 상품이 정해졌고 급하지 않다면 가격 추적에 등록합니다.</strong> 하락 폭은 기다릴 수 있는 정도에 맞춥니다.</li>
+<li><strong>알림을 받거나 핫딜을 발견하면 현재 가격 비교를 엽니다.</strong> 모델·옵션·수량과 배송비를 맞춰 봅니다.</li>
+<li><strong>커뮤니티 글이라면 외부 기준가 검증을 한 번 더 봅니다.</strong> 큰 할인율보다 실제 비교가와 절약액을 확인합니다.</li>
+<li><strong>마지막은 결제창입니다.</strong> 로그인 상태, 쿠폰, 카드, 배송비를 반영한 내가 실제로 낼 금액을 확인합니다.</li>
+</ol>
+<p>쿠팡 가격 알림은 반복 확인을 줄이고, 가격 비교는 오늘의 선택지를 넓히며, 핫딜 검증은 표시된 숫자를 외부 비교가와 다시 대조하는 역할을 합니다. 세 기능을 경쟁 관계로 보기보다 각자 잘하는 질문을 맡기는 편이 덜 번거롭고 더 정확합니다.</p>
+<p>싼타임은 쿠팡이 운영하는 서비스가 아니며, 공개 상품 페이지에서 가격을 확인합니다. 일부 구매 링크를 통해 일정액의 수수료를 받을 수 있습니다. 싼타임이 별도 비용을 붙이지 않으며, 최종 가격·배송비·혜택은 쿠팡 또는 판매처의 결제 화면을 기준으로 확인해야 합니다.</p>
+    </div>
+    <section class="guide-sec blog-faq" aria-label="자주 묻는 질문">
+      <h2 class="guide-h">자주 묻는 질문</h2>
+      <div class="faq-item">
+        <h3 class="faq-q">싼타임 쿠팡 가격 알림은 실시간인가요?</h3>
+        <p class="faq-a">아닙니다. 정상 운영 시 아침에 하루 한 번 공개 상품 페이지의 가격 확인을 시도하는 저빈도 베타 기능입니다. 접속 실패나 재시도 대기로 확인이 지연될 수 있어 짧게 열렸다 닫히는 할인이나 실시간 변동을 모두 잡는다고 보장하지 않습니다.</p>
+      </div>
+      <div class="faq-item">
+        <h3 class="faq-q">어떤 가격을 기준으로 알림 조건을 확인하나요?</h3>
+        <p class="faq-a">앱에 표시된 기준가를 바탕으로 하락 조건을 확인합니다. 등록 순간의 가격이나 개인에게 적용되는 와우회원가·카드·쿠폰·적립 가격과 같다고 보장하지 않으므로 앱의 기준가와 실제 결제 화면을 함께 확인해야 합니다.</p>
+      </div>
+      <div class="faq-item">
+        <h3 class="faq-q">쿠팡의 역대 최저가를 알려주나요?</h3>
+        <p class="faq-a">아닙니다. 싼타임 가격 알림은 앱에 표시된 기준가 대비 하락 조건을 확인하는 베타 기능입니다. 쿠팡 전체 상품의 장기 가격 이력이나 역대 최저가를 보장하는 기능이 아닙니다.</p>
+      </div>
+      <div class="faq-item">
+        <h3 class="faq-q">가격 추적만 보면 가장 싸게 살 수 있나요?</h3>
+        <p class="faq-a">가격 추적은 한 상품의 시간 변화를 보는 기능이라 다른 판매처가 더 싼지는 별도입니다. 추적 알림을 받은 뒤 같은 모델·옵션의 현재 가격 비교와 결제창 배송비·쿠폰 조건까지 확인하는 것이 좋습니다.</p>
+      </div>
+    </section>
+    <section class="post-evidence" id="sources" aria-labelledby="post-evidence-title">
+      <h2 id="post-evidence-title">이 글의 근거와 확인 범위</h2>
+      <p>이 글의 판단 기준과 확인하지 못한 범위는 본문에 함께 적었습니다.</p>
+      <h3 class="post-evidence-sub">외부 참고 자료</h3>
+      <ol class="post-source-list">
+        <li><a href="https://www.coupang.com/" rel="noopener">쿠팡</a> · 쿠팡 · 확인 <time datetime="2026-08-29">2026.08.29</time></li>
+        <li><a href="https://play.google.com/store/apps/details?id=com.ssantime.app" rel="noopener">싼타임 Android 앱</a> · Google Play · 확인 <time datetime="2026-08-29">2026.08.29</time></li>
+      </ol>
+      <p class="post-evidence-team"><b>작성·검수: 싼타임 편집팀</b> · <a rel="author" href="../editorial-policy.html#team">운영 주체와 편집 원칙</a> · <a href="../guide.html">가격 확인 방법</a></p>
+    </section>
+    <p class="blog-footnote">
+      이 글은 싼타임 편집팀이 네이버 최저가와 대조해 정리한 정보성 콘텐츠예요. 가격·할인 정보는 작성 시점 기준이라 실제 판매가와 다를 수 있어요. <a href="../editorial-policy.html">편집·가격 검증 원칙</a>
+    </p>
+    </article>
+    <nav class="related-links" aria-label="관련 링크">
+      <p class="related-h">관련 링크</p>
+      <ul>
+        <li><a href="/research/#methodology">현재 활성 쿠팡 표본과 집계 방법</a></li>
+        <li><a href="/blog/hotdeal-price-comparison-types.html">핫딜·가격 비교·가격 추적 5가지 유형</a></li>
+        <li><a href="https://play.google.com/store/apps/details?id=com.ssantime.app">싼타임 Android 앱 받기</a></li>
+      </ul>
+    </nav>
+    <nav class="related-links" aria-label="다른 글">
+      <p class="related-h">다른 글</p>
+      <ul>
+        <li><a href="hotdeal-price-comparison-types.html">가격 비교와 가격 추적의 차이 — 핫딜 서비스 5유형</a></li>
+        <li><a href="hotdeal-site-checklist.html">핫딜 사이트 고를 때 확인할 5가지 — 게시물 수보다 중요한 것</a></li>
+        <li><a href="living-compare.html">생활용품 핫딜 4종 비교 — 할인율과 절감액은 같은 말이 아니다</a></li>
+        <li><a href="living-sale-timing.html">생활용품 세일, 지금 사도 될까 — 재고와 주기로 판단하기</a></li>
+      </ul>
+    </nav>
+    <div class="blog-site-cta">
+      <a class="blog-site-cta-link" href="../index.html">
+        오늘 네이버보다 싼 딜 보러 가기 <span class="arr" aria-hidden="true">→</span>
+      </a>
+    </div>
+    <div class="kakao-wrap kakao-wrap--detail">
+      <a class="kakao-cta" href="https://open.kakao.com/o/gzcPhduh" target="_blank" rel="noopener nofollow" onclick="if(typeof gtag==='function')gtag('event','kakao_cta_click',{placement:'detail'})"><span class="kakao-ico" aria-hidden="true">💬</span><span class="kakao-txt">새 딜 뜨면 <b>카톡으로 먼저</b> 알려드려요</span><span class="kakao-add" aria-hidden="true">채널 추가 →</span></a>
+    </div>
+  </main>
+  <footer class="site-foot">
+    <section class="identity" aria-label="사이트 소개">
+      <p class="identity-q">이 사이트는?</p>
+      <p class="identity-a">싼타임 핫딜은 인터넷에 올라온 핫딜을 네이버 최저가와 비교해, <b>네이버보다 싼 딜만</b> 골라 모아드려요.</p>
+      <p class="identity-feedback">의견이나 개선 제안이 있으신가요? <a class="feedback-link" href="mailto:furster.official@gmail.com?subject=%EC%8B%BC%ED%83%80%EC%9E%84%20%ED%94%BC%EB%93%9C%EB%B0%B1" onclick="if(typeof gtag==='function')gtag('event','feedback_click')">의견 보내기</a></p>
+    </section>
+    <p>싼타임 핫딜 · 가격은 수집 시점 기준이며 실제와 다를 수 있어요.</p>
+  </footer>
+</body>
+</html>
