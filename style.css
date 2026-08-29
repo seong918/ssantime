@@ -637,6 +637,7 @@ button{font-family:inherit;cursor:pointer}
   color:var(--ink);font-weight:800;word-break:keep-all}
 .post-meta{margin:9px 0 0;font-size:13px;color:var(--ink-3);
   font-variant-numeric:tabular-nums}
+.post-author{color:inherit;text-decoration:underline;text-underline-offset:2px}
 .blog-disclosure{margin:16px 0 0;padding:11px 0 0;font-size:12.5px;line-height:1.6;
   color:var(--ink-3);border-top:1px solid var(--line);word-break:keep-all}
 .blog-main{max-width:var(--maxw-read);margin:0 auto;padding:6px 20px 56px}
