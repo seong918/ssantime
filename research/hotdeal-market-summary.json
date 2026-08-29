@@ -2,10 +2,10 @@
   "schema_version": "1.0",
   "dataset_name": "싼타임 현재 활성 온라인 핫딜 가격 비교 스냅샷",
   "canonical_url": "https://ssantime.com/research/",
-  "snapshot_updated_at": "2026-08-29T07:01:17.858899+00:00",
+  "snapshot_updated_at": "2026-08-29T08:19:49.593450+00:00",
   "active_record_span": {
     "from": "2026-08-22T09:44:50.576926+00:00",
-    "to": "2026-08-29T07:01:17.858899+00:00",
+    "to": "2026-08-29T08:19:49.593450+00:00",
     "from_date_kst": "2026-08-22",
     "to_date_kst": "2026-08-29",
     "retention_policy_days": 7
@@ -17,11 +17,11 @@
     "comparison_baseline": "수집 시점에 같은 상품 후보로 자동 매칭한 네이버 쇼핑 비교가"
   },
   "metrics": {
-    "active_verified_deals": 362,
-    "strict_comparable_deals": 225,
-    "median_savings_krw": 5800,
+    "active_verified_deals": 363,
+    "strict_comparable_deals": 226,
+    "median_savings_krw": 5815,
     "median_discount_percent": 25.0,
-    "shipping_known_deals": 225,
+    "shipping_known_deals": 226,
     "shipping_unknown_deals": 137,
     "coupang_deals": 28,
     "coupang_share_percent": 7.7,
@@ -31,13 +31,13 @@
   "categories": [
     {
       "name": "전자",
-      "count": 65,
-      "share_percent": 18.0
+      "count": 66,
+      "share_percent": 18.2
     },
     {
       "name": "식품",
       "count": 207,
-      "share_percent": 57.2
+      "share_percent": 57.0
     },
     {
       "name": "생활",
@@ -47,7 +47,7 @@
     {
       "name": "패션",
       "count": 35,
-      "share_percent": 9.7
+      "share_percent": 9.6
     },
     {
       "name": "기타",
@@ -64,17 +64,17 @@
     {
       "name": "롯데ON",
       "count": 48,
-      "share_percent": 13.3
+      "share_percent": 13.2
     },
     {
       "name": "오늘의집",
       "count": 43,
-      "share_percent": 11.9
+      "share_percent": 11.8
     },
     {
       "name": "카카오 스토어",
-      "count": 29,
-      "share_percent": 8.0
+      "count": 30,
+      "share_percent": 8.3
     },
     {
       "name": "쿠팡",
@@ -125,8 +125,8 @@
   "source_communities": [
     {
       "name": "뽐뿌",
-      "count": 234,
-      "share_percent": 64.6
+      "count": 235,
+      "share_percent": 64.7
     },
     {
       "name": "아카라이브",
