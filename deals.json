@@ -203,7 +203,7 @@
     "source_site": "quasarzone",
     "category": "생활/식품",
     "category_bucket": "생활",
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [],
     "tags": [
