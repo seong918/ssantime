@@ -46,7 +46,7 @@
     </div>
     <p class="lead">네이버보다 <b class="lead-em">싼</b> 핫딜만</p>
     <p class="lead-sub">네이버 최저가와 비교해 <b>더 싼 것</b>만 골라드려요.</p>
-    <p class="updated">지금 네이버보다 싼 딜 <span class="deal-count" id="deal-count">370개</span>를 엄선했어요 · <time id="updated-at" datetime="2026-08-29T13:36:00.963317+00:00" data-now>최근 딜 2026.08.29 13:36 등록</time></p>
+    <p class="updated">지금 네이버보다 싼 딜 <span class="deal-count" id="deal-count">370개</span>를 엄선했어요 · <time id="updated-at" datetime="2026-08-29T13:57:31.849337+00:00" data-now>최근 딜 2026.08.29 13:57 등록</time></p>
     <p class="time-note">⏱ 핫딜은 시점에 따라 가격·재고가 빠르게 바뀌거나 마감될 수 있어요.</p>
     <div id="home-banner">
     <div class="kakao-wrap kakao-wrap--index">
@@ -71,6 +71,7 @@
     </ul>
     <nav class="home-answer-links" aria-label="싼타임 더 알아보기">
       <a href="guide.html">핫딜 30초 확인법</a>
+      <a href="research/">검증 데이터 보기</a>
       <a href="editorial-policy.html">가격 검증·편집 원칙</a>
       <a href="blog/">구매 가이드 읽기</a>
     </nav>
@@ -81,7 +82,7 @@
       <input class="search-input" id="search" type="search" inputmode="search" autocomplete="off" list="search-terms" placeholder="상품·판매몰 검색" aria-label="딜 검색">
       <button class="search-clear" id="search-clear" type="button" aria-label="검색어 지우기" hidden>×</button>
     </div>
-    <datalist id="search-terms"><option value="국내산"><option value="제로"><option value="블랙"><option value="엑스트라버진"><option value="오리지널"><option value="올리브오일"><option value="간편식"><option value="코카콜라"><option value="오뚜기"><option value="물티슈"><option value="참도깨비"><option value="샤인머스켓"></datalist>
+    <datalist id="search-terms"><option value="국내산"><option value="제로"><option value="블랙"><option value="오리지널"><option value="간편식"><option value="코카콜라"><option value="오뚜기"><option value="물티슈"><option value="참도깨비"><option value="샤인머스켓"><option value="반팔티셔츠"><option value="라떼"></datalist>
     <div class="search-sug" id="search-sug" hidden></div>
     <div class="sort-row">
       <div class="sort-seg" role="tablist" aria-label="정렬">
@@ -96,28 +97,49 @@
     </div>
     <div class="chips" role="group" aria-label="카테고리 필터">
       <a class="chip chip--active" href="./" data-cat-chip="" aria-current="true">전체</a>
-      <a class="chip" href="category/food.html" data-cat-chip="식품">식품<span class="chip-n">210</span></a>
+      <a class="chip" href="category/food.html" data-cat-chip="식품">식품<span class="chip-n">209</span></a>
       <a class="chip" href="category/digital.html" data-cat-chip="전자">전자<span class="chip-n">67</span></a>
       <a class="chip" href="category/fashion.html" data-cat-chip="패션">패션<span class="chip-n">39</span></a>
       <a class="chip" href="category/etc.html" data-cat-chip="기타">기타<span class="chip-n">29</span></a>
-      <a class="chip" href="category/living.html" data-cat-chip="생활">생활<span class="chip-n">25</span></a>
+      <a class="chip" href="category/living.html" data-cat-chip="생활">생활<span class="chip-n">26</span></a>
     </div>
     <div class="chips" role="group" aria-label="판매몰 필터">
       <button class="chip chip--active" type="button" data-mall-chip="" aria-pressed="true">전체</button>
-      <button class="chip" type="button" data-mall-chip="네이버 스마트스토어" aria-pressed="false">네이버 스마트스토어<span class="chip-n">73</span></button>
+      <button class="chip" type="button" data-mall-chip="네이버 스마트스토어" aria-pressed="false">네이버 스마트스토어<span class="chip-n">74</span></button>
       <button class="chip" type="button" data-mall-chip="롯데ON" aria-pressed="false">롯데ON<span class="chip-n">50</span></button>
       <button class="chip" type="button" data-mall-chip="오늘의집" aria-pressed="false">오늘의집<span class="chip-n">43</span></button>
       <button class="chip" type="button" data-mall-chip="카카오 스토어" aria-pressed="false">카카오 스토어<span class="chip-n">32</span></button>
-      <button class="chip" type="button" data-mall-chip="쿠팡" aria-pressed="false">쿠팡<span class="chip-n">30</span></button>
+      <button class="chip" type="button" data-mall-chip="쿠팡" aria-pressed="false">쿠팡<span class="chip-n">29</span></button>
       <button class="chip" type="button" data-mall-chip="11번가" aria-pressed="false">11번가<span class="chip-n">23</span></button>
     </div>
   </div>
   <ul class="deal-grid" id="deal-grid">
+    <li class="card" data-pct="28" data-price="7430" data-gap="3000" data-ts="2026-08-29T13:57:31.849337+00:00" data-mall="네이버 스마트스토어" data-category="생활" data-title="[네이버] 피싱타올 낚시수건 8개입 드라잉타월 (7,430원/네멤무료) [네이버]피싱타올낚시수건8개입드라잉타월(7,430원/네멤무료) ㄴㅇㅂㅍㅅㅌㅇㄴㅅㅅㄱㄱㅇㄷㄹㅇㅌㅇㅇㄴㅁㅁㄹ" data-search="[네이버] 피싱타올 낚시수건 8개입 드라잉타월 (7,430원/네멤무료) 네이버 스마트스토어 피싱타올 낚시수건 극세사타월 드라잉타월 세차타월 극세사 물기제거 다용도헝겊 [네이버]피싱타올낚시수건8개입드라잉타월(7,430원/네멤무료)네이버스마트스토어피싱타올낚시수건극세사타월드라잉타월세차타월극세사물기제거다용도헝겊 ㄴㅇㅂㅍㅅㅌㅇㄴㅅㅅㄱㄱㅇㄷㄹㅇㅌㅇㅇㄴㅁㅁㄹㄴㅇㅂㅅㅁㅌㅅㅌㅇㅍㅅㅌㅇㄴㅅㅅㄱㄱㅅㅅㅌㅇㄷㄹㅇㅌㅇㅅㅊㅌㅇㄱㅅㅅㅁㄱㅈㄱㄷㅇㄷㅎㄱ" data-id="95d85a666753">
+      <button class="fav-btn" type="button" hidden data-fav="95d85a666753" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
+      <a class="card-link" href="https://ssantime.com/deals/95d85a666753.html">
+        <div class="thumb-wrap">
+        <img class="thumb" src="https://ssantime.com/img/95d85a666753.jpg" alt="피싱타올 낚시수건 8개입 드라잉타월" fetchpriority="high" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
+        <span class="card-badge" aria-label="네이버 최저가 대비 28% 저렴">28%<span class="off">↓</span></span>
+        </div>
+        <div class="card-body">
+          <h2 class="card-title">피싱타올 낚시수건 8개입 드라잉타월</h2>
+          <div class="card-prices">
+          <div class="card-deal">7,430<span class="won">원</span></div>
+          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−3,000원</b></div>
+          <div class="card-lprice">네이버 <s>10,430</s>원</div>
+          </div>
+          <div class="card-foot">
+            <span class="card-mall card-mall--sell">네이버 스마트스토어</span>
+            <time class="card-ago" datetime="2026-08-29T13:57:31.849337+00:00" data-ago="2026-08-29T13:57:31.849337+00:00">08-29</time>
+          </div>
+        </div>
+      </a>
+    </li>
     <li class="card" data-pct="28" data-price="9900" data-gap="4000" data-ts="2026-08-29T13:36:00.963317+00:00" data-mall="쿠팡" data-category="생활" data-title="[쿠팡] 앙블랑 네오 그리너리 유아용 물티슈 캡형 100매x10팩 [쿠팡]앙블랑네오그리너리유아용물티슈캡형100매x10팩 ㅋㅍㅇㅂㄹㄴㅇㄱㄹㄴㄹㅇㅇㅇㅁㅌㅅㅋㅎㅁㅍ" data-search="[쿠팡] 앙블랑 네오 그리너리 유아용 물티슈 캡형 100매x10팩 쿠팡 앙블랑 네오 그리너리 물티슈 유아용 물티슈 아기물티슈 캡형 물티슈 앙블랑 물티슈 [쿠팡]앙블랑네오그리너리유아용물티슈캡형100매x10팩쿠팡앙블랑네오그리너리물티슈유아용물티슈아기물티슈캡형물티슈앙블랑물티슈 ㅋㅍㅇㅂㄹㄴㅇㄱㄹㄴㄹㅇㅇㅇㅁㅌㅅㅋㅎㅁㅍㅋㅍㅇㅂㄹㄴㅇㄱㄹㄴㄹㅁㅌㅅㅇㅇㅇㅁㅌㅅㅇㄱㅁㅌㅅㅋㅎㅁㅌㅅㅇㅂㄹㅁㅌㅅ" data-id="2764a8b76f25">
       <button class="fav-btn" type="button" hidden data-fav="2764a8b76f25" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
       <a class="card-link" href="https://ssantime.com/deals/2764a8b76f25.html">
         <div class="thumb-wrap">
-        <img class="thumb" src="https://ssantime.com/img/2764a8b76f25.jpg" alt="앙블랑 네오 그리너리 유아용 물티슈 캡형 100매x10팩" fetchpriority="high" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
+        <img class="thumb" src="https://ssantime.com/img/2764a8b76f25.jpg" alt="앙블랑 네오 그리너리 유아용 물티슈 캡형 100매x10팩" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
         <span class="card-badge" aria-label="네이버 최저가 대비 28% 저렴">28%<span class="off">↓</span></span>
         </div>
         <div class="card-body">
@@ -130,27 +152,6 @@
           <div class="card-foot">
             <span class="card-mall card-mall--sell">쿠팡</span>
             <time class="card-ago" datetime="2026-08-29T13:36:00.963317+00:00" data-ago="2026-08-29T13:36:00.963317+00:00">08-29</time>
-          </div>
-        </div>
-      </a>
-    </li>
-    <li class="card" data-pct="16" data-price="16540" data-gap="3360" data-ts="2026-08-29T12:39:56.114193+00:00" data-mall="쿠팡" data-category="식품" data-title="미오솔 엑스트라버진 올리브오일, 500ml, 2개 미오솔엑스트라버진올리브오일,500ml,2개 ㅁㅇㅅㅇㅅㅌㄹㅂㅈㅇㄹㅂㅇㅇㄱ" data-search="미오솔 엑스트라버진 올리브오일, 500ml, 2개 쿠팡 미오솔 올리브오일 엑스트라버진 extra virgin olive oil 스페인산 올리브오일 올리브유 미오솔엑스트라버진올리브오일,500ml,2개쿠팡미오솔올리브오일엑스트라버진extravirginoliveoil스페인산올리브오일올리브유 ㅁㅇㅅㅇㅅㅌㄹㅂㅈㅇㄹㅂㅇㅇㄱㅋㅍㅁㅇㅅㅇㄹㅂㅇㅇㅇㅅㅌㄹㅂㅈㅅㅍㅇㅅㅇㄹㅂㅇㅇㅇㄹㅂㅇ" data-id="572886db480d">
-      <button class="fav-btn" type="button" hidden data-fav="572886db480d" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
-      <a class="card-link" href="https://ssantime.com/deals/572886db480d.html">
-        <div class="thumb-wrap">
-        <img class="thumb" src="https://ssantime.com/img/572886db480d.jpg" alt="미오솔 엑스트라버진 올리브오일, 500ml, 2개" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
-        <span class="card-badge" aria-label="네이버 최저가 대비 16% 저렴">16%<span class="off">↓</span></span>
-        </div>
-        <div class="card-body">
-          <h2 class="card-title">미오솔 엑스트라버진 올리브오일, 500ml, 2개</h2>
-          <div class="card-prices">
-          <div class="card-deal">16,540<span class="won">원</span></div>
-          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−3,360원</b></div>
-          <div class="card-lprice">네이버 <s>19,900</s>원</div>
-          </div>
-          <div class="card-foot">
-            <span class="card-mall card-mall--sell">쿠팡</span>
-            <time class="card-ago" datetime="2026-08-29T12:39:56.114193+00:00" data-ago="2026-08-29T12:39:56.114193+00:00">08-29</time>
           </div>
         </div>
       </a>
@@ -2230,7 +2231,7 @@
   </main>
   <button class="to-top" id="to-top" type="button" aria-label="맨 위로" hidden>↑</button>
   <footer class="site-foot">
-    <nav class="foot-nav" aria-label="페이지"><a href="category/">카테고리</a> · <a href="guide.html">이용 가이드</a> · <a href="blog/">블로그</a> · <a href="editorial-policy.html">편집 원칙</a> · <a href="landing.html">소개</a></nav>
+    <nav class="foot-nav" aria-label="페이지"><a href="category/">카테고리</a> · <a href="guide.html">이용 가이드</a> · <a href="blog/">블로그</a> · <a href="research/">리서치</a> · <a href="editorial-policy.html">편집 원칙</a> · <a href="landing.html">소개</a></nav>
     <section class="identity" aria-label="사이트 소개">
       <p class="identity-q">이 사이트는?</p>
       <p class="identity-a">싼타임 핫딜은 인터넷에 올라온 핫딜을 네이버 최저가와 비교해, <b>네이버보다 싼 딜만</b> 골라 모아드려요.</p>
@@ -2280,14 +2281,34 @@ if(kwEl){kwEl.addEventListener('click',function(){ssGa('keyword_cta_click',{sear
 var countEl=document.getElementById('deal-count');
 var sug=document.getElementById('search-sug');
 var actSeg=document.querySelector('.sort-seg .seg--active');
-var state={q:'',sort:(actSeg&&actSeg.getAttribute('data-sort'))||'recent',mall:'',cat:'',fav:false};var lastShown=0;
+var initialSort=(actSeg&&actSeg.getAttribute('data-sort'))||'recent';
+var state={q:'',sort:initialSort,mall:'',cat:'',fav:false};var lastShown=0;
 var moreBtn=document.getElementById('more-btn');
 var moreHint=document.getElementById('more-hint');
 var pageSize=moreBtn?(parseInt(moreBtn.getAttribute('data-page-size'),10)||100):0;
-state.limit=pageSize||Infinity;var restLoaded=!moreBtn;var restLoading=false;
 var restCount=moreBtn?(parseInt(moreBtn.getAttribute('data-rest-count'),10)||0):0;
+var listTotal=pageSize+restCount;var listRestore=null;
+if(moreBtn){try{var hs=history.state&&history.state.ssDealList;
+if(hs&&hs.v===1){var sl=Number(hs.limit);
+if(isFinite(sl)&&sl>pageSize){listRestore={limit:Math.min(Math.floor(sl),listTotal),scrollY:typeof hs.scrollY==='number'&&isFinite(hs.scrollY)?Math.max(0,Math.floor(hs.scrollY)):null};}}}catch(e){}}
+state.limit=pageSize||Infinity;var restLoaded=!moreBtn;var restLoading=false;
+function listSave(){
+  if(!moreBtn||!isFinite(state.limit)||state.limit<=pageSize)return;
+  var lim=Math.min(Math.max(pageSize,Math.floor(state.limit)),listTotal);
+  try{var prev=history.state,next={};
+  if(prev&&typeof prev==='object'){Object.keys(prev).forEach(function(k){next[k]=prev[k];});}
+  var saved={v:1,limit:lim};
+  if(!state.q&&!state.mall&&!state.cat&&!state.fav&&state.sort===initialSort){
+    saved.scrollY=Math.max(0,Math.round(window.scrollY||window.pageYOffset||0));}
+  next.ssDealList=saved;
+  history.replaceState(next,'');}catch(e){}
+}
+window.addEventListener('pagehide',listSave);
+var restWait=[];
+function restDone(ok){var q=restWait.slice();restWait.length=0;q.forEach(function(fn){fn(ok);});}
 function loadRest(cb){
-  if(restLoaded||restLoading){if(cb)cb();return;}
+  if(restLoaded){if(cb)cb(true);return;}
+  if(cb)restWait.push(cb);if(restLoading)return;
   restLoading=true;if(moreHint)moreHint.hidden=false;
   var url=moreBtn.getAttribute('data-rest');
   fetch(url,{credentials:'same-origin'}).then(function(r){
@@ -2296,10 +2317,10 @@ function loadRest(cb){
     grid.appendChild(tpl.content);
     origin=[].slice.call(grid.querySelectorAll('.card'));
     restLoaded=true;restLoading=false;if(moreHint)moreHint.hidden=true;
-    ssFillTimes();ssFavInit(grid);if(cb)cb();
+    ssFillTimes();ssFavInit(grid);restDone(true);
   })['catch'](function(){
     restLoading=false;if(moreHint){moreHint.hidden=false;moreHint.textContent='불러오지 못했어요 · 다시 눌러주세요';}
-    if(cb)cb();
+    restDone(false);
   });
 }
 function num(c,k){return parseFloat(c.getAttribute(k))||0;}
@@ -2347,8 +2368,11 @@ function apply(){
   if(countEl)countEl.textContent=shown+'개';
 }
 if(moreBtn){moreBtn.addEventListener('click',function(){
+  if(restLoading)return;moreBtn.disabled=true;
   if(moreHint)moreHint.textContent='불러오는 중…';
-  loadRest(function(){state.limit+=pageSize;apply();ssGa('deal_list_more',{shown:state.limit});});});}
+  loadRest(function(ok){moreBtn.disabled=false;if(!ok){apply();return;}
+  var nextLimit=(listRestore&&state.limit===pageSize)?listRestore.limit:state.limit+pageSize;
+  state.limit=Math.min(nextLimit,listTotal);listSave();apply();ssGa('deal_list_more',{shown:state.limit});});});}
 var favChip=document.getElementById('fav-chip');
 var favChipN=document.getElementById('fav-chip-n');
 function favSync(){var n=ssFavGet().length;
@@ -2378,7 +2402,17 @@ if(search&&sug){search.addEventListener('focus',function(){if(!search.value)sugS
 document.querySelectorAll('[data-sort]').forEach(function(btn){btn.addEventListener('click',function(){state.sort=btn.getAttribute('data-sort');document.querySelectorAll('[data-sort]').forEach(function(b){var on=b===btn;b.classList.toggle('seg--active',on);b.setAttribute('aria-pressed',on?'true':'false');});apply();});});
 document.querySelectorAll('[data-mall-chip]').forEach(function(btn){btn.addEventListener('click',function(){state.mall=btn.getAttribute('data-mall-chip');document.querySelectorAll('[data-mall-chip]').forEach(function(b){var on=b===btn;b.classList.toggle('chip--active',on);b.setAttribute('aria-pressed',on?'true':'false');});apply();});});
 document.querySelectorAll('[data-cat-chip]').forEach(function(btn){btn.addEventListener('click',function(e){if(e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;e.preventDefault();state.cat=btn.getAttribute('data-cat-chip');document.querySelectorAll('[data-cat-chip]').forEach(function(b){var on=b===btn;b.classList.toggle('chip--active',on);if(on){b.setAttribute('aria-current','true');}else{b.removeAttribute('aria-current');}});apply();});});
-apply();
+function listInit(){
+  if(!listRestore){apply();return;}
+  moreBtn.disabled=true;loadRest(function(ok){moreBtn.disabled=false;
+    if(!ok){apply();return;}
+    state.limit=listRestore.limit;apply();if(listRestore.scrollY===null)return;
+    var y=listRestore.scrollY;
+    requestAnimationFrame(function(){requestAnimationFrame(function(){window.scrollTo(0,y);
+    });});
+  });
+}
+listInit();
 // 로드 시 카드 stagger 등장. js-anim 은 JS 가 있을 때만 붙어 무 JS 에서는 카드가
 // 즉시 보인다(점진적 향상). 순수 CSS @keyframes 라 렌더 타이밍에 견고하다.
 // reduced-motion 은 CSS 가 애니를 0으로 만들어 깜빡임 없이 즉시 노출한다.
@@ -2389,7 +2423,7 @@ function cItem(c,i){var a=c.querySelector('.card-link'),href=a?a.getAttribute('h
 var impQ=[],impT=null;
 function impFlush(){if(!impQ.length)return;ssGa('view_item_list',{item_list_id:'deal_grid',item_list_name:'딜 목록',items:impQ.splice(0,impQ.length)});}
 if('IntersectionObserver' in window){var impSeen={};var io=new IntersectionObserver(function(es){es.forEach(function(e){if(!e.isIntersecting)return;var c=e.target,i=origin.indexOf(c);var a=c.querySelector('.card-link'),key=a?a.getAttribute('href'):String(i);if(impSeen[key])return;impSeen[key]=1;io.unobserve(c);impQ.push(cItem(c,i));if(impQ.length>=10){impFlush();}else{clearTimeout(impT);impT=setTimeout(impFlush,2000);}});},{threshold:0.5});origin.forEach(function(c){io.observe(c);});window.addEventListener('pagehide',impFlush);}
-grid.addEventListener('click',function(ev){var t=ev.target;while(t&&t!==grid&&!(t.classList&&t.classList.contains('card-link'))){t=t.parentNode;}if(!t||t===grid)return;var c=t;while(c&&!(c.classList&&c.classList.contains('card'))){c=c.parentNode;}if(!c)return;ssGa('select_item',{item_list_id:'deal_grid',items:[cItem(c,origin.indexOf(c))]});});
+grid.addEventListener('click',function(ev){var t=ev.target;while(t&&t!==grid&&!(t.classList&&t.classList.contains('card-link'))){t=t.parentNode;}if(!t||t===grid)return;var c=t;while(c&&!(c.classList&&c.classList.contains('card'))){c=c.parentNode;}if(!c)return;listSave();ssGa('select_item',{item_list_id:'deal_grid',items:[cItem(c,origin.indexOf(c))]});});
 if(search){var gaQT=null;search.addEventListener('input',function(){clearTimeout(gaQT);gaQT=setTimeout(function(){var q=search.value.trim();if(q){ssGa('search',{search_term:q.slice(0,100)});if(lastShown>0)recA(q);else ssGa('search_no_results',{search_term:q.slice(0,100)});}},1200);});}
 document.querySelectorAll('[data-sort]').forEach(function(b){b.addEventListener('click',function(){ssGa('sort_use',{sort_type:b.getAttribute('data-sort')||''});});});
 document.querySelectorAll('[data-mall-chip]').forEach(function(b){b.addEventListener('click',function(){ssGa('filter_use',{filter_type:'mall',filter_value:b.getAttribute('data-mall-chip')||'all'});});});

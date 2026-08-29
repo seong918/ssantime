@@ -2,10 +2,10 @@
   "schema_version": "1.0",
   "dataset_name": "싼타임 현재 활성 온라인 핫딜 가격 비교 스냅샷",
   "canonical_url": "https://ssantime.com/research/",
-  "snapshot_updated_at": "2026-08-29T12:40:02.214083+00:00",
+  "snapshot_updated_at": "2026-08-29T13:57:31.849337+00:00",
   "active_record_span": {
-    "from": "2026-08-22T13:17:05.516654+00:00",
-    "to": "2026-08-29T12:40:02.214083+00:00",
+    "from": "2026-08-22T14:52:49.144441+00:00",
+    "to": "2026-08-29T13:57:31.849337+00:00",
     "from_date_kst": "2026-08-22",
     "to_date_kst": "2026-08-29",
     "retention_policy_days": 7
@@ -36,13 +36,13 @@
     },
     {
       "name": "식품",
-      "count": 211,
-      "share_percent": 57.0
+      "count": 209,
+      "share_percent": 56.5
     },
     {
       "name": "생활",
-      "count": 24,
-      "share_percent": 6.5
+      "count": 26,
+      "share_percent": 7.0
     },
     {
       "name": "패션",
@@ -135,13 +135,13 @@
     },
     {
       "name": "에펨코리아",
-      "count": 40,
-      "share_percent": 10.8
+      "count": 39,
+      "share_percent": 10.5
     },
     {
       "name": "퀘이사존",
-      "count": 14,
-      "share_percent": 3.8
+      "count": 15,
+      "share_percent": 4.1
     },
     {
       "name": "루리웹",
