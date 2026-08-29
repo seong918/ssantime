@@ -71,6 +71,7 @@
     </ul>
     <nav class="home-answer-links" aria-label="싼타임 더 알아보기">
       <a href="guide.html">핫딜 30초 확인법</a>
+      <a href="research/">검증 데이터 보기</a>
       <a href="editorial-policy.html">가격 검증·편집 원칙</a>
       <a href="blog/">구매 가이드 읽기</a>
     </nav>
@@ -2230,7 +2231,7 @@
   </main>
   <button class="to-top" id="to-top" type="button" aria-label="맨 위로" hidden>↑</button>
   <footer class="site-foot">
-    <nav class="foot-nav" aria-label="페이지"><a href="category/">카테고리</a> · <a href="guide.html">이용 가이드</a> · <a href="blog/">블로그</a> · <a href="editorial-policy.html">편집 원칙</a> · <a href="landing.html">소개</a></nav>
+    <nav class="foot-nav" aria-label="페이지"><a href="category/">카테고리</a> · <a href="guide.html">이용 가이드</a> · <a href="blog/">블로그</a> · <a href="research/">리서치</a> · <a href="editorial-policy.html">편집 원칙</a> · <a href="landing.html">소개</a></nav>
     <section class="identity" aria-label="사이트 소개">
       <p class="identity-q">이 사이트는?</p>
       <p class="identity-a">싼타임 핫딜은 인터넷에 올라온 핫딜을 네이버 최저가와 비교해, <b>네이버보다 싼 딜만</b> 골라 모아드려요.</p>
@@ -2280,14 +2281,34 @@ if(kwEl){kwEl.addEventListener('click',function(){ssGa('keyword_cta_click',{sear
 var countEl=document.getElementById('deal-count');
 var sug=document.getElementById('search-sug');
 var actSeg=document.querySelector('.sort-seg .seg--active');
-var state={q:'',sort:(actSeg&&actSeg.getAttribute('data-sort'))||'recent',mall:'',cat:'',fav:false};var lastShown=0;
+var initialSort=(actSeg&&actSeg.getAttribute('data-sort'))||'recent';
+var state={q:'',sort:initialSort,mall:'',cat:'',fav:false};var lastShown=0;
 var moreBtn=document.getElementById('more-btn');
 var moreHint=document.getElementById('more-hint');
 var pageSize=moreBtn?(parseInt(moreBtn.getAttribute('data-page-size'),10)||100):0;
-state.limit=pageSize||Infinity;var restLoaded=!moreBtn;var restLoading=false;
 var restCount=moreBtn?(parseInt(moreBtn.getAttribute('data-rest-count'),10)||0):0;
+var listTotal=pageSize+restCount;var listRestore=null;
+if(moreBtn){try{var hs=history.state&&history.state.ssDealList;
+if(hs&&hs.v===1){var sl=Number(hs.limit);
+if(isFinite(sl)&&sl>pageSize){listRestore={limit:Math.min(Math.floor(sl),listTotal),scrollY:typeof hs.scrollY==='number'&&isFinite(hs.scrollY)?Math.max(0,Math.floor(hs.scrollY)):null};}}}catch(e){}}
+state.limit=pageSize||Infinity;var restLoaded=!moreBtn;var restLoading=false;
+function listSave(){
+  if(!moreBtn||!isFinite(state.limit)||state.limit<=pageSize)return;
+  var lim=Math.min(Math.max(pageSize,Math.floor(state.limit)),listTotal);
+  try{var prev=history.state,next={};
+  if(prev&&typeof prev==='object'){Object.keys(prev).forEach(function(k){next[k]=prev[k];});}
+  var saved={v:1,limit:lim};
+  if(!state.q&&!state.mall&&!state.cat&&!state.fav&&state.sort===initialSort){
+    saved.scrollY=Math.max(0,Math.round(window.scrollY||window.pageYOffset||0));}
+  next.ssDealList=saved;
+  history.replaceState(next,'');}catch(e){}
+}
+window.addEventListener('pagehide',listSave);
+var restWait=[];
+function restDone(ok){var q=restWait.slice();restWait.length=0;q.forEach(function(fn){fn(ok);});}
 function loadRest(cb){
-  if(restLoaded||restLoading){if(cb)cb();return;}
+  if(restLoaded){if(cb)cb(true);return;}
+  if(cb)restWait.push(cb);if(restLoading)return;
   restLoading=true;if(moreHint)moreHint.hidden=false;
   var url=moreBtn.getAttribute('data-rest');
   fetch(url,{credentials:'same-origin'}).then(function(r){
@@ -2296,10 +2317,10 @@ function loadRest(cb){
     grid.appendChild(tpl.content);
     origin=[].slice.call(grid.querySelectorAll('.card'));
     restLoaded=true;restLoading=false;if(moreHint)moreHint.hidden=true;
-    ssFillTimes();ssFavInit(grid);if(cb)cb();
+    ssFillTimes();ssFavInit(grid);restDone(true);
   })['catch'](function(){
     restLoading=false;if(moreHint){moreHint.hidden=false;moreHint.textContent='불러오지 못했어요 · 다시 눌러주세요';}
-    if(cb)cb();
+    restDone(false);
   });
 }
 function num(c,k){return parseFloat(c.getAttribute(k))||0;}
@@ -2347,8 +2368,11 @@ function apply(){
   if(countEl)countEl.textContent=shown+'개';
 }
 if(moreBtn){moreBtn.addEventListener('click',function(){
+  if(restLoading)return;moreBtn.disabled=true;
   if(moreHint)moreHint.textContent='불러오는 중…';
-  loadRest(function(){state.limit+=pageSize;apply();ssGa('deal_list_more',{shown:state.limit});});});}
+  loadRest(function(ok){moreBtn.disabled=false;if(!ok){apply();return;}
+  var nextLimit=(listRestore&&state.limit===pageSize)?listRestore.limit:state.limit+pageSize;
+  state.limit=Math.min(nextLimit,listTotal);listSave();apply();ssGa('deal_list_more',{shown:state.limit});});});}
 var favChip=document.getElementById('fav-chip');
 var favChipN=document.getElementById('fav-chip-n');
 function favSync(){var n=ssFavGet().length;
@@ -2378,7 +2402,17 @@ if(search&&sug){search.addEventListener('focus',function(){if(!search.value)sugS
 document.querySelectorAll('[data-sort]').forEach(function(btn){btn.addEventListener('click',function(){state.sort=btn.getAttribute('data-sort');document.querySelectorAll('[data-sort]').forEach(function(b){var on=b===btn;b.classList.toggle('seg--active',on);b.setAttribute('aria-pressed',on?'true':'false');});apply();});});
 document.querySelectorAll('[data-mall-chip]').forEach(function(btn){btn.addEventListener('click',function(){state.mall=btn.getAttribute('data-mall-chip');document.querySelectorAll('[data-mall-chip]').forEach(function(b){var on=b===btn;b.classList.toggle('chip--active',on);b.setAttribute('aria-pressed',on?'true':'false');});apply();});});
 document.querySelectorAll('[data-cat-chip]').forEach(function(btn){btn.addEventListener('click',function(e){if(e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;e.preventDefault();state.cat=btn.getAttribute('data-cat-chip');document.querySelectorAll('[data-cat-chip]').forEach(function(b){var on=b===btn;b.classList.toggle('chip--active',on);if(on){b.setAttribute('aria-current','true');}else{b.removeAttribute('aria-current');}});apply();});});
-apply();
+function listInit(){
+  if(!listRestore){apply();return;}
+  moreBtn.disabled=true;loadRest(function(ok){moreBtn.disabled=false;
+    if(!ok){apply();return;}
+    state.limit=listRestore.limit;apply();if(listRestore.scrollY===null)return;
+    var y=listRestore.scrollY;
+    requestAnimationFrame(function(){requestAnimationFrame(function(){window.scrollTo(0,y);
+    });});
+  });
+}
+listInit();
 // 로드 시 카드 stagger 등장. js-anim 은 JS 가 있을 때만 붙어 무 JS 에서는 카드가
 // 즉시 보인다(점진적 향상). 순수 CSS @keyframes 라 렌더 타이밍에 견고하다.
 // reduced-motion 은 CSS 가 애니를 0으로 만들어 깜빡임 없이 즉시 노출한다.
@@ -2389,7 +2423,7 @@ function cItem(c,i){var a=c.querySelector('.card-link'),href=a?a.getAttribute('h
 var impQ=[],impT=null;
 function impFlush(){if(!impQ.length)return;ssGa('view_item_list',{item_list_id:'deal_grid',item_list_name:'딜 목록',items:impQ.splice(0,impQ.length)});}
 if('IntersectionObserver' in window){var impSeen={};var io=new IntersectionObserver(function(es){es.forEach(function(e){if(!e.isIntersecting)return;var c=e.target,i=origin.indexOf(c);var a=c.querySelector('.card-link'),key=a?a.getAttribute('href'):String(i);if(impSeen[key])return;impSeen[key]=1;io.unobserve(c);impQ.push(cItem(c,i));if(impQ.length>=10){impFlush();}else{clearTimeout(impT);impT=setTimeout(impFlush,2000);}});},{threshold:0.5});origin.forEach(function(c){io.observe(c);});window.addEventListener('pagehide',impFlush);}
-grid.addEventListener('click',function(ev){var t=ev.target;while(t&&t!==grid&&!(t.classList&&t.classList.contains('card-link'))){t=t.parentNode;}if(!t||t===grid)return;var c=t;while(c&&!(c.classList&&c.classList.contains('card'))){c=c.parentNode;}if(!c)return;ssGa('select_item',{item_list_id:'deal_grid',items:[cItem(c,origin.indexOf(c))]});});
+grid.addEventListener('click',function(ev){var t=ev.target;while(t&&t!==grid&&!(t.classList&&t.classList.contains('card-link'))){t=t.parentNode;}if(!t||t===grid)return;var c=t;while(c&&!(c.classList&&c.classList.contains('card'))){c=c.parentNode;}if(!c)return;listSave();ssGa('select_item',{item_list_id:'deal_grid',items:[cItem(c,origin.indexOf(c))]});});
 if(search){var gaQT=null;search.addEventListener('input',function(){clearTimeout(gaQT);gaQT=setTimeout(function(){var q=search.value.trim();if(q){ssGa('search',{search_term:q.slice(0,100)});if(lastShown>0)recA(q);else ssGa('search_no_results',{search_term:q.slice(0,100)});}},1200);});}
 document.querySelectorAll('[data-sort]').forEach(function(b){b.addEventListener('click',function(){ssGa('sort_use',{sort_type:b.getAttribute('data-sort')||''});});});
 document.querySelectorAll('[data-mall-chip]').forEach(function(b){b.addEventListener('click',function(){ssGa('filter_use',{filter_type:'mall',filter_value:b.getAttribute('data-mall-chip')||'all'});});});
