@@ -3,7 +3,7 @@
   <channel>
     <title>싼타임 핫딜</title>
     <link>https://ssantime.com/</link>
-    <description>싼타임 핫딜 · 네이버 최저가보다 싼 핫딜</description>
+    <description>싼타임 핫딜 · 같은 상품의 네이버 최저가와 수집 시점 가격을 비교한 핫딜</description>
     <language>ko</language>
     <atom:link href="https://ssantime.com/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -273,6 +273,13 @@ CPU는 국내 정품이며 1년 무상 A/S가 지원됩니다.</description>
       <guid isPermaLink="true">https://ssantime.com/deals/fbe928074752.html</guid>
       <pubDate>Fri, 28 Aug 2026 10:11:07 +0000</pubDate>
       <description>딜 28,730원 · 네이버 최저가 38,300원 (9,570원↓)</description>
+    </item>
+    <item>
+      <title>핫딜 사이트 고를 때 확인할 5가지 — 게시물 수보다 중요한 것</title>
+      <link>https://ssantime.com/blog/hotdeal-site-checklist.html</link>
+      <guid isPermaLink="true">https://ssantime.com/blog/hotdeal-site-checklist.html</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0900</pubDate>
+      <description>핫딜 사이트를 고를 때는 딜 개수보다 같은 상품 비교, 배송비 포함 총액, 할인 조건, 확인 시점, 출처·제휴 공개 여부를 먼저 보세요. 싸 보이는 글과 실제로 싼 가격을 가르는 기준을 정리했습니다.</description>
     </item>
     <item>
       <title>생활용품 핫딜 4종 비교 — 할인율과 절감액은 같은 말이 아니다</title>
