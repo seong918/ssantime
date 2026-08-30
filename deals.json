@@ -1,5 +1,40 @@
 [
   {
+    "deal_id": "ccbf5c415d69",
+    "title": "[톡딜] 국내산 골든에그감자 대특 4kg (10570원/무료)",
+    "deal_total": 10570,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 15500,
+    "gap": 4930,
+    "mall_name": null,
+    "buy_url": "https://store.kakao.com/mrdangol/products/446495049",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=115&&no=730292",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6120622/61206225876.jpg?type=f300",
+    "created_iso": "2026-08-30T10:47:54.496770+00:00",
+    "naver_url": null,
+    "naver_product_id": "61206225876",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. 중복쿠폰 -690원 적용 (상품가 13,900원 → 13,210원)\n2. 카카오페이 결제 시 '카카오 장바구니 할인'에서 '농축산물 할인지원 20% (잔액형)'을 선택하면 2,640원 추가 할인되어 최종 10,570원 (100원 이상 구매시 20%, 최대 500,000원 할인)\n※ 무료배송입니다\n※ 농축산물 할인지원(농할) 쿠폰은 2026.09.02 23:59까지 적용됩니다",
+    "product_summary": "국내산 골든에그감자 4kg (대특)입니다.\n개당 90~170g 내외 크기의 프리미엄 신품종 감자입니다.\n포슬포슬하고 부드러우며 고소한 식감이 특징입니다.\n택배 무료배송으로 제공됩니다.",
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "골든에그감자",
+      "감자",
+      "국내산감자",
+      "포슬포슬감자",
+      "신품종감자",
+      "potato",
+      "4kg감자"
+    ]
+  },
+  {
     "deal_id": "fdb75e942aa2",
     "title": "[카카오] 하츠 진공포장기 킵프레쉬 진공백+밀폐용기 (35,000원/무배)",
     "deal_total": 35000,
@@ -3019,7 +3054,7 @@
     "source_site": "quasarzone",
     "category": "생활/식품",
     "category_bucket": null,
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [
       "https://www.otokimall.com/front/promo/coupon_zone"
@@ -11062,7 +11097,7 @@
     "category": "의류/잡화",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -11089,7 +11124,7 @@
     "category": "식품/건강",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
