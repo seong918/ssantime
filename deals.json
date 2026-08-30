@@ -1,5 +1,42 @@
 [
   {
+    "deal_id": "40d25abcca00",
+    "title": "[굿웨어몰] 웹슬립 고온워싱 리버서블 차렵이불 (16,915원/무료)",
+    "deal_total": 16915,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 25900,
+    "gap": 8985,
+    "mall_name": "네이버",
+    "buy_url": "https://www.goodwearmall.com/product/1P250103893021/detail",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=115&&no=730235",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6008560/60085608078.20260827100928.jpg?type=f300",
+    "created_iso": "2026-08-30T02:14:00.395695+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/60085608078",
+    "naver_product_id": "60085608078",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "쿠폰을 다운로드해 적용하면 '쿠폰 적용금액 15% 16,915원'에 구매할 수 있습니다. (정상가 100,000원, 80% 할인가 19,900원)",
+    "product_summary": "BENEBEDDING 웰슬립 고온워싱 리버서블 차렵이불입니다.\n양면을 모두 사용할 수 있는 리버서블 디자인으로, 투톤 배색이 적용되어 있습니다.\n4면 1.2CM 랍바 마감 처리로 잦은 세탁에도 변형 없이 사용할 수 있습니다.\nO 모양 자수 퀼팅과 이음선 없는 광폭원단이 적용되었으며, 다양한 컬러로 제공됩니다.",
+    "source_site": "ppomppu",
+    "category": "기타",
+    "category_bucket": "생활",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "BENEBEDDING",
+      "베네베딩",
+      "웰슬립",
+      "차렵이불",
+      "리버서블이불",
+      "양면이불",
+      "고온워싱",
+      "침구",
+      "이불"
+    ]
+  },
+  {
     "deal_id": "570fd98def31",
     "title": "[토스쇼핑] 허글리 코튼캔디 섬유탈취제 700ml 2개 (8,900원/무료)",
     "deal_total": 8900,
@@ -11150,7 +11187,7 @@
     "category": "식품/건강",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://events.ohou.se/promotions/big-promotion?special_feed=true"
     ],
@@ -11179,7 +11216,7 @@
     "category": "식품",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },

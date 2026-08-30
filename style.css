@@ -830,6 +830,49 @@ button{font-family:inherit;cursor:pointer}
 .post-card:hover .post-card-more .arr{transform:translateX(3px)}
 .post-card-cat{display:inline-flex;align-items:center;padding:3px 10px;background:var(--brand-soft);
   color:var(--save-ink);font-size:11.5px;font-weight:800;border-radius:var(--r-pill);letter-spacing:-.01em}
+.page-research .site-header{max-width:var(--maxw-read);margin:0 auto;text-align:left}
+.page-research .header-row{justify-content:flex-start}
+.research-eyebrow{margin:22px 0 7px;color:var(--save-ink);font-size:13px;font-weight:800;
+  letter-spacing:.04em}
+.research-updated{margin:12px 0 0;color:var(--ink-3);font-size:13px;
+  font-variant-numeric:tabular-nums}
+.research-main{max-width:var(--maxw-read)}
+.research-answer{margin:20px 0 0;padding:21px 22px;background:var(--brand-soft);
+  border:1px solid var(--brand);border-radius:var(--r-md)}
+.research-answer h2{margin:0;color:var(--ink);font-size:19px;letter-spacing:-.01em}
+.research-answer p{margin:10px 0 0;color:var(--ink-2);font-size:15px;line-height:1.72;
+  word-break:keep-all}
+.research-answer b{color:var(--ink)}
+.research-answer .research-scope{padding-top:10px;border-top:1px solid rgba(31,128,80,.22);
+  color:var(--ink-3);font-size:13px}
+.research-stats{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;
+  margin:16px 0 0}
+.research-stats>div{min-width:0;padding:16px;background:var(--card);border:1px solid var(--line);
+  border-radius:var(--r-md);box-shadow:var(--shadow-1)}
+.research-stats span,.research-stats b,.research-stats small{display:block}
+.research-stats span{color:var(--ink-3);font-size:12px;font-weight:700}
+.research-stats b{margin-top:6px;color:var(--ink);font-size:21px;letter-spacing:-.02em;
+  font-variant-numeric:tabular-nums}
+.research-stats small{margin-top:2px;color:var(--ink-3);font-size:11px}
+.research-table-wrap{margin:14px 0 0;overflow-x:auto;border:1px solid var(--line);
+  border-radius:var(--r-md);background:var(--card);box-shadow:var(--shadow-1)}
+.research-table{width:100%;border-collapse:collapse;font-size:14px;
+  font-variant-numeric:tabular-nums}
+.research-table th,.research-table td{padding:11px 14px;border-bottom:1px solid var(--line);
+  text-align:right;white-space:nowrap}
+.research-table thead th{background:var(--card-2);color:var(--ink-3);font-size:12px;
+  font-weight:800}
+.research-table th:first-child{text-align:left}
+.research-table tbody th{color:var(--ink);font-weight:700}
+.research-table tbody td{color:var(--ink-2)}
+.research-table tbody tr:last-child th,.research-table tbody tr:last-child td{border-bottom:0}
+.research-method{margin:13px 0 0;padding-left:22px}
+.research-method li{margin:0 0 9px;color:var(--ink-2);font-size:14px;line-height:1.65;
+  word-break:keep-all}
+.research-unknown{margin-top:14px;padding:12px 14px;background:var(--card-2);
+  border-radius:var(--r-md);color:var(--ink-2);font-size:13px;line-height:1.65}
+.research-citation a{color:var(--save-ink);font-weight:700;text-underline-offset:2px}
+@media (min-width:700px){.research-stats{grid-template-columns:repeat(4,minmax(0,1fr))}}
 @media (prefers-reduced-motion: reduce){
   *{animation-duration:.001ms !important;animation-delay:0ms !important;transition-duration:.001ms !important}
   .deal-grid.js-anim .card{animation:none;opacity:1;transform:none}
