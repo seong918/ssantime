@@ -17,11 +17,11 @@
     "comparison_baseline": "수집 시점에 같은 상품 후보로 자동 매칭한 네이버 쇼핑 비교가"
   },
   "metrics": {
-    "active_verified_deals": 348,
-    "strict_comparable_deals": 215,
-    "median_savings_krw": 6100,
-    "median_discount_percent": 25.2,
-    "shipping_known_deals": 215,
+    "active_verified_deals": 347,
+    "strict_comparable_deals": 214,
+    "median_savings_krw": 6115,
+    "median_discount_percent": 25.3,
+    "shipping_known_deals": 214,
     "shipping_unknown_deals": 133,
     "coupang_deals": 31,
     "coupang_share_percent": 8.9,
@@ -32,12 +32,12 @@
     {
       "name": "전자",
       "count": 68,
-      "share_percent": 19.5
+      "share_percent": 19.6
     },
     {
       "name": "식품",
-      "count": 196,
-      "share_percent": 56.3
+      "count": 195,
+      "share_percent": 56.2
     },
     {
       "name": "생활",
@@ -52,14 +52,14 @@
     {
       "name": "기타",
       "count": 28,
-      "share_percent": 8.0
+      "share_percent": 8.1
     }
   ],
   "marketplaces": [
     {
       "name": "네이버 스마트스토어",
       "count": 60,
-      "share_percent": 17.2
+      "share_percent": 17.3
     },
     {
       "name": "롯데ON",
@@ -69,7 +69,7 @@
     {
       "name": "오늘의집",
       "count": 37,
-      "share_percent": 10.6
+      "share_percent": 10.7
     },
     {
       "name": "카카오 스토어",
@@ -93,8 +93,8 @@
     },
     {
       "name": "G마켓",
-      "count": 14,
-      "share_percent": 4.0
+      "count": 13,
+      "share_percent": 3.7
     },
     {
       "name": "29CM",
@@ -125,8 +125,8 @@
   "source_communities": [
     {
       "name": "뽐뿌",
-      "count": 223,
-      "share_percent": 64.1
+      "count": 222,
+      "share_percent": 64.0
     },
     {
       "name": "아카라이브",
@@ -136,7 +136,7 @@
     {
       "name": "에펨코리아",
       "count": 36,
-      "share_percent": 10.3
+      "share_percent": 10.4
     },
     {
       "name": "퀘이사존",
