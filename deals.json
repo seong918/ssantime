@@ -1,5 +1,77 @@
 [
   {
+    "deal_id": "ed9907e8f8f7",
+    "title": "[지마켓] 추희자두 3kg 고당도 (20,900원/무료배송)",
+    "deal_total": 20900,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 25400,
+    "gap": 4500,
+    "mall_name": null,
+    "buy_url": "https://bitl.bz/api@v6LRCuJE",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=115&&no=730356",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_8321768/83217689298.8.jpg?type=f300",
+    "created_iso": "2026-08-30T17:18:17.018570+00:00",
+    "naver_url": null,
+    "naver_product_id": "83217689298",
+    "buy_url_orig": "https://link.gmarket.co.kr/DizIauEcKB",
+    "price_label": "",
+    "discount_guide": "1. 쿠폰 적용 시 20,900원, 무료배송\n2. 결제할인가 4,180원",
+    "product_summary": "추희자두 3kg 고당도 상품입니다.\n100g 크기의 과일 30~32과로 구성되어 있습니다.",
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "추희자두",
+      "자두",
+      "고당도자두",
+      "자두3kg",
+      "plum",
+      "과일",
+      "여름과일"
+    ]
+  },
+  {
+    "deal_id": "c94d8c198012",
+    "title": "[지마켓] ASUS ROG STRIX B850-E GAMING WIFI",
+    "deal_total": 354000,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 531000,
+    "gap": 177000,
+    "mall_name": null,
+    "buy_url": "https://bitl.bz/api@u4qlQpMK",
+    "source_url": "https://quasarzone.com/bbs/qb_saleinfo/views/1982866",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_9058600/90586004098.jpg?type=f300",
+    "created_iso": "2026-08-30T17:20:43.640277+00:00",
+    "naver_url": null,
+    "naver_product_id": "90586004098",
+    "buy_url_orig": "https://m.gmarket.co.kr/vi/product/3333943922?spm=gmktm.minishop.0.0.2c78137eZ1oPCr",
+    "price_label": "",
+    "discount_guide": "1. 8대카드 결제 시 354,000원 + 배송비 3,000원으로 총 357,000원입니다\n2. 포토리뷰 2개 적용 시 체감가 327,000원입니다\n3. 멤버십 + 페이북 경유 적립 시 최종 체감가 약 31만원입니다\n※ 8~9월에 걸쳐 있어 인텍앤컴퍼니 포토리뷰 적용 여부는 불확실합니다",
+    "product_summary": "ASUS ROG STRIX B850-E GAMING WIFI 메인보드입니다.\nASUS의 게이밍 브랜드인 ROG STRIX 라인업에 속하는 제품입니다.\nB850 칩셋을 기반으로 하며 무선 네트워크(WIFI) 기능을 지원합니다.",
+    "source_site": "quasarzone",
+    "category": "PC/하드웨어",
+    "category_bucket": "전자",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "ASUS",
+      "에이수스",
+      "ROG STRIX",
+      "ROG",
+      "B850",
+      "B850-E",
+      "메인보드",
+      "게이밍 메인보드",
+      "AMD"
+    ]
+  },
+  {
     "deal_id": "2a5ee2b20539",
     "title": "[지마켓] 펩시제로슈거 라임 190mlx30입 2박스 총60캔 (20,140원/무료배송)",
     "deal_total": 20140,
@@ -21,7 +93,7 @@
     "source_site": "ppomppu",
     "category": "식품/건강",
     "category_bucket": "식품",
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [],
     "tags": [
@@ -10618,7 +10690,7 @@
     "category": "식품",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -10645,7 +10717,7 @@
     "category": "먹거리",
     "category_bucket": null,
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -10672,7 +10744,7 @@
     "category": "음식",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://shopping.naver.com/festa/onsale/699ceb9398f1530c6f40ef49"
     ],
@@ -10701,7 +10773,7 @@
     "category": "기타",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -10728,7 +10800,7 @@
     "category": "식품/건강",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -10755,7 +10827,7 @@
     "category": "식품/건강",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -10782,7 +10854,7 @@
     "category": "의류/잡화",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -10809,7 +10881,7 @@
     "category": "PC/하드웨어",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -10836,7 +10908,7 @@
     "category": "식품",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://shopping.naver.com/festa/onsale/699ceb9398f1530c6f40ef49"
     ],
