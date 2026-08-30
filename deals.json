@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "f4c4d4b65d3d",
+    "title": "지오다노 린넨셔츠",
+    "deal_total": 22400,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 28800,
+    "gap": 6400,
+    "mall_name": "네이버",
+    "buy_url": "https://m.ssfshop.com/GIORDANO/GRS525081858625/good?utag=ref_sch:RS501045505",
+    "source_url": "https://arca.live/b/hotdeal/181526719",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5959109/59591096608.20260824110421.jpg?type=f300",
+    "created_iso": "2026-08-30T13:15:11.202607+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/59591096608",
+    "naver_product_id": "59591096608",
+    "buy_url_orig": "",
+    "price_label": "22,400원",
+    "discount_guide": "1. 3일특가로 정가 49,800원에서 55% 할인된 22,400원에 구매합니다.\n2. 무료배송 상품으로 배송비가 부과되지 않습니다.\n3. 구매 시 멤버십포인트 112P가 적립됩니다.\n※ 카드사별 혜택 및 첫 구매 혜택(처음이라면 누구나 즉시 지급)이 별도로 안내되어 있습니다.",
+    "product_summary": "지오다노(GIORDANO)의 코튼린넨 셔츠(모델명 045505)입니다.\n면과 린넨을 함께 사용한 소재의 셔츠입니다.\n총 11가지 컬러로 구성되어 있습니다.",
+    "source_site": "arca",
+    "category": "의류",
+    "category_bucket": "패션",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "지오다노",
+      "GIORDANO",
+      "린넨셔츠",
+      "코튼린넨",
+      "셔츠",
+      "남방",
+      "linen shirt",
+      "변우석"
+    ]
+  },
+  {
     "deal_id": "01954da6f896",
     "title": "[토스] 풀무원 샘물 500ml 80개 (11,620원/무료)",
     "deal_total": 11620,
@@ -11081,7 +11117,7 @@
     "category": "식품/건강",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -11108,7 +11144,7 @@
     "category": "식품/건강",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -11135,7 +11171,7 @@
     "category": "식품/건강",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -11162,7 +11198,7 @@
     "category": "의류/잡화",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -11189,7 +11225,7 @@
     "category": "생활용품",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
