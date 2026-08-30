@@ -1,5 +1,42 @@
 [
   {
+    "deal_id": "01954da6f896",
+    "title": "[토스] 풀무원 샘물 500ml 80개 (11,620원/무료)",
+    "deal_total": 11620,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 17080,
+    "gap": 5460,
+    "mall_name": "네이버",
+    "buy_url": "https://toss.shopping/t/801680909",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=115&&no=730311",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5192948/51929481896.20241213220049.jpg?type=f300",
+    "created_iso": "2026-08-30T12:45:23.926116+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/51929481896",
+    "naver_product_id": "51929481896",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "토스프라임 가입 시 최대 812원 적립",
+    "product_summary": "풀무원 샘물 생수 500ml 80개입 상품입니다.\n라벨을 부착하지 않은 무라벨 형태의 먹는샘물입니다.\n수원지는 경기 포천시 이동면이며, 원산지는 상세페이지 참조로 안내되어 있습니다.",
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "풀무원",
+      "Pulmuone",
+      "풀무원샘물",
+      "생수",
+      "먹는샘물",
+      "무라벨",
+      "무라벨생수",
+      "500ml",
+      "물"
+    ]
+  },
+  {
     "deal_id": "0927a87d5319",
     "title": "[하이마트]닌텐도 스위치2 인질셋 780,800원~810,800원",
     "deal_total": 780800,
@@ -16598,7 +16635,7 @@
     "source_site": "arca",
     "category": "식품",
     "category_bucket": "식품",
-    "is_end": false,
+    "is_end": true,
     "is_expired": true,
     "coupon_urls": [
       "https://store.ohou.se/exhibitions/19259"
