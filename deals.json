@@ -132,7 +132,7 @@
     "source_site": "ppomppu",
     "category": "식품/건강",
     "category_bucket": "식품",
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [
       "https://naver.me/58qsN4LG"

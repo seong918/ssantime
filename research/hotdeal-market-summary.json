@@ -17,11 +17,11 @@
     "comparison_baseline": "수집 시점에 같은 상품 후보로 자동 매칭한 네이버 쇼핑 비교가"
   },
   "metrics": {
-    "active_verified_deals": 322,
-    "strict_comparable_deals": 211,
-    "median_savings_krw": 6380,
-    "median_discount_percent": 25.2,
-    "shipping_known_deals": 211,
+    "active_verified_deals": 321,
+    "strict_comparable_deals": 210,
+    "median_savings_krw": 6390,
+    "median_discount_percent": 25.3,
+    "shipping_known_deals": 210,
     "shipping_unknown_deals": 111,
     "coupang_deals": 29,
     "coupang_share_percent": 9.0,
@@ -32,12 +32,12 @@
     {
       "name": "전자",
       "count": 69,
-      "share_percent": 21.4
+      "share_percent": 21.5
     },
     {
       "name": "식품",
-      "count": 169,
-      "share_percent": 52.5
+      "count": 168,
+      "share_percent": 52.3
     },
     {
       "name": "생활",
@@ -47,7 +47,7 @@
     {
       "name": "패션",
       "count": 32,
-      "share_percent": 9.9
+      "share_percent": 10.0
     },
     {
       "name": "기타",
@@ -59,12 +59,12 @@
     {
       "name": "네이버 스마트스토어",
       "count": 57,
-      "share_percent": 17.7
+      "share_percent": 17.8
     },
     {
       "name": "롯데ON",
       "count": 49,
-      "share_percent": 15.2
+      "share_percent": 15.3
     },
     {
       "name": "카카오 스토어",
@@ -94,7 +94,7 @@
     {
       "name": "토스쇼핑",
       "count": 14,
-      "share_percent": 4.3
+      "share_percent": 4.4
     },
     {
       "name": "토스",
@@ -118,15 +118,15 @@
     },
     {
       "name": "기타 판매처",
-      "count": 50,
-      "share_percent": 15.5
+      "count": 49,
+      "share_percent": 15.3
     }
   ],
   "source_communities": [
     {
       "name": "뽐뿌",
-      "count": 218,
-      "share_percent": 67.7
+      "count": 217,
+      "share_percent": 67.6
     },
     {
       "name": "아카라이브",
@@ -141,7 +141,7 @@
     {
       "name": "에펨코리아",
       "count": 14,
-      "share_percent": 4.3
+      "share_percent": 4.4
     },
     {
       "name": "루리웹",
