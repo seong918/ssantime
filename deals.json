@@ -1,5 +1,42 @@
 [
   {
+    "deal_id": "40c27cf3d57e",
+    "title": "[카카오] 접이식 가죽 차량 트렁크 정리함 (11,800원/무료)",
+    "deal_total": 11800,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 14900,
+    "gap": 3100,
+    "mall_name": "네이버",
+    "buy_url": "https://store.kakao.com/leto/products/644138014",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=115&&no=730466",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5912594/59125948124.20260303104428.jpg?type=f300",
+    "created_iso": "2026-08-31T05:33:49.608246+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/59125948124",
+    "naver_product_id": "59125948124",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": null,
+    "product_summary": "차량 트렁크에 넣어 짐을 정리·수납하는 접이식 가죽 정리함입니다.\n기본 사이즈에서 3,000원을 추가하면 더 큰 사이즈로 선택할 수 있습니다.",
+    "source_site": "ppomppu",
+    "category": "기타",
+    "category_bucket": "기타",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "트렁크정리함",
+      "차량트렁크정리함",
+      "자동차정리함",
+      "접이식정리함",
+      "가죽정리함",
+      "수납함",
+      "세차가방",
+      "차량용수납함",
+      "LETO"
+    ]
+  },
+  {
     "deal_id": "d8ff74842f05",
     "title": "[네이버] 가시제거연구소 오징어밥상 250g 3개, 총 750g (9,900원/네멤무배)",
     "deal_total": 9900,
@@ -21,7 +58,7 @@
     "source_site": "ppomppu",
     "category": "식품/건강",
     "category_bucket": "식품",
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [],
     "tags": [
@@ -10185,7 +10222,7 @@
     "category": "컴퓨터",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -10212,7 +10249,7 @@
     "category": "먹거리",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -10239,7 +10276,7 @@
     "category": "먹거리",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -10266,7 +10303,7 @@
     "category": "생활용품",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -10293,7 +10330,7 @@
     "category": "기타",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -10320,7 +10357,7 @@
     "category": "식품/건강",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -10347,7 +10384,7 @@
     "category": "식품/건강",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://hollysmall.co.kr/promotion/ice.html"
     ],
@@ -10376,7 +10413,7 @@
     "category": "먹거리",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
