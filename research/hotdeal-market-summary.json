@@ -17,14 +17,14 @@
     "comparison_baseline": "수집 시점에 같은 상품 후보로 자동 매칭한 네이버 쇼핑 비교가"
   },
   "metrics": {
-    "active_verified_deals": 320,
-    "strict_comparable_deals": 208,
-    "median_savings_krw": 6070,
+    "active_verified_deals": 319,
+    "strict_comparable_deals": 207,
+    "median_savings_krw": 6100,
     "median_discount_percent": 25.2,
-    "shipping_known_deals": 208,
+    "shipping_known_deals": 207,
     "shipping_unknown_deals": 112,
     "coupang_deals": 26,
-    "coupang_share_percent": 8.1,
+    "coupang_share_percent": 8.2,
     "identified_marketplace_labels": 47,
     "marketplace_unknown_deals": 0
   },
@@ -32,12 +32,12 @@
     {
       "name": "전자",
       "count": 64,
-      "share_percent": 20.0
+      "share_percent": 20.1
     },
     {
       "name": "식품",
-      "count": 177,
-      "share_percent": 55.3
+      "count": 176,
+      "share_percent": 55.2
     },
     {
       "name": "생활",
@@ -47,7 +47,7 @@
     {
       "name": "패션",
       "count": 27,
-      "share_percent": 8.4
+      "share_percent": 8.5
     },
     {
       "name": "기타",
@@ -69,7 +69,7 @@
     {
       "name": "카카오 스토어",
       "count": 34,
-      "share_percent": 10.6
+      "share_percent": 10.7
     },
     {
       "name": "오늘의집",
@@ -79,12 +79,12 @@
     {
       "name": "쿠팡",
       "count": 26,
-      "share_percent": 8.1
+      "share_percent": 8.2
     },
     {
       "name": "11번가",
-      "count": 22,
-      "share_percent": 6.9
+      "count": 21,
+      "share_percent": 6.6
     },
     {
       "name": "G마켓",
@@ -119,19 +119,19 @@
     {
       "name": "기타 판매처",
       "count": 50,
-      "share_percent": 15.6
+      "share_percent": 15.7
     }
   ],
   "source_communities": [
     {
       "name": "뽐뿌",
-      "count": 213,
-      "share_percent": 66.6
+      "count": 212,
+      "share_percent": 66.5
     },
     {
       "name": "아카라이브",
       "count": 64,
-      "share_percent": 20.0
+      "share_percent": 20.1
     },
     {
       "name": "에펨코리아",
