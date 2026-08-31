@@ -10168,7 +10168,7 @@
     "category": "기타",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -10195,7 +10195,7 @@
     "category": "의류/잡화",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
