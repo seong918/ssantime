@@ -21,7 +21,7 @@
     "source_site": "ruliweb",
     "category": "음식",
     "category_bucket": "식품",
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [],
     "tags": [
