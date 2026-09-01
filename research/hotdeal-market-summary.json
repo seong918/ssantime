@@ -2,10 +2,10 @@
   "schema_version": "1.0",
   "dataset_name": "싼타임 현재 활성 온라인 핫딜 가격 비교 스냅샷",
   "canonical_url": "https://ssantime.com/research/",
-  "snapshot_updated_at": "2026-09-01T04:06:03.580509+00:00",
+  "snapshot_updated_at": "2026-09-01T05:36:03.823507+00:00",
   "active_record_span": {
-    "from": "2026-08-25T04:22:32.102986+00:00",
-    "to": "2026-09-01T04:06:03.580509+00:00",
+    "from": "2026-08-25T06:13:32.807220+00:00",
+    "to": "2026-09-01T05:36:03.823507+00:00",
     "from_date_kst": "2026-08-25",
     "to_date_kst": "2026-09-01",
     "retention_policy_days": 7
@@ -17,79 +17,79 @@
     "comparison_baseline": "수집 시점에 같은 상품 후보로 자동 매칭한 네이버 쇼핑 비교가"
   },
   "metrics": {
-    "active_verified_deals": 329,
-    "strict_comparable_deals": 220,
-    "median_savings_krw": 6840,
-    "median_discount_percent": 25.1,
-    "shipping_known_deals": 220,
-    "shipping_unknown_deals": 109,
-    "coupang_deals": 29,
-    "coupang_share_percent": 8.8,
+    "active_verified_deals": 327,
+    "strict_comparable_deals": 219,
+    "median_savings_krw": 6800,
+    "median_discount_percent": 25.0,
+    "shipping_known_deals": 219,
+    "shipping_unknown_deals": 108,
+    "coupang_deals": 30,
+    "coupang_share_percent": 9.2,
     "identified_marketplace_labels": 52,
     "marketplace_unknown_deals": 0
   },
   "categories": [
     {
       "name": "전자",
-      "count": 75,
-      "share_percent": 22.8
+      "count": 76,
+      "share_percent": 23.2
     },
     {
       "name": "식품",
-      "count": 166,
-      "share_percent": 50.5
+      "count": 163,
+      "share_percent": 49.8
     },
     {
       "name": "생활",
-      "count": 27,
-      "share_percent": 8.2
+      "count": 28,
+      "share_percent": 8.6
     },
     {
       "name": "패션",
-      "count": 35,
-      "share_percent": 10.6
+      "count": 34,
+      "share_percent": 10.4
     },
     {
       "name": "기타",
       "count": 26,
-      "share_percent": 7.9
+      "share_percent": 8.0
     }
   ],
   "marketplaces": [
     {
       "name": "네이버 스마트스토어",
-      "count": 59,
-      "share_percent": 17.9
+      "count": 58,
+      "share_percent": 17.7
     },
     {
       "name": "롯데ON",
       "count": 51,
-      "share_percent": 15.5
+      "share_percent": 15.6
     },
     {
       "name": "카카오 스토어",
       "count": 33,
-      "share_percent": 10.0
+      "share_percent": 10.1
     },
     {
       "name": "쿠팡",
-      "count": 29,
-      "share_percent": 8.8
+      "count": 30,
+      "share_percent": 9.2
     },
     {
       "name": "오늘의집",
       "count": 26,
-      "share_percent": 7.9
-    },
-    {
-      "name": "11번가",
-      "count": 18,
-      "share_percent": 5.5
+      "share_percent": 8.0
     },
     {
       "name": "G마켓",
-      "count": 18,
-      "share_percent": 5.5
+      "count": 20,
+      "share_percent": 6.1
+    },
+    {
+      "name": "11번가",
+      "count": 17,
+      "share_percent": 5.2
     },
     {
       "name": "토스쇼핑",
@@ -103,8 +103,8 @@
     },
     {
       "name": "29CM",
-      "count": 7,
-      "share_percent": 2.1
+      "count": 6,
+      "share_percent": 1.8
     },
     {
       "name": "SK스토아",
@@ -112,31 +112,31 @@
       "share_percent": 1.8
     },
     {
-      "name": "알리",
+      "name": "카카오 선물하기",
       "count": 5,
       "share_percent": 1.5
     },
     {
       "name": "기타 판매처",
-      "count": 54,
-      "share_percent": 16.4
+      "count": 52,
+      "share_percent": 15.9
     }
   ],
   "source_communities": [
     {
       "name": "뽐뿌",
-      "count": 228,
-      "share_percent": 69.3
+      "count": 226,
+      "share_percent": 69.1
     },
     {
       "name": "아카라이브",
-      "count": 58,
-      "share_percent": 17.6
+      "count": 57,
+      "share_percent": 17.4
     },
     {
       "name": "퀘이사존",
-      "count": 20,
-      "share_percent": 6.1
+      "count": 21,
+      "share_percent": 6.4
     },
     {
       "name": "에펨코리아",
@@ -146,7 +146,7 @@
     {
       "name": "루리웹",
       "count": 9,
-      "share_percent": 2.7
+      "share_percent": 2.8
     }
   ],
   "methodology": [
