@@ -1,5 +1,42 @@
 [
   {
+    "deal_id": "e552a59c34b3",
+    "title": "[다이렉트게임즈] 프로야구 스피리츠 2026 /44,000원",
+    "deal_total": 44000,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 66800,
+    "gap": 22800,
+    "mall_name": null,
+    "buy_url": "https://directg.net/game/game_view.html?product_id=30116fa7-1dc5-406c-8ce1-5767c60264a2",
+    "source_url": "https://bbs.ruliweb.com/market/board/1020/read/106847",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_9120517/91205177969.jpg?type=f300",
+    "created_iso": "2026-09-01T08:06:19.719052+00:00",
+    "naver_url": null,
+    "naver_product_id": "91205177969",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "프로모션가 ₩44,000(정가 ₩70,000, -37%)에 판매됩니다.\n※ 프로모션 종료일: 2026-09-15 23:59:00\n※ 제3자 DRM을 사용합니다. (Denuvo Anti-tamper5 a day 시스템 활성화 제한)\n※ 대한민국 외 국가에서는 제품코드(키) 등록 및 플레이가 불가합니다.",
+    "product_summary": "코나미(Konami)의 야구 게임 프로야구 스피리츠 2026(eBaseball™: PRO SPIRIT 2026)입니다.\nPS5와 STEAM으로 출시되며, 본 상품은 STEAM 플랫폼용 기본 게임으로 구매 시 코드가 발송됩니다.\n제3자 DRM을 사용합니다. (Denuvo Anti-tamper5 a day 시스템 활성화 제한)\n대한민국 외 국가에서는 제품코드(키) 등록 및 플레이가 불가하므로 거주 지역과 플랫폼의 국가 설정을 확인하셔야 합니다.",
+    "source_site": "ruliweb",
+    "category": "게임S/W",
+    "category_bucket": "전자",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "프로야구 스피리츠 2026",
+      "프로야구 스피리츠",
+      "eBaseball PRO SPIRIT",
+      "PRO SPIRIT 2026",
+      "코나미",
+      "Konami",
+      "야구게임",
+      "PS5",
+      "스팀"
+    ]
+  },
+  {
     "deal_id": "a48bf77abad2",
     "title": "[반다이몰] RE/100 건담 린트브룸 프리미엄 반다이 / 66,000원",
     "deal_total": 66000,
@@ -11101,7 +11138,7 @@
     "category": "기타",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -11128,7 +11165,7 @@
     "category": "식품/건강",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -11155,7 +11192,7 @@
     "category": "가전/가구",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -11182,7 +11219,7 @@
     "category": "전자제품",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -11209,7 +11246,7 @@
     "category": "식품",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
