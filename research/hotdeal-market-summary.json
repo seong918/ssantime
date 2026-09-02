@@ -2,10 +2,10 @@
   "schema_version": "1.0",
   "dataset_name": "싼타임 현재 활성 온라인 핫딜 가격 비교 스냅샷",
   "canonical_url": "https://ssantime.com/research/",
-  "snapshot_updated_at": "2026-09-02T10:30:25.501362+00:00",
+  "snapshot_updated_at": "2026-09-02T11:19:22.825035+00:00",
   "active_record_span": {
-    "from": "2026-08-26T11:19:31.612225+00:00",
-    "to": "2026-09-02T10:30:25.501362+00:00",
+    "from": "2026-08-26T12:58:27.749935+00:00",
+    "to": "2026-09-02T11:19:22.825035+00:00",
     "from_date_kst": "2026-08-26",
     "to_date_kst": "2026-09-02",
     "retention_policy_days": 7
@@ -18,14 +18,14 @@
   },
   "metrics": {
     "active_verified_deals": 320,
-    "strict_comparable_deals": 215,
-    "median_savings_krw": 6870,
-    "median_discount_percent": 24.3,
-    "shipping_known_deals": 215,
-    "shipping_unknown_deals": 105,
+    "strict_comparable_deals": 216,
+    "median_savings_krw": 6895,
+    "median_discount_percent": 23.9,
+    "shipping_known_deals": 216,
+    "shipping_unknown_deals": 104,
     "coupang_deals": 28,
     "coupang_share_percent": 8.8,
-    "identified_marketplace_labels": 53,
+    "identified_marketplace_labels": 52,
     "marketplace_unknown_deals": 0
   },
   "categories": [
@@ -41,13 +41,13 @@
     },
     {
       "name": "생활",
-      "count": 34,
-      "share_percent": 10.6
+      "count": 33,
+      "share_percent": 10.3
     },
     {
       "name": "패션",
-      "count": 32,
-      "share_percent": 10.0
+      "count": 33,
+      "share_percent": 10.3
     },
     {
       "name": "기타",
@@ -58,13 +58,18 @@
   "marketplaces": [
     {
       "name": "네이버 스마트스토어",
-      "count": 55,
-      "share_percent": 17.2
+      "count": 54,
+      "share_percent": 16.9
     },
     {
       "name": "롯데ON",
       "count": 53,
       "share_percent": 16.6
+    },
+    {
+      "name": "11번가",
+      "count": 29,
+      "share_percent": 9.1
     },
     {
       "name": "카카오 스토어",
@@ -75,11 +80,6 @@
       "name": "쿠팡",
       "count": 28,
       "share_percent": 8.8
-    },
-    {
-      "name": "11번가",
-      "count": 27,
-      "share_percent": 8.4
     },
     {
       "name": "G마켓",
@@ -93,8 +93,8 @@
     },
     {
       "name": "토스쇼핑",
-      "count": 13,
-      "share_percent": 4.1
+      "count": 12,
+      "share_percent": 3.8
     },
     {
       "name": "토스",
