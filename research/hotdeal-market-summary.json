@@ -4,7 +4,7 @@
   "canonical_url": "https://ssantime.com/research/",
   "snapshot_updated_at": "2026-09-02T16:45:24.250509+00:00",
   "active_record_span": {
-    "from": "2026-08-26T16:50:36.497785+00:00",
+    "from": "2026-08-26T23:27:32.957402+00:00",
     "to": "2026-09-02T16:45:24.250509+00:00",
     "from_date_kst": "2026-08-27",
     "to_date_kst": "2026-09-03",
@@ -17,12 +17,12 @@
     "comparison_baseline": "수집 시점에 같은 상품 후보로 자동 매칭한 네이버 쇼핑 비교가"
   },
   "metrics": {
-    "active_verified_deals": 330,
+    "active_verified_deals": 329,
     "strict_comparable_deals": 219,
     "median_savings_krw": 6870,
     "median_discount_percent": 23.5,
     "shipping_known_deals": 219,
-    "shipping_unknown_deals": 111,
+    "shipping_unknown_deals": 110,
     "coupang_deals": 29,
     "coupang_share_percent": 8.8,
     "identified_marketplace_labels": 52,
@@ -32,12 +32,12 @@
     {
       "name": "전자",
       "count": 82,
-      "share_percent": 24.8
+      "share_percent": 24.9
     },
     {
       "name": "식품",
-      "count": 156,
-      "share_percent": 47.3
+      "count": 155,
+      "share_percent": 47.1
     },
     {
       "name": "생활",
@@ -58,8 +58,8 @@
   "marketplaces": [
     {
       "name": "네이버 스마트스토어",
-      "count": 54,
-      "share_percent": 16.4
+      "count": 53,
+      "share_percent": 16.1
     },
     {
       "name": "롯데ON",
@@ -126,12 +126,12 @@
     {
       "name": "뽐뿌",
       "count": 226,
-      "share_percent": 68.5
+      "share_percent": 68.7
     },
     {
       "name": "아카라이브",
-      "count": 52,
-      "share_percent": 15.8
+      "count": 51,
+      "share_percent": 15.5
     },
     {
       "name": "에펨코리아",
