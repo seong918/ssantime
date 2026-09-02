@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "d6a9a0ff5916",
+    "title": "물냉면 10인분 (냉면사리+냉면육수+겨자유) 개별포장 실온보관",
+    "deal_total": 6980,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 10480,
+    "gap": 3500,
+    "mall_name": "네이버",
+    "buy_url": "https://brand.naver.com/mssfood/products/13554116888",
+    "source_url": "https://arca.live/b/hotdeal/181761913",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6023235/60232359375.20260529201226.jpg?type=f300",
+    "created_iso": "2026-09-02T04:51:23.180307+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/60232359375",
+    "naver_product_id": "60232359375",
+    "buy_url_orig": "",
+    "price_label": "6,980원",
+    "discount_guide": "1. 쿠폰 받기(D-1)로 쿠폰을 받으면 9,980원에서 6,980원 최대할인가로 구매\n2. 멤버십 N배송으로 배송비 3,500원 무료배송 적용\n3. 멤버십 최대 적립 포인트 1,196원 적립",
+    "product_summary": "우리농산 물냉면 10인분 제품입니다.\n냉면사리와 냉면육수, 겨자유로 구성되어 있습니다.\n각 구성품은 개별포장되어 있으며 실온에서 보관할 수 있습니다.",
+    "source_site": "arca",
+    "category": "식품",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "물냉면",
+      "냉면",
+      "냉면사리",
+      "냉면육수",
+      "우리농산",
+      "겨자유",
+      "실온보관",
+      "개별포장"
+    ]
+  },
+  {
     "deal_id": "19ab2b5e6581",
     "title": "GIGABYTE 라데온 RX 9070 XT GAMING OC D6 16GB 제이씨현",
     "deal_total": 1255570,
@@ -11490,7 +11526,7 @@
     "category": "기타",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -11517,7 +11553,7 @@
     "category": "전자제품",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -11544,7 +11580,7 @@
     "category": "식품/건강",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -11571,7 +11607,7 @@
     "category": "의류/잡화",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -11598,7 +11634,7 @@
     "category": "가전/가구",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
