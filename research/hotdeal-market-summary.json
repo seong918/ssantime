@@ -17,14 +17,14 @@
     "comparison_baseline": "수집 시점에 같은 상품 후보로 자동 매칭한 네이버 쇼핑 비교가"
   },
   "metrics": {
-    "active_verified_deals": 348,
-    "strict_comparable_deals": 227,
-    "median_savings_krw": 6730,
-    "median_discount_percent": 23.5,
-    "shipping_known_deals": 227,
+    "active_verified_deals": 347,
+    "strict_comparable_deals": 226,
+    "median_savings_krw": 6690,
+    "median_discount_percent": 23.6,
+    "shipping_known_deals": 226,
     "shipping_unknown_deals": 121,
     "coupang_deals": 29,
-    "coupang_share_percent": 8.3,
+    "coupang_share_percent": 8.4,
     "identified_marketplace_labels": 55,
     "marketplace_unknown_deals": 0
   },
@@ -32,12 +32,12 @@
     {
       "name": "전자",
       "count": 87,
-      "share_percent": 25.0
+      "share_percent": 25.1
     },
     {
       "name": "식품",
       "count": 169,
-      "share_percent": 48.6
+      "share_percent": 48.7
     },
     {
       "name": "생활",
@@ -46,8 +46,8 @@
     },
     {
       "name": "패션",
-      "count": 35,
-      "share_percent": 10.1
+      "count": 34,
+      "share_percent": 9.8
     },
     {
       "name": "기타",
@@ -57,12 +57,12 @@
   ],
   "marketplaces": [
     {
-      "name": "롯데ON",
-      "count": 57,
-      "share_percent": 16.4
+      "name": "네이버 스마트스토어",
+      "count": 56,
+      "share_percent": 16.1
     },
     {
-      "name": "네이버 스마트스토어",
+      "name": "롯데ON",
       "count": 56,
       "share_percent": 16.1
     },
@@ -79,12 +79,12 @@
     {
       "name": "쿠팡",
       "count": 29,
-      "share_percent": 8.3
+      "share_percent": 8.4
     },
     {
       "name": "카카오 스토어",
       "count": 28,
-      "share_percent": 8.0
+      "share_percent": 8.1
     },
     {
       "name": "오늘의집",
@@ -94,7 +94,7 @@
     {
       "name": "토스쇼핑",
       "count": 12,
-      "share_percent": 3.4
+      "share_percent": 3.5
     },
     {
       "name": "토스",
@@ -109,12 +109,12 @@
     {
       "name": "29CM",
       "count": 4,
-      "share_percent": 1.1
+      "share_percent": 1.2
     },
     {
       "name": "CJ온스타일",
       "count": 4,
-      "share_percent": 1.1
+      "share_percent": 1.2
     },
     {
       "name": "기타 판매처",
@@ -125,13 +125,13 @@
   "source_communities": [
     {
       "name": "뽐뿌",
-      "count": 232,
-      "share_percent": 66.7
+      "count": 231,
+      "share_percent": 66.6
     },
     {
       "name": "아카라이브",
       "count": 53,
-      "share_percent": 15.2
+      "share_percent": 15.3
     },
     {
       "name": "에펨코리아",
