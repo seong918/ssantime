@@ -313,7 +313,7 @@
     "source_site": "ppomppu",
     "category": "컴퓨터",
     "category_bucket": "전자",
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [],
     "tags": [
