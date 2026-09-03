@@ -2,11 +2,11 @@
   "schema_version": "1.0",
   "dataset_name": "싼타임 현재 활성 온라인 핫딜 가격 비교 스냅샷",
   "canonical_url": "https://ssantime.com/research/",
-  "snapshot_updated_at": "2026-09-03T13:57:02.416789+00:00",
+  "snapshot_updated_at": "2026-09-03T14:58:29.293994+00:00",
   "active_record_span": {
-    "from": "2026-08-27T14:39:56.205967+00:00",
-    "to": "2026-09-03T13:57:02.416789+00:00",
-    "from_date_kst": "2026-08-27",
+    "from": "2026-08-27T15:47:34.867045+00:00",
+    "to": "2026-09-03T14:58:29.293994+00:00",
+    "from_date_kst": "2026-08-28",
     "to_date_kst": "2026-09-03",
     "retention_policy_days": 7
   },
@@ -25,7 +25,7 @@
     "shipping_unknown_deals": 127,
     "coupang_deals": 28,
     "coupang_share_percent": 8.3,
-    "identified_marketplace_labels": 53,
+    "identified_marketplace_labels": 54,
     "marketplace_unknown_deals": 0
   },
   "categories": [
@@ -73,8 +73,8 @@
     },
     {
       "name": "11번가",
-      "count": 33,
-      "share_percent": 9.8
+      "count": 32,
+      "share_percent": 9.5
     },
     {
       "name": "쿠팡",
@@ -118,8 +118,8 @@
     },
     {
       "name": "기타 판매처",
-      "count": 53,
-      "share_percent": 15.7
+      "count": 54,
+      "share_percent": 16.0
     }
   ],
   "source_communities": [
