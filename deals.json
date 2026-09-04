@@ -1,5 +1,45 @@
 [
   {
+    "deal_id": "03cb39891f06",
+    "title": "찍먹 나쵸 치폴레마요84g 10개 + 스윙칩 볶음고추장60g 10개",
+    "deal_total": 20395,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 25500,
+    "gap": 5105,
+    "mall_name": null,
+    "buy_url": "https://bitl.bz/api@ohBS1nmC",
+    "source_url": "https://arca.live/b/hotdeal/182049017",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6152722/61527227506.jpg?type=f300",
+    "created_iso": "2026-09-04T16:35:12.736126+00:00",
+    "naver_url": null,
+    "naver_product_id": "61527227506",
+    "buy_url_orig": "https://store.ohou.se/goods/3811861",
+    "price_label": "20,395원",
+    "discount_guide": "1. 상품 쿠폰 '[9월 오마트최저가보상제 2차] 가공식품 14% 쿠폰'을 적용하면 -3,570원 할인됩니다.\n2. 장바구니 쿠폰 '0905 최저가보상제 7%쿠폰'을 적용하면 -1,535원 할인됩니다.\n두 쿠폰을 모두 적용하면 최종 20,395원입니다.\n※ 장바구니 쿠폰 '0905 최저가보상제 7%쿠폰'은 1만원 이상 구매 시 적용 가능합니다.",
+    "product_summary": "오리온 찍먹 나쵸 치폴레마요맛 84g 10개와 스윙칩 볶음고추장맛 60g 10개로 구성된 과자 세트입니다.\n찍먹 나쵸는 치폴레마요 소스맛 나초로, 찍어 먹는 소스가 함께 들어 있습니다.\n스윙칩은 100% 생감자로 만든 Hot 볶음고추장맛 감자칩입니다.\n원산지는 상세정보를 참고하시기 바랍니다.",
+    "source_site": "arca",
+    "category": "식품",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [
+      "https://store.ohou.se/exhibitions/13062"
+    ],
+    "tags": [
+      "오리온",
+      "Orion",
+      "찍먹나쵸",
+      "나쵸",
+      "스윙칩",
+      "감자칩",
+      "치폴레마요",
+      "볶음고추장",
+      "과자",
+      "스낵"
+    ]
+  },
+  {
     "deal_id": "b31783978366",
     "title": "[11번가] 보디가드 남성 순면 트렁크 5매 (19,600원/무료배송)",
     "deal_total": 19600,
@@ -13501,7 +13541,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "빼빼로",
@@ -13538,7 +13578,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "코카콜라",
@@ -13574,7 +13614,7 @@
     "category": "의류",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -13601,7 +13641,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "갈아만든배",
@@ -13637,7 +13677,7 @@
     "category": "PC제품",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "조립PC",
