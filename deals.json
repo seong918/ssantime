@@ -1,5 +1,40 @@
 [
   {
+    "deal_id": "23790226c6a1",
+    "title": "[11번가] 생란 난각번호 1번 40구 (14,960원/무료)",
+    "deal_total": 14960,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 23900,
+    "gap": 8940,
+    "mall_name": null,
+    "buy_url": "https://bitl.bz/api@l7NT1D1c",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=116&&no=731750",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6059814/60598142620.jpg?type=f300",
+    "created_iso": "2026-09-04T12:30:17.428806+00:00",
+    "naver_url": null,
+    "naver_product_id": "60598142620",
+    "buy_url_orig": "https://www.11st.co.kr/products/8792286016",
+    "price_label": "",
+    "discount_guide": null,
+    "product_summary": "난각번호 1번으로 표기된 생란(계란) 40구입니다.\n40구 대용량으로 구성되어 있습니다.\n배송비는 무료입니다.",
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "계란",
+      "달걀",
+      "생란",
+      "난각번호 1번",
+      "난각1번",
+      "40구",
+      "egg"
+    ]
+  },
+  {
     "deal_id": "8a7539f5abd5",
     "title": "[롯데온] 달바 퍼플 톤업 선크림 50ml 1+1 (25,770원/무료)",
     "deal_total": 25770,
@@ -13606,7 +13641,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "K2",
@@ -13643,7 +13678,7 @@
     "category": "디지털",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -13670,7 +13705,7 @@
     "category": "식품/건강",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -13697,7 +13732,7 @@
     "category": "의류/잡화",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://www.hfashionmall.com/event/EV202608030008841/view"
     ],
@@ -13726,7 +13761,7 @@
     "category": "식품/건강",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
