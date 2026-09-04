@@ -1,5 +1,44 @@
 [
   {
+    "deal_id": "16fdac0b490a",
+    "title": "[오늘의집] 농협 행복드림 특등급 새청무쌀 10kg (26,952원/무배)",
+    "deal_total": 26952,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 32680,
+    "gap": 5728,
+    "mall_name": "네이버",
+    "buy_url": "https://bitl.bz/api@CfrKVJd1",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=116&&no=731789",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6069021/60690213881.20260702143912.jpg?type=f300",
+    "created_iso": "2026-09-04T22:36:18.437104+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/60690213881",
+    "naver_product_id": "60690213881",
+    "buy_url_orig": "https://ozip.me/Ayo53vL",
+    "price_label": "",
+    "discount_guide": "1. 상품 쿠폰 '[한정] 중복할인 10% 쿠폰' 적용 (-3,220원)\n2. 장바구니 쿠폰 '오세일 장보기 7%쿠폰' 적용 (-2,028원, 2만원 이상 구매 시 적용 가능)\n※ 7% 쿠폰은 선착순이니 쿠폰을 받은 뒤 구입하세요.\n※ 상품가 32,200원에 위 두 쿠폰을 적용하면 나의 할인가 26,952원(무료배송)입니다.\n※ 상품 쿠폰은 '[늘신선] 전용할인 4% 쿠폰'(-1,288원)도 선택 가능합니다.\n※ 장바구니 쿠폰은 '0905 최저가보상제 7%쿠폰'(-2,000원, 1만원 이상 구매 시 적용 가능), '최저가보상제 2차 7%쿠폰'(5만원 이상 구매 시 적용 가능)도 있습니다.\n※ 적립 혜택: 구매확정 적립 26P(WELCOME 0.1%적용), 최대 리뷰 적립 600P, 오늘의집페이 결제 적립 540P\n※ 제주도/도서산간 지역 배송 불가",
+    "product_summary": "농협 행복드림 특등급 새청무쌀 10kg입니다.\n임실 지역 상품으로 당일 도정해 500개 한정 수량으로 선별 출고합니다.\n습기와 햇빛을 피하고 서늘한 곳에 보관하시는 것을 권장합니다.\n원산지는 상품 상세정보를 참고하시기 바랍니다.",
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [
+      "https://ozip.me/TifBddg"
+    ],
+    "tags": [
+      "새청무쌀",
+      "새청무",
+      "쌀",
+      "10kg",
+      "농협 행복드림",
+      "행복드림",
+      "특등급",
+      "당일도정",
+      "임실"
+    ]
+  },
+  {
     "deal_id": "03cb39891f06",
     "title": "찍먹 나쵸 치폴레마요84g 10개 + 스윙칩 볶음고추장60g 10개",
     "deal_total": 20395,
