@@ -13661,7 +13661,7 @@
     "category": "기타",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "햇반",
@@ -13697,7 +13697,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "호카",
@@ -13734,7 +13734,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "한우",
@@ -13772,7 +13772,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "비긴어데이",
@@ -13809,7 +13809,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "슈가로로",
