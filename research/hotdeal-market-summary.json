@@ -4,7 +4,7 @@
   "canonical_url": "https://ssantime.com/research/",
   "snapshot_updated_at": "2026-09-05T09:56:10.060974+00:00",
   "active_record_span": {
-    "from": "2026-08-29T10:14:42.312140+00:00",
+    "from": "2026-08-29T10:44:40.746240+00:00",
     "to": "2026-09-05T09:56:10.060974+00:00",
     "from_date_kst": "2026-08-29",
     "to_date_kst": "2026-09-05",
@@ -17,37 +17,37 @@
     "comparison_baseline": "수집 시점에 같은 상품 후보로 자동 매칭한 네이버 쇼핑 비교가"
   },
   "metrics": {
-    "active_verified_deals": 359,
-    "strict_comparable_deals": 234,
-    "median_savings_krw": 6690,
-    "median_discount_percent": 22.6,
-    "shipping_known_deals": 234,
+    "active_verified_deals": 356,
+    "strict_comparable_deals": 231,
+    "median_savings_krw": 6730,
+    "median_discount_percent": 23.1,
+    "shipping_known_deals": 231,
     "shipping_unknown_deals": 125,
-    "coupang_deals": 29,
-    "coupang_share_percent": 8.1,
+    "coupang_deals": 28,
+    "coupang_share_percent": 7.9,
     "identified_marketplace_labels": 52,
     "marketplace_unknown_deals": 0
   },
   "categories": [
     {
       "name": "전자",
-      "count": 103,
+      "count": 102,
       "share_percent": 28.7
     },
     {
       "name": "식품",
-      "count": 172,
-      "share_percent": 47.9
+      "count": 170,
+      "share_percent": 47.8
     },
     {
       "name": "생활",
       "count": 44,
-      "share_percent": 12.3
+      "share_percent": 12.4
     },
     {
       "name": "패션",
       "count": 31,
-      "share_percent": 8.6
+      "share_percent": 8.7
     },
     {
       "name": "기타",
@@ -59,27 +59,27 @@
     {
       "name": "네이버 스마트스토어",
       "count": 64,
-      "share_percent": 17.8
+      "share_percent": 18.0
     },
     {
       "name": "롯데ON",
       "count": 55,
-      "share_percent": 15.3
+      "share_percent": 15.4
     },
     {
       "name": "G마켓",
       "count": 40,
-      "share_percent": 11.1
+      "share_percent": 11.2
     },
     {
       "name": "11번가",
-      "count": 35,
-      "share_percent": 9.7
+      "count": 34,
+      "share_percent": 9.6
     },
     {
       "name": "쿠팡",
-      "count": 29,
-      "share_percent": 8.1
+      "count": 28,
+      "share_percent": 7.9
     },
     {
       "name": "카카오 스토어",
@@ -94,7 +94,7 @@
     {
       "name": "토스쇼핑",
       "count": 13,
-      "share_percent": 3.6
+      "share_percent": 3.7
     },
     {
       "name": "토스",
@@ -118,25 +118,25 @@
     },
     {
       "name": "기타 판매처",
-      "count": 57,
-      "share_percent": 15.9
+      "count": 56,
+      "share_percent": 15.7
     }
   ],
   "source_communities": [
     {
       "name": "뽐뿌",
-      "count": 238,
-      "share_percent": 66.3
+      "count": 237,
+      "share_percent": 66.6
     },
     {
       "name": "아카라이브",
       "count": 55,
-      "share_percent": 15.3
+      "share_percent": 15.4
     },
     {
       "name": "에펨코리아",
-      "count": 28,
-      "share_percent": 7.8
+      "count": 27,
+      "share_percent": 7.6
     },
     {
       "name": "퀘이사존",
@@ -145,8 +145,8 @@
     },
     {
       "name": "루리웹",
-      "count": 13,
-      "share_percent": 3.6
+      "count": 12,
+      "share_percent": 3.4
     }
   ],
   "methodology": [
