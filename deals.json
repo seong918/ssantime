@@ -1,5 +1,43 @@
 [
   {
+    "deal_id": "395b71b1a4d7",
+    "title": "[신세계] 리복 클럽 C 85 빈티지 - 헤리티지 스니커즈 (70,878원/무료)",
+    "deal_total": 70878,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 74680,
+    "gap": 3802,
+    "mall_name": null,
+    "buy_url": "https://deptapp.shinsegae.com/zlco09w",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=116&&no=731923",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6137804/61378042991.jpg?type=f300",
+    "created_iso": "2026-09-05T11:52:47.506968+00:00",
+    "naver_url": null,
+    "naver_product_id": "61378042991",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. 아래 링크에서 15% 쿠폰을 받습니다: https://deptapp.shinsegae.com/bxch4q\n2. 상품할인 -14,715원, 쿠폰할인 -12,507원이 적용되어 결제 예정금액 70,878원입니다.\n3. 현대카드로 결제하면 청구할인이 적용되어 청구할인 예상금액 65,917원입니다.",
+    "product_summary": "리복 클럽 C 85 빈티지 헤리티지 스니커즈입니다.\n무료배송으로 제공됩니다.",
+    "source_site": "ppomppu",
+    "category": "의류/잡화",
+    "category_bucket": "패션",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [
+      "https://deptapp.shinsegae.com/bxch4q"
+    ],
+    "tags": [
+      "리복",
+      "Reebok",
+      "클럽 C 85",
+      "Club C 85",
+      "스니커즈",
+      "운동화",
+      "빈티지 스니커즈",
+      "헤리티지"
+    ]
+  },
+  {
     "deal_id": "3c5e2414a373",
     "title": "[무신사] 밀리 리커버리 슬리퍼 (12,130원/무료배송)",
     "deal_total": 12130,
@@ -13635,7 +13673,7 @@
     "category": "의류/잡화",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "이너홈",
@@ -13671,7 +13709,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "닥스",
@@ -13707,7 +13745,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "참도깨비",
@@ -13743,7 +13781,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "샤인머스켓",
@@ -13779,7 +13817,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "로투스",
