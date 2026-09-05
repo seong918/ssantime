@@ -1,5 +1,43 @@
 [
   {
+    "deal_id": "6320d2a2eb47",
+    "title": "서울우유 클릭유 1A등급 우유 950ml 8개",
+    "deal_total": 16095,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 19500,
+    "gap": 3405,
+    "mall_name": "네이버",
+    "buy_url": "https://bitl.bz/api@vBQ90bwe",
+    "source_url": "https://arca.live/b/hotdeal/182144179",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5747667/57476676415.20251031172734.jpg?type=f300",
+    "created_iso": "2026-09-05T16:53:46.593116+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/57476676415",
+    "naver_product_id": "57476676415",
+    "buy_url_orig": "https://store.ohou.se/goods/3860856",
+    "price_label": "16,095원",
+    "discount_guide": "1. 상품 쿠폰: [9월 오마트최저가보상제 2차] 가공식품 8% 쿠폰 -1,672원\n2. 장바구니 쿠폰: 0906 최저가보상제 7%쿠폰 -1,345원\n3. 카카오페이로 결제해 결제 할인 적용 (최종 16,095원)\n※ 0906 최저가보상제 7%쿠폰은 1만원 이상 구매 시 적용 가능",
+    "product_summary": "서울우유 클릭유 1A등급 우유 950ml 8개입 구성입니다.\n클릭유는 서울우유협동조합이 만든 온라인 전용 브랜드입니다.\n뚜껑이 있는 버전이며, 실온보관 제품입니다.\n1팩당 용량은 950ml, 열량은 665kcal입니다.",
+    "source_site": "arca",
+    "category": "식품",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [
+      "https://store.ohou.se/exhibitions/13062"
+    ],
+    "tags": [
+      "서울우유",
+      "클릭유",
+      "Click U",
+      "1A등급 우유",
+      "우유",
+      "흰우유",
+      "멸균우유",
+      "950ml"
+    ]
+  },
+  {
     "deal_id": "6976a4feb5b6",
     "title": "[11번가] 고창 풍천장어 자포니카종 1kg(손질 700g)소스포함 (18,830원/무배)",
     "deal_total": 18830,
@@ -13574,7 +13612,7 @@
     "category": "PC/하드웨어",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "오리코",
@@ -13611,7 +13649,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "펩시",
@@ -13649,7 +13687,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "꼬치어묵",
@@ -13684,7 +13722,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "핫식스",
@@ -13721,7 +13759,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "하이뮨",
