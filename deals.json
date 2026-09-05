@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "2cc9c51ecc8b",
+    "title": "멤버십) 경남제약 레모나 비타민음료 100ml 20개입",
+    "deal_total": 6760,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 10320,
+    "gap": 3560,
+    "mall_name": null,
+    "buy_url": "https://smartstore.naver.com/haveagoodfarm/products/13746231554",
+    "source_url": "https://arca.live/b/hotdeal/182083092",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5978636/59786360839.jpg?type=f300",
+    "created_iso": "2026-09-05T05:08:41.620539+00:00",
+    "naver_url": null,
+    "naver_product_id": "59786360839",
+    "buy_url_orig": "",
+    "price_label": "6,760원",
+    "discount_guide": "1. 쿠폰 받기로 쿠폰을 적용하면 30% 6,980원에서 6,760원 최대할인가로 구매할 수 있습니다.\n2. 멤버십 N배송 무료배송이 적용되어 3,000원 배송비가 무료입니다.\n3. 멤버십 전용카드 결제 시 최대 15% 적립 포인트를 받을 수 있습니다.\n4. 라인프렌즈 카드 결제 시 최대 135원(2%)이 추가 적립되며, 최대 적립 포인트는 1,163원입니다.\n※ 무료배송·멤버십 혜택은 멤버십 가입이 필요합니다.",
+    "product_summary": "경남제약 레모나 비타민 음료 100ml 20개입입니다.\n비타민C 500mg에 비타민B2·B6를 더한 마시는 비타민 음료입니다.\n100mL 한 병당 50kcal이며, 소비기한은 2028-02-04까지입니다.\n원산지 표기 의무대상이 아닌 상품입니다.",
+    "source_site": "arca",
+    "category": "식품",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "레모나",
+      "경남제약",
+      "비타민음료",
+      "마시는비타민",
+      "비타민C",
+      "레모나드링크",
+      "Lemona",
+      "비타민B"
+    ]
+  },
+  {
     "deal_id": "9afc39476de6",
     "title": "[네이버] 수니홈 접이식 매트리스 (139,000원/무료배송)",
     "deal_total": 139000,
@@ -13361,7 +13397,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "에그",
@@ -13396,7 +13432,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "참도깨비",
@@ -13433,7 +13469,7 @@
     "category": "생활용품",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://store.ohou.se/exhibitions/19268"
     ],
@@ -13471,7 +13507,7 @@
     "category": "전자제품",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "현대HT",
