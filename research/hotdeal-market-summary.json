@@ -2,10 +2,10 @@
   "schema_version": "1.0",
   "dataset_name": "싼타임 현재 활성 온라인 핫딜 가격 비교 스냅샷",
   "canonical_url": "https://ssantime.com/research/",
-  "snapshot_updated_at": "2026-09-06T22:22:37.916851+00:00",
+  "snapshot_updated_at": "2026-09-06T23:57:27.467764+00:00",
   "active_record_span": {
-    "from": "2026-08-30T22:59:50.056595+00:00",
-    "to": "2026-09-06T22:22:37.916851+00:00",
+    "from": "2026-08-31T00:59:43.688775+00:00",
+    "to": "2026-09-06T23:57:27.467764+00:00",
     "from_date_kst": "2026-08-31",
     "to_date_kst": "2026-09-07",
     "retention_policy_days": 7
@@ -17,11 +17,11 @@
     "comparison_baseline": "수집 시점에 같은 상품 후보로 자동 매칭한 네이버 쇼핑 비교가"
   },
   "metrics": {
-    "active_verified_deals": 380,
-    "strict_comparable_deals": 246,
-    "median_savings_krw": 6605,
-    "median_discount_percent": 22.0,
-    "shipping_known_deals": 246,
+    "active_verified_deals": 379,
+    "strict_comparable_deals": 245,
+    "median_savings_krw": 6610,
+    "median_discount_percent": 22.1,
+    "shipping_known_deals": 245,
     "shipping_unknown_deals": 134,
     "coupang_deals": 31,
     "coupang_share_percent": 8.2,
@@ -37,12 +37,12 @@
     {
       "name": "식품",
       "count": 180,
-      "share_percent": 47.4
+      "share_percent": 47.5
     },
     {
       "name": "생활",
-      "count": 49,
-      "share_percent": 12.9
+      "count": 48,
+      "share_percent": 12.7
     },
     {
       "name": "패션",
@@ -103,8 +103,8 @@
     },
     {
       "name": "naver.me",
-      "count": 6,
-      "share_percent": 1.6
+      "count": 5,
+      "share_percent": 1.3
     },
     {
       "name": "무신사",
@@ -125,8 +125,8 @@
   "source_communities": [
     {
       "name": "뽐뿌",
-      "count": 250,
-      "share_percent": 65.8
+      "count": 249,
+      "share_percent": 65.7
     },
     {
       "name": "아카라이브",
@@ -136,7 +136,7 @@
     {
       "name": "에펨코리아",
       "count": 37,
-      "share_percent": 9.7
+      "share_percent": 9.8
     },
     {
       "name": "퀘이사존",
