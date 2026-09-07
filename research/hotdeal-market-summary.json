@@ -2,10 +2,10 @@
   "schema_version": "1.0",
   "dataset_name": "싼타임 현재 활성 온라인 핫딜 가격 비교 스냅샷",
   "canonical_url": "https://ssantime.com/research/",
-  "snapshot_updated_at": "2026-09-07T15:48:55.906308+00:00",
+  "snapshot_updated_at": "2026-09-07T17:58:41.763793+00:00",
   "active_record_span": {
-    "from": "2026-08-31T17:51:54.655422+00:00",
-    "to": "2026-09-07T15:48:55.906308+00:00",
+    "from": "2026-08-31T23:48:26.001004+00:00",
+    "to": "2026-09-07T17:58:41.763793+00:00",
     "from_date_kst": "2026-09-01",
     "to_date_kst": "2026-09-08",
     "retention_policy_days": 7
@@ -18,14 +18,14 @@
   },
   "metrics": {
     "active_verified_deals": 406,
-    "strict_comparable_deals": 252,
-    "median_savings_krw": 7208,
-    "median_discount_percent": 22.4,
-    "shipping_known_deals": 252,
-    "shipping_unknown_deals": 154,
+    "strict_comparable_deals": 253,
+    "median_savings_krw": 7140,
+    "median_discount_percent": 22.3,
+    "shipping_known_deals": 253,
+    "shipping_unknown_deals": 153,
     "coupang_deals": 36,
     "coupang_share_percent": 8.9,
-    "identified_marketplace_labels": 53,
+    "identified_marketplace_labels": 54,
     "marketplace_unknown_deals": 0
   },
   "categories": [
@@ -58,8 +58,8 @@
   "marketplaces": [
     {
       "name": "네이버 스마트스토어",
-      "count": 79,
-      "share_percent": 19.5
+      "count": 78,
+      "share_percent": 19.2
     },
     {
       "name": "롯데ON",
@@ -118,15 +118,15 @@
     },
     {
       "name": "기타 판매처",
-      "count": 55,
-      "share_percent": 13.5
+      "count": 56,
+      "share_percent": 13.8
     }
   ],
   "source_communities": [
     {
       "name": "뽐뿌",
-      "count": 255,
-      "share_percent": 62.8
+      "count": 256,
+      "share_percent": 63.1
     },
     {
       "name": "에펨코리아",
@@ -135,8 +135,8 @@
     },
     {
       "name": "아카라이브",
-      "count": 59,
-      "share_percent": 14.5
+      "count": 58,
+      "share_percent": 14.3
     },
     {
       "name": "퀘이사존",
