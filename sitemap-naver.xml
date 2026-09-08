@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ssantime.com/</loc>
-    <lastmod>2026-09-07</lastmod>
+    <lastmod>2026-09-08</lastmod>
   </url>
   <url>
     <loc>https://ssantime.com/category/</loc>
-    <lastmod>2026-09-07</lastmod>
+    <lastmod>2026-09-08</lastmod>
   </url>
   <url>
     <loc>https://ssantime.com/category/digital.html</loc>
-    <lastmod>2026-09-07</lastmod>
+    <lastmod>2026-09-08</lastmod>
   </url>
   <url>
     <loc>https://ssantime.com/category/food.html</loc>
@@ -18,7 +18,7 @@
   </url>
   <url>
     <loc>https://ssantime.com/category/living.html</loc>
-    <lastmod>2026-09-07</lastmod>
+    <lastmod>2026-09-08</lastmod>
   </url>
   <url>
     <loc>https://ssantime.com/category/fashion.html</loc>
@@ -115,6 +115,18 @@
   <url>
     <loc>https://ssantime.com/blog/msi-322up-272up-4k-oled-monitor.html</loc>
     <lastmod>2026-08-29</lastmod>
+  </url>
+  <url>
+    <loc>https://ssantime.com/deals/d2640680c619.html</loc>
+    <lastmod>2026-09-08</lastmod>
+  </url>
+  <url>
+    <loc>https://ssantime.com/deals/52551a609775.html</loc>
+    <lastmod>2026-09-08</lastmod>
+  </url>
+  <url>
+    <loc>https://ssantime.com/deals/af4e9b37ce2b.html</loc>
+    <lastmod>2026-09-08</lastmod>
   </url>
   <url>
     <loc>https://ssantime.com/deals/1f1d23e9f446.html</loc>
@@ -1735,13 +1747,5 @@
   <url>
     <loc>https://ssantime.com/deals/4eb29e84c230.html</loc>
     <lastmod>2026-09-01</lastmod>
-  </url>
-  <url>
-    <loc>https://ssantime.com/deals/2db9fa3559de.html</loc>
-    <lastmod>2026-08-31</lastmod>
-  </url>
-  <url>
-    <loc>https://ssantime.com/deals/b75b7c296635.html</loc>
-    <lastmod>2026-08-31</lastmod>
   </url>
 </urlset>
