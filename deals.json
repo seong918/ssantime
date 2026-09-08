@@ -1,5 +1,44 @@
 [
   {
+    "deal_id": "24363d77a25d",
+    "title": "[롯데온] 나이키 P-6000 2가지 롯데백화점 상품(70,308원/무료)",
+    "deal_total": 70308,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 73987,
+    "gap": 3679,
+    "mall_name": "네이버",
+    "buy_url": "https://s.lotteon.com/EcKJAY-1Yk",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=116&&no=732720",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6115190/61151905249.20260805143907.jpg?type=f300",
+    "created_iso": "2026-09-08T18:18:36.185831+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/61151905249",
+    "naver_product_id": "61151905249",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. 토스에서 롯데ON 2.5% 쿠폰 받기(롯데ON 혜택 2.5% 할인, 최대 3만원)\n2. 버튼 누르고 가서 30분 내에 토스로 결제하면 즉시 할인\n3. 스토어 즉시할인 22% -21,400원 적용\n4. 카드즉시할인/장바구니쿠폰 중 택1 적용(롯데카드 5% 즉시할인 -3,790원 / 토스페이 카드 5% 즉시할인 -3,790원 / 카카오페이 카드 5% 즉시할인 -3,790원 / 카카오페이 머니 5% 즉시할인 -3,790원)\n5. 토스프라임 혜택 최대 4% 적립\n※ 토스페이 카드로 결제 시 최종 70,308원",
+    "product_summary": "나이키 P-6000 러닝 감성의 레트로 스니커즈입니다.\n남성용 CD6404-002(블랙)와 여성용 BV1021-106(실버/화이트) 2가지 품목으로 구성됩니다.\n롯데백화점 나이키 공식 상품으로, 정상가 97,300원에서 21% 할인된 75,900원에 판매됩니다.",
+    "source_site": "ppomppu",
+    "category": "의류/잡화",
+    "category_bucket": "패션",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [
+      "https://s.lotteon.com/EcKJAY-1Yk"
+    ],
+    "tags": [
+      "나이키",
+      "Nike",
+      "P-6000",
+      "P6000",
+      "스니커즈",
+      "운동화",
+      "CD6404-002",
+      "BV1021-106",
+      "레트로러닝화"
+    ]
+  },
+  {
     "deal_id": "1a650cd103e8",
     "title": "동원 리챔 200g*4개+리챔 오믈레햄 200g*4개",
     "deal_total": 12371,
