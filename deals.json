@@ -1,5 +1,43 @@
 [
   {
+    "deal_id": "0f12b8e09fee",
+    "title": "[11번가] 9800X3D + RTX5070Ti + 32G + 1TB",
+    "deal_total": 3399000,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 3884000,
+    "gap": 485000,
+    "mall_name": null,
+    "buy_url": "https://bitl.bz/api@XblgAG9o",
+    "source_url": "https://quasarzone.com/bbs/qb_saleinfo/views/1984600",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_9110281/91102812216.1.jpg?type=f300",
+    "created_iso": "2026-09-08T07:03:44.888678+00:00",
+    "naver_url": null,
+    "naver_product_id": "91102812216",
+    "buy_url_orig": "https://www.11st.co.kr/products/8326399232",
+    "price_label": "",
+    "discount_guide": "1. 11번가 모바일앱 또는 PC 바로가기로 접속해야 혜택가 적용이 됩니다\n2. 즉시할인 + 장바구니 + 카드할인 적용 시 최종 혜택가 3,399,000원\n3. 상세페이지 혜택으로 엔딥 컨트롤레조넌트 증정\n4. 상세페이지 혜택으로 AMD CPU 귀무자 증정\n5. 보드 리뷰 페이 5,000원\n※ 11번가라 모바일앱 또는 PC 바로가기 접속이 필수입니다",
+    "product_summary": "AMD Ryzen 7 9800X3D와 RTX 5070 Ti를 탑재한 조립 PC 세트입니다.\n메인보드는 ASUS TUF Gaming B650EM-E WIFI, 그래픽카드는 MANLI 지포스 RTX 5070 Ti Nebula D7 16GB, CPU 쿨러는 3RSYS Socoool RC1900 ARGB 솔더링으로 구성됩니다.\n메모리는 HIKSEMI DDR5-5600 CL46 32GB(16GB x 2), 저장장치는 HIKSEMI FUTURE Lite M.2 NVMe 1TB이며, 케이스는 잘만 i8 백사십 터보입니다.\n파워는 잘만 MegaMax II 800W 80PLUS 브론즈 ATX3.1이고 운영체제는 Free Dos로 윈도우는 미탑재입니다.",
+    "source_site": "quasarzone",
+    "category": "PC/하드웨어",
+    "category_bucket": "전자",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "9800X3D",
+      "AMD Ryzen",
+      "RTX 5070 Ti",
+      "MANLI",
+      "조립PC",
+      "게이밍PC",
+      "ASUS B650EM-E",
+      "DDR5",
+      "데스크탑",
+      "지포스"
+    ]
+  },
+  {
     "deal_id": "9aa1bea29e65",
     "title": "[컴퓨존] HyperX 오멘 15-gb0052AX (카드1,399,000원 / 무료)",
     "deal_total": 1399000,
@@ -15732,7 +15770,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://mgmall.cyso.co.kr/coupon/list",
       "https://mgmall.cyso.co.kr/item/detail?id=10035201&saleItemNo=1693524025",
@@ -15772,7 +15810,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://shopping.naver.com/festa/onsale/699ceb9398f1530c6f40ef49"
     ],
@@ -15812,7 +15850,7 @@
     "category": "디지털",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "삼성",
@@ -15849,7 +15887,7 @@
     "category": "PC/하드웨어",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "카멜마운트",
@@ -15884,7 +15922,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "농심",
@@ -15920,7 +15958,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "삼광미",
