@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "b7372e216156",
+    "title": "[롯데온] 나주배 선물세트 고급 1호 (5kg 5-8과) (26,910원/무료)",
+    "deal_total": 26910,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 35500,
+    "gap": 8590,
+    "mall_name": null,
+    "buy_url": "https://www.lotteon.com/p/product/bundle/LO2755359504",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=116&&no=732999",
+    "image_src_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fshop-phinf.pstatic.net%2F20260821_253%2F1787304037246qRfmE_JPEG%2F17304490313295631_1117622209.jpg&type=f372_372",
+    "created_iso": "2026-09-09T14:40:06.397737+00:00",
+    "naver_url": null,
+    "naver_product_id": "91273994040",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. 롯데ON 즉시할인 25% -9,970원\n2. [온세일] 20% 쿠폰 -5,000원 (1장)\n3. 푸드데이 10%할인쿠폰 -2,000원 (1장)\n4. 스토어쿠폰: 과일꾼 찜하기 1,000원 쿠폰 -1,000원 (5장)\n5. 카드즉시할인: 롯데카드 7% 즉시할인 -2,020원\n6. 카드즉시할인: KB국민카드 7% 즉시할인 -2,020원\n※ 카드즉시할인/장바구니쿠폰은 주문서에서 확인해 보세요.",
+    "product_summary": "나주배 고급 1호 과일 선물세트입니다.\n5kg 용량에 배 5~8과가 담겨 있습니다.\n주문 시 배송 메세지에 발송일 지정이 가능합니다.\n샤인머스켓, 곶감 등 다른 선물세트 구성도 함께 판매됩니다.",
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "나주배",
+      "배 선물세트",
+      "과일선물세트",
+      "명절선물",
+      "추석선물",
+      "과일꾼",
+      "고급 1호",
+      "5kg"
+    ]
+  },
+  {
     "deal_id": "8e8d23093e63",
     "title": "[롯데온] 26년 산지직송 부여 햇밤(대) 1kg~3kg (8,310원~/무료)",
     "deal_total": 8310,
@@ -16924,7 +16960,7 @@
     "category": "취미용품",
     "category_bucket": "생활",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "미니특공대",
@@ -16960,7 +16996,7 @@
     "category": "기타",
     "category_bucket": "패션",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "아디다스",
@@ -16997,7 +17033,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "홍삼정",
@@ -17032,7 +17068,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "닭발",
@@ -17068,7 +17104,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "블랙야크키즈",
