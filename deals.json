@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "932cd3fb8a64",
+    "title": "[롯데온] 영덕 마른 오징어 10미 (25,900원/무료)",
+    "deal_total": 25900,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 32900,
+    "gap": 7000,
+    "mall_name": null,
+    "buy_url": "https://www.lotteon.com/m/product/LO2114289557",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=116&&no=733307",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_8123718/81237189577.5.jpg?type=f300",
+    "created_iso": "2026-09-10T11:22:46.385800+00:00",
+    "naver_url": null,
+    "naver_product_id": "81237189577",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. 수산대전 20% 쿠폰 적용 (43,500원 → 20% 34,800원)\n2. 나의 혜택가 25,900원",
+    "product_summary": "영덕 마른 오징어(건오징어)입니다.\n총 10마리로 구성되며, 파품 400g 10미 내외 옵션 기준입니다.\n판매처는 '건어물이좋다'입니다.",
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "마른오징어",
+      "건오징어",
+      "영덕오징어",
+      "오징어",
+      "영덕",
+      "건어물",
+      "파품오징어",
+      "수산물"
+    ]
+  },
+  {
     "deal_id": "55bc8400d7c1",
     "title": "[11번가] 갤럭시북6 프로 NT960XJG-K51A (2,349,040원 / 무료배송)",
     "deal_total": 2349040,
@@ -17097,7 +17133,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "복숭아",
@@ -17134,7 +17170,7 @@
     "category": "디지털",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "젠하이저",
@@ -17171,7 +17207,7 @@
     "category": "컴퓨터",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "조립PC",
@@ -17209,7 +17245,7 @@
     "category": "가전/가구",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "JBL",
@@ -17246,7 +17282,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "펩시",
