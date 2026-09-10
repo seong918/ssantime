@@ -17300,7 +17300,7 @@
     "category": "컴퓨터",
     "category_bucket": "전자",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "MSI",
@@ -17338,7 +17338,7 @@
     "category": "식품/건강",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -17365,7 +17365,7 @@
     "category": "의류/잡화",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
