@@ -3854,7 +3854,7 @@
     "source_site": "quasarzone",
     "category": "생활/식품",
     "category_bucket": "생활",
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [],
     "tags": [
@@ -18043,7 +18043,7 @@
     "category": "디지털",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "뷰앤디",
@@ -18079,7 +18079,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "풍년",
