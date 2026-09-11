@@ -1,5 +1,42 @@
 [
   {
+    "deal_id": "2f9b94871adc",
+    "title": "틈새라면 빨계떡 120g, 10개",
+    "deal_total": 7630,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 11900,
+    "gap": 4270,
+    "mall_name": null,
+    "buy_url": "https://link.coupang.com/a/gYkB9XAxQy",
+    "source_url": "https://www.fmkorea.com/10324653982",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_8738577/87385771632.1.jpg?type=f300",
+    "created_iso": "2026-09-11T23:35:49.853674+00:00",
+    "naver_url": null,
+    "naver_product_id": "87385771632",
+    "buy_url_orig": "https://link.coupang.com/a/gYhgEp05ZY",
+    "price_label": "7,630원",
+    "discount_guide": null,
+    "product_summary": "팔도 틈새라면 빨계떡(오리지널) 인스턴트 봉지라면입니다.\n120g 낱개 10개(5개입 X 2팩) 구성입니다.\n매운맛 단계 SHU 1000의 강렬한 매운맛이 특징인 유탕면입니다.\n원산지는 상품 상세설명을 참고하시기 바랍니다.",
+    "source_site": "fmkorea",
+    "category": "먹거리",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "틈새라면",
+      "빨계떡",
+      "오리지널",
+      "팔도",
+      "paldo",
+      "봉지라면",
+      "매운라면",
+      "인스턴트라면",
+      "SHU1000"
+    ]
+  },
+  {
     "deal_id": "7710ee005579",
     "title": "닛신 식품 돈베이 키츠네 우동 (동쪽) 96gx12 개",
     "deal_total": 18920,
@@ -167,7 +204,7 @@
     "source_site": "fmkorea",
     "category": "먹거리",
     "category_bucket": "식품",
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [],
     "tags": [
@@ -18110,7 +18147,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://ozip.me/TifBddg"
     ],
