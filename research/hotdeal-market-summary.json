@@ -17,12 +17,12 @@
     "comparison_baseline": "수집 시점에 같은 상품 후보로 자동 매칭한 네이버 쇼핑 비교가"
   },
   "metrics": {
-    "active_verified_deals": 483,
+    "active_verified_deals": 482,
     "strict_comparable_deals": 255,
     "median_savings_krw": 7100,
     "median_discount_percent": 23.2,
     "shipping_known_deals": 256,
-    "shipping_unknown_deals": 227,
+    "shipping_unknown_deals": 226,
     "coupang_deals": 53,
     "coupang_share_percent": 11.0,
     "identified_marketplace_labels": 58,
@@ -31,13 +31,13 @@
   "categories": [
     {
       "name": "전자",
-      "count": 133,
-      "share_percent": 27.5
+      "count": 132,
+      "share_percent": 27.4
     },
     {
       "name": "식품",
       "count": 220,
-      "share_percent": 45.5
+      "share_percent": 45.6
     },
     {
       "name": "생활",
@@ -47,7 +47,7 @@
     {
       "name": "패션",
       "count": 62,
-      "share_percent": 12.8
+      "share_percent": 12.9
     },
     {
       "name": "기타",
@@ -59,7 +59,7 @@
     {
       "name": "네이버 스마트스토어",
       "count": 104,
-      "share_percent": 21.5
+      "share_percent": 21.6
     },
     {
       "name": "롯데ON",
@@ -78,8 +78,8 @@
     },
     {
       "name": "G마켓",
-      "count": 44,
-      "share_percent": 9.1
+      "count": 43,
+      "share_percent": 8.9
     },
     {
       "name": "카카오 스토어",
@@ -109,12 +109,12 @@
     {
       "name": "29CM",
       "count": 7,
-      "share_percent": 1.4
+      "share_percent": 1.5
     },
     {
       "name": "SK스토아",
       "count": 7,
-      "share_percent": 1.4
+      "share_percent": 1.5
     },
     {
       "name": "기타 판매처",
@@ -126,12 +126,12 @@
     {
       "name": "뽐뿌",
       "count": 262,
-      "share_percent": 54.2
+      "share_percent": 54.4
     },
     {
       "name": "에펨코리아",
       "count": 141,
-      "share_percent": 29.2
+      "share_percent": 29.3
     },
     {
       "name": "아카라이브",
@@ -140,8 +140,8 @@
     },
     {
       "name": "퀘이사존",
-      "count": 22,
-      "share_percent": 4.6
+      "count": 21,
+      "share_percent": 4.4
     },
     {
       "name": "루리웹",
