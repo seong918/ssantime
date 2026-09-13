@@ -1,5 +1,43 @@
 [
   {
+    "deal_id": "f5921a2a922d",
+    "title": "[기타] 아디다스 SL 72 OG - 브라운 / JR7527",
+    "deal_total": 65790,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 77400,
+    "gap": 11610,
+    "mall_name": null,
+    "buy_url": "https://www.29cm.co.kr/products/3377182",
+    "source_url": "https://quasarzone.com/bbs/qb_saleinfo/views/1985604",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6046382/60463827463.2.jpg?type=f300",
+    "created_iso": "2026-09-13T07:42:27.151804+00:00",
+    "naver_url": null,
+    "naver_product_id": "60463827463",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. 쿠폰받기 적용 시 40% 할인가 77,400원 (정가 129,000원)\n2. 첫 구매가 49% 65,790원\n3. 무신사 삼성카드 결제 시 35,790원\n4. 무신사머니 포인트 최대 7,740원 적립 (무신사 삼성카드 결제 시 최대 10% 적립)\n※ 최대 6개월 무이자 할부 시 월 12,900원 결제\n※ 무료배송, 제주/도서산간 3,000원 추가",
+    "product_summary": "아디다스 SL 72 OG 브라운 컬러 스니커즈입니다 (모델명 JR7527).\n스웨이드 소재에 화이트 스트라이프가 어우러진 레트로 러닝화 디자인입니다.\n현재 220부터 280까지 사이즈 재고가 있으며, 화이트 컬러는 가격이 더 높습니다.\n착화감은 좋은 편이나 통풍은 다소 아쉬우며, 볼이 좁은 발은 반 사이즈(5mm) 다운, 발볼이 넓은 발은 정사이즈 착용을 권장합니다.",
+    "source_site": "quasarzone",
+    "category": "패션/의류",
+    "category_bucket": "패션",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "아디다스",
+      "adidas",
+      "SL 72",
+      "SL72 OG",
+      "JR7527",
+      "스니커즈",
+      "운동화",
+      "브라운",
+      "레트로 스니커즈",
+      "스웨이드"
+    ]
+  },
+  {
     "deal_id": "23f8413316e9",
     "title": "[롯데온] CQR 스웨이드 워크 가을 남자 셔츠자켓 (37,770원/무료)",
     "deal_total": 37770,
@@ -18265,7 +18303,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://shopping.naver.com/festa/gift/6a4f6512ed642b19b9c1c59c"
     ],
@@ -18305,7 +18343,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "내셔널지오그래픽",
@@ -18341,7 +18379,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "구운계란",
@@ -18378,7 +18416,7 @@
     "category": "의류",
     "category_bucket": "패션",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "언더아머",
