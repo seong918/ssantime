@@ -18011,7 +18011,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "황금향",
@@ -18046,7 +18046,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://deptapp.shinsegae.com/bxch4q"
     ],
@@ -70778,7 +70778,7 @@
     "source_site": "ppomppu",
     "category": "식품/건강",
     "category_bucket": "식품",
-    "is_end": false,
+    "is_end": true,
     "is_expired": true,
     "coupon_urls": [],
     "tags": [
