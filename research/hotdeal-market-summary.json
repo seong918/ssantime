@@ -2,10 +2,10 @@
   "schema_version": "1.0",
   "dataset_name": "싼타임 현재 활성 온라인 핫딜 가격 비교 스냅샷",
   "canonical_url": "https://ssantime.com/research/",
-  "snapshot_updated_at": "2026-09-13T22:29:34.110458+00:00",
+  "snapshot_updated_at": "2026-09-13T23:22:43.496856+00:00",
   "active_record_span": {
     "from": "2026-09-06T23:57:24.017849+00:00",
-    "to": "2026-09-13T22:29:34.110458+00:00",
+    "to": "2026-09-13T23:22:43.496856+00:00",
     "from_date_kst": "2026-09-07",
     "to_date_kst": "2026-09-14",
     "retention_policy_days": 7
@@ -31,13 +31,13 @@
   "categories": [
     {
       "name": "전자",
-      "count": 132,
-      "share_percent": 28.0
+      "count": 131,
+      "share_percent": 27.8
     },
     {
       "name": "식품",
-      "count": 215,
-      "share_percent": 45.6
+      "count": 216,
+      "share_percent": 45.8
     },
     {
       "name": "생활",
@@ -130,13 +130,13 @@
     },
     {
       "name": "에펨코리아",
-      "count": 144,
-      "share_percent": 30.5
+      "count": 143,
+      "share_percent": 30.3
     },
     {
       "name": "아카라이브",
-      "count": 45,
-      "share_percent": 9.5
+      "count": 46,
+      "share_percent": 9.7
     },
     {
       "name": "퀘이사존",
