@@ -1,5 +1,42 @@
 [
   {
+    "deal_id": "4fd5a1f0f6ac",
+    "title": "[예판런]닌텐도 스위치 2 테일즈 오브 어라이즈 / 33,920원 무배",
+    "deal_total": 33920,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 41800,
+    "gap": 7880,
+    "mall_name": null,
+    "buy_url": "https://smartstore.naver.com/yepanrun/category/fe006d9a5bd54fe6929c25fd9f288bba?cp=1",
+    "source_url": "https://bbs.ruliweb.com/market/board/1020/read/107167",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_9104064/91040645583.jpg?type=f300",
+    "created_iso": "2026-09-13T02:04:44.681066+00:00",
+    "naver_url": null,
+    "naver_product_id": "91040645583",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. 멤버십할인가 적용 (정가 49,800원 → 22% 38,800원 → 33,920원)\n2. 추석쿠폰 받아 적용\n※ 4,000원 적립 제공, 무료교환반품",
+    "product_summary": "닌텐도 스위치2용 소프트웨어 '테일즈 오브 어라이즈 비욘드 더 던'입니다.\n닌텐도 스위치2 전용 게임 타이틀입니다.\n무료교환반품이 지원되며, 오늘배송 시 9.13(일) 도착 예정입니다.",
+    "source_site": "ruliweb",
+    "category": "게임S/W",
+    "category_bucket": "전자",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "닌텐도",
+      "Nintendo",
+      "스위치2",
+      "Switch 2",
+      "테일즈 오브 어라이즈",
+      "Tales of Arise",
+      "비욘드 더 던",
+      "게임",
+      "게임 타이틀"
+    ]
+  },
+  {
     "deal_id": "5b4f760ae296",
     "title": "[11번가] 극조생 감귤 3kg 중과 (7,900원/무료)",
     "deal_total": 7900,
@@ -94,7 +131,7 @@
     "source_site": "fmkorea",
     "category": "의류",
     "category_bucket": "패션",
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [
       "https://www.29cm.co.kr/products/3968648"
@@ -18408,7 +18445,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "선담지",
@@ -18443,7 +18480,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "호정가",
@@ -18515,7 +18552,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "잭니클라우스",
@@ -18551,7 +18588,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "타미힐피거",
@@ -18589,7 +18626,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "카파",
@@ -18625,7 +18662,7 @@
     "category": "의류",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "HANES",
@@ -18661,7 +18698,7 @@
     "category": "PC제품",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "MSI",
@@ -18699,7 +18736,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "이디야",
@@ -18736,7 +18773,7 @@
     "category": "기타",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "QCY",
