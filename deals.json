@@ -1,5 +1,42 @@
 [
   {
+    "deal_id": "2210c7f6ed68",
+    "title": "[네이버] 63평량 앙블랑물티슈 네오 라일락 20팩",
+    "deal_total": 14900,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 18400,
+    "gap": 3500,
+    "mall_name": "네이버",
+    "buy_url": "https://smartstore.naver.com/enblancskincare/products/13675231356",
+    "source_url": "https://quasarzone.com/bbs/qb_saleinfo/views/1986004",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5192958/51929584803.20241213221626.jpg?type=f300",
+    "created_iso": "2026-09-14T11:03:53.626883+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/51929584803",
+    "naver_product_id": "51929584803",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. '알림받기' 하면 3,000원 쿠폰 지급\n2. 65% 할인 적용가 17,900원, 쿠폰·혜택 적용 시 14,900원 최대할인가\n3. 멤버십 전용카드 결제 시 최대 15% 적립 포인트\n4. 라인프렌즈 카드 결제 시 최대 298원(2%) 추가 적립\n※ 네이버멤버십 있으면 3,500원 멤버십 N배송 무료배송 적용",
+    "product_summary": "앙블랑 네오 라일락 캡형 물티슈입니다.\n63평량 원단에 초순수 워터를 사용한 무라벨 제품입니다.\n1팩당 72매로 구성된 20팩 세트입니다.",
+    "source_site": "quasarzone",
+    "category": "생활/식품",
+    "category_bucket": "생활",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "앙블랑",
+      "앙블랑물티슈",
+      "물티슈",
+      "네오",
+      "라일락",
+      "캡형",
+      "초순수",
+      "무라벨",
+      "63평량"
+    ]
+  },
+  {
     "deal_id": "231f2417d070",
     "title": "[11번가] 빙탄복 370ml 6병입 + 전용잔 증정 (22,800원/무료)",
     "deal_total": 22800,
@@ -17911,7 +17948,7 @@
     "category": "가전/가구",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "삼성",
@@ -17949,7 +17986,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "에디션 센서빌리티",
@@ -17987,7 +18024,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "덴티스테",
@@ -18023,7 +18060,7 @@
     "category": "가전/TV",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "LG",
@@ -18061,7 +18098,7 @@
     "category": "먹거리",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "키오시아",
@@ -18099,7 +18136,7 @@
     "category": "가전제품",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "베이스어스",
