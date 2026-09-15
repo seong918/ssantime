@@ -21,7 +21,7 @@
     "source_site": "ruliweb",
     "category": "게임S/W",
     "category_bucket": "전자",
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [],
     "tags": [
@@ -131,7 +131,7 @@
     "source_site": "fmkorea",
     "category": "가전제품",
     "category_bucket": "전자",
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [],
     "tags": [

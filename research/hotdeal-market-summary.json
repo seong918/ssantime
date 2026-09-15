@@ -17,37 +17,37 @@
     "comparison_baseline": "수집 시점에 같은 상품 후보로 자동 매칭한 네이버 쇼핑 비교가"
   },
   "metrics": {
-    "active_verified_deals": 456,
+    "active_verified_deals": 454,
     "strict_comparable_deals": 228,
     "median_savings_krw": 6690,
     "median_discount_percent": 22.6,
     "shipping_known_deals": 229,
-    "shipping_unknown_deals": 227,
-    "coupang_deals": 48,
-    "coupang_share_percent": 10.5,
+    "shipping_unknown_deals": 225,
+    "coupang_deals": 46,
+    "coupang_share_percent": 10.1,
     "identified_marketplace_labels": 56,
     "marketplace_unknown_deals": 0
   },
   "categories": [
     {
       "name": "전자",
-      "count": 107,
-      "share_percent": 23.5
+      "count": 105,
+      "share_percent": 23.1
     },
     {
       "name": "식품",
       "count": 230,
-      "share_percent": 50.4
+      "share_percent": 50.7
     },
     {
       "name": "생활",
       "count": 62,
-      "share_percent": 13.6
+      "share_percent": 13.7
     },
     {
       "name": "패션",
       "count": 49,
-      "share_percent": 10.7
+      "share_percent": 10.8
     },
     {
       "name": "기타",
@@ -59,7 +59,7 @@
     {
       "name": "네이버 스마트스토어",
       "count": 113,
-      "share_percent": 24.8
+      "share_percent": 24.9
     },
     {
       "name": "롯데ON",
@@ -68,13 +68,13 @@
     },
     {
       "name": "쿠팡",
-      "count": 48,
-      "share_percent": 10.5
+      "count": 46,
+      "share_percent": 10.1
     },
     {
       "name": "11번가",
       "count": 44,
-      "share_percent": 9.6
+      "share_percent": 9.7
     },
     {
       "name": "G마켓",
@@ -119,19 +119,19 @@
     {
       "name": "기타 판매처",
       "count": 75,
-      "share_percent": 16.4
+      "share_percent": 16.5
     }
   ],
   "source_communities": [
     {
       "name": "뽐뿌",
       "count": 236,
-      "share_percent": 51.8
+      "share_percent": 52.0
     },
     {
       "name": "에펨코리아",
-      "count": 134,
-      "share_percent": 29.4
+      "count": 133,
+      "share_percent": 29.3
     },
     {
       "name": "아카라이브",
@@ -145,8 +145,8 @@
     },
     {
       "name": "루리웹",
-      "count": 11,
-      "share_percent": 2.4
+      "count": 10,
+      "share_percent": 2.2
     }
   ],
   "methodology": [
