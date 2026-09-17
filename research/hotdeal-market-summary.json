@@ -17,27 +17,27 @@
     "comparison_baseline": "수집 시점에 같은 상품 후보로 자동 매칭한 네이버 쇼핑 비교가"
   },
   "metrics": {
-    "active_verified_deals": 437,
+    "active_verified_deals": 436,
     "strict_comparable_deals": 206,
     "median_savings_krw": 7040,
     "median_discount_percent": 22.6,
     "shipping_known_deals": 206,
-    "shipping_unknown_deals": 231,
-    "coupang_deals": 50,
-    "coupang_share_percent": 11.4,
+    "shipping_unknown_deals": 230,
+    "coupang_deals": 49,
+    "coupang_share_percent": 11.2,
     "identified_marketplace_labels": 59,
     "marketplace_unknown_deals": 0
   },
   "categories": [
     {
       "name": "전자",
-      "count": 98,
-      "share_percent": 22.4
+      "count": 97,
+      "share_percent": 22.2
     },
     {
       "name": "식품",
       "count": 221,
-      "share_percent": 50.6
+      "share_percent": 50.7
     },
     {
       "name": "생활",
@@ -47,7 +47,7 @@
     {
       "name": "패션",
       "count": 53,
-      "share_percent": 12.1
+      "share_percent": 12.2
     },
     {
       "name": "기타",
@@ -68,8 +68,8 @@
     },
     {
       "name": "쿠팡",
-      "count": 50,
-      "share_percent": 11.4
+      "count": 49,
+      "share_percent": 11.2
     },
     {
       "name": "11번가",
@@ -119,19 +119,19 @@
     {
       "name": "기타 판매처",
       "count": 78,
-      "share_percent": 17.8
+      "share_percent": 17.9
     }
   ],
   "source_communities": [
     {
       "name": "뽐뿌",
       "count": 211,
-      "share_percent": 48.3
+      "share_percent": 48.4
     },
     {
       "name": "에펨코리아",
-      "count": 140,
-      "share_percent": 32.0
+      "count": 139,
+      "share_percent": 31.9
     },
     {
       "name": "아카라이브",
@@ -146,7 +146,7 @@
     {
       "name": "루리웹",
       "count": 12,
-      "share_percent": 2.7
+      "share_percent": 2.8
     }
   ],
   "methodology": [
