@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "b97610b20018",
+    "title": "[네이버] 풀무원 녹용진 선물세트 3박스 (44,010원/무료)",
+    "deal_total": 44010,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 49900,
+    "gap": 5890,
+    "mall_name": null,
+    "buy_url": "https://brand.naver.com/pulmuonehealth/products/9470850859",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=116&&no=735254",
+    "image_src_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fshop-phinf.pstatic.net%2F20260729_19%2F1785287503131IDEYB_JPEG%2F1721423240919631_1320395673.jpg&type=f372_372",
+    "created_iso": "2026-09-17T14:23:15.865078+00:00",
+    "naver_url": null,
+    "naver_product_id": "87015351182",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "슈퍼적립 대상 상품으로, 구매 시 적립금이 적립되어 체감가가 더 저렴해집니다.",
+    "product_summary": "풀무원 녹용진 선물세트입니다.\n발효녹용추출물 0.5%가 함유된 고형분 제품으로, 50ml(35kcal) 파우치로 구성되어 있습니다.\n한 세트당 총 용량은 500ml(350kcal)이며, 총 3박스로 제공됩니다.\n쇼핑백이 함께 포함된 선물세트 구성입니다.",
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "풀무원",
+      "Pulmuone",
+      "녹용진",
+      "녹용",
+      "발효녹용",
+      "건강식품",
+      "선물세트",
+      "녹용진액"
+    ]
+  },
+  {
     "deal_id": "6b90302b0f6e",
     "title": "[네이버] 토일럿 욕실세정제 자작나무수액 500ml 3개 추석특가 최대 50% 할인 (44,000원~/무료)",
     "deal_total": 44000,
@@ -16731,7 +16767,7 @@
     "category": "식품/건강",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "킨",
@@ -16768,7 +16804,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "머스크멜론",
@@ -16804,7 +16840,7 @@
     "category": "디지털",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "산장",
