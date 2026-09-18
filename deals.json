@@ -1,5 +1,43 @@
 [
   {
+    "deal_id": "ca8b7d8b7e58",
+    "title": "LG 울트라기어 OLED 32GS95UVW UHD 게이밍모니터",
+    "deal_total": 1119300,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 1279800,
+    "gap": 160500,
+    "mall_name": "네이버",
+    "buy_url": "https://bitl.bz/api@GMTomQoV",
+    "source_url": "https://www.fmkorea.com/10349290028",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5285748/52857480561.20250206164557.jpg?type=f300",
+    "created_iso": "2026-09-18T10:47:09.590187+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/52857480561",
+    "naver_product_id": "52857480561",
+    "buy_url_orig": "https://link.gmarket.co.kr/53nArwoV1j",
+    "price_label": "1,119,300원",
+    "discount_guide": "1. 판매금액 1,773,000원\n2. 10% 쿠폰할인 (상품페이지 적용) -177,300원\n3. 30만 쿠폰할인 (상품페이지 적용) -305,400원\n4. 7% 카드할인 (결제페이지 적용) -90,320원 → 최종할인가 1,199,980원\n5. 지마켓/삼성카드 10% 결제 시 1,190,300원\n6. 스마일캐시 적립 (꼭멤버십 혜택) 최대 29,999원\n7. 20시~21시 신세계 상품권 5만원 (라이브 구매인증 혜택)\n8. 20시~21시 스마일캐시 적립 5만원 (라이브 구매 혜택) → 최대체감가 1,069,824원\n※ 카드·쿠폰·상품권·적립 종류별로 적용 페이지(상품페이지/결제페이지)와 조건(꼭멤버십, 라이브 구매인증)이 다릅니다.",
+    "product_summary": "LG 울트라기어 32GS95UVW는 32인치 OLED UHD 게이밍 모니터입니다.\n4K UHD(3840x2160) 해상도에 240Hz 주사율을 지원하며, 듀얼 모드에서 FHD 480Hz로 사용할 수 있고 응답속도는 0.03ms입니다.\n밝기는 표준 275nit·최대 1,300nit, 명암비 1,500,000:1, DCI-P3 98.5%, DisplayHDR True Black 400을 지원하며 7W 2채널 스피커를 갖췄습니다.\n틸트·스위블·피벗·높낮이 조절 스탠드와 VESA 100x100mm 벽걸이, DP 1.4·HDMI 2.1 x2·USB 단자를 제공하고 화이트 색상 모델입니다.",
+    "source_site": "fmkorea",
+    "category": "PC제품",
+    "category_bucket": "전자",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "LG",
+      "울트라기어",
+      "32GS95UVW",
+      "OLED모니터",
+      "게이밍모니터",
+      "4K UHD",
+      "240Hz",
+      "480Hz",
+      "UltraGear",
+      "모니터"
+    ]
+  },
+  {
     "deal_id": "69d77a4506d3",
     "title": "[네이버] 남녀공용 배색 바람막이 (29,000원/무료)",
     "deal_total": 29000,
@@ -16141,7 +16179,7 @@
     "category": "컴퓨터",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "LG전자",
@@ -16178,7 +16216,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "아이더",
@@ -16214,7 +16252,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "네파",
@@ -16252,7 +16290,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "피지",
@@ -16288,7 +16326,7 @@
     "category": "PC제품",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "인텔 225F",
