@@ -17,11 +17,11 @@
     "comparison_baseline": "수집 시점에 같은 상품 후보로 자동 매칭한 네이버 쇼핑 비교가"
   },
   "metrics": {
-    "active_verified_deals": 414,
-    "strict_comparable_deals": 202,
-    "median_savings_krw": 6694,
+    "active_verified_deals": 413,
+    "strict_comparable_deals": 201,
+    "median_savings_krw": 6688,
     "median_discount_percent": 22.5,
-    "shipping_known_deals": 202,
+    "shipping_known_deals": 201,
     "shipping_unknown_deals": 212,
     "coupang_deals": 46,
     "coupang_share_percent": 11.1,
@@ -37,12 +37,12 @@
     {
       "name": "식품",
       "count": 217,
-      "share_percent": 52.4
+      "share_percent": 52.5
     },
     {
       "name": "생활",
-      "count": 58,
-      "share_percent": 14.0
+      "count": 57,
+      "share_percent": 13.8
     },
     {
       "name": "패션",
@@ -52,19 +52,19 @@
     {
       "name": "기타",
       "count": 6,
-      "share_percent": 1.4
+      "share_percent": 1.5
     }
   ],
   "marketplaces": [
     {
       "name": "네이버 스마트스토어",
       "count": 104,
-      "share_percent": 25.1
+      "share_percent": 25.2
     },
     {
       "name": "롯데ON",
       "count": 66,
-      "share_percent": 15.9
+      "share_percent": 16.0
     },
     {
       "name": "쿠팡",
@@ -73,8 +73,8 @@
     },
     {
       "name": "G마켓",
-      "count": 29,
-      "share_percent": 7.0
+      "count": 28,
+      "share_percent": 6.8
     },
     {
       "name": "11번가",
@@ -114,19 +114,19 @@
     {
       "name": "naver.me",
       "count": 6,
-      "share_percent": 1.4
+      "share_percent": 1.5
     },
     {
       "name": "기타 판매처",
       "count": 75,
-      "share_percent": 18.1
+      "share_percent": 18.2
     }
   ],
   "source_communities": [
     {
       "name": "뽐뿌",
-      "count": 206,
-      "share_percent": 49.8
+      "count": 205,
+      "share_percent": 49.6
     },
     {
       "name": "에펨코리아",
@@ -141,7 +141,7 @@
     {
       "name": "아카라이브",
       "count": 30,
-      "share_percent": 7.2
+      "share_percent": 7.3
     },
     {
       "name": "루리웹",
