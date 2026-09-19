@@ -1,5 +1,40 @@
 [
   {
+    "deal_id": "050cd0b50ef8",
+    "title": "백색 유정란 60구(대란)",
+    "deal_total": 14792,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 19450,
+    "gap": 4658,
+    "mall_name": null,
+    "buy_url": "https://bitl.bz/api@jJv2Vob3",
+    "source_url": "https://arca.live/b/hotdeal/183466147",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_8446266/84462663961.1.jpg?type=f300",
+    "created_iso": "2026-09-19T07:37:43.603941+00:00",
+    "naver_url": null,
+    "naver_product_id": "84462663961",
+    "buy_url_orig": "https://ohou.se/productions/4192170/selling",
+    "price_label": "14,792원",
+    "discount_guide": "1. 쿠폰 받기\n2. 토스페이로 결제\n➡️ 최종 결제가 대란 60구 14,792원",
+    "product_summary": "백색 유정란 60구 제품입니다.\n대란 크기의 계란 60구로 구성되어 있습니다.",
+    "source_site": "arca",
+    "category": "식품",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "유정란",
+      "백색유정란",
+      "계란",
+      "달걀",
+      "대란",
+      "60구",
+      "달걀60구"
+    ]
+  },
+  {
     "deal_id": "6133a2a7fbec",
     "title": "[롯데온] 제스프리 골드키위 2kg 선물세트 (대과 18개입) (28,410원/무료)",
     "deal_total": 28410,
@@ -15548,7 +15583,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "아디다스",
@@ -15584,7 +15619,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "짜파게티",
@@ -15620,7 +15655,7 @@
     "category": "의류",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "노티그",
@@ -15658,7 +15693,7 @@
     "category": "가전제품",
     "category_bucket": "전자",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "로이드미",
