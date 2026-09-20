@@ -1,5 +1,44 @@
 [
   {
+    "deal_id": "a07721850ec2",
+    "title": "Aula 독거미 F108 유무선 기계식 키보드 저소음축",
+    "deal_total": 37710,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 41480,
+    "gap": 3770,
+    "mall_name": null,
+    "buy_url": "https://smartstore.naver.com/cmx/products/12080663152",
+    "source_url": "https://www.fmkorea.com/10359152215",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_8969802/89698028167.jpg?type=f300",
+    "created_iso": "2026-09-20T22:51:50.052653+00:00",
+    "naver_url": null,
+    "naver_product_id": "89698028167",
+    "buy_url_orig": "",
+    "price_label": "멤버십37,710원",
+    "discount_guide": "1. 멤버십 쿠폰을 받으면 37,710원(멤버십할인가)에 구매할 수 있습니다.\n2. 오후 10시에 직구 쿠폰이 열리면 약 34,000원까지 낮아질 것으로 보입니다.\n※ 정가 79,000원 → 46% 할인 41,900원 → 멤버십할인가 37,710원",
+    "product_summary": "Aula 독거미 F108 유무선 기계식 키보드입니다.\n저소음(경우축) 스위치를 적용한 제품입니다.\n핑크, 썬플라워 색상 중에서 선택할 수 있습니다.",
+    "source_site": "fmkorea",
+    "category": "PC제품",
+    "category_bucket": "전자",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [
+      "https://shopping.naver.com/festa/onsale/brand/6a71947cac7f3201bdbaff8e"
+    ],
+    "tags": [
+      "Aula",
+      "아우라",
+      "독거미",
+      "F108",
+      "기계식키보드",
+      "유무선키보드",
+      "저소음축",
+      "경우축",
+      "게이밍키보드"
+    ]
+  },
+  {
     "deal_id": "d66cb0f4b4bc",
     "title": "[토스] 극조생 감귤 햇귤, 혼합과, 5kg, 1개(11,900원/무료)",
     "deal_total": 11900,
@@ -15148,7 +15187,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "펩시",
@@ -15184,7 +15223,7 @@
     "category": "가전제품",
     "category_bucket": "전자",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "파나소닉",
@@ -15222,7 +15261,7 @@
     "category": "기타",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "아이더",
