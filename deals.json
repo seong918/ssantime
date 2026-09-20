@@ -1,5 +1,42 @@
 [
   {
+    "deal_id": "d66cb0f4b4bc",
+    "title": "[토스] 극조생 감귤 햇귤, 혼합과, 5kg, 1개(11,900원/무료)",
+    "deal_total": 11900,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 15790,
+    "gap": 3890,
+    "mall_name": null,
+    "buy_url": "https://toss.im/_m/bImX5Wt7",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=116&&no=735840",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6163456/61634567833.1.jpg?type=f300",
+    "created_iso": "2026-09-20T17:57:03.376973+00:00",
+    "naver_url": null,
+    "naver_product_id": "61634567833",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. 토스프라임 가입 시 최대 833원 적립",
+    "product_summary": "제주 서귀포시 효돈동에서 재배한 극조생 감귤 햇귤입니다.\n혼합과 구성으로 중량은 5kg, 1개입니다.\n노란빛과 초록빛이 섞여 있는 극조생 특성상 싱그럽고 풋풋한 향과 맛이 특징입니다.\n농산물 특성상 크기가 균일하지 않을 수 있습니다.",
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "감귤",
+      "극조생감귤",
+      "햇귤",
+      "제주감귤",
+      "서귀포감귤",
+      "귤",
+      "혼합과",
+      "제주도",
+      "극조생"
+    ]
+  },
+  {
     "deal_id": "0fb689cc9c49",
     "title": "[토스] 스카트 도톰한 물걸레 청소포 30매 4팩 (9,900원/무료)",
     "deal_total": 9900,
@@ -1609,7 +1646,7 @@
     "source_site": "ppomppu",
     "category": "의류/잡화",
     "category_bucket": "패션",
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [],
     "tags": [
@@ -15220,7 +15257,7 @@
     "category": "기타",
     "category_bucket": "기타",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "플레이스테이션",
@@ -15257,7 +15294,7 @@
     "category": "PC/하드웨어",
     "category_bucket": "전자",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "필립스",
@@ -15295,7 +15332,7 @@
     "category": "PC/하드웨어",
     "category_bucket": "전자",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "LG전자",
@@ -15333,7 +15370,7 @@
     "category": "SW/게임",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "마이크로소프트",
