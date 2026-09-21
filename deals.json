@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "7e85522882de",
+    "title": "[토스] 제주 감귤 대과 5kg 특품 (10,800원/무료)",
+    "deal_total": 10800,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 16830,
+    "gap": 6030,
+    "mall_name": null,
+    "buy_url": "https://service.toss.im/shopping-discovery/c/2656339317",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=116&&no=736028",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6172435/61724352807.jpg?type=f300",
+    "created_iso": "2026-09-21T13:50:18.688619+00:00",
+    "naver_url": null,
+    "naver_product_id": "61724352807",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": null,
+    "product_summary": "제주산 감귤 특품 대과 상품입니다.\n5kg 1박스 구성입니다.\n본문 기준 5kg은 10,800원, 10kg은 18,800원이며 무료배송입니다.",
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "제주감귤",
+      "감귤",
+      "귤",
+      "제주산 감귤",
+      "대과",
+      "특품",
+      "제주 명품 감귤",
+      "5kg"
+    ]
+  },
+  {
     "deal_id": "f3069bc4653b",
     "title": "[쿠팡] 마레주로 무선 스탠드형 써큘레이터 선풍기 (55,800원/와우무료)",
     "deal_total": 55800,
@@ -21,7 +57,7 @@
     "source_site": "ppomppu",
     "category": "가전/가구",
     "category_bucket": "전자",
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [],
     "tags": [
@@ -14058,7 +14094,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "따블라면",
@@ -14094,7 +14130,7 @@
     "category": "음식",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "몬스터에너지",
@@ -14130,7 +14166,7 @@
     "category": "음식",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://link.gmarket.co.kr/M12O5AZWw",
       "https://link.gmarket.co.kr/F12O5AZWw"
@@ -14169,7 +14205,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "갤럭시Z폴드8",
@@ -14205,7 +14241,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "아이더",
@@ -14242,7 +14278,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "수육국밥",
@@ -14279,7 +14315,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "신고배",
@@ -14315,7 +14351,7 @@
     "category": "PC/하드웨어",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "UGREEN",
@@ -14353,7 +14389,7 @@
     "category": "생활/식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "이경제",
@@ -14389,7 +14425,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "양념쭈꾸미",
@@ -14426,7 +14462,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "밀크씨슬",
