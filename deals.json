@@ -1,5 +1,42 @@
 [
   {
+    "deal_id": "c85d3e922270",
+    "title": "던킨 미니도넛, 딸기 듬뿍 250g 1팩 + 바바리안 250g 1팩 + 글레이즈드 135g 1팩, 3팩",
+    "deal_total": 11495,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 18090,
+    "gap": 6595,
+    "mall_name": "네이버",
+    "buy_url": "https://toss.im/_m/tLr92yPp",
+    "source_url": "https://arca.live/b/hotdeal/183639471",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5240563/52405633624.20250109163449.jpg?type=f300",
+    "created_iso": "2026-09-21T04:17:50.846518+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/52405633624",
+    "naver_product_id": "52405633624",
+    "buy_url_orig": "",
+    "price_label": "11,495원",
+    "discount_guide": "1. 11,500원 (정가 49,600원, 76% 할인)\n2. 460원 적립\n※ 하루 최대 1개만 구매 가능합니다.",
+    "product_summary": "던킨 미니도넛 3종 3팩 구성 상품입니다.\n딸기 듬뿍 미니도넛 250g 1팩, 바바리안 듬뿍 미니도넛 250g 1팩, 미니 글레이즈드 135g 1팩으로 구성됩니다.\n딸기 듬뿍과 바바리안 듬뿍은 각각 25g 10개입, 미니 글레이즈드는 15g 9개입입니다.\n-18℃ 이하 냉동보관 제품입니다.",
+    "source_site": "arca",
+    "category": "식품",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "던킨",
+      "DUNKIN",
+      "미니도넛",
+      "도넛",
+      "딸기 듬뿍",
+      "바바리안",
+      "글레이즈드",
+      "냉동도넛",
+      "간식"
+    ]
+  },
+  {
     "deal_id": "621b07cc9be3",
     "title": "[네이버] 125cm 3단봉 화장실 청소솔 스퀴지 겸용 [5,120원/3,000원]",
     "deal_total": 5120,
@@ -58,7 +95,7 @@
     "source_site": "fmkorea",
     "category": "패키지/이용권",
     "category_bucket": "기타",
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [],
     "tags": [
@@ -14443,7 +14480,7 @@
     "category": "가전/가구",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "다이슨",
@@ -14480,7 +14517,7 @@
     "category": "가전/가구",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "삼성",
@@ -14518,7 +14555,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "써코니",
@@ -14553,7 +14590,7 @@
     "category": "컴퓨터",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "MSI",
@@ -14592,7 +14629,7 @@
     "category": "가전/가구",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "세라젬",
@@ -14630,7 +14667,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "락토온",
@@ -14668,7 +14705,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "아사히",
@@ -14705,7 +14742,7 @@
     "category": "의류",
     "category_bucket": "패션",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "디비에이트",
