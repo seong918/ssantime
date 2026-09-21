@@ -1,5 +1,42 @@
 [
   {
+    "deal_id": "e427620bf8bf",
+    "title": "다슈 볼륨업 컬크림 150ml",
+    "deal_total": 8930,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 12480,
+    "gap": 3550,
+    "mall_name": null,
+    "buy_url": "https://4910.kr/goods/40749596",
+    "source_url": "https://www.fmkorea.com/10360885288",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5642261/56422616477.jpg?type=f300",
+    "created_iso": "2026-09-21T08:06:23.960813+00:00",
+    "naver_url": null,
+    "naver_product_id": "56422616477",
+    "buy_url_orig": "",
+    "price_label": "8,930원",
+    "discount_guide": "1. '쿠폰 받기'로 쿠폰을 받으면 쿠폰 할인가 적용\n2. 25,000원 → 64% 할인된 8,930원 (-16,070원 할인)",
+    "product_summary": "다슈 데일리 볼륨 업 컬크림 150ml 남성용 헤어 스타일링 제품입니다.\n볼륨감과 컬링 연출에 초점을 맞춘 스티키 텍스처의 컬크림입니다.\n용량은 150ml(5.07 fl. oz)입니다.",
+    "source_site": "fmkorea",
+    "category": "화장품",
+    "category_bucket": "생활",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "다슈",
+      "DASHU",
+      "컬크림",
+      "볼륨업",
+      "헤어왁스",
+      "남성헤어",
+      "스타일링",
+      "볼륨크림",
+      "curl cream"
+    ]
+  },
+  {
     "deal_id": "d6c0f6dc0c04",
     "title": "[굿웨어몰] 폴햄 기능성 긴팔 셔츠 (17,910원/무료배송)",
     "deal_total": 17910,
@@ -14468,7 +14505,7 @@
     "category": "기타",
     "category_bucket": "기타",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "빕스",
@@ -14504,7 +14541,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "모모스커피",
@@ -14540,7 +14577,7 @@
     "category": "PC제품",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "Colorful",
@@ -14578,7 +14615,7 @@
     "category": "SW/게임",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "플레이스테이션5",
@@ -14614,7 +14651,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "오쏘몰",
