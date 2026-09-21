@@ -13755,7 +13755,7 @@
     "category": "기타",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "잔치집식혜",
