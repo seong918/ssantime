@@ -1,5 +1,42 @@
 [
   {
+    "deal_id": "4b7f4df1e689",
+    "title": "[coupang] BLDC 무소음 날개없는 타워형 리모컨 아기 선풍기 (68,000원/무료배송)",
+    "deal_total": 68000,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 98000,
+    "gap": 30000,
+    "mall_name": "네이버",
+    "buy_url": "https://link.coupang.com/a/hd4e9mysnY",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=116&&no=736008",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5724810/57248103719.20251016100832.jpg?type=f300",
+    "created_iso": "2026-09-21T11:08:25.774675+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/57248103719",
+    "naver_product_id": "57248103719",
+    "buy_url_orig": "https://www.coupang.com/vp/products/9494354721",
+    "price_label": "",
+    "discount_guide": "1. 와우쿠폰할인가 37% 적용 시 68,000원 (일반할인가 33% 적용 시 72,340원)\n2. 쿠페이 머니 결제 시 최대 3,400원 쿠팡캐시 적립",
+    "product_summary": "BOSMOO BLDC 무소음 날개없는 타워형 리모컨 선풍기입니다.\n날개가 없는 타워형 구조로 공간을 적게 차지하며, 리모컨으로 조작할 수 있습니다.\n모델명은 BSM-BS2602이며 구성은 1개입니다.",
+    "source_site": "ppomppu",
+    "category": "기타",
+    "category_bucket": "전자",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "BOSMOO",
+      "보스무",
+      "BLDC",
+      "날개없는선풍기",
+      "타워선풍기",
+      "리모컨선풍기",
+      "무소음선풍기",
+      "선풍기",
+      "BSM-BS2602"
+    ]
+  },
+  {
     "deal_id": "bc3054bf99f2",
     "title": "[롯데온] 닥터스탠드 휴대용 무소음 독서대 (22,820원/무료)",
     "deal_total": 22820,
@@ -14316,7 +14353,7 @@
     "category": "생활/식품",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "앙블랑",
@@ -14353,7 +14390,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "빙탄복",
@@ -14390,7 +14427,7 @@
     "category": "가전제품",
     "category_bucket": "전자",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "투키",
@@ -14428,7 +14465,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "빙그레",
