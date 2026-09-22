@@ -1,5 +1,80 @@
 [
   {
+    "deal_id": "693fc1a01f3e",
+    "title": "[네이버] 나주직송 나주배 선물세트 5kg 8-10과 (29,400원/무료)",
+    "deal_total": 29400,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 34720,
+    "gap": 5320,
+    "mall_name": null,
+    "buy_url": "https://brand.naver.com/thesingsing/products/5081269141",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=116&&no=736088",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6133021/61330216156.jpg?type=f300",
+    "created_iso": "2026-09-22T03:46:13.552364+00:00",
+    "naver_url": null,
+    "naver_product_id": "61330216156",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. 상품 페이지에서 'N 쿠폰 받기'로 쿠폰을 받아 적용하면 40% 할인가 29,900원(1kg당 5,980원)에서 최대할인가 29,400원으로 적용됩니다.\n※ 무료배송입니다.",
+    "product_summary": "GAP 인증을 받은 전라남도 나주시 직송 햇 나주배 선물세트입니다.\n5kg 구성에 8~10과가 담겨 있어 과일 크기가 적당합니다.\n원산지는 국산(전라남도 나주시)이며 명절 선물용으로 적합합니다.\n주문은 28일 이후 순차 출고됩니다.",
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "나주배",
+      "배",
+      "나주직송",
+      "선물세트",
+      "GAP인증",
+      "명절선물",
+      "과일선물세트",
+      "국산배",
+      "제철과일"
+    ]
+  },
+  {
+    "deal_id": "a734f45b33ba",
+    "title": "아디다스 아디제로 보스턴13 작은사이즈 멤버십 포인트 체감가 7만2천",
+    "deal_total": 77180,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 98990,
+    "gap": 21810,
+    "mall_name": "네이버",
+    "buy_url": "https://m.shopping.naver.com/window-products/department/11868691256",
+    "source_url": "https://www.fmkorea.com/10363891070",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6131976/61319768091.20260817172335.jpg?type=f300",
+    "created_iso": "2026-09-22T03:47:37.279941+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/61319768091",
+    "naver_product_id": "61319768091",
+    "buy_url_orig": "",
+    "price_label": "77,180원",
+    "discount_guide": "1. 정가 100,240원 → 최대할인가 77,180원 적용\n2. 멤버십 전용카드 결제 시 최대 7,718원 적립 포인트 받기\n3. 라인프렌즈 카드 결제 시 최대 1,543원 추가 적립(2%)\n4. 네이버페이 머니 결제 시 최대 1,542원 적립\n5. 멤버십 추가 적립 3,087원 / 기본적립 771원 (최대 적립 포인트 11,726원)\n※ 30,000원 이상 무료배송",
+    "product_summary": "아디다스 아디제로 보스턴 13(JS4932) 스포츠 러닝화입니다.\n라이트스트라이크 프로(LIGHTSTRIKE PRO) 미드솔이 적용된 러닝화입니다.\n화이트에 블랙 스트라이프와 레드 포인트가 들어간 색상이며, 롯데백화점 미아점에서 판매 중인 상품입니다.\n현재 작은 사이즈 위주로 재고가 남아 있어 원하는 사이즈는 조기 품절될 수 있습니다.",
+    "source_site": "fmkorea",
+    "category": "의류",
+    "category_bucket": "패션",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "아디다스",
+      "adidas",
+      "아디제로",
+      "adizero",
+      "보스턴13",
+      "아디제로 보스턴",
+      "러닝화",
+      "런닝화",
+      "운동화",
+      "JS4932"
+    ]
+  },
+  {
     "deal_id": "a60322b39327",
     "title": "[네이버] 26FW 남성 마이크로극세사 반집업티셔츠 4종택1 29750원/무배",
     "deal_total": 29750,
@@ -13030,7 +13105,7 @@
     "category": "가전/가구",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "무빙큐빅스TV",
@@ -13067,7 +13142,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "스탠리",
@@ -13105,7 +13180,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://shopping.naver.com/festa/onsale/699ceb9398f1530c6f40ef49"
     ],
@@ -13144,7 +13219,7 @@
     "category": "기타",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "로안",
@@ -13182,7 +13257,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "굴비",
@@ -13219,7 +13294,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "황태채",
@@ -13255,7 +13330,7 @@
     "category": "생활/식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://shopping.naver.com/festa/onsale/699ceb9398f1530c6f40ef49?"
     ],
@@ -13294,7 +13369,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://shopping.naver.com/festa/onsale/699ceb9398f1530c6f40ef49"
     ],
@@ -13334,7 +13409,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "웅진식품",
