@@ -1,5 +1,42 @@
 [
   {
+    "deal_id": "621cb56cd20f",
+    "title": "[롯데온] K2 남성 씬에어 ANANTA-LITE 경량 다운자켓 (양말 증정) (100,640원/무배)",
+    "deal_total": 100640,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 108180,
+    "gap": 7540,
+    "mall_name": "네이버",
+    "buy_url": "https://www.lotteon.com/p/product/LE1222503966?mall_no=1",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=116&&no=736192",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5824545/58245454073.20260622070728.jpg?type=f300",
+    "created_iso": "2026-09-22T12:26:06.037626+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/58245454073",
+    "naver_product_id": "58245454073",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": null,
+    "product_summary": "K2 남성 씬에어 ANANTA-LITE 경량 다운자켓입니다.\n씬에어 소재의 경량 구스다운으로 가볍게 착용하기 좋습니다.\n구매 시 양말이 증정됩니다.\n그레이 컬러는 95 사이즈만 소량 남아 있고 나머지 사이즈는 품절된 상태입니다.",
+    "source_site": "ppomppu",
+    "category": "의류/잡화",
+    "category_bucket": "패션",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "K2",
+      "케이투",
+      "씬에어",
+      "ANANTA-LITE",
+      "경량다운",
+      "구스다운",
+      "다운자켓",
+      "남성다운",
+      "패딩"
+    ]
+  },
+  {
     "deal_id": "1a610c9269bd",
     "title": "[롯데온] 김밥김(두더김) 100매입 (13,610원/무료)",
     "deal_total": 13610,
@@ -13026,7 +13063,7 @@
     "category": "가전제품",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "필립스",
@@ -13063,7 +13100,7 @@
     "category": "의류",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "나이키",
@@ -13396,7 +13433,7 @@
     "category": "기타",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "베이스어스",
@@ -13432,7 +13469,7 @@
     "category": "가전제품",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "LG",
