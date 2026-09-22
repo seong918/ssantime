@@ -2,10 +2,10 @@
   "schema_version": "1.0",
   "dataset_name": "싼타임 현재 활성 온라인 핫딜 가격 비교 스냅샷",
   "canonical_url": "https://ssantime.com/research/",
-  "snapshot_updated_at": "2026-09-22T18:43:27.480409+00:00",
+  "snapshot_updated_at": "2026-09-22T22:55:19.159086+00:00",
   "active_record_span": {
-    "from": "2026-09-15T22:23:29.866321+00:00",
-    "to": "2026-09-22T18:43:27.480409+00:00",
+    "from": "2026-09-15T23:08:20.244751+00:00",
+    "to": "2026-09-22T22:55:19.159086+00:00",
     "from_date_kst": "2026-09-16",
     "to_date_kst": "2026-09-23",
     "retention_policy_days": 7
