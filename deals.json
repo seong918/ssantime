@@ -1,5 +1,44 @@
 [
   {
+    "deal_id": "3fe7b0610f24",
+    "title": "[오늘의집] 홈리아 더스트제로 PRO 클린스테이션 무선청소기 (170,915원~/무료)",
+    "deal_total": 170915,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 179900,
+    "gap": 8985,
+    "mall_name": "네이버",
+    "buy_url": "https://bitl.bz/api@hkhTqwJn",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=116&&no=736214",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6162671/61626716741.20260914125353.jpg?type=f300",
+    "created_iso": "2026-09-22T23:52:48.336368+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/61626716741",
+    "naver_product_id": "61626716741",
+    "buy_url_orig": "https://store.ohou.se/goods/4210834",
+    "price_label": "",
+    "discount_guide": "1. 행사가 199,900원 (특별인증가 45%, 정상가 369,000원)\n2. 브랜드 쿠폰 10% -19,990원\n3. 결제할인 5% -8,996원 (롯데카드 결제 시 8,995원 더 할인 + 최대 4,789P 적립)\n4. 위 적용 시 최종 결제가 170,915원\n5. 리뷰이벤트 -5,000원 적용 시 최대 혜택가 165,915원\n※ 풀 패키지는 254,619원 결제, 혜택 포함 체감가 249,619원입니다.\n※ 연휴특가 선착순 장바구니 쿠폰을 추가로 받으면 더 내려갑니다.",
+    "product_summary": "홈리아 더스트제로 PRO 클린스테이션 BLDC 무선청소기입니다.\n자동 먼지비움 기능을 갖춘 클린스테이션이 포함된 유·무선청소기 제품입니다.\n기본 구성은 본체, 클린스테이션, UV-C 침구브러시, 솔브러시, 틈새브러시로 이루어져 있습니다.",
+    "source_site": "ppomppu",
+    "category": "가전/가구",
+    "category_bucket": "전자",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [
+      "https://store.ohou.se/exhibitions/19923"
+    ],
+    "tags": [
+      "홈리아",
+      "더스트제로 PRO",
+      "무선청소기",
+      "BLDC",
+      "클린스테이션",
+      "자동 먼지비움",
+      "UV-C 침구브러시",
+      "스틱청소기",
+      "vacuum"
+    ]
+  },
+  {
     "deal_id": "37b13656cd2b",
     "title": "파워에이드 제로 600ml 20개",
     "deal_total": 11990,
@@ -12880,7 +12919,7 @@
     "category": "생활용품",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "피죤",
