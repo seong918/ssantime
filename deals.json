@@ -1,5 +1,43 @@
 [
   {
+    "deal_id": "8043a3a7ec67",
+    "title": "핫식스 더킹제로 355ml 24캔 티멤버십",
+    "deal_total": 16750,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 20080,
+    "gap": 3330,
+    "mall_name": "네이버",
+    "buy_url": "https://bitl.bz/api@ka8bXZvR",
+    "source_url": "https://www.fmkorea.com/10369107404",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5295976/52959767291.20250212121628.jpg?type=f300",
+    "created_iso": "2026-09-23T10:34:16.832986+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/52959767291",
+    "naver_product_id": "52959767291",
+    "buy_url_orig": "http://www.11st.co.kr/products/8891353585",
+    "price_label": "16,750원",
+    "discount_guide": "1. 티멤버십(T멤버십) 할인가로 구매하면 24캔 16,750원(40%)에 적용됩니다.\n※ 더킹 제로·더킹 포스·더킹 퍼플 모두 동일하게 티멤버십 할인가 24캔 16,750원이 적용됩니다.",
+    "product_summary": "핫식스 더킹 제로 355ml 24캔 구성의 에너지음료입니다.\n1캔 용량은 355ml이며 한 세트는 24캔으로 구성됩니다.\n제로 외에 더킹 포스, 더킹 퍼플 그레이프 종류도 함께 제공됩니다.\n원산지는 상세설명 참조로 표기되어 있습니다.",
+    "source_site": "fmkorea",
+    "category": "먹거리",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "핫식스",
+      "HOT6",
+      "더킹",
+      "더킹제로",
+      "더킹포스",
+      "더킹퍼플",
+      "에너지음료",
+      "에너지드링크",
+      "the king",
+      "355ml"
+    ]
+  },
+  {
     "deal_id": "db746c0f8625",
     "title": "[롯데온] K2 남성 실크스타 MOVE 경량 구스 다운 (84,320원/무료)",
     "deal_total": 84320,
@@ -11999,7 +12037,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "느린마을",
@@ -12035,7 +12073,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "활전복",
@@ -12071,7 +12109,7 @@
     "category": "가전/가구",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "LG",
@@ -12108,7 +12146,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "한우",
@@ -12146,7 +12184,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "한우",
@@ -12183,7 +12221,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "한우",
@@ -12219,7 +12257,7 @@
     "category": "디지털",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "쾌존",
@@ -12254,7 +12292,7 @@
     "category": "가전/가구",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "까사미아",
@@ -12290,7 +12328,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "곱창김",
@@ -12326,7 +12364,7 @@
     "category": "PC/하드웨어",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "LG전자",
@@ -12363,7 +12401,7 @@
     "category": "의류",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://m.lfmall.co.kr/app/event/114461"
     ],
@@ -12402,7 +12440,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "활전복",
@@ -12439,7 +12477,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "오레오오즈",
