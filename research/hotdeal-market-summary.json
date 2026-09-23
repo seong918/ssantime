@@ -2,10 +2,10 @@
   "schema_version": "1.0",
   "dataset_name": "싼타임 현재 활성 온라인 핫딜 가격 비교 스냅샷",
   "canonical_url": "https://ssantime.com/research/",
-  "snapshot_updated_at": "2026-09-23T00:38:30.092523+00:00",
+  "snapshot_updated_at": "2026-09-23T01:36:04.178774+00:00",
   "active_record_span": {
-    "from": "2026-09-16T00:51:55.534347+00:00",
-    "to": "2026-09-23T00:38:30.092523+00:00",
+    "from": "2026-09-16T01:38:38.746305+00:00",
+    "to": "2026-09-23T01:36:04.178774+00:00",
     "from_date_kst": "2026-09-16",
     "to_date_kst": "2026-09-23",
     "retention_policy_days": 7
@@ -17,27 +17,27 @@
     "comparison_baseline": "수집 시점에 같은 상품 후보로 자동 매칭한 네이버 쇼핑 비교가"
   },
   "metrics": {
-    "active_verified_deals": 332,
-    "strict_comparable_deals": 180,
-    "median_savings_krw": 6659,
-    "median_discount_percent": 22.8,
-    "shipping_known_deals": 180,
-    "shipping_unknown_deals": 152,
-    "coupang_deals": 35,
-    "coupang_share_percent": 10.5,
-    "identified_marketplace_labels": 52,
+    "active_verified_deals": 331,
+    "strict_comparable_deals": 181,
+    "median_savings_krw": 6630,
+    "median_discount_percent": 22.7,
+    "shipping_known_deals": 181,
+    "shipping_unknown_deals": 150,
+    "coupang_deals": 34,
+    "coupang_share_percent": 10.3,
+    "identified_marketplace_labels": 53,
     "marketplace_unknown_deals": 0
   },
   "categories": [
     {
       "name": "전자",
-      "count": 73,
-      "share_percent": 22.0
+      "count": 72,
+      "share_percent": 21.8
     },
     {
       "name": "식품",
       "count": 164,
-      "share_percent": 49.4
+      "share_percent": 49.5
     },
     {
       "name": "생활",
@@ -59,7 +59,7 @@
     {
       "name": "네이버 스마트스토어",
       "count": 71,
-      "share_percent": 21.4
+      "share_percent": 21.5
     },
     {
       "name": "롯데ON",
@@ -68,8 +68,8 @@
     },
     {
       "name": "쿠팡",
-      "count": 35,
-      "share_percent": 10.5
+      "count": 34,
+      "share_percent": 10.3
     },
     {
       "name": "카카오 스토어",
@@ -125,18 +125,18 @@
   "source_communities": [
     {
       "name": "뽐뿌",
-      "count": 181,
-      "share_percent": 54.5
+      "count": 182,
+      "share_percent": 55.0
     },
     {
       "name": "에펨코리아",
-      "count": 94,
-      "share_percent": 28.3
+      "count": 93,
+      "share_percent": 28.1
     },
     {
       "name": "아카라이브",
       "count": 29,
-      "share_percent": 8.7
+      "share_percent": 8.8
     },
     {
       "name": "퀘이사존",
@@ -145,8 +145,8 @@
     },
     {
       "name": "루리웹",
-      "count": 7,
-      "share_percent": 2.1
+      "count": 6,
+      "share_percent": 1.8
     }
   ],
   "methodology": [
