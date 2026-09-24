@@ -1,5 +1,43 @@
 [
   {
+    "deal_id": "988f0e1e54ae",
+    "title": "[오늘의집] 빙그레 더단백 드링크 250ml 36팩 골라담기 (41,748원/무료)",
+    "deal_total": 41748,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 49720,
+    "gap": 7972,
+    "mall_name": null,
+    "buy_url": "https://bitl.bz/api@FaNjm2kK",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=116&&no=736391",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6046277/60462773529.jpg?type=f300",
+    "created_iso": "2026-09-24T15:15:38.910762+00:00",
+    "naver_url": null,
+    "naver_product_id": "60462773529",
+    "buy_url_orig": "https://store.ohou.se/goods/4183081",
+    "price_label": "",
+    "discount_guide": "1. 상품쿠폰 [9월] 가공식품 8% 쿠폰 -4,152원\n2. 장바구니쿠폰 가을 준비 특가 0925 7% 쿠폰 -3,000원\n3. 카카오페이 10% 할인 (최대 3천원) -3,000원\n※ 장바구니쿠폰(가을 준비 특가 0925 7% 쿠폰)은 2만원 이상 구매 시 적용 가능합니다.",
+    "product_summary": "빙그레 더단백 드링크 250ml 제품을 18팩+18팩 골라담기로 총 36팩 구성한 상품입니다.\n초코, 커피, 딸기, 밀크티 등 8종의 맛 중 원하는 두 가지를 18팩씩 골라 담는 방식입니다.\n100% 우유 단백질 20g, 당류 1g 미만, BCAA 4000mg을 함유하고 있습니다.",
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [
+      "https://store.ohou.se/exhibitions/19923"
+    ],
+    "tags": [
+      "빙그레",
+      "더단백",
+      "더단백 드링크",
+      "단백질음료",
+      "프로틴음료",
+      "단백질드링크",
+      "우유단백질",
+      "BCAA"
+    ]
+  },
+  {
     "deal_id": "399cf0df4e41",
     "title": "[11번가] 코카콜라제로 190ml 30캔 + 환타 제로 파인 190ml 30캔 (티멤21,070원/무료)",
     "deal_total": 21070,
@@ -9843,7 +9881,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "풀무원",
