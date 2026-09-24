@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "c1fd4853a60d",
+    "title": "[11번가] 지이크 울 혼방 스판 정장 4종 택1 (87,250원/무배)",
+    "deal_total": 87250,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 109000,
+    "gap": 21750,
+    "mall_name": null,
+    "buy_url": "https://bitl.bz/api@4APH7aBQ",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=116&&no=736360",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_9131732/91317323226.jpg?type=f300",
+    "created_iso": "2026-09-24T08:44:40.805946+00:00",
+    "naver_url": null,
+    "naver_product_id": "91317323226",
+    "buy_url_orig": "https://www.11st.co.kr/products/9123413573",
+    "price_label": "",
+    "discount_guide": null,
+    "product_summary": "지이크 울 혼방 스판 정장 4종 중 택1 상품입니다.\n울 혼방에 스판 원단을 더해 편하게 착용하기 좋습니다.\n기본 컬러 4가지 색상으로 구성되어 있습니다.",
+    "source_site": "ppomppu",
+    "category": "의류/잡화",
+    "category_bucket": "패션",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "지이크",
+      "SIEG",
+      "정장",
+      "수트",
+      "울 혼방",
+      "스판 정장",
+      "남성 정장",
+      "슈트"
+    ]
+  },
+  {
     "deal_id": "f0336a239e35",
     "title": "[네이버] 브리츠 BR-MONITOR6 스피커 (159,000원/무료)",
     "deal_total": 159000,
@@ -10143,7 +10179,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "프로쉬",
@@ -10180,7 +10216,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "훈훈수산",
@@ -10216,7 +10252,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "참돔",
@@ -10253,7 +10289,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "나이키",
@@ -10291,7 +10327,7 @@
     "category": "의류",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "나이키",
@@ -10327,7 +10363,7 @@
     "category": "의류",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "지오다노",
@@ -10364,7 +10400,7 @@
     "category": "게임/SW",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "닌텐도",
