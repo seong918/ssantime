@@ -1,5 +1,43 @@
 [
   {
+    "deal_id": "ede598b2d6d4",
+    "title": "[네이버] 파리바게뜨 / 할리스 모바일 금액권 5만원권",
+    "deal_total": 40000,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 43990,
+    "gap": 3990,
+    "mall_name": "네이버",
+    "buy_url": "https://brand.naver.com/parisbaguette/products/13761741190",
+    "source_url": "https://quasarzone.com/bbs/qb_saleinfo/views/1988400",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5637225/56372250518.20250821181943.jpg?type=f300",
+    "created_iso": "2026-09-24T16:35:48.018348+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/56372250518",
+    "naver_product_id": "56372250518",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. 파리바게뜨 모바일 금액권 5만원권: 20% 할인 적용가 40,000원\n2. 할리스 모바일 금액권 5만원권: 13% 할인가 43,500원\n3. (할리스) 최대 3,045원 적립\n4. (할리스) 현대카드 최대 7% 추가 적립\n※ 파리바게뜨: 프로모션(할인)이 적용된 모바일 상품권일 경우 해피오더, 파바앱, 카카오톡 주문하기 및 배달의민족에서 사용이 제한됩니다.\n※ 파리바게뜨: 해피포인트 0.1% 적립 가능합니다.",
+    "product_summary": "파리바게뜨 및 할리스에서 사용할 수 있는 모바일 금액권 5만원권입니다.\n파리바게뜨 금액권은 잔액관리형으로, 표기된 금액 내에서 여러 번 분할 사용이 가능합니다.\n파리바게뜨 금액권의 교환 가능 유효기간은 발행일로부터 366일이며, 결제 시 매장 직원에게 바코드를 제시해 사용합니다.\n할리스 금액권은 모바일 교환권(e쿠폰) 형태로 유효기간은 구매일로부터 90일이며, 1일당 최대 5개까지 구매 가능합니다.",
+    "source_site": "quasarzone",
+    "category": "상품권/쿠폰",
+    "category_bucket": "기타",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "파리바게뜨",
+      "PARIS BAGUETTE",
+      "할리스",
+      "HOLLYS",
+      "모바일 금액권",
+      "모바일 상품권",
+      "기프티콘",
+      "e쿠폰",
+      "5만원권",
+      "상품권"
+    ]
+  },
+  {
     "deal_id": "988f0e1e54ae",
     "title": "[오늘의집] 빙그레 더단백 드링크 250ml 36팩 골라담기 (41,748원/무료)",
     "deal_total": 41748,
@@ -4004,7 +4042,7 @@
     "source_site": "arca",
     "category": "의류",
     "category_bucket": "패션",
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [],
     "tags": [
@@ -9734,7 +9772,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "애플망고",
@@ -9771,7 +9809,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "뉴케어",
@@ -9808,7 +9846,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "LA갈비",
@@ -9844,7 +9882,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "임실농협",
