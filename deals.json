@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "aed1f93b04be",
+    "title": "[네이버] 식물성 멜라토닌 멜라브리즈 30정 3박스 (25,900원/무배)",
+    "deal_total": 25900,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 33360,
+    "gap": 7460,
+    "mall_name": "네이버",
+    "buy_url": "https://brand.naver.com/morenature/products/13634024964",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=116&&no=736447",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6115174/61151745086.20260805142748.jpg?type=f300",
+    "created_iso": "2026-09-25T13:50:38.241826+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/61151745086",
+    "naver_product_id": "61151745086",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "※ 정가 80,000원에서 66% 할인된 비밀특가 26,900원으로, 쿠폰 적용 시 3박스 2만원대 가격입니다.\n※ 무료배송",
+    "product_summary": "모어네이처 멜라브리즈는 식물성 멜라토닌 5mg이 함유된 세인트존스워트 성분 수면 건강 영양제입니다.\n미국산 세인트존스워트에서 유래한 멜라토닌을 사용했으며, 먹기 편한 소형 정제로 되어 있습니다.\n1정당 450mg, 한 박스 30정 구성으로 총 3박스(30정 × 3개)이며 원산지는 국산입니다.",
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "멜라브리즈",
+      "모어네이처",
+      "멜라토닌",
+      "식물성멜라토닌",
+      "세인트존스워트",
+      "melatonin",
+      "수면영양제",
+      "건강기능식품"
+    ]
+  },
+  {
     "deal_id": "d2c1a93ad885",
     "title": "[롯데온] 플루크 굿 캠퍼 슬로건 맨투맨 (25,080원/무료)",
     "deal_total": 25080,
@@ -8285,7 +8321,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "코지앤코",
@@ -8322,7 +8358,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "사조오양",
@@ -8360,7 +8396,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "조기",
@@ -8397,7 +8433,7 @@
     "category": "컴퓨터",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "LG그램북",
@@ -8434,7 +8470,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "오징어",
@@ -8470,7 +8506,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://shopping.naver.com/festa/onsale/food/6a9e4f491000705922318bfe"
     ],
@@ -8509,7 +8545,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "이디야",
