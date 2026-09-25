@@ -1,5 +1,43 @@
 [
   {
+    "deal_id": "349cac2a9a98",
+    "title": "펩시 제로제로 300ml 20개",
+    "deal_total": 12080,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 15690,
+    "gap": 3610,
+    "mall_name": "네이버",
+    "buy_url": "https://link.coupang.com/a/hkyLBLt2cu",
+    "source_url": "https://arca.live/b/hotdeal/184050307",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5382716/53827169677.20251013143624.jpg?type=f300",
+    "created_iso": "2026-09-25T09:01:11.903932+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/53827169677",
+    "naver_product_id": "53827169677",
+    "buy_url_orig": "https://www.coupang.com/vp/products/8700921701?itemId=25266495058&vendorItemId=92262276451",
+    "price_label": "12,080원",
+    "discount_guide": "1. 와우할인 적용 시 20% 할인되어 15,100원 → 12,080원 (100ml당 201원)에 구매\n※ 3,020원 할인이 적용됩니다.",
+    "product_summary": "펩시 제로슈거 라임향 제로카페인 무라벨 캔 음료입니다.\n1캔 300ml, 총 20개로 구성되어 있습니다(6,000ml).\n제로슈거·제로카페인으로 300ml당 0kcal이며 합성 라임향과 감미료가 함유되어 있습니다.",
+    "source_site": "arca",
+    "category": "식품",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "펩시",
+      "pepsi",
+      "펩시제로",
+      "제로콜라",
+      "라임향",
+      "제로카페인",
+      "무라벨",
+      "탄산음료",
+      "300ml",
+      "콜라"
+    ]
+  },
+  {
     "deal_id": "e020d1b95b7f",
     "title": "풍년 마레 피에노 24cm 프라이팬",
     "deal_total": 12900,
@@ -8763,7 +8801,7 @@
     "category": "A/V",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "소니",
@@ -8799,7 +8837,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "ESTI",
@@ -8836,7 +8874,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "한뿌리",
@@ -8873,7 +8911,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "팔도",
@@ -8909,7 +8947,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://shopping.naver.com/festa/onsale/6aa73ef2f3ec944169bb276b"
     ],
@@ -8949,7 +8987,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "조선호텔김치",
