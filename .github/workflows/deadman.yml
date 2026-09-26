@@ -1,0 +1,53 @@
+# 외부 데드맨 감시 — 맥 데몬이 죽어도 여기(GitHub)는 살아 있다.
+# heartbeat.json(소스 publish 가 매 사이클 갱신·커밋) 나이 ≥150분 → Slack. 어제 발행 급감(7일 평균 40% 미만) → Slack.
+# 중복 알림은 actions/cache 키(무응답: ts+6h 버킷 · 급감: 날짜)로 막는다. 수동: Actions → Run workflow (test_alert 로 연결 확인).
+name: deadman
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+    inputs:
+      test_alert:
+        description: "Slack 연결 확인용 테스트 메시지 발송"
+        type: boolean
+        default: false
+permissions:
+  contents: read
+concurrency:
+  group: deadman
+  cancel-in-progress: false
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - id: check
+        run: python3 .github/scripts/deadman_check.py
+        env:
+          TEST_ALERT: ${{ inputs.test_alert && 'true' || 'false' }}
+      - id: sent
+        if: steps.check.outputs.alert == 'true'
+        uses: actions/cache/restore@v4
+        with:
+          path: .deadman-sent
+          key: ${{ steps.check.outputs.key }}
+          lookup-only: true
+      - name: Slack
+        if: steps.check.outputs.alert == 'true' && steps.sent.outputs.cache-hit != 'true'
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: |
+          test -n "$SLACK_WEBHOOK_URL" || { echo "SLACK_WEBHOOK_URL secret 없음"; exit 1; }
+          code=$(curl -sS -o /tmp/slack_resp -w '%{http_code}' -X POST -H 'Content-type: application/json' \
+            --data @"${{ steps.check.outputs.payload_file }}" "$SLACK_WEBHOOK_URL")
+          echo "slack http $code: $(cat /tmp/slack_resp)"
+          test "$code" = "200"
+          mkdir -p .deadman-sent && date -u +%FT%TZ > .deadman-sent/${{ steps.check.outputs.key }}
+      - if: steps.check.outputs.alert == 'true' && steps.sent.outputs.cache-hit != 'true'
+        uses: actions/cache/save@v4
+        with:
+          path: .deadman-sent
+          key: ${{ steps.check.outputs.key }}
