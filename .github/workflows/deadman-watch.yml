@@ -1,0 +1,83 @@
+# push 트리거 데드맨 감시자 — GitHub cron(deadman.yml)은 실측 3~4시간 간격으로만 돌아 30분 감시가 안 된다(2026-09-26).
+# 대신 heartbeat 커밋(push)이 감시자를 깨운다: heartbeat ts + 150분까지 자고, 깨어나 origin/main 을 다시 받아
+# 더 새 heartbeat 가 없으면 Slack. 다음 push 가 오면 concurrency 가 자고 있는 이전 감시자를 취소한다(= 정상).
+# 결과적으로 "마지막 heartbeat 뒤 150분" 정각에 딱 한 번 판정한다. 급감 판정도 첫 push(KST 09시 이후)가 맡는다.
+name: deadman-watch
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      stale_min:
+        description: "테스트용 기준 분(예: 1) — 지정 시 메시지에 🧪 표기"
+        type: string
+        default: ""
+permissions:
+  contents: read
+concurrency:
+  group: deadman-watch
+  cancel-in-progress: true
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    env:
+      STALE_MIN: ${{ inputs.stale_min }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      # 0) 발행 급감(어제 vs 7일 평균) — 하루 1회, 캐시 키 volume-<날짜> 로 중복 방지. 잠들기 전에 본다.
+      - id: volume
+        run: python3 .github/scripts/deadman_check.py
+      - id: volume_sent
+        if: steps.volume.outputs.alert == 'true'
+        uses: actions/cache/restore@v4
+        with:
+          path: .deadman-sent
+          key: ${{ steps.volume.outputs.key }}
+          lookup-only: true
+      - name: Slack (volume)
+        if: steps.volume.outputs.alert == 'true' && steps.volume_sent.outputs.cache-hit != 'true'
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: |
+          code=$(curl -sS -o /tmp/slack_resp -w '%{http_code}' -X POST -H 'Content-type: application/json' \
+            --data @"${{ steps.volume.outputs.payload_file }}" "$SLACK_WEBHOOK_URL")
+          echo "slack http $code: $(cat /tmp/slack_resp)"; test "$code" = "200"
+          mkdir -p .deadman-sent && date -u +%FT%TZ > .deadman-sent/${{ steps.volume.outputs.key }}
+      - if: steps.volume.outputs.alert == 'true' && steps.volume_sent.outputs.cache-hit != 'true'
+        uses: actions/cache/save@v4
+        with:
+          path: .deadman-sent
+          key: ${{ steps.volume.outputs.key }}
+      # 1) heartbeat 가 150분 살이 될 때까지 대기(다음 push 가 오면 여기서 취소됨 = 정상).
+      - id: wait
+        run: python3 .github/scripts/deadman_check.py --sleep-until-stale
+      - run: sleep ${{ steps.wait.outputs.sleep_s }}
+      # 2) 깨어나서 최신 main 을 다시 받아 판정 — 취소가 늦었거나 push 가 실패한 경우를 흡수한다.
+      - run: git fetch --depth 1 origin main && git checkout -q FETCH_HEAD -- heartbeat.json deals.json
+      - id: check
+        run: python3 .github/scripts/deadman_check.py
+      - id: sent
+        if: steps.check.outputs.alert == 'true'
+        uses: actions/cache/restore@v4
+        with:
+          path: .deadman-sent
+          key: ${{ steps.check.outputs.key }}
+          lookup-only: true
+      - name: Slack
+        if: steps.check.outputs.alert == 'true' && steps.sent.outputs.cache-hit != 'true'
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: |
+          test -n "$SLACK_WEBHOOK_URL" || { echo "SLACK_WEBHOOK_URL secret 없음"; exit 1; }
+          code=$(curl -sS -o /tmp/slack_resp -w '%{http_code}' -X POST -H 'Content-type: application/json' \
+            --data @"${{ steps.check.outputs.payload_file }}" "$SLACK_WEBHOOK_URL")
+          echo "slack http $code: $(cat /tmp/slack_resp)"; test "$code" = "200"
+          mkdir -p .deadman-sent && date -u +%FT%TZ > .deadman-sent/${{ steps.check.outputs.key }}
+      - if: steps.check.outputs.alert == 'true' && steps.sent.outputs.cache-hit != 'true'
+        uses: actions/cache/save@v4
+        with:
+          path: .deadman-sent
+          key: ${{ steps.check.outputs.key }}

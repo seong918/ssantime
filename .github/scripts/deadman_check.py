@@ -10,7 +10,10 @@
      재알림은 6시간 버킷마다 1회(캐시 키 = ts + 버킷).
   2) 발행 급감: KST 09시대 실행에서 어제 발행 수 < 직전 7일 평균의 40%(평균 5건 미만이면 판정 안 함).
      하루 1회(캐시 키 = 날짜).
-출력(GITHUB_OUTPUT): alert=true|false, key=<dedupe key>, payload_file=<slack json path>
+  3) push 트리거 감시자(deadman-watch.yml): GitHub cron 은 실측 3~4시간 간격으로만 돌아(2026-09-26) 30분 감시가
+     안 된다. 그래서 heartbeat 커밋(push) 자체가 감시자를 깨운다 — `--sleep-until-stale` 로 ts+STALE_MIN 까지 잘 시간을
+     계산해 자고, 깨어나 다시 판정. 다음 heartbeat push 가 오면 concurrency 가 이전 감시자를 취소한다.
+출력(GITHUB_OUTPUT): alert=true|false, key=<dedupe key>, payload_file=<slack json path>, sleep_s=<초>
 """
 from __future__ import annotations
 
@@ -22,7 +25,8 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 KST = timezone(timedelta(hours=9))
-STALE_MIN = 150
+STALE_MIN = int(os.environ.get("STALE_MIN") or 150)  # 빈 문자열(push 이벤트) → 기본값
+IS_TEST = bool(os.environ.get("STALE_MIN"))
 REALERT_BUCKET_MIN = 360
 VOLUME_HOUR_KST = 9
 VOLUME_RATIO = 0.40
@@ -68,16 +72,18 @@ def check_heartbeat(now: datetime) -> tuple[bool, str, str]:
         return False, "", ""
     bucket = int(age_min // REALERT_BUCKET_MIN)
     h, m = divmod(int(age_min), 60)
+    label = f"🧪 [테스트 · 기준 {STALE_MIN}분] " if IS_TEST else ""
     text = (
-        f"🚨 싼타임 데몬 무응답 — 마지막 생존 신호 {_fmt_kst(ts)} ({h}시간 {m}분 전). "
+        f"{label}🚨 싼타임 데몬 무응답 — 마지막 생존 신호 {_fmt_kst(ts)} ({h}시간 {m}분 전). "
         f"매시간 크롤이 {STALE_MIN}분 넘게 사이트를 갱신하지 않았습니다.\n{RUNBOOK}"
     )
-    return True, f"deadman-{ts.strftime('%Y%m%dT%H%M%S')}-b{bucket}", text
+    prefix = "test-" if IS_TEST else ""  # 테스트가 실제 경보의 dedupe 키를 소모하지 않게
+    return True, f"{prefix}deadman-{ts.strftime('%Y%m%dT%H%M%S')}-b{bucket}", text
 
 
 def check_volume(now: datetime) -> tuple[bool, str, str]:
     now_kst = now.astimezone(KST)
-    if now_kst.hour != VOLUME_HOUR_KST:
+    if now_kst.hour < VOLUME_HOUR_KST:
         return False, "", ""
     path = ROOT / "deals.json"
     if not path.exists():
@@ -106,8 +112,35 @@ def check_volume(now: datetime) -> tuple[bool, str, str]:
     return True, f"volume-{yday}", text
 
 
+def _heartbeat_ts() -> datetime | None:
+    path = ROOT / "heartbeat.json"
+    if not path.exists():
+        return None
+    ts = datetime.fromisoformat(json.loads(path.read_text(encoding="utf-8"))["ts"])
+    return ts if ts.tzinfo else ts.replace(tzinfo=timezone.utc)
+
+
+def sleep_until_stale(now: datetime) -> int:
+    """heartbeat 가 STALE_MIN 살이 되는 시각까지 남은 초(+2분 여유). 파일 없으면 0."""
+    ts = _heartbeat_ts()
+    if ts is None:
+        return 0
+    deadline = ts + timedelta(minutes=STALE_MIN + 2)
+    remain = max(0, int((deadline - now).total_seconds()))
+    print(f"heartbeat {ts.isoformat()} → {deadline.astimezone(KST):%m-%d %H:%M KST} 까지 {remain}s 대기")
+    return remain
+
+
 def main() -> int:
     now = datetime.now(timezone.utc)
+    if "--sleep-until-stale" in sys.argv[1:]:
+        remain = sleep_until_stale(now)
+        gh_out = os.environ.get("GITHUB_OUTPUT")
+        if gh_out:
+            with open(gh_out, "a", encoding="utf-8") as fh:
+                fh.write(f"sleep_s={remain}\n")
+        print(f"sleep_s={remain}")
+        return 0
     if os.environ.get("TEST_ALERT") == "true":
         run_id = os.environ.get("GITHUB_RUN_ID", "local")
         _out(True, f"test-{run_id}", f"🧪 싼타임 데드맨 감시 테스트 — {_fmt_kst(now)} 워크플로에서 Slack 연결 확인용")

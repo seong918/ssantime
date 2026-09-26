@@ -1,4 +1,5 @@
-# 외부 데드맨 감시 — 맥 데몬이 죽어도 여기(GitHub)는 살아 있다.
+# 외부 데드맨 감시(백스톱) — 맥 데몬이 죽어도 여기(GitHub)는 살아 있다.
+# ⚠️ 실측(2026-09-26) GitHub cron 은 3~4시간 간격으로만 돌았다 → 주 감시자는 push 트리거 deadman-watch.yml. 이 cron 은 2중 안전망.
 # heartbeat.json(소스 publish 가 매 사이클 갱신·커밋) 나이 ≥150분 → Slack. 어제 발행 급감(7일 평균 40% 미만) → Slack.
 # 중복 알림은 actions/cache 키(무응답: ts+6h 버킷 · 급감: 날짜)로 막는다. 수동: Actions → Run workflow (test_alert 로 연결 확인).
 name: deadman
