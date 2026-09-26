@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "7adc598777fe",
+    "title": "[롯데온] 어촌시래기 시래기감자탕 3~4인세트 3.2kg내외+라면사리 (16,680원/무료)",
+    "deal_total": 16680,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 20730,
+    "gap": 4050,
+    "mall_name": null,
+    "buy_url": "https://www.lotteon.com/product/LO2763306326",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=116&&no=736517",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5428333/54283337635.11.jpg?type=f300",
+    "created_iso": "2026-09-26T10:31:55.495014+00:00",
+    "naver_url": null,
+    "naver_product_id": "54283337635",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. 정가 24,900원에서 20% 할인되어 19,920원\n2. 혜택가 적용 시 16,680원 (혜택변경)",
+    "product_summary": "어촌시래기 시래기감자탕 3~4인 세트입니다.\n감자탕 3.2kg 내외에 라면사리 1봉이 함께 구성됩니다.\n점보목뼈를 사용해 살코기가 많은 것이 특징입니다.",
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "어촌시래기",
+      "시래기감자탕",
+      "감자탕",
+      "목뼈감자탕",
+      "점보목뼈",
+      "라면사리",
+      "밀키트",
+      "간편식"
+    ]
+  },
+  {
     "deal_id": "fbfecc5bb9a6",
     "title": "자바탭 자바라 스탠드 스마트폰 거치대",
     "deal_total": 15800,
@@ -7838,7 +7874,7 @@
     "category": "가전/가구",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "풍년압력밥솥",
@@ -7876,7 +7912,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "이젠벅",
@@ -7913,7 +7949,7 @@
     "category": "PC/하드웨어",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "darkflash",
