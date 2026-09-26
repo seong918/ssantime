@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "a47fbcd06cca",
+    "title": "[롯데온] 타미힐피거 공식 테크 셔츠 재킷 (136,440원/무료)",
+    "deal_total": 136440,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 169630,
+    "gap": 33190,
+    "mall_name": "네이버",
+    "buy_url": "https://s.lotteon.com/rWGyYOHFm5",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=116&&no=736523",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5897309/58973093253.20260623075200.jpg?type=f300",
+    "created_iso": "2026-09-26T11:23:23.659090+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/58973093253",
+    "naver_product_id": "58973093253",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": null,
+    "product_summary": "타미힐피거 공식 테크 셔츠 재킷입니다.\n셔츠형 재킷으로 두 가지 종류 중 하나를 선택할 수 있으며, XXL까지 사이즈가 준비되어 있습니다.\n오버핏으로 제작되어 정사이즈 또는 한 사이즈 다운으로 착용하기 적합합니다.\n재고가 넉넉하지 않은 점 참고 바랍니다.",
+    "source_site": "ppomppu",
+    "category": "의류/잡화",
+    "category_bucket": "패션",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "타미힐피거",
+      "Tommy Hilfiger",
+      "셔츠재킷",
+      "테크셔츠재킷",
+      "셔츠형자켓",
+      "오버핏",
+      "재킷",
+      "자켓"
+    ]
+  },
+  {
     "deal_id": "7adc598777fe",
     "title": "[롯데온] 어촌시래기 시래기감자탕 3~4인세트 3.2kg내외+라면사리 (16,680원/무료)",
     "deal_total": 16680,
@@ -7762,7 +7798,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "GRAY BLVD",
@@ -7799,7 +7835,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "몬스터에너지",
@@ -7836,7 +7872,7 @@
     "category": "가전제품",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "돌체구스토",
