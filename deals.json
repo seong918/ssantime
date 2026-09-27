@@ -1,5 +1,43 @@
 [
   {
+    "deal_id": "fa302863c0aa",
+    "title": "[오늘의집] 올반 수비드 닭가슴살 130g 12팩 (22,161원/무료배송)",
+    "deal_total": 22161,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 29800,
+    "gap": 7639,
+    "mall_name": null,
+    "buy_url": "https://bitl.bz/api@o8RRqLIe",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=116&&no=736587",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_8651914/86519148725.3.jpg?type=f300",
+    "created_iso": "2026-09-27T03:10:41.896707+00:00",
+    "naver_url": null,
+    "naver_product_id": "86519148725",
+    "buy_url_orig": "https://store.ohou.se/goods/3519825",
+    "price_label": "",
+    "discount_guide": "1. 쿠폰을 받아 적용하면 47%, 24,900원입니다.\n2. 쿠폰 적용 시 나의 할인가는 22,161원입니다.\n3. 최대 1,066P 적립됩니다.\n※ 무료배송이며, 제주도/도서산간은 배송비 3,000원이 추가됩니다.",
+    "product_summary": "올반 수비드 닭가슴살 130g 12팩 구성 상품입니다.\n오리지널·허브·블랙페퍼 3종으로 이루어져 있습니다.\n국산 닭고기를 12시간 저온 수비드 방식으로 조리했습니다.\n냉동 제품으로 팩당 약 118~124kcal입니다.",
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "올반",
+      "수비드 닭가슴살",
+      "닭가슴살",
+      "닭가슴살 12팩",
+      "수비드",
+      "국산 닭고기",
+      "간편식",
+      "고단백",
+      "냉동식품",
+      "신세계푸드"
+    ]
+  },
+  {
     "deal_id": "60d83be64ecf",
     "title": "[네이버] 메트로시티 하프문 크로스백 (87,920원/무배)",
     "deal_total": 87920,
@@ -7649,7 +7687,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "반건조오징어",
@@ -7685,7 +7723,7 @@
     "category": "의류/잡화",
     "category_bucket": "기타",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "불스원",
@@ -7722,7 +7760,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "스타벅스",
@@ -7758,7 +7796,7 @@
     "category": "PC제품",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://shopping.naver.com/festa/onsale/brand/6a71947cac7f3201bdbaff8e"
     ],
