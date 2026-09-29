@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "bccae65dce1a",
+    "title": "[11번가] 무안 도담 표고버섯 못난이 1kg(6,900원/무료)",
+    "deal_total": 6900,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 10070,
+    "gap": 3170,
+    "mall_name": null,
+    "buy_url": "https://bitl.bz/api@2usiFWTw",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=116&&no=737060",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5901518/59015188374.3.jpg?type=f300",
+    "created_iso": "2026-09-29T10:10:36.882440+00:00",
+    "naver_url": null,
+    "naver_product_id": "59015188374",
+    "buy_url_orig": "http://www.11st.co.kr/products/5802153060/share",
+    "price_label": "",
+    "discount_guide": "1. 상품 페이지에서 '쿠폰받기'로 쿠폰을 받아 적용하면 5% 할인가 8,700원에서 25% 할인가 6,900원(최대할인가)으로 구매할 수 있습니다.\n※ 정상가 9,200원 기준",
+    "product_summary": "무안 도담 표고버섯 못난이 1kg 상품입니다.\n원산지는 국내 무안군이며, 등급은 P(못난이) 산지직송으로 구성됩니다.\n추가구성으로 아이스박스가 포함됩니다.",
+    "source_site": "ppomppu",
+    "category": "기타",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "표고버섯",
+      "도담 표고버섯",
+      "못난이 표고버섯",
+      "무안 표고버섯",
+      "국내산 버섯",
+      "산지직송",
+      "버섯",
+      "shiitake"
+    ]
+  },
+  {
     "deal_id": "9ce603c42dc2",
     "title": "[KREAM] 레노버 아이디어탭 프로 2세대 (8G/256GB) (4449,000원/3,000원)",
     "deal_total": 449000,
@@ -239,7 +275,7 @@
     "source_site": "ppomppu",
     "category": "기타",
     "category_bucket": "식품",
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [
       "https://www.lotteon.com/m/product/LO1947633541?sitmNo=LO1947633541_1947633542&mall_no=1&dp_infw_cd=BSGP37919&areaCode=BSG2001"
