@@ -1,5 +1,42 @@
 [
   {
+    "deal_id": "71e8880067bc",
+    "title": "[네이버] 코스트코 크리넥스 데코&소프트 40m x 30롤 화장지",
+    "deal_total": 29620,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 38170,
+    "gap": 8550,
+    "mall_name": null,
+    "buy_url": "https://smartstore.naver.com/sbb2bmall/products/13776335955",
+    "source_url": "https://quasarzone.com/bbs/qb_saleinfo/views/1989420",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_8717607/87176073621.jpg?type=f300",
+    "created_iso": "2026-09-30T03:32:20.947896+00:00",
+    "naver_url": null,
+    "naver_product_id": "87176073621",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. 멤버십 전용카드 결제 시 최대 2,962원 적립 포인트 받기\n2. 라인프렌즈 카드 최대 592원 추가 적립(2%)\n3. 최대 적립 포인트 4,592원\n※ 무료배송",
+    "product_summary": "코스트코 크리넥스 데코&소프트 40m x 30롤 화장지입니다.\n롤당 길이가 40m인 3겹 화장지 30롤로 구성되어 있습니다.\n엠보싱 코튼 패턴이 적용된 프리미엄 데코&소프트 제품입니다.",
+    "source_site": "quasarzone",
+    "category": "기타",
+    "category_bucket": "생활",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "크리넥스",
+      "kleenex",
+      "코스트코",
+      "화장지",
+      "두루마리휴지",
+      "데코소프트",
+      "3겹화장지",
+      "40m",
+      "30롤"
+    ]
+  },
+  {
     "deal_id": "9b54c171c21e",
     "title": "[네이버] 차려낸 국밀이 시원한 바지락 칼국수(4인분) (10,050원/무료)",
     "deal_total": 10050,
@@ -8127,7 +8164,7 @@
     "category": "기타",
     "category_bucket": "기타",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "고양이장난감",
@@ -8164,7 +8201,7 @@
     "category": "컴퓨터",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "조립PC",
@@ -8202,7 +8239,7 @@
     "category": "가전/가구",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "잠온",
@@ -8240,7 +8277,7 @@
     "category": "의류",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "미니멀프로젝트",
