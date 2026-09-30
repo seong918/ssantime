@@ -1,5 +1,42 @@
 [
   {
+    "deal_id": "0c176b424e19",
+    "title": "르샤트라1802 인퓨전 초고농축 섬유유연제 뮤게 부케 본품, 5.7L, 1개",
+    "deal_total": 13860,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 20700,
+    "gap": 6840,
+    "mall_name": "네이버",
+    "buy_url": "https://link.coupang.com/a/hshB7amBTU",
+    "source_url": "https://www.fmkorea.com/10393031904",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5378542/53785428675.20250326103344.jpg?type=f300",
+    "created_iso": "2026-09-30T00:42:00.529795+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/53785428675",
+    "naver_product_id": "53785428675",
+    "buy_url_orig": "https://link.coupang.com/a/hshr31e3u8",
+    "price_label": "13,860원",
+    "discount_guide": "1. 와우할인 적용 시 6,840원 할인되어 13,860원(100ml당 243원)에 구매합니다.",
+    "product_summary": "르샤트라1802 인퓨전 초고농축 섬유유연제 뮤게 부케 본품입니다.\n용량은 5.7L 대용량 1개 구성입니다.\n프랑스 Le Chatelard 브랜드의 뮤게(은방울꽃) 부케 향 제품입니다.\n대용량 제품으로 눕혀서 보관하며 사용할 수 있습니다.",
+    "source_site": "fmkorea",
+    "category": "생활용품",
+    "category_bucket": "생활",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "르샤트라1802",
+      "Le Chatelard",
+      "섬유유연제",
+      "초고농축 섬유유연제",
+      "뮤게 부케",
+      "Muguet Bouquet",
+      "인퓨전",
+      "대용량 섬유유연제",
+      "5.7L"
+    ]
+  },
+  {
     "deal_id": "668266c499a5",
     "title": "[지마켓] 청도반시 5kg 46-55과(10,630원/무료배송)",
     "deal_total": 10630,
@@ -8126,7 +8163,7 @@
     "category": "노트북/모바일",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "LG그램",
@@ -8164,7 +8201,7 @@
     "category": "전자제품",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "Archon",
@@ -8202,7 +8239,7 @@
     "category": "가전/가구",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://store.ohou.se/exhibitions/19923"
     ],
