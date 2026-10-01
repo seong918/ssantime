@@ -2,10 +2,10 @@
   "schema_version": "1.0",
   "dataset_name": "싼타임 현재 활성 온라인 핫딜 가격 비교 스냅샷",
   "canonical_url": "https://ssantime.com/research/",
-  "snapshot_updated_at": "2026-10-01T05:05:37.353146+00:00",
+  "snapshot_updated_at": "2026-10-01T06:54:29.461880+00:00",
   "active_record_span": {
-    "from": "2026-09-24T06:52:06.132887+00:00",
-    "to": "2026-10-01T05:05:37.353146+00:00",
+    "from": "2026-09-24T08:44:40.805946+00:00",
+    "to": "2026-10-01T06:54:29.461880+00:00",
     "from_date_kst": "2026-09-24",
     "to_date_kst": "2026-10-01",
     "retention_policy_days": 7
@@ -17,89 +17,89 @@
     "comparison_baseline": "수집 시점에 같은 상품 후보로 자동 매칭한 네이버 쇼핑 비교가"
   },
   "metrics": {
-    "active_verified_deals": 252,
-    "strict_comparable_deals": 125,
-    "median_savings_krw": 6400,
+    "active_verified_deals": 258,
+    "strict_comparable_deals": 129,
+    "median_savings_krw": 6200,
     "median_discount_percent": 22.9,
-    "shipping_known_deals": 125,
-    "shipping_unknown_deals": 127,
+    "shipping_known_deals": 129,
+    "shipping_unknown_deals": 129,
     "coupang_deals": 27,
-    "coupang_share_percent": 10.7,
-    "identified_marketplace_labels": 29,
+    "coupang_share_percent": 10.5,
+    "identified_marketplace_labels": 31,
     "marketplace_unknown_deals": 0
   },
   "categories": [
     {
       "name": "전자",
-      "count": 40,
+      "count": 41,
       "share_percent": 15.9
     },
     {
       "name": "식품",
-      "count": 121,
-      "share_percent": 48.0
+      "count": 123,
+      "share_percent": 47.7
     },
     {
       "name": "생활",
-      "count": 37,
-      "share_percent": 14.7
+      "count": 39,
+      "share_percent": 15.1
     },
     {
       "name": "패션",
       "count": 41,
-      "share_percent": 16.3
+      "share_percent": 15.9
     },
     {
       "name": "기타",
-      "count": 13,
-      "share_percent": 5.2
+      "count": 14,
+      "share_percent": 5.4
     }
   ],
   "marketplaces": [
     {
       "name": "롯데ON",
-      "count": 57,
-      "share_percent": 22.6
+      "count": 59,
+      "share_percent": 22.9
     },
     {
       "name": "네이버 스마트스토어",
-      "count": 44,
-      "share_percent": 17.5
+      "count": 46,
+      "share_percent": 17.8
     },
     {
       "name": "G마켓",
-      "count": 29,
-      "share_percent": 11.5
+      "count": 30,
+      "share_percent": 11.6
     },
     {
       "name": "쿠팡",
       "count": 27,
-      "share_percent": 10.7
+      "share_percent": 10.5
     },
     {
       "name": "11번가",
-      "count": 22,
-      "share_percent": 8.7
+      "count": 21,
+      "share_percent": 8.1
     },
     {
       "name": "오늘의집",
       "count": 15,
-      "share_percent": 6.0
+      "share_percent": 5.8
     },
     {
       "name": "카카오 스토어",
       "count": 11,
-      "share_percent": 4.4
+      "share_percent": 4.3
     },
     {
       "name": "토스쇼핑",
       "count": 8,
-      "share_percent": 3.2
+      "share_percent": 3.1
     },
     {
       "name": "카카오 선물하기",
       "count": 6,
-      "share_percent": 2.4
+      "share_percent": 2.3
     },
     {
       "name": "무신사",
@@ -118,35 +118,35 @@
     },
     {
       "name": "기타 판매처",
-      "count": 23,
-      "share_percent": 9.1
+      "count": 25,
+      "share_percent": 9.7
     }
   ],
   "source_communities": [
     {
       "name": "뽐뿌",
-      "count": 128,
-      "share_percent": 50.8
+      "count": 132,
+      "share_percent": 51.2
     },
     {
       "name": "에펨코리아",
-      "count": 64,
-      "share_percent": 25.4
+      "count": 66,
+      "share_percent": 25.6
     },
     {
       "name": "아카라이브",
       "count": 37,
-      "share_percent": 14.7
+      "share_percent": 14.3
     },
     {
       "name": "퀘이사존",
       "count": 17,
-      "share_percent": 6.7
+      "share_percent": 6.6
     },
     {
       "name": "루리웹",
       "count": 6,
-      "share_percent": 2.4
+      "share_percent": 2.3
     }
   ],
   "methodology": [
