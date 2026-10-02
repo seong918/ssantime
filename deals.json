@@ -12110,7 +12110,7 @@
     "category": "먹거리",
     "category_bucket": null,
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -12137,7 +12137,7 @@
     "category": "의류",
     "category_bucket": null,
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
