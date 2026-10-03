@@ -17,12 +17,12 @@
     "comparison_baseline": "수집 시점에 같은 상품 후보로 자동 매칭한 네이버 쇼핑 비교가"
   },
   "metrics": {
-    "active_verified_deals": 329,
+    "active_verified_deals": 328,
     "strict_comparable_deals": 164,
     "median_savings_krw": 6845,
     "median_discount_percent": 23.6,
     "shipping_known_deals": 164,
-    "shipping_unknown_deals": 165,
+    "shipping_unknown_deals": 164,
     "coupang_deals": 40,
     "coupang_share_percent": 12.2,
     "identified_marketplace_labels": 40,
@@ -31,13 +31,13 @@
   "categories": [
     {
       "name": "전자",
-      "count": 56,
-      "share_percent": 17.0
+      "count": 55,
+      "share_percent": 16.8
     },
     {
       "name": "식품",
       "count": 163,
-      "share_percent": 49.5
+      "share_percent": 49.7
     },
     {
       "name": "생활",
@@ -47,12 +47,12 @@
     {
       "name": "패션",
       "count": 52,
-      "share_percent": 15.8
+      "share_percent": 15.9
     },
     {
       "name": "기타",
       "count": 11,
-      "share_percent": 3.3
+      "share_percent": 3.4
     }
   ],
   "marketplaces": [
@@ -64,12 +64,12 @@
     {
       "name": "네이버 스마트스토어",
       "count": 56,
-      "share_percent": 17.0
+      "share_percent": 17.1
     },
     {
       "name": "G마켓",
-      "count": 41,
-      "share_percent": 12.5
+      "count": 40,
+      "share_percent": 12.2
     },
     {
       "name": "쿠팡",
@@ -79,7 +79,7 @@
     {
       "name": "11번가",
       "count": 31,
-      "share_percent": 9.4
+      "share_percent": 9.5
     },
     {
       "name": "카카오 스토어",
@@ -119,14 +119,14 @@
     {
       "name": "기타 판매처",
       "count": 36,
-      "share_percent": 10.9
+      "share_percent": 11.0
     }
   ],
   "source_communities": [
     {
       "name": "뽐뿌",
       "count": 168,
-      "share_percent": 51.1
+      "share_percent": 51.2
     },
     {
       "name": "에펨코리아",
@@ -140,8 +140,8 @@
     },
     {
       "name": "퀘이사존",
-      "count": 18,
-      "share_percent": 5.5
+      "count": 17,
+      "share_percent": 5.2
     },
     {
       "name": "루리웹",
