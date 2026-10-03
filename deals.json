@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "25d75271efd6",
+    "title": "돌체구스토 커피머신 지니오S 베이직+르쿠르제 2종세트",
+    "deal_total": 64170,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 69000,
+    "gap": 4830,
+    "mall_name": null,
+    "buy_url": "https://www.lotteon.com/p/product/LO2641188143",
+    "source_url": "https://www.fmkorea.com/10406066814",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6085767/60857674678.jpg?type=f300",
+    "created_iso": "2026-10-03T09:07:03.682357+00:00",
+    "naver_url": null,
+    "naver_product_id": "60857674678",
+    "buy_url_orig": "",
+    "price_label": "카드64,170원",
+    "discount_guide": null,
+    "product_summary": "네스카페 돌체구스토 캡슐 커피머신 지니오S 베이직 모델입니다.\n스타벅스 캡슐 2박스가 함께 증정되는 구성입니다.\n올리브영 1만원 상품권도 추가로 제공됩니다.",
+    "source_site": "fmkorea",
+    "category": "가전제품",
+    "category_bucket": "전자",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "돌체구스토",
+      "dolce gusto",
+      "지니오S",
+      "genio S",
+      "네스카페",
+      "캡슐커피머신",
+      "커피머신",
+      "스타벅스캡슐"
+    ]
+  },
+  {
     "deal_id": "2c1c418a5c1b",
     "title": "[홈앤쇼핑] 김가연 국내산 100% 포기김치 (35,604원/무료)",
     "deal_total": 35604,
@@ -12729,7 +12765,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "리퀴드",
@@ -12766,7 +12802,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "더미식",
@@ -12802,7 +12838,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "타미진스",
