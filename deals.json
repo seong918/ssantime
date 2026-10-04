@@ -1,5 +1,43 @@
 [
   {
+    "deal_id": "b96a0eda0b49",
+    "title": "타미진스 레귤러 핏 배지 티셔츠",
+    "deal_total": 38200,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 51030,
+    "gap": 12830,
+    "mall_name": "네이버",
+    "buy_url": "https://bitl.bz/api@XYbWCfAY",
+    "source_url": "https://www.fmkorea.com/10409373093",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5837671/58376714609.20260219142843.jpg?type=f300",
+    "created_iso": "2026-10-04T07:49:42.878484+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/58376714609",
+    "naver_product_id": "58376714609",
+    "buy_url_orig": "https://www.hfashionmall.com/product/GM0126052971138/detail",
+    "price_label": "38,200원",
+    "discount_guide": "1. 10월 20%쿠폰을 받아 적용합니다.\n2. 17,000P를 사용합니다.\n※ 20%쿠폰과 17,000P는 각각 따로 받아야 합니다.\n※ 20%쿠폰과 17,000P를 모두 적용하면 38,200원에 구매할 수 있습니다.",
+    "product_summary": "타미진스 레귤러 핏 배지 티셔츠입니다.\n가슴 부분에 타미 배지 로고가 포인트로 들어간 제품입니다.\n군더더기 없이 편하게 입을 수 있는 레귤러 핏으로 제작되었습니다.",
+    "source_site": "fmkorea",
+    "category": "의류",
+    "category_bucket": "패션",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [
+      "https://www.hfashionmall.com/event/EV202609220008985/view"
+    ],
+    "tags": [
+      "타미진스",
+      "Tommy Jeans",
+      "타미힐피거",
+      "배지 티셔츠",
+      "레귤러핏",
+      "티셔츠",
+      "로고티",
+      "남성의류"
+    ]
+  },
+  {
     "deal_id": "9256fe13a09f",
     "title": "오므론 혈압계 JPN610T",
     "deal_total": 127870,
@@ -242,7 +280,7 @@
     "source_site": "fmkorea",
     "category": "해외핫딜",
     "category_bucket": "패션",
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [],
     "tags": [
@@ -12818,7 +12856,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "레노마",
@@ -12855,7 +12893,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "타미힐피거",
