@@ -1,5 +1,32 @@
 [
   {
+    "deal_id": "84fbb37ab345",
+    "title": "미즈노 논슬립 그라운드 단목 양말 1켤레",
+    "deal_total": 5660,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 8900,
+    "gap": 3240,
+    "mall_name": "네이버",
+    "buy_url": "https://www.musinsa.com/products/4109309",
+    "source_url": "https://www.fmkorea.com/10413344278",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5576187/55761877368.20260626071341.jpg?type=f300",
+    "created_iso": "2026-10-05T07:54:51.701952+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/55761877368",
+    "naver_product_id": "55761877368",
+    "buy_url_orig": "",
+    "price_label": "5,660원",
+    "discount_guide": null,
+    "product_summary": null,
+    "source_site": "fmkorea",
+    "category": "의류",
+    "category_bucket": null,
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": []
+  },
+  {
     "deal_id": "6b00c2a9e998",
     "title": "MSI 24인치 144HZ FHD게이밍모니터",
     "deal_total": 85580,
@@ -12756,7 +12783,7 @@
     "category": "기타",
     "category_bucket": "기타",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "청도",
@@ -12792,7 +12819,7 @@
     "category": "생활용품",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://plan.11st.co.kr/plan/front/exhibitions/2225178/detail"
     ],
@@ -12831,7 +12858,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "언더아머",
@@ -12869,7 +12896,7 @@
     "category": "기타",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "써메이션",
@@ -12907,7 +12934,7 @@
     "category": "가전/TV",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "필립스",
@@ -12945,7 +12972,7 @@
     "category": "모바일/상품권",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "파리바게뜨",
