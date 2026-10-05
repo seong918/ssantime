@@ -1,5 +1,44 @@
 [
   {
+    "deal_id": "64e472779b5b",
+    "title": "[CJ온스타일] 아디다스 기모 트레이닝복 상하세트 (77,410원/무배)",
+    "deal_total": 77410,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 98300,
+    "gap": 20890,
+    "mall_name": null,
+    "buy_url": "https://cjon.style/GakE1zkN3C",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=117&&no=738243",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_9131144/91311444230.jpg?type=f300",
+    "created_iso": "2026-10-05T18:18:17.475284+00:00",
+    "naver_url": null,
+    "naver_product_id": "91311444230",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. 10% 배너 쿠폰을 적용합니다 (할인/쿠폰적용 -13,090원)\n2. 카카오페이 현대카드로 결제하면 즉시할인 5% (카드즉시할인 -3,860원) 적용되어 77,410원\n3. 저번달 구매이력이 있으면 멤버십 할인까지 적용되어 73,350원 (총 할인 -16,950원)\n※ 카카오페이 현대카드 결제 시에만 즉시할인 5%가 적용됩니다",
+    "product_summary": "아디다스 컴뱃스포츠 기모 트레이닝복 상하세트 TR100 (블랙)입니다.\n재킷과 팬츠로 구성된 기모 소재 트레이닝복 세트입니다.\n이용자 평점은 4.7점(25건)입니다.",
+    "source_site": "ppomppu",
+    "category": "의류/잡화",
+    "category_bucket": "패션",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [
+      "https://cjon.style/wcjH7syRNl"
+    ],
+    "tags": [
+      "아디다스",
+      "adidas",
+      "트레이닝복",
+      "상하세트",
+      "기모",
+      "컴뱃스포츠",
+      "TR100",
+      "트레이닝복세트",
+      "블랙"
+    ]
+  },
+  {
     "deal_id": "49ab7fe870e4",
     "title": "[토스] 산사춘 375ml 6병 (19,900원/무배)",
     "deal_total": 19900,
