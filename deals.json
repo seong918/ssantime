@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "d66d06e6aa80",
+    "title": "[오늘의집] JMW 케어부스터 음이온 헤어드라이기(71,155원/무배)",
+    "deal_total": 71155,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 75950,
+    "gap": 4795,
+    "mall_name": null,
+    "buy_url": "https://bitl.bz/api@M7rQ8qqc",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=117&&no=738091",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_8798353/87983531063.jpg?type=f300",
+    "created_iso": "2026-10-05T00:21:08.589146+00:00",
+    "naver_url": null,
+    "naver_product_id": "87983531063",
+    "buy_url_orig": "https://store.ohou.se/goods/3909357",
+    "price_label": "",
+    "discount_guide": "1. 쿠폰 받기로 쿠폰을 적용하면 149,000원에서 49% 할인된 74,900원\n2. toss 결제 시 3,557원 더 할인 + 최대 2,019P 적립 (나의 할인가 71,155원)\n※ 사은품으로 헤어 크림미스트 증정\n※ 브랜드 위크 기간인 10/11까지만 할인 적용",
+    "product_summary": "JMW BLDC 음이온 케어부스터 헤어 드라이기 오트베이지 색상입니다.\n브러시리스 BLDC 모터와 음이온 기능을 갖춘 헤어 드라이기입니다.\n본체 크기가 컴팩트하고 무게가 가벼우며, 바람 세기가 강한 편입니다.\n구매 시 사은품으로 헤어 크림미스트가 증정됩니다.",
+    "source_site": "ppomppu",
+    "category": "가전/가구",
+    "category_bucket": "전자",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "JMW",
+      "헤어드라이기",
+      "드라이기",
+      "음이온",
+      "케어부스터",
+      "BLDC",
+      "무선드라이기",
+      "헤어드라이어"
+    ]
+  },
+  {
     "deal_id": "3fb81e9ae4ef",
     "title": "[토스] 핫식스 더킹 애플홀릭 355ml 24캔 (14,400원/무배)",
     "deal_total": 14400,
@@ -12878,7 +12914,7 @@
     "category": "의류/잡화",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -12905,7 +12941,7 @@
     "category": "의류/잡화",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -12932,7 +12968,7 @@
     "category": "생활용품",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
