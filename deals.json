@@ -12356,7 +12356,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "광천김",
@@ -12392,7 +12392,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "맥반석오징어",
@@ -12428,7 +12428,7 @@
     "category": "생활용품",
     "category_bucket": "기타",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "듀퐁",
@@ -12464,7 +12464,7 @@
     "category": "생활용품",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "페브리즈",
