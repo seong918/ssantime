@@ -12425,7 +12425,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "오양",
@@ -12462,7 +12462,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "갑오징어",
@@ -12498,7 +12498,7 @@
     "category": "노트북/모바일",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "LG그램",
@@ -12536,7 +12536,7 @@
     "category": "생활/식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "몬스터에너지",
@@ -12573,7 +12573,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "오리온",
@@ -12609,7 +12609,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "매일두유",
@@ -12645,7 +12645,7 @@
     "category": "생활용품",
     "category_bucket": "패션",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "아메리칸투어리스터",
@@ -12682,7 +12682,7 @@
     "category": "의류",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "헤지스",
@@ -12719,7 +12719,7 @@
     "category": "생활용품",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "온더바디",
