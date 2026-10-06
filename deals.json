@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "3c6076829e3c",
+    "title": "[롯데온] 블랙야크 남여 경량 구스다운 후디 파르밧다운자켓 (108,120원/무배)",
+    "deal_total": 108120,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 123760,
+    "gap": 15640,
+    "mall_name": "네이버",
+    "buy_url": "https://www.lotteon.com/p/product/LE1222597408?mall_no=1",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=117&&no=738446",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5523185/55231858660.20260629093210.jpg?type=f300",
+    "created_iso": "2026-10-06T12:49:05.367739+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/55231858660",
+    "naver_product_id": "55231858660",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": null,
+    "product_summary": "블랙야크 파르밧다운자켓으로, 가볍게 입기 좋은 경량 구스다운 후디입니다.\n마실용, 일상용으로 편하게 입기 좋은 아이템입니다.\n남녀 공용으로 남성 사이즈는 125까지 제공됩니다.",
+    "source_site": "ppomppu",
+    "category": "의류/잡화",
+    "category_bucket": "패션",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "블랙야크",
+      "BLACKYAK",
+      "파르밧다운자켓",
+      "구스다운",
+      "경량다운",
+      "다운자켓",
+      "후디",
+      "패딩"
+    ]
+  },
+  {
     "deal_id": "c1b26614bf27",
     "title": "[카카오] 헤드스파7 리페어 듀얼 앰플 트리트먼트 230ml 6개+50ml (55,800원/무료)",
     "deal_total": 55800,
@@ -12107,7 +12143,7 @@
     "category": "기타",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "http://payco.kr/C4OVo?partyId=56ucl9VBbG"
     ],
@@ -12145,7 +12181,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "아이더",
@@ -12182,7 +12218,7 @@
     "category": "모바일/상품권",
     "category_bucket": "기타",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "파스쿠찌",
@@ -12219,7 +12255,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "장어탕",
@@ -12255,7 +12291,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "컬럼비아",
@@ -12291,7 +12327,7 @@
     "category": "기타",
     "category_bucket": "기타",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "마이티펫",
@@ -12327,7 +12363,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "쌈채소",
