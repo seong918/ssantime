@@ -1,5 +1,78 @@
 [
   {
+    "deal_id": "acaf764be65b",
+    "title": "[11번가] 브라운 전기면도기 NEVO+세정액6개+금0.1(449,000원/무료배송)",
+    "deal_total": 449000,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 649000,
+    "gap": 200000,
+    "mall_name": null,
+    "buy_url": "https://bitl.bz/api@ENVMTmgC",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=117&&no=738413",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6151482/61514823023.jpg?type=f300",
+    "created_iso": "2026-10-06T10:39:10.630486+00:00",
+    "naver_url": null,
+    "naver_product_id": "61514823023",
+    "buy_url_orig": "https://www.11st.co.kr/products/9593032246",
+    "price_label": "",
+    "discount_guide": null,
+    "product_summary": "브라운 전기면도기 시리즈 NEVO 11000C 실버 모델로, 세척충전스테이션이 포함된 구성입니다.\n세정액 6개와 골드바 0.1g이 함께 증정되는 구성입니다.\n최대 5년 무상 A/S가 제공됩니다.",
+    "source_site": "ppomppu",
+    "category": "기타",
+    "category_bucket": "전자",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "브라운",
+      "braun",
+      "전기면도기",
+      "면도기",
+      "NEVO",
+      "네보",
+      "11000C",
+      "세척충전스테이션",
+      "세정액"
+    ]
+  },
+  {
+    "deal_id": "0f68b0c8f603",
+    "title": "[불스원볼] 자동차 차량용 목쿠션 목배게 헤드래스트 (9,500원/무료)",
+    "deal_total": 9500,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 12900,
+    "gap": 3400,
+    "mall_name": null,
+    "buy_url": "https://www.bullsonemall.com/store/product.detail.oz?cataIdx=&pdtIdx=13569",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=117&&no=738410",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_8283764/82837644331.12.jpg?type=f300",
+    "created_iso": "2026-10-06T10:39:16.887361+00:00",
+    "naver_url": null,
+    "naver_product_id": "82837644331",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": null,
+    "product_summary": "불스원볼 자동차 차량용 목쿠션(목베개) 헤드레스트입니다.\n차량 시트 헤드레스트에 장착해 목을 받쳐주는 용도로 사용합니다.\n색상은 4가지로 구성되어 있습니다.",
+    "source_site": "ppomppu",
+    "category": "기타",
+    "category_bucket": "기타",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "불스원볼",
+      "목쿠션",
+      "목베개",
+      "헤드레스트",
+      "차량용품",
+      "자동차용품",
+      "차량용 목베개",
+      "카시트 쿠션"
+    ]
+  },
+  {
     "deal_id": "72cd62741464",
     "title": "[롯데온] 베네통키즈 26FW 유니 미디 다운 (122,030원/무배)",
     "deal_total": 122030,
@@ -354,7 +427,7 @@
     "source_site": "fmkorea",
     "category": "PC제품",
     "category_bucket": "전자",
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [],
     "tags": [
@@ -1058,7 +1131,7 @@
     "source_site": "ppomppu",
     "category": "식품/건강",
     "category_bucket": "식품",
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [],
     "tags": [
@@ -12216,7 +12289,7 @@
     "category": "기타",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "표고버섯",
@@ -12252,7 +12325,7 @@
     "category": "기타",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "레노버",
@@ -12288,7 +12361,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "활멍게",
@@ -12324,7 +12397,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "감귤",
@@ -12361,7 +12434,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "모다모다",
@@ -12397,7 +12470,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "아델라",
@@ -12433,7 +12506,7 @@
     "category": "기타",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "필립스",
@@ -12470,7 +12543,7 @@
     "category": "기타",
     "category_bucket": "식품",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://www.lotteon.com/m/product/LO1947633541?sitmNo=LO1947633541_1947633542&mall_no=1&dp_infw_cd=BSGP37919&areaCode=BSG2001"
     ],
@@ -12509,7 +12582,7 @@
     "category": "디지털",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "브리츠",
@@ -12545,7 +12618,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "버팔로",
@@ -12583,7 +12656,7 @@
     "category": "가전/가구",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "한일의료기",
@@ -12620,7 +12693,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "오리온",
@@ -12656,7 +12729,7 @@
     "category": "생활용품",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "쌤소나이트",
