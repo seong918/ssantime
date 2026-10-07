@@ -1,5 +1,42 @@
 [
   {
+    "deal_id": "98e32c737163",
+    "title": "액츠 퍼펙트 포켓몬 에디션 딥클린 캡슐세제 80개입x2개(총160개입)+사은품",
+    "deal_total": 19964,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 28900,
+    "gap": 8936,
+    "mall_name": null,
+    "buy_url": "https://bitl.bz/api@56eNLlmP",
+    "source_url": "https://www.fmkorea.com/10423180224",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6158894/61588945317.1.jpg?type=f300",
+    "created_iso": "2026-10-07T16:49:33.739725+00:00",
+    "naver_url": null,
+    "naver_product_id": "61588945317",
+    "buy_url_orig": "https://store.ohou.se/goods/4215830",
+    "price_label": "19,964원",
+    "discount_guide": "1. 상품 페이지에서 '받은 쿠폰 보기'로 쿠폰을 받아 적용하면 28,900원에서 24% 쿠폰 할인되어 21,964원이 됩니다.\n2. 카카오페이(pay)로 결제 시 2,000원 추가 할인되어 19,964원이 됩니다.\n3. 결제 시 최대 1,619P(장바구니 기준 최대 620P) 적립됩니다.",
+    "product_summary": "액츠 퍼펙트 포켓몬 에디션 딥클린 캡슐세제입니다.\n80개입 2봉(총 160개입) 구성이며, 드럼·일반 세탁기 겸용으로 사용할 수 있습니다.\n얼룩케어·탈취·섬유보호 기능과 포켓몬 행운부적이 포함되어 있습니다.\n피죤 고농축 시그니처 섬유유연제(실내건조) 300ml가 사은품으로 증정됩니다.",
+    "source_site": "fmkorea",
+    "category": "생활용품",
+    "category_bucket": "생활",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "액츠",
+      "Actz",
+      "캡슐세제",
+      "캡슐세탁세제",
+      "포켓몬 에디션",
+      "딥클린",
+      "세탁세제",
+      "피죤",
+      "섬유유연제"
+    ]
+  },
+  {
     "deal_id": "2e234457eb06",
     "title": "[11번가] 모다모다 원스텝 이지커버 버블 샴푸 (18,890원 / 무료)",
     "deal_total": 18890,
@@ -13238,7 +13275,7 @@
     "category": "PC/하드웨어",
     "category_bucket": "전자",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "AMD",
@@ -13276,7 +13313,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://m.brand.naver.com/nongshim/products/12542720593"
     ],
@@ -13314,7 +13351,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://shopping.naver.com/festa/onsale/699ceb9398f1530c6f40ef49"
     ],
@@ -13354,7 +13391,7 @@
     "category": "PC제품",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "GIGABYTE",
@@ -13392,7 +13429,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "K2",
@@ -13428,7 +13465,7 @@
     "category": "기타",
     "category_bucket": "기타",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "서울랜드",
@@ -13464,7 +13501,7 @@
     "category": "PC/하드웨어",
     "category_bucket": "전자",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "9800X3D",
@@ -13502,7 +13539,7 @@
     "category": "생활/식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://brand.naver.com/nongshim/products/13678159682",
       "https://shopping.naver.com/festa/onsale/699ceb9398f1530c6f40ef49"
@@ -13541,7 +13578,7 @@
     "category": "PC/하드웨어",
     "category_bucket": "전자",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "AMD",
