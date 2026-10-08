@@ -1,5 +1,42 @@
 [
   {
+    "deal_id": "d36cebba92e0",
+    "title": "[G마켓] 폴햄 스트레치 팬츠 조거 스트레이트 카고 모음 9,910원/3,000원",
+    "deal_total": 9910,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 13842,
+    "gap": 3932,
+    "mall_name": "네이버",
+    "buy_url": "https://bitl.bz/api@VUIglMPm",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=117&&no=738914",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5405031/54050317986.20250911113707.jpg?type=f300",
+    "created_iso": "2026-10-08T14:41:32.842560+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/54050317986",
+    "naver_product_id": "54050317986",
+    "buy_url_orig": "https://link.gmarket.co.kr/jDxAOytywj",
+    "price_label": "",
+    "discount_guide": "1. 상품 페이지에서 '쿠폰 더받기'로 쿠폰 적용 → 쿠폰가 9,910원 (23% 할인)\n2. 스마일페이백 최대 5% 추가 적립 (최대 495원)\n3. 현대카드 최대 7% 추가 적립 (최대 693원)\n※ 적립 포함 최대 1,188원 적립",
+    "product_summary": "폴햄 스트레치 조거·카고·스트레이트 팬츠 6종 중 택1 상품입니다.\n사방스판 밴딩 소재로 운동·러닝·일상 착용이 가능하며, 일자·조거·카고 핏을 선택할 수 있습니다.\n색상은 베이지, 다크카키(DKH), 블랙(BK) 등으로 구성되어 있습니다.",
+    "source_site": "ppomppu",
+    "category": "기타",
+    "category_bucket": "패션",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "폴햄",
+      "pola",
+      "조거팬츠",
+      "카고팬츠",
+      "스트레치팬츠",
+      "밴딩팬츠",
+      "트레이닝팬츠",
+      "스트레이트팬츠",
+      "남성바지"
+    ]
+  },
+  {
     "deal_id": "94f6029589df",
     "title": "[롯데온] 마녀공장 퓨어 소이빈 클렌징 오일 200ml 2개 (18,740원)",
     "deal_total": 18740,
@@ -12264,7 +12301,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "에버데이",
@@ -12301,7 +12338,7 @@
     "category": "음식",
     "category_bucket": "식품",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "프링글스",
@@ -12337,7 +12374,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "프로스펙스",
@@ -12375,7 +12412,7 @@
     "category": "생활용품",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "탐사",
