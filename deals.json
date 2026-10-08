@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "1095996c8815",
+    "title": "[이마트] 에어팟 4세대 MXP63KH/A 109,000원 무배",
+    "deal_total": 109000,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 144500,
+    "gap": 35500,
+    "mall_name": "네이버",
+    "buy_url": "https://emart.kr/a/q5PbDG",
+    "source_url": "https://bbs.ruliweb.com/market/board/1020/read/107880",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5350904/53509045052.20250312151015.jpg?type=f300",
+    "created_iso": "2026-10-08T16:55:06.515085+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/53509045052",
+    "naver_product_id": "53509045052",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. KB국민/롯데/신한/NH농협/삼성 행사카드로 전액 결제 시 90,000원 추가 할인\n※BC/카카오뱅크/KB증권 카드 제외\n※행사기간 : 10.1(목) - 10.21(수)",
+    "product_summary": "애플 에어팟 4세대 무선 이어폰입니다.\n모델명은 MXP63KH/A입니다.\n무료배송으로 제공됩니다.",
+    "source_site": "ruliweb",
+    "category": "PC/가전",
+    "category_bucket": "전자",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "에어팟",
+      "airpods",
+      "에어팟 4세대",
+      "애플",
+      "apple",
+      "무선이어폰",
+      "이어폰",
+      "MXP63KH/A"
+    ]
+  },
+  {
     "deal_id": "af824002e027",
     "title": "[오늘의집] 씨없는 홍시용 청도반시 5kg 51-65과 (8,928원/무배)",
     "deal_total": 8928,
@@ -12198,7 +12234,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "탑씨",
@@ -12236,7 +12272,7 @@
     "category": "PC/하드웨어",
     "category_bucket": "전자",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "GALAX",
@@ -12274,7 +12310,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "프링글스",
@@ -12311,7 +12347,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "포스트",
