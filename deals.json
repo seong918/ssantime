@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "8489bd9074de",
+    "title": "[지마켓] 촉촉한 초코칩 16개입 x 3박스 (9,900원/무료)",
+    "deal_total": 9900,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 14960,
+    "gap": 5060,
+    "mall_name": "네이버",
+    "buy_url": "https://bitl.bz/api@IVVAAlwK",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=117&&no=739050",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6069380/60693805449.20260702235939.jpg?type=f300",
+    "created_iso": "2026-10-09T14:50:11.764127+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/60693805449",
+    "naver_product_id": "60693805449",
+    "buy_url_orig": "https://m.gmarket.co.kr/vi/product/1697127764",
+    "price_label": "",
+    "discount_guide": "1. 상세페이지에서 '쿠폰받기'를 눌러 쿠폰을 적용하면 쿠폰가 9,900원(정가 16,900원, 41% 할인)으로 구매됩니다.",
+    "product_summary": "오리온 촉촉한 초코칩 16개입 3박스 세트입니다.\n한 박스는 20g씩 16개(12+4개)로 총 320g 구성입니다.\n박스당 환산 가격은 3,300원입니다.",
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "오리온",
+      "촉촉한초코칩",
+      "초코칩",
+      "초코칩쿠키",
+      "쿠키",
+      "과자",
+      "오리온초코칩",
+      "chocochip"
+    ]
+  },
+  {
     "deal_id": "7518c98529b4",
     "title": "[11번가] 김포 고시히카리 쌀 10kg (28,910원 / 무배)",
     "deal_total": 28910,
@@ -11887,7 +11923,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "흰다리새우",
@@ -11923,7 +11959,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "엘칸토",
@@ -11959,7 +11995,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "네파키즈",
@@ -11997,7 +12033,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "BYC",
@@ -12034,7 +12070,7 @@
     "category": "PC/하드웨어",
     "category_bucket": "전자",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://store.ohou.se/exhibitions/10162"
     ],
@@ -12075,7 +12111,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "한우물",
@@ -12111,7 +12147,7 @@
     "category": "의류",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "푸마",
@@ -12149,7 +12185,7 @@
     "category": "해외핫딜",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "시티즌",
@@ -12187,7 +12223,7 @@
     "category": "가전제품",
     "category_bucket": "전자",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "오므론",
