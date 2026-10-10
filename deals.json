@@ -1,5 +1,43 @@
 [
   {
+    "deal_id": "ef2a310d088d",
+    "title": "[네이버] 데켓 주물 IH 오발쿡플레이트 31cm+유리뚜껑+손잡이 (카드가 60,020원/무배)",
+    "deal_total": 60020,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 66700,
+    "gap": 6680,
+    "mall_name": "네이버",
+    "buy_url": "https://brand.naver.com/daekket/products/13008954661",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=117&&no=739081",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6143277/61432777233.20261003090829.jpg?type=f300",
+    "created_iso": "2026-10-10T01:28:11.441872+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/61432777233",
+    "naver_product_id": "61432777233",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. 상품 쿠폰 적용가 66,700원 (37% 할인)\n2. 카드 5% 할인 적용 시 60,020원\n3. 무료배송\n※ N+ 멤버십 적립 시 최대 적립 포인트 2,700원",
+    "product_summary": "데켓 주물 IH 오발 쿡플레이트 31cm와 유리뚜껑으로 구성된 세트입니다.\n용량은 1.6L이며, 색상은 어스입니다.\n강화유리 뚜껑과 흡착 실리콘 손잡이가 포함되어 있습니다.\n인덕션 포함 모든 열원에서 사용 가능하며, 오븐과 식기세척기 사용도 가능합니다.",
+    "source_site": "ppomppu",
+    "category": "기타",
+    "category_bucket": "생활",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "데켓",
+      "Daekket",
+      "주물팬",
+      "오발쿡플레이트",
+      "쿡플레이트",
+      "IH냄비",
+      "인덕션팬",
+      "유리뚜껑",
+      "주물냄비",
+      "31cm"
+    ]
+  },
+  {
     "deal_id": "2114618b6912",
     "title": "[CJ온스타일] 오라틱스 잇몸유산균 12개월분 (259,740원/KB국민/무료)",
     "deal_total": 259740,
@@ -11664,7 +11702,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "짱구",
@@ -11701,7 +11739,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "쓰리잘비",
@@ -11737,7 +11775,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "진주닮은쌀",
@@ -11774,7 +11812,7 @@
     "category": "생활용품",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "벡셀",
@@ -11811,7 +11849,7 @@
     "category": "SW/게임",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "저지 아이즈",
@@ -11849,7 +11887,7 @@
     "category": "의류",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "아디다스",
