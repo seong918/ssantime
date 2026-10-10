@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "a1aecf8b5707",
+    "title": "[카카오톡딜] 한돈 냉장 뒷고기 500g 3팩 총 1.5kg (19,900원/무료)",
+    "deal_total": 19900,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 24410,
+    "gap": 4510,
+    "mall_name": "네이버",
+    "buy_url": "https://store.kakao.com/ollim/products/796214034",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=117&&no=739106",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6027440/60274408002.20260602101450.jpg?type=f300",
+    "created_iso": "2026-10-10T03:23:04.141581+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/60274408002",
+    "naver_product_id": "60274408002",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. 톡딜가 20,900원\n2. '쿠폰 받기'로 쿠폰을 적용하면 최대혜택가 19,900원",
+    "product_summary": "한돈 냉장 뒷고기 500g 3팩, 총 1.5kg 구성입니다.\n한 번도 얼리지 않은 100% 냉장육이며 원산지는 국내산입니다.\n구워 먹고 끓여 먹고 볶아 먹기 좋은 부위로, 100g당 약 1,327원 꼴입니다.\n무료배송으로 제공됩니다.",
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "한돈",
+      "뒷고기",
+      "돼지고기",
+      "냉장육",
+      "국내산",
+      "삼겹살대체",
+      "구이용",
+      "1.5kg"
+    ]
+  },
+  {
     "deal_id": "333eaf3e4b7a",
     "title": "[네이버] 국내산 1등급 한우 새우살 150g (16,000원/무료)",
     "deal_total": 16000,
@@ -11626,7 +11662,7 @@
     "category": "기타",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "MSI",
@@ -11664,7 +11700,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "버버리",
@@ -11701,7 +11737,7 @@
     "category": "PC제품",
     "category_bucket": "전자",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "SAPPHIRE",
@@ -11739,7 +11775,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "암바사",
