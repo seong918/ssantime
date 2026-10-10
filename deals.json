@@ -11430,7 +11430,7 @@
     "category": "PC제품",
     "category_bucket": "전자",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "주연테크",
