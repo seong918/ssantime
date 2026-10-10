@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "de4d247705cc",
+    "title": "서천표고 표고버섯 실속형 1kg",
+    "deal_total": 9920,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 14900,
+    "gap": 4980,
+    "mall_name": null,
+    "buy_url": "https://www.lotteon.com/p/product/LO2389347975",
+    "source_url": "https://www.fmkorea.com/10431673436",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5982941/59829410029.jpg?type=f300",
+    "created_iso": "2026-10-10T05:57:14.547793+00:00",
+    "naver_url": null,
+    "naver_product_id": "59829410029",
+    "buy_url_orig": "",
+    "price_label": "9,920원",
+    "discount_guide": "1. 농할 30% 쿠폰을 적용하면 14,900원 → 9,920원(나의 혜택가)으로 구매할 수 있습니다",
+    "product_summary": "서천에서 생산된 생표고버섯 실속형 상품입니다.\n총 1kg(1,000g) 구성입니다.\n찌개, 국, 구이, 볶음밥 등 다양한 요리에 활용할 수 있습니다.",
+    "source_site": "fmkorea",
+    "category": "먹거리",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "표고버섯",
+      "서천표고",
+      "생표고버섯",
+      "표고",
+      "버섯",
+      "서천",
+      "실속형",
+      "shiitake"
+    ]
+  },
+  {
     "deal_id": "f94521255a6d",
     "title": "[롯데온] 르까프 남성 사각 드로즈 5장 (17,900원/무료)",
     "deal_total": 17900,
@@ -11513,7 +11549,7 @@
     "category": "기타",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://www.hfashionmall.com/event/EV202609220008985/view"
     ],
@@ -11552,7 +11588,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "오뚜기",
