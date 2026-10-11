@@ -2,12 +2,12 @@
   "schema_version": "1.0",
   "dataset_name": "싼타임 현재 활성 온라인 핫딜 가격 비교 스냅샷",
   "canonical_url": "https://ssantime.com/research/",
-  "snapshot_updated_at": "2026-10-11T14:30:49.034274+00:00",
+  "snapshot_updated_at": "2026-10-11T15:07:04.754470+00:00",
   "active_record_span": {
     "from": "2026-10-04T15:49:48.777041+00:00",
-    "to": "2026-10-11T14:30:49.034274+00:00",
+    "to": "2026-10-11T15:07:04.754470+00:00",
     "from_date_kst": "2026-10-05",
-    "to_date_kst": "2026-10-11",
+    "to_date_kst": "2026-10-12",
     "retention_policy_days": 7
   },
   "scope": {
@@ -31,8 +31,8 @@
   "categories": [
     {
       "name": "전자",
-      "count": 58,
-      "share_percent": 19.6
+      "count": 57,
+      "share_percent": 19.3
     },
     {
       "name": "식품",
@@ -46,8 +46,8 @@
     },
     {
       "name": "패션",
-      "count": 51,
-      "share_percent": 17.2
+      "count": 52,
+      "share_percent": 17.6
     },
     {
       "name": "기타",
@@ -58,8 +58,8 @@
   "marketplaces": [
     {
       "name": "네이버 스마트스토어",
-      "count": 45,
-      "share_percent": 15.2
+      "count": 44,
+      "share_percent": 14.9
     },
     {
       "name": "쿠팡",
@@ -93,8 +93,8 @@
     },
     {
       "name": "무신사",
-      "count": 10,
-      "share_percent": 3.4
+      "count": 11,
+      "share_percent": 3.7
     },
     {
       "name": "토스쇼핑",
@@ -130,8 +130,8 @@
     },
     {
       "name": "에펨코리아",
-      "count": 73,
-      "share_percent": 24.7
+      "count": 74,
+      "share_percent": 25.0
     },
     {
       "name": "아카라이브",
@@ -140,8 +140,8 @@
     },
     {
       "name": "퀘이사존",
-      "count": 17,
-      "share_percent": 5.7
+      "count": 16,
+      "share_percent": 5.4
     },
     {
       "name": "루리웹",
