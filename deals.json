@@ -11354,7 +11354,7 @@
     "category": "생활용품",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "오므론",
@@ -11390,7 +11390,7 @@
     "category": "의류",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "반스",
@@ -11427,7 +11427,7 @@
     "category": "PC제품",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "한성",
