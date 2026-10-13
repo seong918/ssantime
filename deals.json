@@ -1,5 +1,77 @@
 [
   {
+    "deal_id": "3337b3c7110e",
+    "title": "[토스쇼핑] 로투스 비스코프 샌드 바닐라 150g 9개 (11,300원/무료)",
+    "deal_total": 11300,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 15120,
+    "gap": 3820,
+    "mall_name": "네이버",
+    "buy_url": "https://toss.shopping/t/2557575253",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=117&&no=739969",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5940167/59401672177.20260326165059.jpg?type=f300",
+    "created_iso": "2026-10-13T15:55:24.677001+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/59401672177",
+    "naver_product_id": "59401672177",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": null,
+    "product_summary": "로투스 비스코프 샌드 바닐라맛 150g 9개 구성의 샌드 쿠키입니다.\n한 봉에 15개씩 들어 있으며, 바삭한 쿠키 사이에 부드러운 크림 28%를 더한 바닐라 크림 샌드입니다.\n인공착향료와 인공색소를 넣지 않았으며, 비건 스낵입니다.\n소비기한은 2027년 3월 20일까지입니다.",
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "로투스",
+      "Lotus",
+      "비스코프",
+      "Biscoff",
+      "바닐라샌드",
+      "샌드쿠키",
+      "비건스낵",
+      "커피간식"
+    ]
+  },
+  {
+    "deal_id": "1a9ee5cc2cf9",
+    "title": "햇반 윤기가득 쌀밥, 210g, 24개",
+    "deal_total": 18900,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 24700,
+    "gap": 5800,
+    "mall_name": "네이버",
+    "buy_url": "https://toss.shopping/_m/XnQYhxyi",
+    "source_url": "https://arca.live/b/hotdeal/185847845",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5537980/55379805801.20250619121239.jpg?type=f300",
+    "created_iso": "2026-10-13T15:56:54.814534+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/55379805801",
+    "naver_product_id": "55379805801",
+    "buy_url_orig": "",
+    "price_label": "18,900원",
+    "discount_guide": "1. 45% 할인된 선착순특가 18,900원에 구매 (정가 34,900원, 1개당 788원)\n2. 무료배송\n3. 1,323원 적립\n※ 이 상품은 하루 최대 1개까지 구매할 수 있습니다",
+    "product_summary": "CJ 햇반 윤기가득 쌀밥(즉석 백미밥)입니다.\n용량은 210g이며 24개로 구성되어 있습니다.\n데워서 바로 먹을 수 있는 즉석밥 제품입니다.",
+    "source_site": "arca",
+    "category": "식품",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "햇반",
+      "윤기가득쌀밥",
+      "즉석밥",
+      "즉석백미밥",
+      "백미밥",
+      "CJ",
+      "210g",
+      "쌀밥"
+    ]
+  },
+  {
     "deal_id": "7643bb2c064a",
     "title": "[롯데온] 양념돼지 칼집구이 400g 3팩 (15,690원/무료)",
     "deal_total": 15690,
@@ -4872,7 +4944,7 @@
     "source_site": "arca",
     "category": "식품",
     "category_bucket": "식품",
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [],
     "tags": [
@@ -13907,7 +13979,7 @@
     "category": "생활/식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://store.ohou.se/exhibitions/13062"
     ],
@@ -13946,7 +14018,7 @@
     "category": "전자제품",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "애플워치",
@@ -13984,7 +14056,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://store.ohou.se/exhibitions/13062"
     ],
@@ -14024,7 +14096,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://store.ohou.se/exhibitions/13062"
     ],
@@ -14064,7 +14136,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "쌈채소",
@@ -14100,7 +14172,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "쿠크다스",
@@ -14137,7 +14209,7 @@
     "category": "가전제품",
     "category_bucket": "전자",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "메이튼",
@@ -14174,7 +14246,7 @@
     "category": "PC제품",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "필립스",
