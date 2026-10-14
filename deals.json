@@ -1,5 +1,43 @@
 [
   {
+    "deal_id": "6984ced4a519",
+    "title": "농심 육개장사발면 (86g X 24개)",
+    "deal_total": 16890,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 20140,
+    "gap": 3250,
+    "mall_name": "네이버",
+    "buy_url": "https://brand.naver.com/nongshim/products/13771251640",
+    "source_url": "https://arca.live/b/hotdeal/185970425",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5339015/53390150960.20250306103252.jpg?type=f300",
+    "created_iso": "2026-10-14T23:04:04.232011+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/53390150960",
+    "naver_product_id": "53390150960",
+    "buy_url_orig": "",
+    "price_label": "16,890원",
+    "discount_guide": "1. 상품 상세페이지에서 아래 멤버십 쿠폰과 가격 오른쪽의 멤버십 쿠폰을 받습니다.\n2. 쿠폰할인(발급완료기준) -5,880원 적용: '농심 브랜드 고객 20% 상품할인'(오늘까지)과 '농심 브랜드 전 고객 10% 상품중복할인'(D-3)을 함께 적용합니다.\n3. 멤버십 전용카드 결제 시 최대 15% 적립 포인트를 받습니다.\n4. 라인프렌즈 카드 결제 시 최대 337원 추가 적립(2%)을 받습니다.\n※ 쿠폰 적용 시 22,770원 → 16,890원(멤버십쿠폰가)이며, 최대 적립 포인트는 2,682원입니다.\n※ 무료배송입니다.",
+    "product_summary": "농심 육개장사발면 86g 24개입 묶음 상품입니다.\n컵라면 형태의 사발면으로, 낱개 용량은 86g입니다.\n원산지는 상세설명에 표시되어 있습니다.\n무료배송으로 제공됩니다.",
+    "source_site": "arca",
+    "category": "식품",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [
+      "https://shopping.naver.com/festa/onsale/699ceb9398f1530c6f40ef49"
+    ],
+    "tags": [
+      "농심",
+      "육개장사발면",
+      "육개장",
+      "사발면",
+      "컵라면",
+      "라면",
+      "육사",
+      "인스턴트라면"
+    ]
+  },
+  {
     "deal_id": "da94e2eef99f",
     "title": "[G마켓] 국내산 꽃상추 2kg (7,150원/무료)",
     "deal_total": 7150,
