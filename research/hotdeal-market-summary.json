@@ -17,12 +17,12 @@
     "comparison_baseline": "수집 시점에 같은 상품 후보로 자동 매칭한 네이버 쇼핑 비교가"
   },
   "metrics": {
-    "active_verified_deals": 368,
+    "active_verified_deals": 367,
     "strict_comparable_deals": 183,
     "median_savings_krw": 6240,
     "median_discount_percent": 24.3,
     "shipping_known_deals": 183,
-    "shipping_unknown_deals": 185,
+    "shipping_unknown_deals": 184,
     "coupang_deals": 42,
     "coupang_share_percent": 11.4,
     "identified_marketplace_labels": 47,
@@ -31,13 +31,13 @@
   "categories": [
     {
       "name": "전자",
-      "count": 72,
-      "share_percent": 19.6
+      "count": 71,
+      "share_percent": 19.3
     },
     {
       "name": "식품",
       "count": 184,
-      "share_percent": 50.0
+      "share_percent": 50.1
     },
     {
       "name": "생활",
@@ -52,7 +52,7 @@
     {
       "name": "기타",
       "count": 9,
-      "share_percent": 2.4
+      "share_percent": 2.5
     }
   ],
   "marketplaces": [
@@ -93,8 +93,8 @@
     },
     {
       "name": "오늘의집",
-      "count": 13,
-      "share_percent": 3.5
+      "count": 12,
+      "share_percent": 3.3
     },
     {
       "name": "토스쇼핑",
@@ -109,7 +109,7 @@
     {
       "name": "에펨코리아",
       "count": 9,
-      "share_percent": 2.4
+      "share_percent": 2.5
     },
     {
       "name": "CJ온스타일",
@@ -126,17 +126,17 @@
     {
       "name": "뽐뿌",
       "count": 186,
-      "share_percent": 50.5
+      "share_percent": 50.7
     },
     {
       "name": "에펨코리아",
-      "count": 105,
-      "share_percent": 28.5
+      "count": 104,
+      "share_percent": 28.3
     },
     {
       "name": "아카라이브",
       "count": 49,
-      "share_percent": 13.3
+      "share_percent": 13.4
     },
     {
       "name": "퀘이사존",

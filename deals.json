@@ -502,7 +502,7 @@
     "source_site": "fmkorea",
     "category": "가전제품",
     "category_bucket": "전자",
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [
       "https://www.coupang.com/vp/products/8519963583?itemId=20575541480&vendorItemId=86684761117&q=%EC%95%95%EB%A0%A5%EB%B0%A5%EC%86%A5&searchId=cc37a9576954119&sourceType=search&rank=23&itemsCount=36&searchRank=23"
