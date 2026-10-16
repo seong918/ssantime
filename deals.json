@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "089f1f0e572d",
+    "title": "블랙야크 남녀공용 후리스",
+    "deal_total": 45160,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 69000,
+    "gap": 23840,
+    "mall_name": null,
+    "buy_url": "https://bitl.bz/api@rMFqiBdv",
+    "source_url": "https://www.fmkorea.com/10453784821",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_9131876/91318769415.jpg?type=f300",
+    "created_iso": "2026-10-16T13:31:50.856005+00:00",
+    "naver_url": null,
+    "naver_product_id": "91318769415",
+    "buy_url_orig": "https://link.gmarket.co.kr/UeV70IxQHB",
+    "price_label": "45,160원",
+    "discount_guide": null,
+    "product_summary": "블랙야크 남녀공용 후리스 재킷입니다.\n부담 없이 일상에서 편하게 입기 좋은 플리스 제품입니다.\n가격은 4만 5천원입니다.",
+    "source_site": "fmkorea",
+    "category": "생활용품",
+    "category_bucket": "패션",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "블랙야크",
+      "BLACKYAK",
+      "후리스",
+      "플리스",
+      "fleece",
+      "재킷",
+      "남녀공용",
+      "커플 후리스"
+    ]
+  },
+  {
     "deal_id": "6c2c5a94d47b",
     "title": "[w컨셉] 만토바 엑스트라버진 올리브오일 스프레이 200ml 2개 (21,900원/무료배송)",
     "deal_total": 21900,
@@ -15719,7 +15755,7 @@
     "category": "생활/식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "고시히카리",
@@ -15755,7 +15791,7 @@
     "category": "게임S/W",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "초록매실",
@@ -15790,7 +15826,7 @@
     "category": "PC/하드웨어",
     "category_bucket": "전자",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "키오시아",
@@ -15828,7 +15864,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "샘표",
@@ -15864,7 +15900,7 @@
     "category": "생활용품",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "쌤소나이트",
