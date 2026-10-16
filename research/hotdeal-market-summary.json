@@ -17,14 +17,14 @@
     "comparison_baseline": "수집 시점에 같은 상품 후보로 자동 매칭한 네이버 쇼핑 비교가"
   },
   "metrics": {
-    "active_verified_deals": 417,
+    "active_verified_deals": 416,
     "strict_comparable_deals": 212,
     "median_savings_krw": 6561,
     "median_discount_percent": 24.2,
     "shipping_known_deals": 212,
-    "shipping_unknown_deals": 205,
-    "coupang_deals": 51,
-    "coupang_share_percent": 12.2,
+    "shipping_unknown_deals": 204,
+    "coupang_deals": 50,
+    "coupang_share_percent": 12.0,
     "identified_marketplace_labels": 51,
     "marketplace_unknown_deals": 0
   },
@@ -37,12 +37,12 @@
     {
       "name": "식품",
       "count": 216,
-      "share_percent": 51.8
+      "share_percent": 51.9
     },
     {
       "name": "생활",
-      "count": 49,
-      "share_percent": 11.8
+      "count": 48,
+      "share_percent": 11.5
     },
     {
       "name": "패션",
@@ -59,7 +59,7 @@
     {
       "name": "롯데ON",
       "count": 84,
-      "share_percent": 20.1
+      "share_percent": 20.2
     },
     {
       "name": "네이버 스마트스토어",
@@ -68,8 +68,8 @@
     },
     {
       "name": "쿠팡",
-      "count": 51,
-      "share_percent": 12.2
+      "count": 50,
+      "share_percent": 12.0
     },
     {
       "name": "카카오 스토어",
@@ -126,12 +126,12 @@
     {
       "name": "뽐뿌",
       "count": 216,
-      "share_percent": 51.8
+      "share_percent": 51.9
     },
     {
       "name": "에펨코리아",
-      "count": 119,
-      "share_percent": 28.5
+      "count": 118,
+      "share_percent": 28.4
     },
     {
       "name": "아카라이브",
