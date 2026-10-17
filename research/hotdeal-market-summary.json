@@ -2,10 +2,10 @@
   "schema_version": "1.0",
   "dataset_name": "싼타임 현재 활성 온라인 핫딜 가격 비교 스냅샷",
   "canonical_url": "https://ssantime.com/research/",
-  "snapshot_updated_at": "2026-10-17T09:20:23.798355+00:00",
+  "snapshot_updated_at": "2026-10-17T10:01:10.110661+00:00",
   "active_record_span": {
     "from": "2026-10-10T11:58:53.082223+00:00",
-    "to": "2026-10-17T09:20:23.798355+00:00",
+    "to": "2026-10-17T10:01:10.110661+00:00",
     "from_date_kst": "2026-10-10",
     "to_date_kst": "2026-10-17",
     "retention_policy_days": 7
@@ -17,14 +17,14 @@
     "comparison_baseline": "수집 시점에 같은 상품 후보로 자동 매칭한 네이버 쇼핑 비교가"
   },
   "metrics": {
-    "active_verified_deals": 424,
+    "active_verified_deals": 425,
     "strict_comparable_deals": 212,
     "median_savings_krw": 6510,
     "median_discount_percent": 24.4,
     "shipping_known_deals": 212,
-    "shipping_unknown_deals": 212,
+    "shipping_unknown_deals": 213,
     "coupang_deals": 52,
-    "coupang_share_percent": 12.3,
+    "coupang_share_percent": 12.2,
     "identified_marketplace_labels": 53,
     "marketplace_unknown_deals": 0
   },
@@ -36,13 +36,13 @@
     },
     {
       "name": "식품",
-      "count": 221,
-      "share_percent": 52.1
+      "count": 222,
+      "share_percent": 52.2
     },
     {
       "name": "생활",
       "count": 49,
-      "share_percent": 11.6
+      "share_percent": 11.5
     },
     {
       "name": "패션",
@@ -59,7 +59,7 @@
     {
       "name": "롯데ON",
       "count": 86,
-      "share_percent": 20.3
+      "share_percent": 20.2
     },
     {
       "name": "네이버 스마트스토어",
@@ -69,7 +69,7 @@
     {
       "name": "쿠팡",
       "count": 52,
-      "share_percent": 12.3
+      "share_percent": 12.2
     },
     {
       "name": "11번가",
@@ -83,8 +83,8 @@
     },
     {
       "name": "G마켓",
-      "count": 22,
-      "share_percent": 5.2
+      "count": 23,
+      "share_percent": 5.4
     },
     {
       "name": "토스쇼핑",
@@ -126,17 +126,17 @@
     {
       "name": "뽐뿌",
       "count": 217,
-      "share_percent": 51.2
+      "share_percent": 51.1
     },
     {
       "name": "에펨코리아",
       "count": 120,
-      "share_percent": 28.3
+      "share_percent": 28.2
     },
     {
       "name": "아카라이브",
-      "count": 60,
-      "share_percent": 14.2
+      "count": 61,
+      "share_percent": 14.4
     },
     {
       "name": "퀘이사존",
