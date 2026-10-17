@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "bbeafdd5cc02",
+    "title": "[롯데온] 말바우시장 국산 전라도 알배기 겉절이 김치 2kg (19,240원/무료)",
+    "deal_total": 19240,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 24540,
+    "gap": 5300,
+    "mall_name": null,
+    "buy_url": "https://www.lotteon.com/p/product/LO2467365448",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=117&&no=740883",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5374364/53743647954.5.jpg?type=f300",
+    "created_iso": "2026-10-17T03:41:59.124528+00:00",
+    "naver_url": null,
+    "naver_product_id": "53743647954",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. 상품페이지의 [온누리7%혜택] 적용 — 정가 25,300원에서 나의 혜택가 19,240원으로 결제됩니다.\n2. 온누리상품권을 충전해 결제하면 추가로 더 저렴하게 구매할 수 있습니다.",
+    "product_summary": "말바우시장에서 판매하는 국산 전라도 알배기 겉절이 김치입니다.\n기본 구성은 2kg이며, 3kg 옵션도 선택할 수 있습니다.\n판매처는 선김치이며, 리뷰 평점은 5.0입니다.",
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "김치",
+      "겉절이",
+      "알배기김치",
+      "겉절이김치",
+      "말바우시장",
+      "전라도김치",
+      "국산김치",
+      "선김치"
+    ]
+  },
+  {
     "deal_id": "e1849c94eb08",
     "title": "[쿠팡] LG전자 그램 AI 14U40V-GA5CK/1,260,630원",
     "deal_total": 1260630,
@@ -16194,7 +16230,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "한돈",
@@ -16230,7 +16266,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "한우",
@@ -16267,7 +16303,7 @@
     "category": "PC/하드웨어",
     "category_bucket": "전자",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "기가바이트",
