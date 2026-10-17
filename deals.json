@@ -1,5 +1,40 @@
 [
   {
+    "deal_id": "aabeecdd785d",
+    "title": "고기중독 통항정살, 500g, 2개",
+    "deal_total": 16870,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 19900,
+    "gap": 3030,
+    "mall_name": null,
+    "buy_url": "https://toss.shopping/_m/Zld9ePdB",
+    "source_url": "https://arca.live/b/hotdeal/186179238",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5775119/57751190702.jpg?type=f300",
+    "created_iso": "2026-10-17T00:59:55.640649+00:00",
+    "naver_url": null,
+    "naver_product_id": "57751190702",
+    "buy_url_orig": "",
+    "price_label": "16,870원",
+    "discount_guide": "1. 선착순특가로 16,870원에 구매 (정가 39,900원, 57% 할인)\n2. 구매 시 1,180원 적립\n※ 무료배송\n※ 이 상품은 하루 최대 1개까지 구매할 수 있습니다",
+    "product_summary": "고기중독 통항정살 500g 2개 구성의 돼지 항정살 제품입니다.\n원산지는 스페인산입니다.\n100g당 1,687원 가격대입니다.",
+    "source_site": "arca",
+    "category": "식품",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "항정살",
+      "통항정살",
+      "돼지고기",
+      "스페인산",
+      "고기중독",
+      "돼지 항정살",
+      "구이용"
+    ]
+  },
+  {
     "deal_id": "8098d6beead7",
     "title": "[지마켓] 그래놀라 크랜베리 아몬드 570g 3개+ 키링1개 (11,980원/무료)",
     "deal_total": 11980,
@@ -16086,7 +16121,7 @@
     "category": "기타",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "오라틱스",
@@ -16124,7 +16159,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "티로그",
