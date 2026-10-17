@@ -1,5 +1,44 @@
 [
   {
+    "deal_id": "759810831193",
+    "title": "H패션) 타미진스 박시 배지 후디+페이코(46,780원/무배)",
+    "deal_total": 46780,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 63725,
+    "gap": 16945,
+    "mall_name": "네이버",
+    "buy_url": "https://bitl.bz/api@CvPipO2N",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=117&&no=740906",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5845700/58457005587.20260621074449.jpg?type=f300",
+    "created_iso": "2026-10-17T06:36:05.933913+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/58457005587",
+    "naver_product_id": "58457005587",
+    "buy_url_orig": "http://m.hfashionmall.com/product/GM0126081292226/detail",
+    "price_label": "",
+    "discount_guide": "1. 상품페이지에서 쿠폰 받기\n2. 링크1에서 쿠폰 + 포인트 받기 (https://www.hfashionmall.com/event/EV202609280009006/view)\n3. 링크2에서 퀴즈 정답 FRGMT 입력하고 1,000P 받기 (https://www.hfashionmall.com/event/EV202610020009014/view)\n4. 상품쿠폰 [15%] TOMMY 상품쿠폰 -13,545원 적용\n5. 장바구니쿠폰 [패션위크] 타미 진스 15% -9,113원 적용 (주문금액 50,000원 이상 구매시) → 총 할인금액 25,058원\n6. H.Plus 16,000P 모두 사용 → 49,242원\n7. 페이코에서 쿠폰 받고 페이코로 결제: H패션 5% 할인(최대 5만원) -2,462원, 적립 +467P → 최종 46,780원\n※ 장바구니쿠폰은 주문금액 50,000원 이상 구매시 적용됩니다.\n※ 강화 쿠폰을 받으면 가격이 더 내려갈 수 있습니다.",
+    "product_summary": "타미진스(TOMMY JEANS) 박시 배지 후디입니다.\n박시 핏으로 무난하게 착용할 수 있는 후디입니다.\n색상은 네이비, 그레이(Grey Htr) 등으로 구성되어 있으며, 가슴에 타미진스 배지가 포인트로 들어가 있습니다.\n정상가 129,000원 상품입니다.",
+    "source_site": "ppomppu",
+    "category": "의류/잡화",
+    "category_bucket": "패션",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [
+      "https://www.hfashionmall.com/event/EV202609280009006/view"
+    ],
+    "tags": [
+      "타미진스",
+      "TOMMY JEANS",
+      "토미진스",
+      "박시 배지 후디",
+      "후디",
+      "후드티",
+      "박시핏",
+      "오버핏",
+      "맨투맨"
+    ]
+  },
+  {
     "deal_id": "34d2881a3f6a",
     "title": "[네이버] 돼지고기 목전지 1kg 제육용 불고기용 찌개용 구이용 (6,830원/3,500원)",
     "deal_total": 6830,
@@ -16228,7 +16267,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "표고버섯",
