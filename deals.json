@@ -1,5 +1,32 @@
 [
   {
+    "deal_id": "0979dd980669",
+    "title": "26년산 햅쌀 단일품종 어사명품 삼광쌀 10kg 외 골라담기",
+    "deal_total": 30960,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 34040,
+    "gap": 3080,
+    "mall_name": null,
+    "buy_url": "https://store.kakao.com/essaleda/products/339004900",
+    "source_url": "https://www.fmkorea.com/10461469806",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5978805/59788052255.jpg?type=f300",
+    "created_iso": "2026-10-18T23:39:27.951363+00:00",
+    "naver_url": null,
+    "naver_product_id": "59788052255",
+    "buy_url_orig": "",
+    "price_label": "30,960원",
+    "discount_guide": null,
+    "product_summary": null,
+    "source_site": "fmkorea",
+    "category": "먹거리",
+    "category_bucket": null,
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": []
+  },
+  {
     "deal_id": "b668c8e40252",
     "title": "[CJ온] 김소형원장 원방 마가목 산삼배양근침향단 (3.75g*60환) (33,070원/무배)",
     "deal_total": 33070,
@@ -15969,7 +15996,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "깐새우장",
@@ -16005,7 +16032,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "티로그",
@@ -16042,7 +16069,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "BSN",
@@ -16080,7 +16107,7 @@
     "category": "PC제품",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "에디파이어",
