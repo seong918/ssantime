@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "c23cf4348cf4",
+    "title": "곰곰 옥수수수염차 무라벨, 500ml, 20개",
+    "deal_total": 11990,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 17790,
+    "gap": 5800,
+    "mall_name": null,
+    "buy_url": "https://link.coupang.com/a/hV9aznWomW",
+    "source_url": "https://arca.live/b/hotdeal/186274134",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_9077176/90771765278.jpg?type=f300",
+    "created_iso": "2026-10-18T00:32:00.701492+00:00",
+    "naver_url": null,
+    "naver_product_id": "90771765278",
+    "buy_url_orig": "https://www.coupang.com/vp/products/6441431932?itemId=13945280687&vendorItemId=81194533817",
+    "price_label": "11,990원",
+    "discount_guide": "1. 와우할인으로 1,580원 할인되어 11,990원 (38%, 100ml당 120원)\n2. 쿠페이머니 결제 시 120원 쿠팡캐시 적립",
+    "product_summary": "곰곰 옥수수수염차 무라벨 음료입니다.\n용량 500ml 제품 20개 구성입니다.\n라벨을 없앤 무라벨 페트병 제품입니다.",
+    "source_site": "arca",
+    "category": "식품",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "곰곰",
+      "gomgom",
+      "옥수수수염차",
+      "옥수수차",
+      "무라벨",
+      "500ml",
+      "페트음료",
+      "차음료"
+    ]
+  },
+  {
     "deal_id": "43bf82d42fed",
     "title": "[토스쇼핑] 토종순대 얼큰술국 1KG x 3팩 (18,840원/무배)",
     "deal_total": 18840,
@@ -16265,7 +16301,7 @@
     "category": "기타",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "투해피",
@@ -16302,7 +16338,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "웅진",
@@ -16339,7 +16375,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "토레타",
@@ -16375,7 +16411,7 @@
     "category": "의류",
     "category_bucket": "패션",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "스케쳐스",
@@ -16412,7 +16448,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "펩시",
