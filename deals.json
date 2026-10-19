@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "e3f294b173a1",
+    "title": "[11번가] 뽀로로 팡팡 마이크 노래방 (9,900원/무료)",
+    "deal_total": 9900,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 13210,
+    "gap": 3310,
+    "mall_name": "네이버",
+    "buy_url": "https://bitl.bz/api@AxTQLwYv",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=117&&no=741406",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5948819/59488194675.20260626071127.jpg?type=f300",
+    "created_iso": "2026-10-19T12:13:27.457700+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/59488194675",
+    "naver_product_id": "59488194675",
+    "buy_url_orig": "https://www.11st.co.kr/products/9691143889",
+    "price_label": "",
+    "discount_guide": null,
+    "product_summary": "뽀로로 캐릭터가 적용된 아동용 팡팡 마이크 노래방 장난감입니다.\n동물·악기 효과음과 뽀로로 주제곡, 12가지 반주, 팡·팡 플래시 기능이 들어 있습니다.\n빨간색, 노란색, 파란색 중에서 선택할 수 있으며, 옵션에서 다른 제품으로도 변경할 수 있습니다.\n권장 사용 연령은 37개월 이상입니다.",
+    "source_site": "ppomppu",
+    "category": "기타",
+    "category_bucket": "생활",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "뽀로로",
+      "팡팡마이크",
+      "노래방마이크",
+      "장난감마이크",
+      "아동완구",
+      "유아장난감",
+      "뽀로로마이크",
+      "노래방장난감"
+    ]
+  },
+  {
     "deal_id": "0e7913cb4ddd",
     "title": "[롯데온] 블랙야크 남여 기본 카라티(30,600원/무배)",
     "deal_total": 30600,
@@ -15007,7 +15043,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "카스",
@@ -15045,7 +15081,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "이너시아",
@@ -15082,7 +15118,7 @@
     "category": "PC/하드웨어",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "VGN",
@@ -15119,7 +15155,7 @@
     "category": "가전제품",
     "category_bucket": "전자",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "삼성",
@@ -15157,7 +15193,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "스파오",
@@ -15193,7 +15229,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "하루견과",
@@ -15229,7 +15265,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "블랙야크",
@@ -15267,7 +15303,7 @@
     "category": "디지털",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "앤커",
@@ -15305,7 +15341,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "장순필",
@@ -15341,7 +15377,7 @@
     "category": "생활용품",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "베르블랑",
@@ -15376,7 +15412,7 @@
     "category": "의류",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "브론슨",
@@ -15413,7 +15449,7 @@
     "category": "기타",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "락포트",
