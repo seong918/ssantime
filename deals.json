@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "8a1bff9c23ba",
+    "title": "[카카오톡] 파스쿠찌 여주 고구마 라떼 3잔+오! 마이 화이트(조각) 2개 (21,000원/무료)",
+    "deal_total": 21000,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 26040,
+    "gap": 5040,
+    "mall_name": null,
+    "buy_url": "https://gift.kakao.com/product/14394173",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=117&&no=741461",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_9136535/91365356646.jpg?type=f300",
+    "created_iso": "2026-10-19T16:49:18.340126+00:00",
+    "naver_url": null,
+    "naver_product_id": "91365356646",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. 선물하기에서 20% 할인이 적용된 25,000원(정가 31,600원)에 구매합니다.\n2. 쿠폰보기에서 쿠폰을 적용하면 최대혜택가 21,000원에 구매할 수 있습니다.",
+    "product_summary": "파스쿠찌 여주 고구마 라떼 3잔과 오! 마이 화이트(조각) 2개로 구성된 카카오톡 선물하기 상품입니다.\n고구마 라떼 음료 3잔과 딸기를 올린 조각 케이크 2개가 함께 제공되는 구성입니다.\n선물하기 쿠폰으로 이용 기간은 발급일로부터 약 1년입니다.",
+    "source_site": "ppomppu",
+    "category": "기타",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "파스쿠찌",
+      "PASCUCCI",
+      "고구마라떼",
+      "여주고구마라떼",
+      "오마이화이트",
+      "조각케이크",
+      "카카오톡선물하기",
+      "기프티콘"
+    ]
+  },
+  {
     "deal_id": "6d0a21e239aa",
     "title": "[토스쇼핑] 셰프초이스 한입 너비아니, 2kg, 1개 (15,900원/무배)",
     "deal_total": 15900,
@@ -14676,7 +14712,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "오즈랜드",
@@ -14712,7 +14748,7 @@
     "category": "상품권/쿠폰",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "투썸플레이스",
@@ -14749,7 +14785,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "월드콘",
@@ -14786,7 +14822,7 @@
     "category": "생활용품",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "비트",
