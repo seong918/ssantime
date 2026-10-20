@@ -48,6 +48,7 @@
   </header>
   <main class="deal" data-ga-id="66df56b79180" data-ga-price="797600" data-ga-gap="351400" data-ga-site="ppomppu" data-ga-cat="가전/가구" data-ga-mall="G마켓">
     <div class="ended-banner"><span role="status">⏰ 아쉽지만 종료된 딜이에요 — 당시 가격은 아래에서 시세 참고용으로 확인할 수 있어요</span>
+    <a class="ended-live" id="ended-live" href="#related-h" hidden data-kind="" onclick="if(typeof gtag==='function')gtag('event','live_cta_click',{placement:'ended_kw',kind:this.getAttribute('data-kind')})"></a>
     <div class="push-wrap push-wrap--ended_kw" data-push-wrap>
       <button type="button" class="push-cta" data-push-cta data-placement="ended_kw" data-push-kw="BAR"><span class="push-ico" aria-hidden="true">🔔</span><span class="push-txt">다음 '<b>BAR</b>' 딜 뜨면 바로 알려드릴게요</span><span class="push-add" aria-hidden="true">알림 받기 →</span></button>
       <p class="push-hint" data-push-hint hidden></p>
@@ -243,7 +244,7 @@ if(rg){rg.addEventListener('click',function(ev){
   var tt=t.querySelector('.card-title');
   ssGa('select_item',{item_list_id:'related',item_list_name:'관련 딜',items:[{item_id:id,item_name:tt?tt.textContent.slice(0,80):''}]});});}
 (function(){
-var LV_ID="66df56b79180",LV_CAT="전자",LV_BASE="https://ssantime.com",LV_KW="bar",LV_KWL="BAR";
+var LV_ID="66df56b79180",LV_CAT="전자",LV_BASE="https://ssantime.com",LV_KW="bar",LV_KWL="BAR",LV_CATURL="https://ssantime.com/category/digital.html";
 var sec=document.querySelector('.related');
 var rg=document.getElementById('related-grid');
 if(!sec||!rg||!window.fetch)return;
@@ -282,6 +283,17 @@ fetch('../deals-live.json',{credentials:'same-origin'}).then(function(r){
   rg.innerHTML=html;
   var h=sec.querySelector('.related-h');if(h)h.textContent=kwHit.length>=2?('지금 살 수 있는 \''+LV_KWL+'\' 딜'):'지금 살 수 있는 딜';
   sec.hidden=false;ssFillTimes(rg);ssFavInit(rg);
+  var lc=document.getElementById('ended-live');
+  if(lc){var kn=kwHit.length,sn=same.length,m=kn||sn;
+    if(m){var dest='',n=Math.min(m,4);
+      if(!kn&&sn>4){dest=LV_CATURL;n=sn;}
+      if(dest)lc.href=dest;
+      lc.textContent=(kn?('지금 살 수 있는 \''+LV_KWL+'\' 딜 '):('지금 살 수 있는 '+LV_CAT+' 딜 '))+n+'개 보기 '+(dest?'→':'↓');
+      lc.setAttribute('data-kind',kn?'kw':'cat');lc.hidden=false;
+      var pw=lc.parentNode&&lc.parentNode.querySelector('.push-wrap');
+      if(pw)pw.className+=' push-wrap--secondary';
+      if(typeof gtag==='function')gtag('event','live_cta_show',{placement:"ended_kw",kind:kn?'kw':'cat',n:n});
+  }}
 })['catch'](function(){});
 })();
 ssScrollDepth();

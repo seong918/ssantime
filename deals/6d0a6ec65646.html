@@ -48,10 +48,11 @@
   </header>
   <main class="deal" data-ga-id="6d0a6ec65646" data-ga-price="89751" data-ga-gap="22949" data-ga-site="fmkorea" data-ga-cat="SW/게임" data-ga-mall="ssg.li">
     <div class="ended-banner"><span role="status">⏰ 아쉽지만 종료된 딜이에요 — 당시 가격은 아래에서 시세 참고용으로 확인할 수 있어요</span>
-    <div class="push-wrap push-wrap--ended_cat" data-push-wrap>
-      <button type="button" class="push-cta" data-push-cta data-placement="ended_cat" data-push-topic="deals_digital" data-push-cat="전자"><span class="push-ico" aria-hidden="true">🔔</span><span class="push-txt">매일 아침 <b>전자</b> 딜만 골라 알림으로 — 하루 1번</span><span class="push-add" aria-hidden="true">알림 받기 →</span></button>
+    <a class="ended-live" id="ended-live" href="#related-h" hidden data-kind="" onclick="if(typeof gtag==='function')gtag('event','live_cta_click',{placement:'ended_kw',kind:this.getAttribute('data-kind')})"></a>
+    <div class="push-wrap push-wrap--ended_kw" data-push-wrap>
+      <button type="button" class="push-cta" data-push-cta data-placement="ended_kw" data-push-kw="닌텐도"><span class="push-ico" aria-hidden="true">🔔</span><span class="push-txt">다음 '<b>닌텐도</b>' 딜 뜨면 바로 알려드릴게요</span><span class="push-add" aria-hidden="true">알림 받기 →</span></button>
       <p class="push-hint" data-push-hint hidden></p>
-      <a class="push-alt" href="https://open.kakao.com/o/gzcPhduh" target="_blank" rel="noopener nofollow" onclick="if(typeof gtag==='function')gtag('event','kakao_cta_click',{placement:'ended_cat'})">카톡방으로 받기 →</a>
+      <a class="push-alt" href="https://open.kakao.com/o/gzcPhduh" target="_blank" rel="noopener nofollow" onclick="if(typeof gtag==='function')gtag('event','kakao_cta_click',{placement:'ended_kw'})">카톡방으로 받기 →</a>
     </div>
     </div>
     <p class="deal-intro">네이버 최저가보다 <b>싼 핫딜</b>만 모아요</p>
@@ -243,7 +244,7 @@ if(rg){rg.addEventListener('click',function(ev){
   var tt=t.querySelector('.card-title');
   ssGa('select_item',{item_list_id:'related',item_list_name:'관련 딜',items:[{item_id:id,item_name:tt?tt.textContent.slice(0,80):''}]});});}
 (function(){
-var LV_ID="6d0a6ec65646",LV_CAT="전자",LV_BASE="https://ssantime.com";
+var LV_ID="6d0a6ec65646",LV_CAT="전자",LV_BASE="https://ssantime.com",LV_KW="닌텐도",LV_KWL="닌텐도",LV_CATURL="https://ssantime.com/category/digital.html";
 var sec=document.querySelector('.related');
 var rg=document.getElementById('related-grid');
 if(!sec||!rg||!window.fetch)return;
@@ -269,17 +270,30 @@ return '<li class="card" data-id="'+esc(d.id)+'">'
 +'</div></div></a></li>';}
 fetch('../deals-live.json',{credentials:'same-origin'}).then(function(r){
   if(!r.ok)throw new Error('HTTP '+r.status);return r.json();}).then(function(j){
-  var all=(j&&j.deals)||[],same=[],other=[],i,d;
+  var all=(j&&j.deals)||[],kwHit=[],same=[],other=[],i,d;
   for(i=0;i<all.length;i++){d=all[i];if(!d||!d.id||d.id===LV_ID)continue;
-    if(d.c===LV_CAT)same.push(d);else other.push(d);}
-  var pick=same.slice(0,4);
+    if(String(d.t||'').toLowerCase().replace(/\s+/g,'').indexOf(LV_KW)>=0)kwHit.push(d);
+    else if(d.c===LV_CAT)same.push(d);else other.push(d);}
+  var pick=kwHit.slice(0,4);
+  if(pick.length<4)pick=pick.concat(same.slice(0,4-pick.length));
   if(pick.length<4){other.sort(function(a,b){return (b.g||0)-(a.g||0);});
     pick=pick.concat(other.slice(0,4-pick.length));}
   if(!pick.length)return;
   var html='';for(i=0;i<pick.length;i++){html+=card(pick[i]);}
   rg.innerHTML=html;
-  var h=sec.querySelector('.related-h');if(h)h.textContent='지금 살 수 있는 딜';
+  var h=sec.querySelector('.related-h');if(h)h.textContent=kwHit.length>=2?('지금 살 수 있는 \''+LV_KWL+'\' 딜'):'지금 살 수 있는 딜';
   sec.hidden=false;ssFillTimes(rg);ssFavInit(rg);
+  var lc=document.getElementById('ended-live');
+  if(lc){var kn=kwHit.length,sn=same.length,m=kn||sn;
+    if(m){var dest='',n=Math.min(m,4);
+      if(!kn&&sn>4){dest=LV_CATURL;n=sn;}
+      if(dest)lc.href=dest;
+      lc.textContent=(kn?('지금 살 수 있는 \''+LV_KWL+'\' 딜 '):('지금 살 수 있는 '+LV_CAT+' 딜 '))+n+'개 보기 '+(dest?'→':'↓');
+      lc.setAttribute('data-kind',kn?'kw':'cat');lc.hidden=false;
+      var pw=lc.parentNode&&lc.parentNode.querySelector('.push-wrap');
+      if(pw)pw.className+=' push-wrap--secondary';
+      if(typeof gtag==='function')gtag('event','live_cta_show',{placement:"ended_kw",kind:kn?'kw':'cat',n:n});
+  }}
 })['catch'](function(){});
 })();
 ssScrollDepth();

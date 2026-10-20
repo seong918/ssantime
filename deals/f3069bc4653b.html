@@ -48,12 +48,13 @@
   </header>
   <main class="deal" data-ga-id="f3069bc4653b" data-ga-price="55800" data-ga-gap="5110" data-ga-site="ppomppu" data-ga-cat="가전/가구" data-ga-mall="쿠팡">
     <div class="ended-banner"><span role="status">⏰ 아쉽지만 종료된 딜이에요 — 당시 가격은 아래에서 시세 참고용으로 확인할 수 있어요</span>
-    <a class="more-deals more-deals--hub" href="https://ssantime.com/k/%EC%84%A0%ED%92%8D%EA%B8%B0.html">선풍기 핫딜 모음 보기 →</a>
+    <a class="ended-live" id="ended-live" href="#related-h" hidden data-kind="" onclick="if(typeof gtag==='function')gtag('event','live_cta_click',{placement:'ended_cat',kind:this.getAttribute('data-kind')})"></a>
     <div class="push-wrap push-wrap--ended_cat" data-push-wrap>
       <button type="button" class="push-cta" data-push-cta data-placement="ended_cat" data-push-topic="deals_digital" data-push-cat="전자"><span class="push-ico" aria-hidden="true">🔔</span><span class="push-txt">매일 아침 <b>전자</b> 딜만 골라 알림으로 — 하루 1번</span><span class="push-add" aria-hidden="true">알림 받기 →</span></button>
       <p class="push-hint" data-push-hint hidden></p>
       <a class="push-alt" href="https://open.kakao.com/o/gzcPhduh" target="_blank" rel="noopener nofollow" onclick="if(typeof gtag==='function')gtag('event','kakao_cta_click',{placement:'ended_cat'})">카톡방으로 받기 →</a>
     </div>
+    <a class="more-deals more-deals--hub" href="https://ssantime.com/k/%EC%84%A0%ED%92%8D%EA%B8%B0.html" onclick="if(typeof gtag==='function')gtag('event','hub_link_click',{placement:'ended'})">선풍기 핫딜 모음 보기 →</a>
     </div>
     <p class="deal-intro">네이버 최저가보다 <b>싼 핫딜</b>만 모아요</p>
     <figure class="deal-figure deal-figure--expired">
@@ -242,7 +243,7 @@ if(rg){rg.addEventListener('click',function(ev){
   var tt=t.querySelector('.card-title');
   ssGa('select_item',{item_list_id:'related',item_list_name:'관련 딜',items:[{item_id:id,item_name:tt?tt.textContent.slice(0,80):''}]});});}
 (function(){
-var LV_ID="f3069bc4653b",LV_CAT="전자",LV_BASE="https://ssantime.com";
+var LV_ID="f3069bc4653b",LV_CAT="전자",LV_BASE="https://ssantime.com",LV_CATURL="https://ssantime.com/category/digital.html";
 var sec=document.querySelector('.related');
 var rg=document.getElementById('related-grid');
 if(!sec||!rg||!window.fetch)return;
@@ -268,7 +269,7 @@ return '<li class="card" data-id="'+esc(d.id)+'">'
 +'</div></div></a></li>';}
 fetch('../deals-live.json',{credentials:'same-origin'}).then(function(r){
   if(!r.ok)throw new Error('HTTP '+r.status);return r.json();}).then(function(j){
-  var all=(j&&j.deals)||[],same=[],other=[],i,d;
+  var all=(j&&j.deals)||[],kwHit=[],same=[],other=[],i,d;
   for(i=0;i<all.length;i++){d=all[i];if(!d||!d.id||d.id===LV_ID)continue;
     if(d.c===LV_CAT)same.push(d);else other.push(d);}
   var pick=same.slice(0,4);
@@ -279,6 +280,17 @@ fetch('../deals-live.json',{credentials:'same-origin'}).then(function(r){
   rg.innerHTML=html;
   var h=sec.querySelector('.related-h');if(h)h.textContent='지금 살 수 있는 딜';
   sec.hidden=false;ssFillTimes(rg);ssFavInit(rg);
+  var lc=document.getElementById('ended-live');
+  if(lc){var kn=kwHit.length,sn=same.length,m=kn||sn;
+    if(m){var dest='',n=Math.min(m,4);
+      if(!kn&&sn>4){dest=LV_CATURL;n=sn;}
+      if(dest)lc.href=dest;
+      lc.textContent=('지금 살 수 있는 '+LV_CAT+' 딜 ')+n+'개 보기 '+(dest?'→':'↓');
+      lc.setAttribute('data-kind',kn?'kw':'cat');lc.hidden=false;
+      var pw=lc.parentNode&&lc.parentNode.querySelector('.push-wrap');
+      if(pw)pw.className+=' push-wrap--secondary';
+      if(typeof gtag==='function')gtag('event','live_cta_show',{placement:"ended_cat",kind:kn?'kw':'cat',n:n});
+  }}
 })['catch'](function(){});
 })();
 ssScrollDepth();
