@@ -17,14 +17,14 @@
     "comparison_baseline": "수집 시점에 같은 상품 후보로 자동 매칭한 네이버 쇼핑 비교가"
   },
   "metrics": {
-    "active_verified_deals": 414,
+    "active_verified_deals": 413,
     "strict_comparable_deals": 221,
     "median_savings_krw": 7070,
     "median_discount_percent": 24.9,
     "shipping_known_deals": 221,
-    "shipping_unknown_deals": 193,
-    "coupang_deals": 51,
-    "coupang_share_percent": 12.3,
+    "shipping_unknown_deals": 192,
+    "coupang_deals": 50,
+    "coupang_share_percent": 12.1,
     "identified_marketplace_labels": 48,
     "marketplace_unknown_deals": 0
   },
@@ -37,17 +37,17 @@
     {
       "name": "식품",
       "count": 208,
-      "share_percent": 50.2
+      "share_percent": 50.4
     },
     {
       "name": "생활",
       "count": 44,
-      "share_percent": 10.6
+      "share_percent": 10.7
     },
     {
       "name": "패션",
-      "count": 61,
-      "share_percent": 14.7
+      "count": 60,
+      "share_percent": 14.5
     },
     {
       "name": "기타",
@@ -68,18 +68,18 @@
     },
     {
       "name": "쿠팡",
-      "count": 51,
-      "share_percent": 12.3
+      "count": 50,
+      "share_percent": 12.1
     },
     {
       "name": "카카오 스토어",
       "count": 30,
-      "share_percent": 7.2
+      "share_percent": 7.3
     },
     {
       "name": "G마켓",
       "count": 25,
-      "share_percent": 6.0
+      "share_percent": 6.1
     },
     {
       "name": "토스쇼핑",
@@ -119,19 +119,19 @@
     {
       "name": "기타 판매처",
       "count": 71,
-      "share_percent": 17.1
+      "share_percent": 17.2
     }
   ],
   "source_communities": [
     {
       "name": "뽐뿌",
       "count": 224,
-      "share_percent": 54.1
+      "share_percent": 54.2
     },
     {
       "name": "에펨코리아",
-      "count": 113,
-      "share_percent": 27.3
+      "count": 112,
+      "share_percent": 27.1
     },
     {
       "name": "아카라이브",
