@@ -15172,7 +15172,7 @@
     "category": "가전제품",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "마이디어",
@@ -15209,7 +15209,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "오리온",
@@ -15247,7 +15247,7 @@
     "category": "가전제품",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "샥즈",
@@ -15284,7 +15284,7 @@
     "category": "생활용품",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "바세린",
@@ -15321,7 +15321,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://kko.to/l2lhOPhmXp",
       "https://kko.to/DkCxd_oKfy"
@@ -15362,7 +15362,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "더미식",
