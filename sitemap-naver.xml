@@ -26,7 +26,7 @@
   </url>
   <url>
     <loc>https://ssantime.com/category/etc.html</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-22</lastmod>
   </url>
   <url>
     <loc>https://ssantime.com/guide.html</loc>
@@ -157,12 +157,12 @@
     <lastmod>2026-10-20</lastmod>
   </url>
   <url>
-    <loc>https://ssantime.com/k/%EA%B2%8C%EC%9D%B4%EB%B0%8D%EB%AA%A8%EB%8B%88%ED%84%B0.html</loc>
-    <lastmod>2026-10-21</lastmod>
-  </url>
-  <url>
     <loc>https://ssantime.com/k/%ED%99%94%EC%9E%A5%EC%A7%80.html</loc>
     <lastmod>2026-10-22</lastmod>
+  </url>
+  <url>
+    <loc>https://ssantime.com/k/%EA%B2%8C%EC%9D%B4%EB%B0%8D%EB%AA%A8%EB%8B%88%ED%84%B0.html</loc>
+    <lastmod>2026-10-21</lastmod>
   </url>
   <url>
     <loc>https://ssantime.com/k/%EC%83%A4%EC%9D%B8%EB%A8%B8%EC%8A%A4%EC%BC%93.html</loc>
@@ -182,7 +182,7 @@
   </url>
   <url>
     <loc>https://ssantime.com/k/%ED%82%A4%EB%B3%B4%EB%93%9C.html</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-22</lastmod>
   </url>
   <url>
     <loc>https://ssantime.com/k/%EC%82%BC%EA%B2%B9%EC%82%B4.html</loc>
@@ -229,6 +229,10 @@
     <lastmod>2026-10-21</lastmod>
   </url>
   <url>
+    <loc>https://ssantime.com/k/%EC%BC%80%EC%9D%B4%ED%81%AC.html</loc>
+    <lastmod>2026-10-21</lastmod>
+  </url>
+  <url>
     <loc>https://ssantime.com/k/%ED%97%A4%EB%93%9C%ED%8F%B0.html</loc>
     <lastmod>2026-10-20</lastmod>
   </url>
@@ -267,10 +271,6 @@
   <url>
     <loc>https://ssantime.com/k/%EC%9A%B4%EB%8F%99%ED%99%94.html</loc>
     <lastmod>2026-10-20</lastmod>
-  </url>
-  <url>
-    <loc>https://ssantime.com/k/%EC%BC%80%EC%9D%B4%ED%81%AC.html</loc>
-    <lastmod>2026-10-21</lastmod>
   </url>
   <url>
     <loc>https://ssantime.com/k/%EB%93%9C%EB%A7%81%ED%81%AC.html</loc>
@@ -405,6 +405,10 @@
     <lastmod>2026-10-20</lastmod>
   </url>
   <url>
+    <loc>https://ssantime.com/k/%EC%9E%AC%ED%82%B7.html</loc>
+    <lastmod>2026-10-22</lastmod>
+  </url>
+  <url>
     <loc>https://ssantime.com/k/%EC%A0%9C%EC%8A%B5%EA%B8%B0.html</loc>
     <lastmod>2026-10-20</lastmod>
   </url>
@@ -494,10 +498,6 @@
   </url>
   <url>
     <loc>https://ssantime.com/k/%EC%9D%8C%EB%A3%8C.html</loc>
-    <lastmod>2026-10-20</lastmod>
-  </url>
-  <url>
-    <loc>https://ssantime.com/k/%EC%9E%AC%ED%82%B7.html</loc>
     <lastmod>2026-10-20</lastmod>
   </url>
   <url>
@@ -673,6 +673,10 @@
     <lastmod>2026-10-21</lastmod>
   </url>
   <url>
+    <loc>https://ssantime.com/k/%EB%96%A1%EB%B3%B6%EC%9D%B4.html</loc>
+    <lastmod>2026-10-22</lastmod>
+  </url>
+  <url>
     <loc>https://ssantime.com/k/%EB%9F%AC%EB%8B%9D%ED%99%94.html</loc>
     <lastmod>2026-10-21</lastmod>
   </url>
@@ -771,6 +775,34 @@
   <url>
     <loc>https://ssantime.com/k/%ED%97%A4%EC%96%B4%EB%93%9C%EB%9D%BC%EC%9D%B4%EC%96%B4.html</loc>
     <lastmod>2026-10-20</lastmod>
+  </url>
+  <url>
+    <loc>https://ssantime.com/deals/c2db3a49d128.html</loc>
+    <lastmod>2026-10-22</lastmod>
+  </url>
+  <url>
+    <loc>https://ssantime.com/deals/e61265009087.html</loc>
+    <lastmod>2026-10-22</lastmod>
+  </url>
+  <url>
+    <loc>https://ssantime.com/deals/1697bbe8f68e.html</loc>
+    <lastmod>2026-10-22</lastmod>
+  </url>
+  <url>
+    <loc>https://ssantime.com/deals/fd97b5b04be0.html</loc>
+    <lastmod>2026-10-22</lastmod>
+  </url>
+  <url>
+    <loc>https://ssantime.com/deals/53852c1aeba9.html</loc>
+    <lastmod>2026-10-22</lastmod>
+  </url>
+  <url>
+    <loc>https://ssantime.com/deals/70d0bab19a83.html</loc>
+    <lastmod>2026-10-22</lastmod>
+  </url>
+  <url>
+    <loc>https://ssantime.com/deals/e4000dd6d9e7.html</loc>
+    <lastmod>2026-10-22</lastmod>
   </url>
   <url>
     <loc>https://ssantime.com/deals/30a84ad12aed.html</loc>
