@@ -15005,7 +15005,7 @@
     "category": "기타",
     "category_bucket": "전자",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "뉴클",
