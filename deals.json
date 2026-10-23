@@ -1,5 +1,44 @@
 [
   {
+    "deal_id": "b3fc4db20d5e",
+    "title": "무신사스탠다드 샤기 플리스 집업 재킷",
+    "deal_total": 16990,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 19990,
+    "gap": 3000,
+    "mall_name": "네이버",
+    "buy_url": "https://www.musinsa.com/products/1180665",
+    "source_url": "https://www.fmkorea.com/10478247286",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5795781/57957815532.20261021062936.jpg?type=f300",
+    "created_iso": "2026-10-23T22:46:20.340620+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/57957815532",
+    "naver_product_id": "57957815532",
+    "buy_url_orig": "",
+    "price_label": "16,990원",
+    "discount_guide": "1. 상품 15% 쿠폰 적용 ('쿠폰받기' → 33% 19,990원, 정가 29,900원)\n2. 무신사 삼성카드 결제 시 30,000원 할인\n3. 무탠다드 슈퍼세일 1만원 장바구니 쿠폰: 2개 + 15만원 이상 구매 시 1만원 추가 할인\n4. Money 무신사머니 첫 결제 시 10% 추가 적립 (최대 3,360원 적립)\n※ 쿠폰·카드할인 모두 적용 시 나의 할인가 15,500원\n※ 무탠다드 슈퍼세일 장바구니 쿠폰은 만료 1일 전까지 사용",
+    "product_summary": "무신사스탠다드 샤기 플리스 집업 재킷입니다.\n폭신한 샤기 플리스 소재의 스탠드넥 풀집업 아우터입니다.\n크림, 블랙, 라이트 베이지, 라이트 그레이, 다크 그레이, 네이비 등 다양한 색상으로 구성됩니다.",
+    "source_site": "fmkorea",
+    "category": "의류",
+    "category_bucket": "패션",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [
+      "https://www.musinsa.com/products/1180666"
+    ],
+    "tags": [
+      "무신사스탠다드",
+      "무신사",
+      "샤기 플리스",
+      "플리스 재킷",
+      "집업 재킷",
+      "플리스 집업",
+      "뽀글이",
+      "아우터",
+      "플리스"
+    ]
+  },
+  {
     "deal_id": "1728d1e6e19b",
     "title": "[카카오톡딜] 오즈랜드 진한 두부과자 40g 12봉 (8,300원/무료)",
     "deal_total": 8300,
