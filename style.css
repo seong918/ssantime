@@ -284,9 +284,6 @@ button{font-family:inherit;cursor:pointer}
 .ended-banner{margin:0 0 14px;padding:11px 14px;border-radius:var(--r-lg);
   background:var(--card-2);border:1px solid var(--line);
   color:var(--ink-2);font-weight:700;font-size:14px;line-height:1.45;text-align:center}
-.ended-kakao{display:block;margin-top:7px;color:var(--brand);font-weight:800;
-  font-size:13.5px;text-decoration:none}
-.ended-kakao:hover{text-decoration:underline}
 .ended-live{display:flex;align-items:center;justify-content:center;margin:9px 0 0;min-height:44px;
   padding:11px 14px;border-radius:var(--r-md);background:var(--brand);color:#fff;
   font-weight:800;font-size:14px;text-decoration:none;word-break:keep-all;transition:filter .15s}
