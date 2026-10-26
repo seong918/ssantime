@@ -32,7 +32,7 @@
 - [블로그 RSS](https://ssantime.com/blog/feed.xml): 색인 가능한 글만 담은 최신순 피드
 - [싼타임 리서치](https://ssantime.com/research/): 현재 활성 검증 딜의 판매처·카테고리·절약액 집계와 방법론
 - [리서치 집계 JSON](https://ssantime.com/research/hotdeal-market-summary.json): 리서치 페이지와 같은 값의 기계 판독용 공개 데이터
-- [상품군별 핫딜 기록](https://ssantime.com/k/index.html): 상품군 174개의 지난 핫딜 가격 기록(등록 당시 가격·당시 네이버 최저가·절약액)과 진행 중인 딜
+- [상품군별 핫딜 기록](https://ssantime.com/k/index.html): 상품군 175개의 지난 핫딜 가격 기록(등록 당시 가격·당시 네이버 최저가·절약액)과 진행 중인 딜
 - 카테고리: [전자](https://ssantime.com/category/digital.html) [식품](https://ssantime.com/category/food.html) [생활](https://ssantime.com/category/living.html) [패션](https://ssantime.com/category/fashion.html) [기타](https://ssantime.com/category/etc.html)
 
 ## 블로그 글
