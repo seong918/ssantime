@@ -4,7 +4,7 @@
   "canonical_url": "https://ssantime.com/research/",
   "snapshot_updated_at": "2026-10-27T16:30:03.177786+00:00",
   "active_record_span": {
-    "from": "2026-10-20T18:54:25.087623+00:00",
+    "from": "2026-10-20T22:26:12.705919+00:00",
     "to": "2026-10-27T16:30:03.177786+00:00",
     "from_date_kst": "2026-10-21",
     "to_date_kst": "2026-10-28",
@@ -17,12 +17,12 @@
     "comparison_baseline": "수집 시점에 같은 상품 후보로 자동 매칭한 네이버 쇼핑 비교가"
   },
   "metrics": {
-    "active_verified_deals": 430,
+    "active_verified_deals": 428,
     "strict_comparable_deals": 210,
     "median_savings_krw": 7150,
     "median_discount_percent": 22.5,
     "shipping_known_deals": 210,
-    "shipping_unknown_deals": 220,
+    "shipping_unknown_deals": 218,
     "coupang_deals": 52,
     "coupang_share_percent": 12.1,
     "identified_marketplace_labels": 56,
@@ -32,12 +32,12 @@
     {
       "name": "전자",
       "count": 115,
-      "share_percent": 26.7
+      "share_percent": 26.9
     },
     {
       "name": "식품",
-      "count": 208,
-      "share_percent": 48.4
+      "count": 206,
+      "share_percent": 48.1
     },
     {
       "name": "생활",
@@ -47,7 +47,7 @@
     {
       "name": "패션",
       "count": 56,
-      "share_percent": 13.0
+      "share_percent": 13.1
     },
     {
       "name": "기타",
@@ -59,12 +59,12 @@
     {
       "name": "네이버 스마트스토어",
       "count": 96,
-      "share_percent": 22.3
+      "share_percent": 22.4
     },
     {
       "name": "롯데ON",
       "count": 68,
-      "share_percent": 15.8
+      "share_percent": 15.9
     },
     {
       "name": "쿠팡",
@@ -72,14 +72,14 @@
       "share_percent": 12.1
     },
     {
-      "name": "카카오 스토어",
-      "count": 31,
-      "share_percent": 7.2
-    },
-    {
       "name": "11번가",
       "count": 30,
       "share_percent": 7.0
+    },
+    {
+      "name": "카카오 스토어",
+      "count": 29,
+      "share_percent": 6.8
     },
     {
       "name": "G마켓",
@@ -119,24 +119,24 @@
     {
       "name": "기타 판매처",
       "count": 68,
-      "share_percent": 15.8
+      "share_percent": 15.9
     }
   ],
   "source_communities": [
     {
       "name": "뽐뿌",
       "count": 223,
-      "share_percent": 51.9
+      "share_percent": 52.1
     },
     {
       "name": "에펨코리아",
-      "count": 116,
-      "share_percent": 27.0
+      "count": 114,
+      "share_percent": 26.6
     },
     {
       "name": "아카라이브",
       "count": 65,
-      "share_percent": 15.1
+      "share_percent": 15.2
     },
     {
       "name": "퀘이사존",
