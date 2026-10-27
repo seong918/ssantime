@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ssantime.com/</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://ssantime.com/category/</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://ssantime.com/category/digital.html</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://ssantime.com/category/food.html</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://ssantime.com/category/living.html</loc>
@@ -161,6 +161,10 @@
     <lastmod>2026-10-27</lastmod>
   </url>
   <url>
+    <loc>https://ssantime.com/k/%EC%82%BC%EA%B2%B9%EC%82%B4.html</loc>
+    <lastmod>2026-10-27</lastmod>
+  </url>
+  <url>
     <loc>https://ssantime.com/k/%ED%82%A4%EB%B3%B4%EB%93%9C.html</loc>
     <lastmod>2026-10-27</lastmod>
   </url>
@@ -175,10 +179,6 @@
   <url>
     <loc>https://ssantime.com/k/%EA%B2%8C%EC%9D%B4%EB%B0%8D%EB%AA%A8%EB%8B%88%ED%84%B0.html</loc>
     <lastmod>2026-10-26</lastmod>
-  </url>
-  <url>
-    <loc>https://ssantime.com/k/%EC%82%BC%EA%B2%B9%EC%82%B4.html</loc>
-    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://ssantime.com/k/%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0.html</loc>
@@ -274,7 +274,7 @@
   </url>
   <url>
     <loc>https://ssantime.com/k/%EC%82%BC%EB%8B%A4%EC%88%98.html</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://ssantime.com/k/%EC%83%9D%EC%88%98.html</loc>
@@ -366,7 +366,7 @@
   </url>
   <url>
     <loc>https://ssantime.com/k/%EC%84%B8%ED%83%81%EC%84%B8%EC%A0%9C.html</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://ssantime.com/k/%EC%8A%A4%EB%8B%88%EC%BB%A4%EC%A6%88.html</loc>
@@ -499,6 +499,10 @@
   <url>
     <loc>https://ssantime.com/k/%EC%B9%B4%EB%A9%94%EB%9D%BC.html</loc>
     <lastmod>2026-10-26</lastmod>
+  </url>
+  <url>
+    <loc>https://ssantime.com/k/%ED%83%84%EC%82%B0%EC%9D%8C%EB%A3%8C.html</loc>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://ssantime.com/k/%ED%8C%8C%EC%8A%A4%ED%83%80%EC%86%8C%EC%8A%A4.html</loc>
