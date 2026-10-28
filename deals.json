@@ -1,5 +1,43 @@
 [
   {
+    "deal_id": "b44d45bb8007",
+    "title": "무항생제 훈제 메추리알 25g 10개 네이버멤버십",
+    "deal_total": 7990,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 11120,
+    "gap": 3130,
+    "mall_name": null,
+    "buy_url": "https://m.brand.naver.com/mggfood/products/13673467795",
+    "source_url": "https://www.fmkorea.com/10495122344",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6091714/60917147197.6.jpg?type=f300",
+    "created_iso": "2026-10-28T15:04:38.644890+00:00",
+    "naver_url": null,
+    "naver_product_id": "60917147197",
+    "buy_url_orig": "",
+    "price_label": "7,990원",
+    "discount_guide": "1. 네이버 '쿠폰 받기'로 멤버십 쿠폰을 받습니다\n2. 멤버십 쿠폰(10% 할인) 적용 시 멤버십쿠폰가 7,900원입니다 (정가 18,900원 → 47% 10,000원)\n※ 멤버십 N배송 무료배송 적용(배송비 3,500원)",
+    "product_summary": "무항생제 훈제 메추리알 실온보관 간편 반찬입니다.\n25g 10개입으로 총 내용량 250g, 600kcal이며 메추리알(국산) 58%, 스모크오일 0.015%(스모크향 75%)로 구성됩니다.\nHACCP 인증 제품으로 실온에서 보관할 수 있어 간편하게 드실 수 있습니다.",
+    "source_site": "fmkorea",
+    "category": "먹거리",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [
+      "https://shopping.naver.com/event/6aa11c29c7bdbd78c0cb8c33"
+    ],
+    "tags": [
+      "메추리알",
+      "훈제메추리알",
+      "무항생제",
+      "Eco Farm",
+      "금메추리알",
+      "실온보관",
+      "간편반찬",
+      "훈제맛"
+    ]
+  },
+  {
     "deal_id": "38667cb897b6",
     "title": "[CJ온스타일] 내손에 핫팩 중간 20개+ 미니 80개/ 국내생산, 군납품 (19,350원/무배)",
     "deal_total": 19350,
@@ -16711,7 +16749,7 @@
     "category": "A/V",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -16738,7 +16776,7 @@
     "category": "PC/하드웨어",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "레노버",
@@ -16776,7 +16814,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "투썸플레이스",
