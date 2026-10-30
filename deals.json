@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "bb9035860b3a",
+    "title": "풋볼 매니저 27 FM27 스팀 키 예약판매",
+    "deal_total": 51110,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 55800,
+    "gap": 4690,
+    "mall_name": null,
+    "buy_url": "https://minimap.net/store/item/football-manager-27/notice",
+    "source_url": "https://www.fmkorea.com/10497557870",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_9137932/91379322651.1.jpg?type=f300",
+    "created_iso": "2026-10-29T23:58:31.868690+00:00",
+    "naver_url": null,
+    "naver_product_id": "91379322651",
+    "buy_url_orig": "",
+    "price_label": "51,110원",
+    "discount_guide": "1. 미니맵 5% 쿠폰 적용: 쿠폰 사용 -2,790원\n2. 신규 회원 포인트 미션으로 받은 미니맵 포인트 사용 -1,940P\n→ 총 상품 금액 55,840원에서 최종 결제 금액 51,110원\n3. 그타6도 구매할 경우 선착순 500명 대상 3,000원 할인쿠폰 지급 이벤트를 받아 적용",
+    "product_summary": "풋볼 매니저 27(FM27)의 스팀 키 예약판매 상품입니다.\n옵션은 풋볼 매니저27이며 수량은 1개입니다.\n예상 수령일은 발매일 1~3일 전입니다.",
+    "source_site": "fmkorea",
+    "category": "SW/게임",
+    "category_bucket": "전자",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "풋볼 매니저 27",
+      "FM27",
+      "Football Manager 27",
+      "풋볼매니저",
+      "스팀 키",
+      "스팀",
+      "steam",
+      "축구 게임"
+    ]
+  },
+  {
     "deal_id": "fe0ffdde684c",
     "title": "[G마켓] 베베앙 더프라임 아기물티슈 72매 캡 20팩 70gsm 15600원. 무배",
     "deal_total": 15600,
@@ -58,7 +94,7 @@
     "source_site": "ruliweb",
     "category": "게임S/W",
     "category_bucket": "전자",
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [
       "https://ssg.li/rT6QUmtEN7"
@@ -2719,7 +2755,7 @@
     "source_site": "arca",
     "category": "식품",
     "category_bucket": "식품",
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [],
     "tags": [
@@ -16382,7 +16418,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "월드컵",
@@ -16418,7 +16454,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "맥심",
@@ -16456,7 +16492,7 @@
     "category": "생활용품",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "퍼실",
