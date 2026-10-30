@@ -16650,7 +16650,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "오즈랜드",
@@ -16686,7 +16686,7 @@
     "category": "PC/하드웨어",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "긱스타",
@@ -16722,7 +16722,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "과메기",
