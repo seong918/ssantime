@@ -1,5 +1,40 @@
 [
   {
+    "deal_id": "77a75a6c7bd5",
+    "title": "[11번가] (예약구매) 자일렉 뉴 에이블 무선청소기 (27,900원/무료)",
+    "deal_total": 27900,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 39900,
+    "gap": 12000,
+    "mall_name": "네이버",
+    "buy_url": "https://bitl.bz/api@n48DhB8g",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=117&&no=744376",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6163920/61639209733.20261001165215.jpg?type=f300",
+    "created_iso": "2026-10-30T09:10:51.898435+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/61639209733",
+    "naver_product_id": "61639209733",
+    "buy_url_orig": "https://www.11st.co.kr/products/9603297850",
+    "price_label": "",
+    "discount_guide": null,
+    "product_summary": "자일렉 뉴 에이블 무선청소기입니다.\n눈에 보이는 먼지나 머리카락을 가볍게 치우는 일상 청소에 적합하며, 차량용으로도 사용할 수 있습니다.\nAS 무상수리 1년 보증이 제공됩니다.",
+    "source_site": "ppomppu",
+    "category": "가전/가구",
+    "category_bucket": "전자",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "자일렉",
+      "ZAELEC",
+      "무선청소기",
+      "핸디청소기",
+      "차량용청소기",
+      "무선 핸디청소기",
+      "뉴 에이블"
+    ]
+  },
+  {
     "deal_id": "a9fd0c3c922b",
     "title": "[카카오] 26년 제철 신안 활새우 1kg 28미내외 (14,070원/무료)",
     "deal_total": 14070,
@@ -16530,7 +16565,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "오딧세이",
@@ -16567,7 +16602,7 @@
     "category": "PC/하드웨어",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "안텍",
@@ -16605,7 +16640,7 @@
     "category": "PC/하드웨어",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "다크플래쉬",
