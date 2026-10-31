@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ssantime.com/</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-10-31</lastmod>
   </url>
   <url>
     <loc>https://ssantime.com/category/</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-10-31</lastmod>
   </url>
   <url>
     <loc>https://ssantime.com/category/digital.html</loc>
@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>https://ssantime.com/category/food.html</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-10-31</lastmod>
   </url>
   <url>
     <loc>https://ssantime.com/category/living.html</loc>
@@ -118,7 +118,7 @@
   </url>
   <url>
     <loc>https://ssantime.com/k/index.html</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-10-31</lastmod>
   </url>
   <url>
     <loc>https://ssantime.com/k/%EB%AA%A8%EB%8B%88%ED%84%B0.html</loc>
@@ -130,7 +130,7 @@
   </url>
   <url>
     <loc>https://ssantime.com/k/%EC%B2%AD%EC%86%8C%EA%B8%B0.html</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-10-31</lastmod>
   </url>
   <url>
     <loc>https://ssantime.com/k/%ED%8B%B0%EC%85%94%EC%B8%A0.html</loc>
@@ -381,6 +381,10 @@
     <lastmod>2026-10-31</lastmod>
   </url>
   <url>
+    <loc>https://ssantime.com/k/%EC%BA%A1%EC%8A%90%EC%BB%A4%ED%94%BC.html</loc>
+    <lastmod>2026-10-30</lastmod>
+  </url>
+  <url>
     <loc>https://ssantime.com/k/%ED%99%9C%EC%A0%84%EB%B3%B5.html</loc>
     <lastmod>2026-10-26</lastmod>
   </url>
@@ -406,10 +410,6 @@
   </url>
   <url>
     <loc>https://ssantime.com/k/%EC%B4%88%EC%BD%9C%EB%A6%BF.html</loc>
-    <lastmod>2026-10-30</lastmod>
-  </url>
-  <url>
-    <loc>https://ssantime.com/k/%EC%BA%A1%EC%8A%90%EC%BB%A4%ED%94%BC.html</loc>
     <lastmod>2026-10-30</lastmod>
   </url>
   <url>
@@ -607,6 +607,10 @@
   <url>
     <loc>https://ssantime.com/k/%EB%A0%88%EB%AA%AC.html</loc>
     <lastmod>2026-10-30</lastmod>
+  </url>
+  <url>
+    <loc>https://ssantime.com/k/%EB%B0%B1%EB%AF%B8%EB%B0%A5.html</loc>
+    <lastmod>2026-10-31</lastmod>
   </url>
   <url>
     <loc>https://ssantime.com/k/%EB%B6%80%EB%8C%80%EC%B0%8C%EA%B0%9C.html</loc>
