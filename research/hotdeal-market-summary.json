@@ -2,10 +2,10 @@
   "schema_version": "1.0",
   "dataset_name": "싼타임 현재 활성 온라인 핫딜 가격 비교 스냅샷",
   "canonical_url": "https://ssantime.com/research/",
-  "snapshot_updated_at": "2026-10-31T01:33:10.525983+00:00",
+  "snapshot_updated_at": "2026-10-31T02:01:07.386522+00:00",
   "active_record_span": {
-    "from": "2026-10-24T01:39:38.050862+00:00",
-    "to": "2026-10-31T01:33:10.525983+00:00",
+    "from": "2026-10-24T03:52:14.162178+00:00",
+    "to": "2026-10-31T02:01:07.386522+00:00",
     "from_date_kst": "2026-10-24",
     "to_date_kst": "2026-10-31",
     "retention_policy_days": 7
@@ -20,12 +20,12 @@
     "active_verified_deals": 438,
     "strict_comparable_deals": 219,
     "median_savings_krw": 6970,
-    "median_discount_percent": 23.3,
+    "median_discount_percent": 23.4,
     "shipping_known_deals": 219,
     "shipping_unknown_deals": 219,
     "coupang_deals": 52,
     "coupang_share_percent": 11.9,
-    "identified_marketplace_labels": 56,
+    "identified_marketplace_labels": 57,
     "marketplace_unknown_deals": 0
   },
   "categories": [
@@ -36,18 +36,18 @@
     },
     {
       "name": "식품",
-      "count": 210,
-      "share_percent": 47.9
+      "count": 208,
+      "share_percent": 47.5
     },
     {
       "name": "생활",
-      "count": 50,
-      "share_percent": 11.4
+      "count": 51,
+      "share_percent": 11.6
     },
     {
       "name": "패션",
-      "count": 50,
-      "share_percent": 11.4
+      "count": 51,
+      "share_percent": 11.6
     },
     {
       "name": "기타",
@@ -78,8 +78,8 @@
     },
     {
       "name": "토스쇼핑",
-      "count": 20,
-      "share_percent": 4.6
+      "count": 19,
+      "share_percent": 4.3
     },
     {
       "name": "카카오 스토어",
@@ -118,8 +118,8 @@
     },
     {
       "name": "기타 판매처",
-      "count": 67,
-      "share_percent": 15.3
+      "count": 68,
+      "share_percent": 15.5
     }
   ],
   "source_communities": [
