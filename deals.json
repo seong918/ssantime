@@ -1,5 +1,44 @@
 [
   {
+    "deal_id": "789d153d9cc8",
+    "title": "[네이버] 일꼬르소 모크넥 롱 슬리브 티 등 다양 (20,160원/무료)",
+    "deal_total": 20160,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 28960,
+    "gap": 8800,
+    "mall_name": "네이버",
+    "buy_url": "https://m.brand.naver.com/ilcorso/products/13753090658",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=117&&no=744568",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6162469/61624699359.20260910082230.jpg?type=f300",
+    "created_iso": "2026-10-31T11:31:46.239784+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/61624699359",
+    "naver_product_id": "61624699359",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. 넵다세일 앱 전용 쿠폰(네플스 APP 전용, 멤버십 회원 대상 발급)을 받아 적용하세요.\n2. 쿠폰 할인: 1만원 이상 10%, 최대 1만원 할인 / 15만원 이상 7%, 최대 2만원 할인 / 30만원 이상 5% 최대 7만원 할인\n※ 매일 00시 / 10시 / 18시 선착순 발급\n※ 쿠폰 발급 당일 23:59까지 사용 가능 (미사용 시 자동 소멸)\n※ 행사 참여 상품만 쿠폰 적용 / 특정 상품 한정 적용 제외",
+    "product_summary": "일꼬르소 모크넥 롱 슬리브 티셔츠 블랙(IETS6F301BK)입니다.\n목이 살짝 올라오는 모크넥 디자인의 긴소매 티셔츠입니다.\n이너로 활용하기 좋은 기본형 아이템입니다.\n넵다세일(10.26.~11.8.) 기간 동안 일꼬르소 최대 65% 할인이 진행 중입니다.",
+    "source_site": "ppomppu",
+    "category": "의류/잡화",
+    "category_bucket": "패션",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [
+      "https://naver.me/GO614aXP"
+    ],
+    "tags": [
+      "일꼬르소",
+      "ILCORSO",
+      "모크넥",
+      "롱슬리브",
+      "긴팔티셔츠",
+      "이너티셔츠",
+      "티셔츠",
+      "IETS6F301BK",
+      "블랙티셔츠"
+    ]
+  },
+  {
     "deal_id": "998d18c9cce1",
     "title": "[G마켓] 아이더 남성 캐시미어 미들 코트 다운 자켓 (183,190원 / 무배)",
     "deal_total": 183190,
@@ -16981,7 +17020,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "테슬라",
@@ -17018,7 +17057,7 @@
     "category": "의류",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "코몽트",
@@ -17055,7 +17094,7 @@
     "category": "식품/건강",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "아디다스",
@@ -17093,7 +17132,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "스파이더",
@@ -17129,7 +17168,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "삼양",
@@ -17166,7 +17205,7 @@
     "category": "의류",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "자바나스",
