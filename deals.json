@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "03a033f54d5e",
+    "title": "[토스쇼핑] 베지밀 시니어 두유 64개 (29,010원 / 무배)",
+    "deal_total": 29010,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 37990,
+    "gap": 8980,
+    "mall_name": "네이버",
+    "buy_url": "https://toss.shopping/t/59788497",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=117&&no=744618",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5349180/53491808448.20250311160052.jpg?type=f300",
+    "created_iso": "2026-10-31T17:12:28.834419+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/53491808448",
+    "naver_product_id": "53491808448",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. 표시 가격 29,010원은 쿠폰할인가입니다(정가 47,900원에서 42% 할인).\n2. 결제 시 2,030원 적립됩니다.\n※ 배송비 포함(무배) 가격입니다.",
+    "product_summary": "베지밀 5060 시니어 두유(검은콩) 190ml 64개 구성입니다.\n원액두유 90%, 검은콩추출액 3%(고형분 7%)로 만들어졌으며, 190ml 한 팩당 120kcal입니다.\n베타글루칸 70mg, 오메가3 500mg, 아연·셀레늄 등이 함유되어 있습니다.\n원산지는 상세페이지 참조이며, 100ml당 239원 수준입니다.",
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "베지밀",
+      "Vegemil",
+      "시니어두유",
+      "5060",
+      "검은콩두유",
+      "두유",
+      "정식품",
+      "190ml"
+    ]
+  },
+  {
     "deal_id": "053f923a4aac",
     "title": "야마하 신디사이저 MODX M6 61건반",
     "deal_total": 1940000,
@@ -17067,7 +17103,7 @@
     "category": "음식",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "폰타나",
@@ -17103,7 +17139,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "부대찌개",
@@ -17138,7 +17174,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "우마이봉",
