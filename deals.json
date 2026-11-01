@@ -1,5 +1,42 @@
 [
   {
+    "deal_id": "937d022d0f56",
+    "title": "아식스 노바블라스트 6 블랙 직구",
+    "deal_total": 118620,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 182000,
+    "gap": 63380,
+    "mall_name": null,
+    "buy_url": "https://link.coupang.com/a/ijCnJDn29A",
+    "source_url": "https://www.fmkorea.com/10506821494",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6159427/61594272333.jpg?type=f300",
+    "created_iso": "2026-11-01T03:55:43.694006+00:00",
+    "naver_url": null,
+    "naver_product_id": "61594272333",
+    "buy_url_orig": "https://link.coupang.com/a/ijBq8Hsw6C",
+    "price_label": "118,620원",
+    "discount_guide": "1. 35,800원 쿠폰할인 적용\n※ 로켓직구 중국 (중국직구 전용)",
+    "product_summary": "아식스 노바블라스트 6 남성용 러닝화(모델번호 1011C243-002)입니다.\n블랙 컬러로, 쿠셔닝과 반발력을 갖춘 러닝화입니다.\n전작인 5보다 접지력이 개선된 제품입니다.\n로켓직구 중국을 통한 해외직구 상품입니다.",
+    "source_site": "fmkorea",
+    "category": "의류",
+    "category_bucket": "패션",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "아식스",
+      "asics",
+      "노바블라스트",
+      "노바블라스트 6",
+      "novablast",
+      "러닝화",
+      "런닝화",
+      "블랙",
+      "직구"
+    ]
+  },
+  {
     "deal_id": "c43f8b29a738",
     "title": "[네이버] 에디슨 플러스 무선헤어드라이어 (74,490원/무료)",
     "deal_total": 74490,
@@ -17257,7 +17294,7 @@
     "category": "가전/가구",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "자일렉",
@@ -17294,7 +17331,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "소고기",
@@ -17330,7 +17367,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "DINING K",
@@ -17367,7 +17404,7 @@
     "category": "생활용품",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "세븐에이트",
