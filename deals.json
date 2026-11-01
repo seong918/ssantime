@@ -1,5 +1,40 @@
 [
   {
+    "deal_id": "e745f95b4722",
+    "title": "[롯데온] 꼼파뇨 레이어드 피그먼트 롱슬리브 (20,280원/무료)",
+    "deal_total": 20280,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 30680,
+    "gap": 10400,
+    "mall_name": "네이버",
+    "buy_url": "https://www.lotteon.com/p/product/LO2205359884",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=117&&no=744685",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6191013/61910133819.20261026083725.jpg?type=f300",
+    "created_iso": "2026-11-01T05:40:05.766929+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/61910133819",
+    "naver_product_id": "61910133819",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": null,
+    "product_summary": "꼼파뇨의 레이어드 피그먼트 롱슬리브입니다.\n피그먼트 염색 소재로 제작된 긴팔 티셔츠입니다.\n오버핏으로 나온 제품입니다.",
+    "source_site": "ppomppu",
+    "category": "의류/잡화",
+    "category_bucket": "패션",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "꼼파뇨",
+      "롱슬리브",
+      "긴팔티셔츠",
+      "피그먼트",
+      "레이어드",
+      "오버핏",
+      "티셔츠"
+    ]
+  },
+  {
     "deal_id": "edc0d228c600",
     "title": "[토스] 풀무원 워터루틴 생수 500ml 40개 (5,400원)",
     "deal_total": 5400,
@@ -17254,7 +17289,7 @@
     "category": "기타",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://shopping.naver.com/event/6acf412423ef3a65b6d419f4",
       "https://shopping.naver.com/event/6aa3857872c59334af014038"
@@ -17293,7 +17328,7 @@
     "category": "가전제품",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "필립스",
