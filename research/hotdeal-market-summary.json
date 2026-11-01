@@ -17,12 +17,12 @@
     "comparison_baseline": "수집 시점에 같은 상품 후보로 자동 매칭한 네이버 쇼핑 비교가"
   },
   "metrics": {
-    "active_verified_deals": 462,
+    "active_verified_deals": 461,
     "strict_comparable_deals": 229,
     "median_savings_krw": 6950,
     "median_discount_percent": 23.3,
     "shipping_known_deals": 229,
-    "shipping_unknown_deals": 233,
+    "shipping_unknown_deals": 232,
     "coupang_deals": 54,
     "coupang_share_percent": 11.7,
     "identified_marketplace_labels": 55,
@@ -37,7 +37,7 @@
     {
       "name": "식품",
       "count": 208,
-      "share_percent": 45.0
+      "share_percent": 45.1
     },
     {
       "name": "생활",
@@ -51,8 +51,8 @@
     },
     {
       "name": "기타",
-      "count": 9,
-      "share_percent": 1.9
+      "count": 8,
+      "share_percent": 1.7
     }
   ],
   "marketplaces": [
@@ -102,12 +102,12 @@
       "share_percent": 2.2
     },
     {
-      "name": "네이버",
-      "count": 9,
-      "share_percent": 1.9
+      "name": "29CM",
+      "count": 8,
+      "share_percent": 1.7
     },
     {
-      "name": "29CM",
+      "name": "네이버",
       "count": 8,
       "share_percent": 1.7
     },
@@ -119,24 +119,24 @@
     {
       "name": "기타 판매처",
       "count": 63,
-      "share_percent": 13.6
+      "share_percent": 13.7
     }
   ],
   "source_communities": [
     {
       "name": "뽐뿌",
       "count": 240,
-      "share_percent": 51.9
+      "share_percent": 52.1
     },
     {
       "name": "에펨코리아",
-      "count": 107,
-      "share_percent": 23.2
+      "count": 106,
+      "share_percent": 23.0
     },
     {
       "name": "아카라이브",
       "count": 81,
-      "share_percent": 17.5
+      "share_percent": 17.6
     },
     {
       "name": "퀘이사존",
