@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "b9518fd2811d",
+    "title": "[11번가] 내셔널지오그래픽 멤브레인 차량용 디퓨저 225ml (17,290원 / 무료배송)",
+    "deal_total": 17290,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 20400,
+    "gap": 3110,
+    "mall_name": null,
+    "buy_url": "https://bitl.bz/api@TtpoKpth",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=117&&no=745044",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_9125039/91250397846.jpg?type=f300",
+    "created_iso": "2026-11-02T07:25:33.764590+00:00",
+    "naver_url": null,
+    "naver_product_id": "91250397846",
+    "buy_url_orig": "http://www.11st.co.kr/products/9548695513",
+    "price_label": "",
+    "discount_guide": "1. 쿠폰 적용 시 13% 할인 17,290원(정가 20,000원, 최대할인가)으로 구매합니다.\n2. 11pay 결제 시 최대 1,439P 적립됩니다.",
+    "product_summary": "내셔널지오그래픽 프리미엄 차량용 멤브레인 디퓨저입니다.\n용량은 225ml이며, 차량 컵홀더에 거치하는 형태입니다.\n우드 스틱 방식이 아닌 멤브레인 방식이라 디퓨저가 손에 묻지 않습니다.\n무료배송으로 제공됩니다.",
+    "source_site": "ppomppu",
+    "category": "기타",
+    "category_bucket": "생활",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "내셔널지오그래픽",
+      "National Geographic",
+      "차량용디퓨저",
+      "디퓨저",
+      "멤브레인디퓨저",
+      "방향제",
+      "차량용방향제",
+      "카디퓨저"
+    ]
+  },
+  {
     "deal_id": "36d4846ce9f6",
     "title": "[지마켓] 레노버 샤오신 패드 프로 13인치 (327,900원/무배)",
     "deal_total": 327900,
@@ -17148,7 +17184,7 @@
     "category": "컴퓨터",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "LG",
@@ -17186,7 +17222,7 @@
     "category": "PC제품",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://shopping.naver.com/event/6aa11c29c7bdbd78c0cb8c33"
     ],
