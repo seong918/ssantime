@@ -1,5 +1,40 @@
 [
   {
+    "deal_id": "3529e91c7563",
+    "title": "[11번가] 셀렉스 프로틴 음료 오리지널 팩 190ml 24개 (티멤가)(21,070원/무료)",
+    "deal_total": 21070,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 30510,
+    "gap": 9440,
+    "mall_name": "네이버",
+    "buy_url": "https://bitl.bz/api@irzVJWvD",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=118&&no=745451",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6134280/61342805511.20260819091650.jpg?type=f300",
+    "created_iso": "2026-11-03T08:02:33.156251+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/61342805511",
+    "naver_product_id": "61342805511",
+    "buy_url_orig": "https://www.11st.co.kr/products/9707866920/share",
+    "price_label": "",
+    "discount_guide": "1. 판매가 33,900원에서 즉시할인 -6,000원 적용\n2. 쿠폰할인 -3,000원 적용\n3. 카드/페이할인 -1,100원 적용 (최대 5%, 신한·페이코 외 1종)\n4. T멤버십 할인 -2,730원 적용\n※ 위 할인을 모두 받으면 최대할인가 21,070원(개당 878원쯤)입니다.\n※ 결제수단전용 할인액은 쿠폰팝업에서 확인해 주세요.",
+    "product_summary": "셀렉스 프로틴 음료 오리지널 팩 190ml 24개입 단백질 음료입니다.\n1팩당 단백질 12g이 들어 있으며, 칼슘 1,400mg과 비타민·미네랄 14종이 함유되어 있습니다.\n총 구성은 190ml × 24팩(4.56L)이며, 원산지는 상세설명을 참조하시면 됩니다.",
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "셀렉스",
+      "프로틴음료",
+      "단백질음료",
+      "오리지널",
+      "프로틴",
+      "단백질보충",
+      "셀렉스프로틴"
+    ]
+  },
+  {
     "deal_id": "992a555aebc8",
     "title": "[지마켓] 2026년산 햅쌀 새청무 특등급 단일품종 20kg (57,880원/무배)",
     "deal_total": 57880,
@@ -17091,7 +17126,7 @@
     "category": "기타",
     "category_bucket": "기타",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "타이어픽",
@@ -17128,7 +17163,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "농심",
