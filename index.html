@@ -48,7 +48,7 @@
     </div>
     <p class="lead">네이버보다 <b class="lead-em">싼</b> 핫딜만</p>
     <p class="lead-sub">네이버 최저가와 비교해 <b>더 싼 것</b>만 골라드려요.</p>
-    <p class="updated">지금 네이버보다 싼 딜 <span class="deal-count" id="deal-count">453개</span>를 엄선했어요 · <time id="updated-at" datetime="2026-11-03T08:02:33.156251+00:00" data-now>최근 딜 2026.11.03 08:02 등록</time></p>
+    <p class="updated">지금 네이버보다 싼 딜 <span class="deal-count" id="deal-count">459개</span>를 엄선했어요 · <time id="updated-at" datetime="2026-11-03T09:19:55.749848+00:00" data-now>최근 딜 2026.11.03 09:19 등록</time></p>
     <p class="time-note">⏱ 핫딜은 시점에 따라 가격·재고가 빠르게 바뀌거나 마감될 수 있어요.</p>
     <div id="home-banner">
     <div class="push-wrap push-wrap--index" data-push-wrap>
@@ -65,7 +65,7 @@
       <input class="search-input" id="search" type="search" inputmode="search" autocomplete="off" list="search-terms" placeholder="상품·판매몰 검색" aria-label="딜 검색">
       <button class="search-clear" id="search-clear" type="button" aria-label="검색어 지우기" hidden>×</button>
     </div>
-    <datalist id="search-terms"><option value="samsung"><option value="삼성"><option value="국내산"><option value="수산물"><option value="오리지널"><option value="과메기"><option value="돼지고기"><option value="과일"><option value="패딩"><option value="간식"><option value="간편식"><option value="과자"></datalist>
+    <datalist id="search-terms"><option value="samsung"><option value="삼성"><option value="수산물"><option value="국내산"><option value="오리지널"><option value="과메기"><option value="돼지고기"><option value="패딩"><option value="간식"><option value="과자"><option value="대용량"><option value="오리온"></datalist>
     <div class="search-sug" id="search-sug" hidden></div>
     <div class="sort-row">
       <div class="sort-seg" role="tablist" aria-label="정렬">
@@ -80,28 +80,301 @@
     </div>
     <div class="chips" role="group" aria-label="카테고리 필터">
       <a class="chip chip--active" href="./" data-cat-chip="" aria-current="true">전체</a>
-      <a class="chip" href="category/food.html" data-cat-chip="식품">식품<span class="chip-n">214</span></a>
-      <a class="chip" href="category/digital.html" data-cat-chip="전자">전자<span class="chip-n">114</span></a>
-      <a class="chip" href="category/fashion.html" data-cat-chip="패션">패션<span class="chip-n">62</span></a>
+      <a class="chip" href="category/food.html" data-cat-chip="식품">식품<span class="chip-n">210</span></a>
+      <a class="chip" href="category/digital.html" data-cat-chip="전자">전자<span class="chip-n">120</span></a>
+      <a class="chip" href="category/fashion.html" data-cat-chip="패션">패션<span class="chip-n">65</span></a>
       <a class="chip" href="category/living.html" data-cat-chip="생활">생활<span class="chip-n">53</span></a>
-      <a class="chip" href="category/etc.html" data-cat-chip="기타">기타<span class="chip-n">10</span></a>
+      <a class="chip" href="category/etc.html" data-cat-chip="기타">기타<span class="chip-n">11</span></a>
     </div>
     <div class="chips" role="group" aria-label="판매몰 필터">
       <button class="chip chip--active" type="button" data-mall-chip="" aria-pressed="true">전체</button>
-      <button class="chip" type="button" data-mall-chip="네이버 스마트스토어" aria-pressed="false">네이버 스마트스토어<span class="chip-n">97</span></button>
-      <button class="chip" type="button" data-mall-chip="롯데ON" aria-pressed="false">롯데ON<span class="chip-n">81</span></button>
+      <button class="chip" type="button" data-mall-chip="네이버 스마트스토어" aria-pressed="false">네이버 스마트스토어<span class="chip-n">98</span></button>
+      <button class="chip" type="button" data-mall-chip="롯데ON" aria-pressed="false">롯데ON<span class="chip-n">82</span></button>
       <button class="chip" type="button" data-mall-chip="쿠팡" aria-pressed="false">쿠팡<span class="chip-n">52</span></button>
-      <button class="chip" type="button" data-mall-chip="11번가" aria-pressed="false">11번가<span class="chip-n">46</span></button>
-      <button class="chip" type="button" data-mall-chip="G마켓" aria-pressed="false">G마켓<span class="chip-n">33</span></button>
-      <button class="chip" type="button" data-mall-chip="카카오 스토어" aria-pressed="false">카카오 스토어<span class="chip-n">20</span></button>
+      <button class="chip" type="button" data-mall-chip="11번가" aria-pressed="false">11번가<span class="chip-n">47</span></button>
+      <button class="chip" type="button" data-mall-chip="G마켓" aria-pressed="false">G마켓<span class="chip-n">34</span></button>
+      <button class="chip" type="button" data-mall-chip="카카오 스토어" aria-pressed="false">카카오 스토어<span class="chip-n">21</span></button>
     </div>
   </div>
   <ul class="deal-grid" id="deal-grid">
+    <li class="card" data-pct="26" data-price="139000" data-gap="50000" data-ts="2026-11-03T09:19:55.749848+00:00" data-mall="11번가" data-category="전자" data-title="[11번가] 브라운 전기면도기 7시리즈+11pay1만+레디백(139,000원/무료) [11번가]브라운전기면도기7시리즈+11pay1만+레디백(139,000원/무료) ㅂㄱㅂㄹㅇㅈㄱㅁㄷㄱㅅㄹㅈㅁㄹㄷㅂㅇㅁㄹ" data-search="[11번가] 브라운 전기면도기 7시리즈+11pay1만+레디백(139,000원/무료) 11번가 브라운 braun 전기면도기 면도기 7시리즈 72-g7000 세척스테이션 레디백 shaver [11번가]브라운전기면도기7시리즈+11pay1만+레디백(139,000원/무료)11번가브라운braun전기면도기면도기7시리즈72-g7000세척스테이션레디백shaver ㅂㄱㅂㄹㅇㅈㄱㅁㄷㄱㅅㄹㅈㅁㄹㄷㅂㅇㅁㄹㅂㄱㅂㄹㅇㅈㄱㅁㄷㄱㅁㄷㄱㅅㄹㅈㅅㅊㅅㅌㅇㅅㄹㄷㅂ" data-id="2956b46f9cc4">
+      <button class="fav-btn" type="button" hidden data-fav="2956b46f9cc4" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
+      <a class="card-link" href="https://ssantime.com/deals/2956b46f9cc4.html">
+        <div class="thumb-wrap">
+        <img class="thumb" src="https://ssantime.com/img/2956b46f9cc4.jpg" alt="브라운 전기면도기 7시리즈+11PAY1만+레디백" fetchpriority="high" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
+        <span class="card-badge" aria-label="네이버 최저가 대비 26% 저렴">26%<span class="off">↓</span></span>
+        </div>
+        <div class="card-body">
+          <h2 class="card-title">브라운 전기면도기 7시리즈+11PAY1만+레디백</h2>
+          <div class="card-prices">
+          <div class="card-deal">139,000<span class="won">원</span></div>
+          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−50,000원</b></div>
+          <div class="card-lprice">네이버 <s>189,000</s>원</div>
+          </div>
+          <div class="card-foot">
+            <span class="card-mall card-mall--sell">11번가</span>
+            <time class="card-ago" datetime="2026-11-03T09:19:55.749848+00:00" data-ago="2026-11-03T09:19:55.749848+00:00">11-03</time>
+          </div>
+        </div>
+      </a>
+    </li>
+    <li class="card" data-pct="32" data-price="17910" data-gap="8730" data-ts="2026-11-03T09:20:04.711369+00:00" data-mall="네이버 스마트스토어" data-category="식품" data-title="[네이버] 바베큐폭립 400g x 2팩 (17,910원/무료) [네이버]바베큐폭립400gx2팩(17,910원/무료) ㄴㅇㅂㅂㅂㅋㅍㄹㅍㅇㅁㄹ" data-search="[네이버] 바베큐폭립 400g x 2팩 (17,910원/무료) 네이버 스마트스토어 바베큐폭립 폭립 미소 바베큐 립 간편조리 전자레인지 돼지갈비 [네이버]바베큐폭립400gx2팩(17,910원/무료)네이버스마트스토어바베큐폭립폭립미소바베큐립간편조리전자레인지돼지갈비 ㄴㅇㅂㅂㅂㅋㅍㄹㅍㅇㅁㄹㄴㅇㅂㅅㅁㅌㅅㅌㅇㅂㅂㅋㅍㄹㅍㄹㅁㅅㅂㅂㅋㄹㄱㅍㅈㄹㅈㅈㄹㅇㅈㄷㅈㄱㅂ" data-id="ab1a044f1193">
+      <button class="fav-btn" type="button" hidden data-fav="ab1a044f1193" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
+      <a class="card-link" href="https://ssantime.com/deals/ab1a044f1193.html">
+        <div class="thumb-wrap">
+        <img class="thumb" src="https://ssantime.com/img/ab1a044f1193.jpg" alt="바베큐폭립 400g x 2팩" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
+        <span class="card-badge" aria-label="네이버 최저가 대비 32% 저렴">32%<span class="off">↓</span></span>
+        </div>
+        <div class="card-body">
+          <h2 class="card-title">바베큐폭립 400g x 2팩</h2>
+          <div class="card-prices">
+          <div class="card-deal">17,910<span class="won">원</span></div>
+          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−8,730원</b></div>
+          <div class="card-lprice">네이버 <s>26,640</s>원</div>
+          </div>
+          <div class="card-foot">
+            <span class="card-mall card-mall--sell">네이버 스마트스토어</span>
+            <time class="card-ago" datetime="2026-11-03T09:20:04.711369+00:00" data-ago="2026-11-03T09:20:04.711369+00:00">11-03</time>
+          </div>
+        </div>
+      </a>
+    </li>
+    <li class="card" data-pct="8" data-price="1169000" data-gap="115240" data-ts="2026-11-03T09:20:09.295605+00:00" data-mall="11번가" data-category="전자" data-title="[11번가] lg 그램북 16ud55u-gx5sk (amd r5/16gb/256gb)(1,169,000원/무료) [11번가]lg그램북16ud55u-gx5sk(amdr5/16gb/256gb)(1,169,000원/무료) ㅂㄱㄱㄹㅂㅇㅁㄹ" data-search="[11번가] lg 그램북 16ud55u-gx5sk (amd r5/16gb/256gb)(1,169,000원/무료) 11번가 lg그램 그램북 16ud55u-gx5sk lg전자 노트북 amd 라이젠 라이젠 ai 16인치 노트북 사무용 노트북 가성비 노트북 한컴오피스 [11번가]lg그램북16ud55u-gx5sk(amdr5/16gb/256gb)(1,169,000원/무료)11번가lg그램그램북16ud55u-gx5sklg전자노트북amd라이젠라이젠ai16인치노트북사무용노트북가성비노트북한컴오피스 ㅂㄱㄱㄹㅂㅇㅁㄹㅂㄱㄱㄹㄱㄹㅂㅈㅈㄴㅌㅂㄹㅇㅈㄹㅇㅈㅇㅊㄴㅌㅂㅅㅁㅇㄴㅌㅂㄱㅅㅂㄴㅌㅂㅎㅋㅇㅍㅅ laptop" data-id="d6f31155fa86">
+      <button class="fav-btn" type="button" hidden data-fav="d6f31155fa86" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
+      <a class="card-link" href="https://ssantime.com/deals/d6f31155fa86.html">
+        <div class="thumb-wrap">
+        <img class="thumb" src="https://ssantime.com/img/d6f31155fa86.jpg" alt="LG 그램북 16UD55U-GX5SK (AMD R5/16GB/256GB)" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
+        <span class="card-badge card-badge--soft" aria-label="네이버 최저가 대비 8% 저렴">8%<span class="off">↓</span></span>
+        </div>
+        <div class="card-body">
+          <h2 class="card-title">LG 그램북 16UD55U-GX5SK (AMD R5/16GB/256GB)</h2>
+          <div class="card-prices">
+          <div class="card-deal">1,169,000<span class="won">원</span></div>
+          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−115,240원</b></div>
+          <div class="card-lprice">네이버 <s>1,284,240</s>원</div>
+          </div>
+          <div class="card-foot">
+            <span class="card-mall card-mall--sell">11번가</span>
+            <time class="card-ago" datetime="2026-11-03T09:20:09.295605+00:00" data-ago="2026-11-03T09:20:09.295605+00:00">11-03</time>
+          </div>
+        </div>
+      </a>
+    </li>
+    <li class="card" data-pct="6" data-price="74800" data-gap="5000" data-ts="2026-11-03T09:20:25.303919+00:00" data-mall="G마켓" data-category="전자" data-title="[g마켓] 뉴트리불렛 믹서기 블렌더 (74,800원/무배) [g마켓]뉴트리불렛믹서기블렌더(74,800원/무배) ㅁㅋㄴㅌㄹㅂㄹㅁㅅㄱㅂㄹㄷㅇㅁㅂ" data-search="[g마켓] 뉴트리불렛 믹서기 블렌더 (74,800원/무배) g마켓 뉴트리불렛 nutribullet 믹서기 블렌더 소형믹서기 900w 주방가전 [g마켓]뉴트리불렛믹서기블렌더(74,800원/무배)g마켓뉴트리불렛nutribullet믹서기블렌더소형믹서기900w주방가전 ㅁㅋㄴㅌㄹㅂㄹㅁㅅㄱㅂㄹㄷㅇㅁㅂㅁㅋㄴㅌㄹㅂㄹㅁㅅㄱㅂㄹㄷㅅㅎㅁㅅㄱㅈㅂㄱㅈ" data-id="28e839260ae0">
+      <button class="fav-btn" type="button" hidden data-fav="28e839260ae0" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
+      <a class="card-link" href="https://ssantime.com/deals/28e839260ae0.html">
+        <div class="thumb-wrap">
+        <img class="thumb" src="https://ssantime.com/img/28e839260ae0.jpg" alt="뉴트리불렛 믹서기 블렌더" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
+        <span class="card-badge card-badge--soft" aria-label="네이버 최저가 대비 6% 저렴">6%<span class="off">↓</span></span>
+        </div>
+        <div class="card-body">
+          <h2 class="card-title">뉴트리불렛 믹서기 블렌더</h2>
+          <div class="card-prices">
+          <div class="card-deal">74,800<span class="won">원</span></div>
+          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−5,000원</b></div>
+          <div class="card-lprice">네이버 <s>79,800</s>원</div>
+          </div>
+          <div class="card-foot">
+            <span class="card-mall card-mall--sell">G마켓</span>
+            <time class="card-ago" datetime="2026-11-03T09:20:25.303919+00:00" data-ago="2026-11-03T09:20:25.303919+00:00">11-03</time>
+          </div>
+        </div>
+      </a>
+    </li>
+    <li class="card" data-pct="7" data-price="93210" data-gap="7900" data-ts="2026-11-03T09:20:26.768774+00:00" data-mall="롯데ON" data-category="패션" data-title="[롯데온] k2 구스다운 씬에어 코코 (93,210원/무료) [롯데온]k2구스다운씬에어코코(93,210원/무료) ㄹㄷㅇㄱㅅㄷㅇㅆㅇㅇㅋㅋㅇㅁㄹ" data-search="[롯데온] k2 구스다운 씬에어 코코 (93,210원/무료) 롯데on k2 케이투 씬에어코코 thinair coco 구스다운 숏다운 여성패딩 후드패딩 겨울패딩 [롯데온]k2구스다운씬에어코코(93,210원/무료)롯데onk2케이투씬에어코코thinaircoco구스다운숏다운여성패딩후드패딩겨울패딩 ㄹㄷㅇㄱㅅㄷㅇㅆㅇㅇㅋㅋㅇㅁㄹㄹㄷㅋㅇㅌㅆㅇㅇㅋㅋㄱㅅㄷㅇㅅㄷㅇㅇㅅㅍㄷㅎㄷㅍㄷㄱㅇㅍㄷ" data-id="46448defacf3">
+      <button class="fav-btn" type="button" hidden data-fav="46448defacf3" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
+      <a class="card-link" href="https://ssantime.com/deals/46448defacf3.html">
+        <div class="thumb-wrap">
+        <img class="thumb" src="https://ssantime.com/img/46448defacf3.jpg" alt="K2 구스다운 씬에어 코코" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
+        <span class="card-badge card-badge--soft" aria-label="네이버 최저가 대비 7% 저렴">7%<span class="off">↓</span></span>
+        </div>
+        <div class="card-body">
+          <h2 class="card-title">K2 구스다운 씬에어 코코</h2>
+          <div class="card-prices">
+          <div class="card-deal">93,210<span class="won">원</span></div>
+          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−7,900원</b></div>
+          <div class="card-lprice">네이버 <s>101,110</s>원</div>
+          </div>
+          <div class="card-foot">
+            <span class="card-mall card-mall--sell">롯데ON</span>
+            <time class="card-ago" datetime="2026-11-03T09:20:26.768774+00:00" data-ago="2026-11-03T09:20:26.768774+00:00">11-03</time>
+          </div>
+        </div>
+      </a>
+    </li>
+    <li class="card" data-pct="30" data-price="91665" data-gap="39835" data-ts="2026-11-03T09:20:37.753044+00:00" data-mall="wch.eqls…" data-category="패션" data-title="[eql] 브룩스 러닝화 블프 50% 특가 (91,665원) [eql]브룩스러닝화블프50%특가(91,665원) ㅂㄹㅅㄹㄴㅎㅂㅍㅌㄱㅇ" data-search="[eql] 브룩스 러닝화 블프 50% 특가 (91,665원) wch.eqls… 브룩스 brooks 브룩스 러닝화 고스트 트레일 러닝화 여성 러닝화 스톤 운동화 조깅화 [eql]브룩스러닝화블프50%특가(91,665원)wch.eqls…브룩스brooks브룩스러닝화고스트트레일러닝화여성러닝화스톤운동화조깅화 ㅂㄹㅅㄹㄴㅎㅂㅍㅌㄱㅇㅂㄹㅅㅂㄹㅅㄹㄴㅎㄱㅅㅌㅌㄹㅇㄹㄴㅎㅇㅅㄹㄴㅎㅅㅌㅇㄷㅎㅈㄱㅎ" data-id="2305eaf5136f">
+      <button class="fav-btn" type="button" hidden data-fav="2305eaf5136f" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
+      <a class="card-link" href="https://ssantime.com/deals/2305eaf5136f.html">
+        <div class="thumb-wrap">
+        <img class="thumb" src="https://ssantime.com/img/2305eaf5136f.jpg" alt="브룩스 러닝화 블프 50% 특가" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
+        <span class="card-badge" aria-label="네이버 최저가 대비 30% 저렴">30%<span class="off">↓</span></span>
+        </div>
+        <div class="card-body">
+          <h2 class="card-title">브룩스 러닝화 블프 50% 특가</h2>
+          <div class="card-prices">
+          <div class="card-deal">91,665<span class="won">원</span></div>
+          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−39,835원</b></div>
+          <div class="card-lprice">네이버 <s>131,500</s>원</div>
+          </div>
+          <div class="card-foot">
+            <span class="card-mall card-mall--sell">wch.eqls…</span>
+            <time class="card-ago" datetime="2026-11-03T09:20:37.753044+00:00" data-ago="2026-11-03T09:20:37.753044+00:00">11-03</time>
+          </div>
+        </div>
+      </a>
+    </li>
+    <li class="card" data-pct="30" data-price="7920" data-gap="3500" data-ts="2026-11-03T09:20:41.396868+00:00" data-mall="네이버 스마트스토어" data-category="식품" data-title="[네이버] 연세사이언스 밀크세라마이드 콜라겐 10000 16개입(7920원/네멤무료) [네이버]연세사이언스밀크세라마이드콜라겐1000016개입(7920원/네멤무료) ㄴㅇㅂㅇㅅㅅㅇㅇㅅㅁㅋㅅㄹㅁㅇㄷㅋㄹㄱㄱㅇㅇㄴㅁㅁㄹ" data-search="[네이버] 연세사이언스 밀크세라마이드 콜라겐 10000 16개입(7920원/네멤무료) 네이버 스마트스토어 연세사이언스 연세유업 밀크세라마이드 콜라겐 콜라겐10000 콜라겐음료 레몬맛 히알루론산 비오틴 비타민c [네이버]연세사이언스밀크세라마이드콜라겐1000016개입(7920원/네멤무료)네이버스마트스토어연세사이언스연세유업밀크세라마이드콜라겐콜라겐10000콜라겐음료레몬맛히알루론산비오틴비타민c ㄴㅇㅂㅇㅅㅅㅇㅇㅅㅁㅋㅅㄹㅁㅇㄷㅋㄹㄱㄱㅇㅇㄴㅁㅁㄹㄴㅇㅂㅅㅁㅌㅅㅌㅇㅇㅅㅅㅇㅇㅅㅇㅅㅇㅇㅁㅋㅅㄹㅁㅇㄷㅋㄹㄱㅋㄹㄱㅋㄹㄱㅇㄹㄹㅁㅁㅎㅇㄹㄹㅅㅂㅇㅌㅂㅌㅁ" data-id="ee1013225e07">
+      <button class="fav-btn" type="button" hidden data-fav="ee1013225e07" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
+      <a class="card-link" href="https://ssantime.com/deals/ee1013225e07.html">
+        <div class="thumb-wrap">
+        <img class="thumb" src="https://ssantime.com/img/ee1013225e07.jpg" alt="연세사이언스 밀크세라마이드 콜라겐 10000 16개입" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
+        <span class="card-badge" aria-label="네이버 최저가 대비 30% 저렴">30%<span class="off">↓</span></span>
+        </div>
+        <div class="card-body">
+          <h2 class="card-title">연세사이언스 밀크세라마이드 콜라겐 10000 16개입</h2>
+          <div class="card-prices">
+          <div class="card-deal">7,920<span class="won">원</span></div>
+          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−3,500원</b></div>
+          <div class="card-lprice">네이버 <s>11,420</s>원</div>
+          </div>
+          <div class="card-foot">
+            <span class="card-mall card-mall--sell">네이버 스마트스토어</span>
+            <time class="card-ago" datetime="2026-11-03T09:20:41.396868+00:00" data-ago="2026-11-03T09:20:41.396868+00:00">11-03</time>
+          </div>
+        </div>
+      </a>
+    </li>
+    <li class="card" data-pct="31" data-price="10900" data-gap="5040" data-ts="2026-11-03T09:20:46.302445+00:00" data-mall="카카오 스토어" data-category="식품" data-title="[톡딜] 사누끼 우동면 5개입 2봉+우동소스 10봉 (10,900원/무배) [톡딜]사누끼우동면5개입2봉+우동소스10봉(10,900원/무배) ㅌㄷㅅㄴㄲㅇㄷㅁㄱㅇㅂㅇㄷㅅㅅㅂㅇㅁㅂ" data-search="[톡딜] 사누끼 우동면 5개입 2봉+우동소스 10봉 (10,900원/무배) 카카오 스토어 사누끼우동 우동면 우동 우동소스 포차우동 면사리 전골사리 참도깨비 [톡딜]사누끼우동면5개입2봉+우동소스10봉(10,900원/무배)카카오스토어사누끼우동우동면우동우동소스포차우동면사리전골사리참도깨비 ㅌㄷㅅㄴㄲㅇㄷㅁㄱㅇㅂㅇㄷㅅㅅㅂㅇㅁㅂㅋㅋㅇㅅㅌㅇㅅㄴㄲㅇㄷㅇㄷㅁㅇㄷㅇㄷㅅㅅㅍㅊㅇㄷㅁㅅㄹㅈㄱㅅㄹㅊㄷㄲㅂ" data-id="626bb4715cb5">
+      <button class="fav-btn" type="button" hidden data-fav="626bb4715cb5" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
+      <a class="card-link" href="https://ssantime.com/deals/626bb4715cb5.html">
+        <div class="thumb-wrap">
+        <img class="thumb" src="https://ssantime.com/img/626bb4715cb5.jpg" alt="사누끼 우동면 5개입 2봉+우동소스 10봉" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
+        <span class="card-badge" aria-label="네이버 최저가 대비 31% 저렴">31%<span class="off">↓</span></span>
+        </div>
+        <div class="card-body">
+          <h2 class="card-title">사누끼 우동면 5개입 2봉+우동소스 10봉</h2>
+          <div class="card-prices">
+          <div class="card-deal">10,900<span class="won">원</span></div>
+          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−5,040원</b></div>
+          <div class="card-lprice">네이버 <s>15,940</s>원</div>
+          </div>
+          <div class="card-foot">
+            <span class="card-mall card-mall--sell">카카오 스토어</span>
+            <time class="card-ago" datetime="2026-11-03T09:20:46.302445+00:00" data-ago="2026-11-03T09:20:46.302445+00:00">11-03</time>
+          </div>
+        </div>
+      </a>
+    </li>
+    <li class="card" data-pct="11" data-price="166926" data-gap="22074" data-ts="2026-11-03T09:20:48.557318+00:00" data-mall="카카오 스토어" data-category="전자" data-title="[톡딜] 필립스 에어스트레치 스팀다리미 sth8020/10 (166,926원/무료) [톡딜]필립스에어스트레치스팀다리미sth8020/10(166,926원/무료) ㅌㄷㅍㄹㅅㅇㅇㅅㅌㄹㅊㅅㅌㄷㄹㅁㅇㅁㄹ" data-search="[톡딜] 필립스 에어스트레치 스팀다리미 sth8020/10 (166,926원/무료) 카카오 스토어 필립스 philips 스팀다리미 에어스트레치 sth8020 8000시리즈 진공흡착 핸디스팀다리미 보풀제거기 [톡딜]필립스에어스트레치스팀다리미sth8020/10(166,926원/무료)카카오스토어필립스philips스팀다리미에어스트레치sth80208000시리즈진공흡착핸디스팀다리미보풀제거기 ㅌㄷㅍㄹㅅㅇㅇㅅㅌㄹㅊㅅㅌㄷㄹㅁㅇㅁㄹㅋㅋㅇㅅㅌㅇㅍㄹㅅㅅㅌㄷㄹㅁㅇㅇㅅㅌㄹㅊㅅㄹㅈㅈㄱㅎㅊㅎㄷㅅㅌㄷㄹㅁㅂㅍㅈㄱㄱ" data-id="0c2a6f46d1b0">
+      <button class="fav-btn" type="button" hidden data-fav="0c2a6f46d1b0" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
+      <a class="card-link" href="https://ssantime.com/deals/0c2a6f46d1b0.html">
+        <div class="thumb-wrap">
+        <img class="thumb" src="https://ssantime.com/img/0c2a6f46d1b0.jpg" alt="필립스 에어스트레치 스팀다리미 STH8020/10" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
+        <span class="card-badge card-badge--soft" aria-label="네이버 최저가 대비 11% 저렴">11%<span class="off">↓</span></span>
+        </div>
+        <div class="card-body">
+          <h2 class="card-title">필립스 에어스트레치 스팀다리미 STH8020/10</h2>
+          <div class="card-prices">
+          <div class="card-deal">166,926<span class="won">원</span></div>
+          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−22,074원</b></div>
+          <div class="card-lprice">네이버 <s>189,000</s>원</div>
+          </div>
+          <div class="card-foot">
+            <span class="card-mall card-mall--sell">카카오 스토어</span>
+            <time class="card-ago" datetime="2026-11-03T09:20:48.557318+00:00" data-ago="2026-11-03T09:20:48.557318+00:00">11-03</time>
+          </div>
+        </div>
+      </a>
+    </li>
+    <li class="card" data-pct="18" data-price="20930" data-gap="4800" data-ts="2026-11-03T09:21:01.978790+00:00" data-mall="카카오 스토어" data-category="패션" data-title="[카카오] 볼란테 외 트리플 베이직 후디 (20,930원/무료) [카카오]볼란테외트리플베이직후디(20,930원/무료) ㅋㅋㅇㅂㄹㅌㅇㅌㄹㅍㅂㅇㅈㅎㄷㅇㅁㄹ" data-search="[카카오] 볼란테 외 트리플 베이직 후디 (20,930원/무료) 카카오 스토어 볼란테 volante 트리플 v 베이직 후디 후디 스웨트 조거 팬츠 컴프레션 점퍼 스포츠의류 운동복 트레이닝복 [카카오]볼란테외트리플베이직후디(20,930원/무료)카카오스토어볼란테volante트리플v베이직후디후디스웨트조거팬츠컴프레션점퍼스포츠의류운동복트레이닝복 ㅋㅋㅇㅂㄹㅌㅇㅌㄹㅍㅂㅇㅈㅎㄷㅇㅁㄹㅋㅋㅇㅅㅌㅇㅂㄹㅌㅌㄹㅍㅂㅇㅈㅎㄷㅎㄷㅅㅇㅌㅈㄱㅍㅊㅋㅍㄹㅅㅈㅍㅅㅍㅊㅇㄹㅇㄷㅂㅌㄹㅇㄴㅂ" data-id="70cceb28eb17">
+      <button class="fav-btn" type="button" hidden data-fav="70cceb28eb17" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
+      <a class="card-link" href="https://ssantime.com/deals/70cceb28eb17.html">
+        <div class="thumb-wrap">
+        <img class="thumb" src="https://ssantime.com/img/70cceb28eb17.jpg" alt="볼란테 외 트리플 베이직 후디" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
+        <span class="card-badge" aria-label="네이버 최저가 대비 18% 저렴">18%<span class="off">↓</span></span>
+        </div>
+        <div class="card-body">
+          <h2 class="card-title">볼란테 외 트리플 베이직 후디</h2>
+          <div class="card-prices">
+          <div class="card-deal">20,930<span class="won">원</span></div>
+          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−4,800원</b></div>
+          <div class="card-lprice">네이버 <s>25,730</s>원</div>
+          </div>
+          <div class="card-foot">
+            <span class="card-mall card-mall--sell">카카오 스토어</span>
+            <time class="card-ago" datetime="2026-11-03T09:21:01.978790+00:00" data-ago="2026-11-03T09:21:01.978790+00:00">11-03</time>
+          </div>
+        </div>
+      </a>
+    </li>
+    <li class="card" data-pct="12" data-price="767170" data-gap="111830" data-ts="2026-11-03T09:23:41.560028+00:00" data-mall="롯데ON" data-category="기타" data-title="싱가포르 3박 5일 자유여행/패키지(노쇼핑 노옵션) 싱가포르3박5일자유여행/패키지(노쇼핑노옵션) ㅅㄱㅍㄹㅂㅇㅈㅇㅇㅎㅍㅋㅈㄴㅅㅍㄴㅇㅅ" data-search="싱가포르 3박 5일 자유여행/패키지(노쇼핑 노옵션) 롯데on 싱가포르 싱가포르여행 자유여행 패키지여행 노쇼핑 노옵션 에어텔 머큐어 온 스티븐스 3박5일 해외여행 싱가포르3박5일자유여행/패키지(노쇼핑노옵션)롯데on싱가포르싱가포르여행자유여행패키지여행노쇼핑노옵션에어텔머큐어온스티븐스3박5일해외여행 ㅅㄱㅍㄹㅂㅇㅈㅇㅇㅎㅍㅋㅈㄴㅅㅍㄴㅇㅅㄹㄷㅅㄱㅍㄹㅅㄱㅍㄹㅇㅎㅈㅇㅇㅎㅍㅋㅈㅇㅎㄴㅅㅍㄴㅇㅅㅇㅇㅌㅁㅋㅇㅇㅅㅌㅂㅅㅂㅇㅎㅇㅇㅎ" data-id="9f3d9e69e825">
+      <button class="fav-btn" type="button" hidden data-fav="9f3d9e69e825" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
+      <a class="card-link" href="https://ssantime.com/deals/9f3d9e69e825.html">
+        <div class="thumb-wrap">
+        <img class="thumb" src="https://ssantime.com/img/9f3d9e69e825.jpg" alt="싱가포르 3박 5일 자유여행/패키지(노쇼핑 노옵션)" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
+        <span class="card-badge card-badge--soft" aria-label="네이버 최저가 대비 12% 저렴">12%<span class="off">↓</span></span>
+        </div>
+        <div class="card-body">
+          <h2 class="card-title">싱가포르 3박 5일 자유여행/패키지(노쇼핑 노옵션)</h2>
+          <div class="card-prices">
+          <div class="card-deal">767,170<span class="won">원</span></div>
+          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−111,830원</b></div>
+          <div class="card-lprice">네이버 <s>879,000</s>원</div>
+          </div>
+          <div class="card-foot">
+            <span class="card-mall card-mall--sell">롯데ON</span>
+            <time class="card-ago" datetime="2026-11-03T09:23:41.560028+00:00" data-ago="2026-11-03T09:23:41.560028+00:00">11-03</time>
+          </div>
+        </div>
+      </a>
+    </li>
+    <li class="card" data-pct="23" data-price="97435" data-gap="29565" data-ts="2026-11-03T09:23:50.715410+00:00" data-mall="알리" data-category="전자" data-title="주연테크 x27f144w 27인치 144hz 게이밍모니터 화이트 무결점 주연테크x27f144w27인치144hz게이밍모니터화이트무결점 ㅈㅇㅌㅋㅇㅊㄱㅇㅁㅁㄴㅌㅎㅇㅌㅁㄱㅈ" data-search="주연테크 x27f144w 27인치 144hz 게이밍모니터 화이트 무결점 알리 주연테크 x27f144w 게이밍모니터 27인치모니터 144hz ips fhd 무결점모니터 화이트모니터 hdmi2.1 주연테크x27f144w27인치144hz게이밍모니터화이트무결점알리주연테크x27f144w게이밍모니터27인치모니터144hzipsfhd무결점모니터화이트모니터hdmi2.1 ㅈㅇㅌㅋㅇㅊㄱㅇㅁㅁㄴㅌㅎㅇㅌㅁㄱㅈㅇㄹㅈㅇㅌㅋㄱㅇㅁㅁㄴㅌㅇㅊㅁㄴㅌㅁㄱㅈㅁㄴㅌㅎㅇㅌㅁㄴㅌ monitor" data-id="2eedc1bf5a60">
+      <button class="fav-btn" type="button" hidden data-fav="2eedc1bf5a60" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
+      <a class="card-link" href="https://ssantime.com/deals/2eedc1bf5a60.html">
+        <div class="thumb-wrap">
+        <img class="thumb" src="https://ssantime.com/img/2eedc1bf5a60.jpg" alt="주연테크 X27F144W 27인치 144Hz 게이밍모니터 화이트 무결점" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
+        <span class="card-badge" aria-label="네이버 최저가 대비 23% 저렴">23%<span class="off">↓</span></span>
+        </div>
+        <div class="card-body">
+          <h2 class="card-title">주연테크 X27F144W 27인치 144Hz 게이밍모니터 화이트 무결점</h2>
+          <div class="card-prices">
+          <div class="card-deal">97,435<span class="won">원</span></div>
+          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−29,565원</b></div>
+          <div class="card-lprice">네이버 <s>127,000</s>원</div>
+          </div>
+          <div class="card-foot">
+            <span class="card-mall card-mall--sell">알리</span>
+            <time class="card-ago" datetime="2026-11-03T09:23:50.715410+00:00" data-ago="2026-11-03T09:23:50.715410+00:00">11-03</time>
+          </div>
+        </div>
+      </a>
+    </li>
+    <li class="card" data-pct="9" data-price="45900" data-gap="5000" data-ts="2026-11-03T09:23:58.947654+00:00" data-mall="카카오 스토어" data-category="전자" data-title="samsung 삼성 갤럭시 버즈코어 sm-r410 블루투스 이어폰 samsung삼성갤럭시버즈코어sm-r410블루투스이어폰 ㅅㅅㄱㄹㅅㅂㅈㅋㅇㅂㄹㅌㅅㅇㅇㅍ" data-search="samsung 삼성 갤럭시 버즈코어 sm-r410 블루투스 이어폰 카카오 스토어 삼성 samsung 갤럭시 버즈코어 galaxy buds core sm-r410 무선이어폰 블루투스 이어폰 노이즈캔슬링 버즈 samsung삼성갤럭시버즈코어sm-r410블루투스이어폰카카오스토어삼성samsung갤럭시버즈코어galaxybudscoresm-r410무선이어폰블루투스이어폰노이즈캔슬링버즈 ㅅㅅㄱㄹㅅㅂㅈㅋㅇㅂㄹㅌㅅㅇㅇㅍㅋㅋㅇㅅㅌㅇㅅㅅㄱㄹㅅㅂㅈㅋㅇㅁㅅㅇㅇㅍㅂㄹㅌㅅㅇㅇㅍㄴㅇㅈㅋㅅㄹㅂㅈ galaxy samsung buds earbuds 갤럭시 삼성 버즈" data-id="7a594150eeb4">
+      <button class="fav-btn" type="button" hidden data-fav="7a594150eeb4" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
+      <a class="card-link" href="https://ssantime.com/deals/7a594150eeb4.html">
+        <div class="thumb-wrap">
+        <img class="thumb" src="https://ssantime.com/img/7a594150eeb4.jpg" alt="SAMSUNG 삼성 갤럭시 버즈코어 SM-R410 블루투스 이어폰" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
+        <span class="card-badge card-badge--soft" aria-label="네이버 최저가 대비 9% 저렴">9%<span class="off">↓</span></span>
+        </div>
+        <div class="card-body">
+          <h2 class="card-title">SAMSUNG 삼성 갤럭시 버즈코어 SM-R410 블루투스 이어폰</h2>
+          <div class="card-prices">
+          <div class="card-deal">45,900<span class="won">원</span></div>
+          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−5,000원</b></div>
+          <div class="card-lprice">네이버 <s>50,900</s>원</div>
+          </div>
+          <div class="card-foot">
+            <span class="card-mall card-mall--sell">카카오 스토어</span>
+            <time class="card-ago" datetime="2026-11-03T09:23:58.947654+00:00" data-ago="2026-11-03T09:23:58.947654+00:00">11-03</time>
+          </div>
+        </div>
+      </a>
+    </li>
     <li class="card" data-pct="30" data-price="21070" data-gap="9440" data-ts="2026-11-03T08:02:33.156251+00:00" data-mall="11번가" data-category="식품" data-title="[11번가] 셀렉스 프로틴 음료 오리지널 팩 190ml 24개 (티멤가)(21,070원/무료) [11번가]셀렉스프로틴음료오리지널팩190ml24개(티멤가)(21,070원/무료) ㅂㄱㅅㄹㅅㅍㄹㅌㅇㄹㅇㄹㅈㄴㅍㄱㅌㅁㄱㅇㅁㄹ" data-search="[11번가] 셀렉스 프로틴 음료 오리지널 팩 190ml 24개 (티멤가)(21,070원/무료) 11번가 셀렉스 프로틴음료 단백질음료 오리지널 프로틴 단백질보충 셀렉스프로틴 [11번가]셀렉스프로틴음료오리지널팩190ml24개(티멤가)(21,070원/무료)11번가셀렉스프로틴음료단백질음료오리지널프로틴단백질보충셀렉스프로틴 ㅂㄱㅅㄹㅅㅍㄹㅌㅇㄹㅇㄹㅈㄴㅍㄱㅌㅁㄱㅇㅁㄹㅂㄱㅅㄹㅅㅍㄹㅌㅇㄹㄷㅂㅈㅇㄹㅇㄹㅈㄴㅍㄹㅌㄷㅂㅈㅂㅊㅅㄹㅅㅍㄹㅌ" data-id="3529e91c7563">
       <button class="fav-btn" type="button" hidden data-fav="3529e91c7563" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
       <a class="card-link" href="https://ssantime.com/deals/3529e91c7563.html">
         <div class="thumb-wrap">
-        <img class="thumb" src="https://ssantime.com/img/3529e91c7563.jpg" alt="셀렉스 프로틴 음료 오리지널 팩 190ml 24개 (티멤가)" fetchpriority="high" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
+        <img class="thumb" src="https://ssantime.com/img/3529e91c7563.jpg" alt="셀렉스 프로틴 음료 오리지널 팩 190ml 24개 (티멤가)" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
         <span class="card-badge" aria-label="네이버 최저가 대비 30% 저렴">30%<span class="off">↓</span></span>
         </div>
         <div class="card-body">
@@ -122,7 +395,7 @@
       <button class="fav-btn" type="button" hidden data-fav="992a555aebc8" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
       <a class="card-link" href="https://ssantime.com/deals/992a555aebc8.html">
         <div class="thumb-wrap">
-        <img class="thumb" src="https://ssantime.com/img/992a555aebc8.jpg" alt="2026년산 햅쌀 새청무 특등급 단일품종 20kg" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
+        <img class="thumb" src="https://ssantime.com/img/992a555aebc8.jpg" alt="2026년산 햅쌀 새청무 특등급 단일품종 20kg" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
         <span class="card-badge card-badge--soft" aria-label="네이버 최저가 대비 13% 저렴">13%<span class="off">↓</span></span>
         </div>
         <div class="card-body">
@@ -143,7 +416,7 @@
       <button class="fav-btn" type="button" hidden data-fav="46a96d3d9f99" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
       <a class="card-link" href="https://ssantime.com/deals/46a96d3d9f99.html">
         <div class="thumb-wrap">
-        <img class="thumb" src="https://ssantime.com/img/46a96d3d9f99.jpg" alt="농심 신라면10개+안성탕면5개+너구리5개+짜파게티10개" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
+        <img class="thumb" src="https://ssantime.com/img/46a96d3d9f99.jpg" alt="농심 신라면10개+안성탕면5개+너구리5개+짜파게티10개" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
         <span class="card-badge" aria-label="네이버 최저가 대비 26% 저렴">26%<span class="off">↓</span></span>
         </div>
         <div class="card-body">
@@ -164,7 +437,7 @@
       <button class="fav-btn" type="button" hidden data-fav="f014b9098fd1" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
       <a class="card-link" href="https://ssantime.com/deals/f014b9098fd1.html">
         <div class="thumb-wrap">
-        <img class="thumb" src="https://ssantime.com/img/f014b9098fd1.jpg" alt="샤오미 미지아 기화식 가습기 3세대 6L" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
+        <img class="thumb" src="https://ssantime.com/img/f014b9098fd1.jpg" alt="샤오미 미지아 기화식 가습기 3세대 6L" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
         <span class="card-badge card-badge--soft" aria-label="네이버 최저가 대비 6% 저렴">6%<span class="off">↓</span></span>
         </div>
         <div class="card-body">
@@ -1926,279 +2199,6 @@
         </div>
       </a>
     </li>
-    <li class="card" data-pct="15" data-price="38099" data-gap="6891" data-ts="2026-11-02T08:38:36.394347+00:00" data-mall="알리" data-category="식품" data-title="쉐프컬렉션 프리미엄 국산 김치 3.3kg x 2개 쉐프컬렉션프리미엄국산김치3.3kgx2개 ㅅㅍㅋㄹㅅㅍㄹㅁㅇㄱㅅㄱㅊㄱ" data-search="쉐프컬렉션 프리미엄 국산 김치 3.3kg x 2개 알리 신세계푸드 shinsegae food 쉐프컬렉션 chef collection 포기김치 국산김치 프리미엄김치 김치 쉐프컬렉션프리미엄국산김치3.3kgx2개알리신세계푸드shinsegaefood쉐프컬렉션chefcollection포기김치국산김치프리미엄김치김치 ㅅㅍㅋㄹㅅㅍㄹㅁㅇㄱㅅㄱㅊㄱㅇㄹㅅㅅㄱㅍㄷㅅㅍㅋㄹㅅㅍㄱㄱㅊㄱㅅㄱㅊㅍㄹㅁㅇㄱㅊㄱㅊ" data-id="0527b0a16170">
-      <button class="fav-btn" type="button" hidden data-fav="0527b0a16170" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
-      <a class="card-link" href="https://ssantime.com/deals/0527b0a16170.html">
-        <div class="thumb-wrap">
-        <img class="thumb" src="https://ssantime.com/img/0527b0a16170.jpg" alt="쉐프컬렉션 프리미엄 국산 김치 3.3kg x 2개" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
-        <span class="card-badge" aria-label="네이버 최저가 대비 15% 저렴">15%<span class="off">↓</span></span>
-        </div>
-        <div class="card-body">
-          <h2 class="card-title">쉐프컬렉션 프리미엄 국산 김치 3.3kg x 2개</h2>
-          <div class="card-prices">
-          <div class="card-deal">38,099<span class="won">원</span></div>
-          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−6,891원</b></div>
-          <div class="card-lprice">네이버 <s>44,990</s>원</div>
-          </div>
-          <div class="card-foot">
-            <span class="card-mall card-mall--sell">알리</span>
-            <time class="card-ago" datetime="2026-11-02T08:38:36.394347+00:00" data-ago="2026-11-02T08:38:36.394347+00:00">11-02</time>
-          </div>
-        </div>
-      </a>
-    </li>
-    <li class="card" data-pct="15" data-price="17290" data-gap="3110" data-ts="2026-11-02T07:25:33.764590+00:00" data-mall="11번가" data-category="생활" data-title="[11번가] 내셔널지오그래픽 멤브레인 차량용 디퓨저 225ml (17,290원 / 무료배송) [11번가]내셔널지오그래픽멤브레인차량용디퓨저225ml(17,290원/무료배송) ㅂㄱㄴㅅㄴㅈㅇㄱㄹㅍㅁㅂㄹㅇㅊㄹㅇㄷㅍㅈㅇㅁㄹㅂㅅ" data-search="[11번가] 내셔널지오그래픽 멤브레인 차량용 디퓨저 225ml (17,290원 / 무료배송) 11번가 내셔널지오그래픽 national geographic 차량용디퓨저 디퓨저 멤브레인디퓨저 방향제 차량용방향제 카디퓨저 [11번가]내셔널지오그래픽멤브레인차량용디퓨저225ml(17,290원/무료배송)11번가내셔널지오그래픽nationalgeographic차량용디퓨저디퓨저멤브레인디퓨저방향제차량용방향제카디퓨저 ㅂㄱㄴㅅㄴㅈㅇㄱㄹㅍㅁㅂㄹㅇㅊㄹㅇㄷㅍㅈㅇㅁㄹㅂㅅㅂㄱㄴㅅㄴㅈㅇㄱㄹㅍㅊㄹㅇㄷㅍㅈㄷㅍㅈㅁㅂㄹㅇㄷㅍㅈㅂㅎㅈㅊㄹㅇㅂㅎㅈㅋㄷㅍㅈ" data-id="b9518fd2811d">
-      <button class="fav-btn" type="button" hidden data-fav="b9518fd2811d" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
-      <a class="card-link" href="https://ssantime.com/deals/b9518fd2811d.html">
-        <div class="thumb-wrap">
-        <img class="thumb" src="https://ssantime.com/img/b9518fd2811d.jpg" alt="내셔널지오그래픽 멤브레인 차량용 디퓨저 225ml" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
-        <span class="card-badge" aria-label="네이버 최저가 대비 15% 저렴">15%<span class="off">↓</span></span>
-        </div>
-        <div class="card-body">
-          <h2 class="card-title">내셔널지오그래픽 멤브레인 차량용 디퓨저 225ml</h2>
-          <div class="card-prices">
-          <div class="card-deal">17,290<span class="won">원</span></div>
-          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−3,110원</b></div>
-          <div class="card-lprice">네이버 <s>20,400</s>원</div>
-          </div>
-          <div class="card-foot">
-            <span class="card-mall card-mall--sell">11번가</span>
-            <time class="card-ago" datetime="2026-11-02T07:25:33.764590+00:00" data-ago="2026-11-02T07:25:33.764590+00:00">11-02</time>
-          </div>
-        </div>
-      </a>
-    </li>
-    <li class="card" data-pct="19" data-price="327900" data-gap="80740" data-ts="2026-11-02T06:53:02.044410+00:00" data-mall="G마켓" data-category="전자" data-title="[지마켓] 레노버 샤오신 패드 프로 13인치 (327,900원/무배) [지마켓]레노버샤오신패드프로13인치(327,900원/무배) ㅈㅁㅋㄹㄴㅂㅅㅇㅅㅍㄷㅍㄹㅇㅊㅇㅁㅂ" data-search="[지마켓] 레노버 샤오신 패드 프로 13인치 (327,900원/무배) g마켓 레노버 lenovo 샤오신 패드 프로 샤오신패드프로13 태블릿 안드로이드 태블릿 스냅드래곤 8s gen4 13인치 puresight pro [지마켓]레노버샤오신패드프로13인치(327,900원/무배)g마켓레노버lenovo샤오신패드프로샤오신패드프로13태블릿안드로이드태블릿스냅드래곤8sgen413인치puresightpro ㅈㅁㅋㄹㄴㅂㅅㅇㅅㅍㄷㅍㄹㅇㅊㅇㅁㅂㅁㅋㄹㄴㅂㅅㅇㅅㅍㄷㅍㄹㅅㅇㅅㅍㄷㅍㄹㅌㅂㄹㅇㄷㄹㅇㄷㅌㅂㄹㅅㄴㄷㄹㄱㅇㅊ" data-id="36d4846ce9f6">
-      <button class="fav-btn" type="button" hidden data-fav="36d4846ce9f6" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
-      <a class="card-link" href="https://ssantime.com/deals/36d4846ce9f6.html">
-        <div class="thumb-wrap">
-        <img class="thumb" src="https://ssantime.com/img/36d4846ce9f6.jpg" alt="레노버 샤오신 패드 프로 13인치" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
-        <span class="card-badge" aria-label="네이버 최저가 대비 19% 저렴">19%<span class="off">↓</span></span>
-        </div>
-        <div class="card-body">
-          <h2 class="card-title">레노버 샤오신 패드 프로 13인치</h2>
-          <div class="card-prices">
-          <div class="card-deal">327,900<span class="won">원</span></div>
-          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−80,740원</b></div>
-          <div class="card-lprice">네이버 <s>408,640</s>원</div>
-          </div>
-          <div class="card-foot">
-            <span class="card-mall card-mall--sell">G마켓</span>
-            <time class="card-ago" datetime="2026-11-02T06:53:02.044410+00:00" data-ago="2026-11-02T06:53:02.044410+00:00">11-02</time>
-          </div>
-        </div>
-      </a>
-    </li>
-    <li class="card" data-pct="35" data-price="19130" data-gap="10670" data-ts="2026-11-02T06:53:24.009412+00:00" data-mall="11번가" data-category="생활" data-title="[11번가] 로더베르 대용량 퍼퓸샴푸 1000g 3개 (19,130원/무배) [11번가]로더베르대용량퍼퓸샴푸1000g3개(19,130원/무배) ㅂㄱㄹㄷㅂㄹㄷㅇㄹㅍㅍㅅㅍㄱㅇㅁㅂ" data-search="[11번가] 로더베르 대용량 퍼퓸샴푸 1000g 3개 (19,130원/무배) 11번가 로더베르 l&#x27;odeur vert 퍼퓸샴푸 베이비파우더 약산성샴푸 대용량샴푸 샴푸 헤어 [11번가]로더베르대용량퍼퓸샴푸1000g3개(19,130원/무배)11번가로더베르l&#x27;odeurvert퍼퓸샴푸베이비파우더약산성샴푸대용량샴푸샴푸헤어 ㅂㄱㄹㄷㅂㄹㄷㅇㄹㅍㅍㅅㅍㄱㅇㅁㅂㅂㄱㄹㄷㅂㄹㅍㅍㅅㅍㅂㅇㅂㅍㅇㄷㅇㅅㅅㅅㅍㄷㅇㄹㅅㅍㅅㅍㅎㅇ" data-id="198e56abb5ab">
-      <button class="fav-btn" type="button" hidden data-fav="198e56abb5ab" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
-      <a class="card-link" href="https://ssantime.com/deals/198e56abb5ab.html">
-        <div class="thumb-wrap">
-        <img class="thumb" src="https://ssantime.com/img/198e56abb5ab.jpg" alt="로더베르 대용량 퍼퓸샴푸 1000g 3개" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
-        <span class="card-badge" aria-label="네이버 최저가 대비 35% 저렴">35%<span class="off">↓</span></span>
-        </div>
-        <div class="card-body">
-          <h2 class="card-title">로더베르 대용량 퍼퓸샴푸 1000g 3개</h2>
-          <div class="card-prices">
-          <div class="card-deal">19,130<span class="won">원</span></div>
-          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−10,670원</b></div>
-          <div class="card-lprice">네이버 <s>29,800</s>원</div>
-          </div>
-          <div class="card-foot">
-            <span class="card-mall card-mall--sell">11번가</span>
-            <time class="card-ago" datetime="2026-11-02T06:53:24.009412+00:00" data-ago="2026-11-02T06:53:24.009412+00:00">11-02</time>
-          </div>
-        </div>
-      </a>
-    </li>
-    <li class="card" data-pct="11" data-price="36550" data-gap="4670" data-ts="2026-11-02T06:53:25.569909+00:00" data-mall="롯데ON" data-category="식품" data-title="[롯데온] 빼빼로 40입 구성 초코필드/아몬드/초코/혼합 택1 (36,550원) [롯데온]빼빼로40입구성초코필드/아몬드/초코/혼합택1(36,550원) ㄹㄷㅇㅃㅃㄹㅇㄱㅅㅊㅋㅍㄷㅇㅁㄷㅊㅋㅎㅎㅌㅇ" data-search="[롯데온] 빼빼로 40입 구성 초코필드/아몬드/초코/혼합 택1 (36,550원) 롯데on 빼빼로 pepero 롯데 롯데웰푸드 초코필드 아몬드 초코과자 빼빼로데이 선물세트 [롯데온]빼빼로40입구성초코필드/아몬드/초코/혼합택1(36,550원)롯데on빼빼로pepero롯데롯데웰푸드초코필드아몬드초코과자빼빼로데이선물세트 ㄹㄷㅇㅃㅃㄹㅇㄱㅅㅊㅋㅍㄷㅇㅁㄷㅊㅋㅎㅎㅌㅇㄹㄷㅃㅃㄹㄹㄷㄹㄷㅇㅍㄷㅊㅋㅍㄷㅇㅁㄷㅊㅋㄱㅈㅃㅃㄹㄷㅇㅅㅁㅅㅌ" data-id="3aa38d095332">
-      <button class="fav-btn" type="button" hidden data-fav="3aa38d095332" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
-      <a class="card-link" href="https://ssantime.com/deals/3aa38d095332.html">
-        <div class="thumb-wrap">
-        <img class="thumb" src="https://ssantime.com/img/3aa38d095332.jpg" alt="빼빼로 40입 구성 초코필드/아몬드/초코/혼합 택1" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
-        <span class="card-badge card-badge--soft" aria-label="네이버 최저가 대비 11% 저렴">11%<span class="off">↓</span></span>
-        </div>
-        <div class="card-body">
-          <h2 class="card-title">빼빼로 40입 구성 초코필드/아몬드/초코/혼합 택1</h2>
-          <div class="card-prices">
-          <div class="card-deal">36,550<span class="won">원</span></div>
-          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−4,670원</b></div>
-          <div class="card-lprice">네이버 <s>41,220</s>원</div>
-          </div>
-          <div class="card-foot">
-            <span class="card-mall card-mall--sell">롯데ON</span>
-            <time class="card-ago" datetime="2026-11-02T06:53:25.569909+00:00" data-ago="2026-11-02T06:53:25.569909+00:00">11-02</time>
-          </div>
-        </div>
-      </a>
-    </li>
-    <li class="card" data-pct="15" data-price="2330000" data-gap="418600" data-ts="2026-11-02T06:53:57.203217+00:00" data-mall="11번가" data-category="전자" data-title="[11번가] 주연테크 amd 라이젠5-6세대 9600x rtx 5060 ti 16g ram 32gb 1tb (2,330,000원/무료) [11번가]주연테크amd라이젠5-6세대9600xrtx5060ti16gram32gb1tb(2,330,000원/무료) ㅂㄱㅈㅇㅌㅋㄹㅇㅈㅅㄷㅇㅁㄹ" data-search="[11번가] 주연테크 amd 라이젠5-6세대 9600x rtx 5060 ti 16g ram 32gb 1tb (2,330,000원/무료) 11번가 주연테크 시프트 d696x56t2-a32g1t 게이밍 데스크탑 게이밍pc amd 라이젠5 9600x 라이젠 9600x rtx 5060 ti rtx 5060ti 16gb b650m [11번가]주연테크amd라이젠5-6세대9600xrtx5060ti16gram32gb1tb(2,330,000원/무료)11번가주연테크시프트d696x56t2-a32g1t게이밍데스크탑게이밍pcamd라이젠59600x라이젠9600xrtx5060tirtx5060ti16gbb650m ㅂㄱㅈㅇㅌㅋㄹㅇㅈㅅㄷㅇㅁㄹㅂㄱㅈㅇㅌㅋㅅㅍㅌㄱㅇㅁㄷㅅㅋㅌㄱㅇㅁㄹㅇㅈㄹㅇㅈ" data-id="085e6ff5a2e4">
-      <button class="fav-btn" type="button" hidden data-fav="085e6ff5a2e4" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
-      <a class="card-link" href="https://ssantime.com/deals/085e6ff5a2e4.html">
-        <div class="thumb-wrap">
-        <img class="thumb" src="https://ssantime.com/img/085e6ff5a2e4.jpg" alt="주연테크 AMD 라이젠5-6세대 9600X RTX 5060 Ti 16G RAM 32GB 1TB" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
-        <span class="card-badge" aria-label="네이버 최저가 대비 15% 저렴">15%<span class="off">↓</span></span>
-        </div>
-        <div class="card-body">
-          <h2 class="card-title">주연테크 AMD 라이젠5-6세대 9600X RTX 5060 Ti 16G RAM 32GB 1TB</h2>
-          <div class="card-prices">
-          <div class="card-deal">2,330,000<span class="won">원</span></div>
-          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−418,600원</b></div>
-          <div class="card-lprice">네이버 <s>2,748,600</s>원</div>
-          </div>
-          <div class="card-foot">
-            <span class="card-mall card-mall--sell">11번가</span>
-            <time class="card-ago" datetime="2026-11-02T06:53:57.203217+00:00" data-ago="2026-11-02T06:53:57.203217+00:00">11-02</time>
-          </div>
-        </div>
-      </a>
-    </li>
-    <li class="card" data-pct="35" data-price="170541" data-gap="92329" data-ts="2026-11-02T06:54:53.533240+00:00" data-mall="알리" data-category="전자" data-title="[알리] ugreen 500w gan 6in1 pd 3.1 240w 충전 스테이션 [알리]ugreen500wgan6in1pd3.1240w충전스테이션 ㅇㄹㅊㅈㅅㅌㅇㅅ" data-search="[알리] ugreen 500w gan 6in1 pd 3.1 240w 충전 스테이션 알리 ugreen 유그린 x759 gan 충전기 충전 스테이션 pd 3.1 240w 500w usb-c 충전기 멀티포트 충전기 [알리]ugreen500wgan6in1pd3.1240w충전스테이션알리ugreen유그린x759gan충전기충전스테이션pd3.1240w500wusb-c충전기멀티포트충전기 ㅇㄹㅊㅈㅅㅌㅇㅅㅇㄹㅇㄱㄹㅊㅈㄱㅊㅈㅅㅌㅇㅅㅊㅈㄱㅁㅌㅍㅌㅊㅈㄱ charger" data-id="7b2a5ea8f0b7">
-      <button class="fav-btn" type="button" hidden data-fav="7b2a5ea8f0b7" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
-      <a class="card-link" href="https://ssantime.com/deals/7b2a5ea8f0b7.html">
-        <div class="thumb-wrap">
-        <img class="thumb" src="https://ssantime.com/img/7b2a5ea8f0b7.jpg" alt="UGREEN 500W GaN 6IN1 PD 3.1 240W 충전 스테이션" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
-        <span class="card-badge" aria-label="네이버 최저가 대비 35% 저렴">35%<span class="off">↓</span></span>
-        </div>
-        <div class="card-body">
-          <h2 class="card-title">UGREEN 500W GaN 6IN1 PD 3.1 240W 충전 스테이션</h2>
-          <div class="card-prices">
-          <div class="card-deal">170,541<span class="won">원</span></div>
-          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−92,329원</b></div>
-          <div class="card-lprice">네이버 <s>262,870</s>원</div>
-          </div>
-          <div class="card-foot">
-            <span class="card-mall card-mall--sell">알리</span>
-            <time class="card-ago" datetime="2026-11-02T06:54:53.533240+00:00" data-ago="2026-11-02T06:54:53.533240+00:00">11-02</time>
-          </div>
-        </div>
-      </a>
-    </li>
-    <li class="card" data-pct="16" data-price="29900" data-gap="6100" data-ts="2026-11-02T06:55:42.424569+00:00" data-mall="카카오 선물하기" data-category="전자" data-title="포켓몬 메타몽 블루투스 버티컬 마우스 포켓몬메타몽블루투스버티컬마우스 ㅍㅋㅁㅁㅌㅁㅂㄹㅌㅅㅂㅌㅋㅁㅇㅅ" data-search="포켓몬 메타몽 블루투스 버티컬 마우스 카카오 선물하기 포켓몬 pokemon 메타몽 피카츄 버티컬마우스 수직마우스 블루투스마우스 무선마우스 게이밍마우스 레토 포켓몬메타몽블루투스버티컬마우스카카오선물하기포켓몬pokemon메타몽피카츄버티컬마우스수직마우스블루투스마우스무선마우스게이밍마우스레토 ㅍㅋㅁㅁㅌㅁㅂㄹㅌㅅㅂㅌㅋㅁㅇㅅㅋㅋㅇㅅㅁㅎㄱㅍㅋㅁㅁㅌㅁㅍㅋㅊㅂㅌㅋㅁㅇㅅㅅㅈㅁㅇㅅㅂㄹㅌㅅㅁㅇㅅㅁㅅㅁㅇㅅㄱㅇㅁㅁㅇㅅㄹㅌ mouse" data-id="460df8e27790">
-      <button class="fav-btn" type="button" hidden data-fav="460df8e27790" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
-      <a class="card-link" href="https://ssantime.com/deals/460df8e27790.html">
-        <div class="thumb-wrap">
-        <img class="thumb" src="https://ssantime.com/img/460df8e27790.jpg" alt="포켓몬 메타몽 블루투스 버티컬 마우스" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
-        <span class="card-badge" aria-label="네이버 최저가 대비 16% 저렴">16%<span class="off">↓</span></span>
-        </div>
-        <div class="card-body">
-          <h2 class="card-title">포켓몬 메타몽 블루투스 버티컬 마우스</h2>
-          <div class="card-prices">
-          <div class="card-deal">29,900<span class="won">원</span></div>
-          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−6,100원</b></div>
-          <div class="card-lprice">네이버 <s>36,000</s>원</div>
-          </div>
-          <div class="card-foot">
-            <span class="card-mall card-mall--sell">카카오 선물하기</span>
-            <time class="card-ago" datetime="2026-11-02T06:55:42.424569+00:00" data-ago="2026-11-02T06:55:42.424569+00:00">11-02</time>
-          </div>
-        </div>
-      </a>
-    </li>
-    <li class="card" data-pct="7" data-price="1470000" data-gap="118000" data-ts="2026-11-02T05:22:25.368913+00:00" data-mall="롯데ON" data-category="전자" data-title="[롯데온] lg 그램15 15zd80t-gx56k / 라이젠5-340 / 16gb / 256gb (1,470,000원/무배) [롯데온]lg그램1515zd80t-gx56k/라이젠5-340/16gb/256gb(1,470,000원/무배) ㄹㄷㅇㄱㄹㄹㅇㅈㅇㅁㅂ" data-search="[롯데온] lg 그램15 15zd80t-gx56k / 라이젠5-340 / 16gb / 256gb (1,470,000원/무배) 롯데on lg그램 lg gram 그램15 15zd80t-gx56k 노트북 라이젠ai5 340 amd radeon 840m 15인치 노트북 lg전자 [롯데온]lg그램1515zd80t-gx56k/라이젠5-340/16gb/256gb(1,470,000원/무배)롯데onlg그램lggram그램1515zd80t-gx56k노트북라이젠ai5340amdradeon840m15인치노트북lg전자 ㄹㄷㅇㄱㄹㄹㅇㅈㅇㅁㅂㄹㄷㄱㄹㄱㄹㄴㅌㅂㄹㅇㅈㅇㅊㄴㅌㅂㅈㅈ laptop" data-id="2a38e866ce91">
-      <button class="fav-btn" type="button" hidden data-fav="2a38e866ce91" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
-      <a class="card-link" href="https://ssantime.com/deals/2a38e866ce91.html">
-        <div class="thumb-wrap">
-        <img class="thumb" src="https://ssantime.com/img/2a38e866ce91.jpg" alt="LG 그램15 15ZD80T-GX56K / 라이젠5-340 / 16GB / 256GB" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
-        <span class="card-badge card-badge--soft" aria-label="네이버 최저가 대비 7% 저렴">7%<span class="off">↓</span></span>
-        </div>
-        <div class="card-body">
-          <h2 class="card-title">LG 그램15 15ZD80T-GX56K / 라이젠5-340 / 16GB / 256GB</h2>
-          <div class="card-prices">
-          <div class="card-deal">1,470,000<span class="won">원</span></div>
-          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−118,000원</b></div>
-          <div class="card-lprice">네이버 <s>1,588,000</s>원</div>
-          </div>
-          <div class="card-foot">
-            <span class="card-mall card-mall--sell">롯데ON</span>
-            <time class="card-ago" datetime="2026-11-02T05:22:25.368913+00:00" data-ago="2026-11-02T05:22:25.368913+00:00">11-02</time>
-          </div>
-        </div>
-      </a>
-    </li>
-    <li class="card" data-pct="31" data-price="20590" data-gap="9310" data-ts="2026-11-02T05:23:59.528161+00:00" data-mall="롯데ON" data-category="식품" data-title="오리온 포카칩 66g 5개+어니언 66g 5개+썬 핫스파이시 80g 5개+갈릭바게트 80g 5개 오리온포카칩66g5개+어니언66g5개+썬핫스파이시80g5개+갈릭바게트80g5개 ㅇㄹㅇㅍㅋㅊㄱㅇㄴㅇㄱㅆㅎㅅㅍㅇㅅㄱㄱㄹㅂㄱㅌㄱ" data-search="오리온 포카칩 66g 5개+어니언 66g 5개+썬 핫스파이시 80g 5개+갈릭바게트 80g 5개 롯데on 오리온 포카칩 어니언 썬 핫스파이시 갈릭바게트 감자칩 스낵 과자 오리온포카칩66g5개+어니언66g5개+썬핫스파이시80g5개+갈릭바게트80g5개롯데on오리온포카칩어니언썬핫스파이시갈릭바게트감자칩스낵과자 ㅇㄹㅇㅍㅋㅊㄱㅇㄴㅇㄱㅆㅎㅅㅍㅇㅅㄱㄱㄹㅂㄱㅌㄱㄹㄷㅇㄹㅇㅍㅋㅊㅇㄴㅇㅆㅎㅅㅍㅇㅅㄱㄹㅂㄱㅌㄱㅈㅊㅅㄴㄱㅈ" data-id="1afa59428ee1">
-      <button class="fav-btn" type="button" hidden data-fav="1afa59428ee1" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
-      <a class="card-link" href="https://ssantime.com/deals/1afa59428ee1.html">
-        <div class="thumb-wrap">
-        <img class="thumb" src="https://ssantime.com/img/1afa59428ee1.jpg" alt="오리온 포카칩 66g 5개+어니언 66g 5개+썬 핫스파이시 80g 5개+갈릭바게트 80g 5개" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
-        <span class="card-badge" aria-label="네이버 최저가 대비 31% 저렴">31%<span class="off">↓</span></span>
-        </div>
-        <div class="card-body">
-          <h2 class="card-title">오리온 포카칩 66g 5개+어니언 66g 5개+썬 핫스파이시 80g 5개+갈릭바게트 80g 5개</h2>
-          <div class="card-prices">
-          <div class="card-deal">20,590<span class="won">원</span></div>
-          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−9,310원</b></div>
-          <div class="card-lprice">네이버 <s>29,900</s>원</div>
-          </div>
-          <div class="card-foot">
-            <span class="card-mall card-mall--sell">롯데ON</span>
-            <time class="card-ago" datetime="2026-11-02T05:23:59.528161+00:00" data-ago="2026-11-02T05:23:59.528161+00:00">11-02</time>
-          </div>
-        </div>
-      </a>
-    </li>
-    <li class="card" data-pct="9" data-price="71330" data-gap="7170" data-ts="2026-11-02T04:35:19.118755+00:00" data-mall="무신사" data-category="전자" data-title="[무신사] 비오템 아쿠아파워 올인원 200ml 듀오 세트 (71,330원/무료) [무신사]비오템아쿠아파워올인원200ml듀오세트(71,330원/무료) ㅁㅅㅅㅂㅇㅌㅇㅋㅇㅍㅇㅇㅇㅇㄷㅇㅅㅌㅇㅁㄹ" data-search="[무신사] 비오템 아쿠아파워 올인원 200ml 듀오 세트 (71,330원/무료) 무신사 [무신사]비오템아쿠아파워올인원200ml듀오세트(71,330원/무료)무신사 ㅁㅅㅅㅂㅇㅌㅇㅋㅇㅍㅇㅇㅇㅇㄷㅇㅅㅌㅇㅁㄹㅁㅅㅅ" data-id="b143a04784dc">
-      <button class="fav-btn" type="button" hidden data-fav="b143a04784dc" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
-      <a class="card-link" href="https://ssantime.com/deals/b143a04784dc.html">
-        <div class="thumb-wrap">
-        <img class="thumb" src="https://ssantime.com/img/b143a04784dc.jpg" alt="비오템 아쿠아파워 올인원 200ml 듀오 세트" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
-        <span class="card-badge card-badge--soft" aria-label="네이버 최저가 대비 9% 저렴">9%<span class="off">↓</span></span>
-        </div>
-        <div class="card-body">
-          <h2 class="card-title">비오템 아쿠아파워 올인원 200ml 듀오 세트</h2>
-          <div class="card-prices">
-          <div class="card-deal">71,330<span class="won">원</span></div>
-          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−7,170원</b></div>
-          <div class="card-lprice">네이버 <s>78,500</s>원</div>
-          </div>
-          <div class="card-foot">
-            <span class="card-mall card-mall--sell">무신사</span>
-            <time class="card-ago" datetime="2026-11-02T04:35:19.118755+00:00" data-ago="2026-11-02T04:35:19.118755+00:00">11-02</time>
-          </div>
-        </div>
-      </a>
-    </li>
-    <li class="card" data-pct="16" data-price="17200" data-gap="3480" data-ts="2026-11-02T04:35:32.952802+00:00" data-mall="무신사" data-category="식품" data-title="[무신사] 페레로 로쉐 t24 다이아몬드+오리진스t2 증정 (17,200원/무료) [무신사]페레로로쉐t24다이아몬드+오리진스t2증정(17,200원/무료) ㅁㅅㅅㅍㄹㄹㄹㅅㄷㅇㅇㅁㄷㅇㄹㅈㅅㅈㅈㅇㅁㄹ" data-search="[무신사] 페레로 로쉐 t24 다이아몬드+오리진스t2 증정 (17,200원/무료) 무신사 [무신사]페레로로쉐t24다이아몬드+오리진스t2증정(17,200원/무료)무신사 ㅁㅅㅅㅍㄹㄹㄹㅅㄷㅇㅇㅁㄷㅇㄹㅈㅅㅈㅈㅇㅁㄹㅁㅅㅅ" data-id="8b482f5310d6">
-      <button class="fav-btn" type="button" hidden data-fav="8b482f5310d6" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
-      <a class="card-link" href="https://ssantime.com/deals/8b482f5310d6.html">
-        <div class="thumb-wrap">
-        <img class="thumb" src="https://ssantime.com/img/8b482f5310d6.jpg" alt="페레로 로쉐 T24 다이아몬드+오리진스T2 증정" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
-        <span class="card-badge" aria-label="네이버 최저가 대비 16% 저렴">16%<span class="off">↓</span></span>
-        </div>
-        <div class="card-body">
-          <h2 class="card-title">페레로 로쉐 T24 다이아몬드+오리진스T2 증정</h2>
-          <div class="card-prices">
-          <div class="card-deal">17,200<span class="won">원</span></div>
-          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−3,480원</b></div>
-          <div class="card-lprice">네이버 <s>20,680</s>원</div>
-          </div>
-          <div class="card-foot">
-            <span class="card-mall card-mall--sell">무신사</span>
-            <time class="card-ago" datetime="2026-11-02T04:35:32.952802+00:00" data-ago="2026-11-02T04:35:32.952802+00:00">11-02</time>
-          </div>
-        </div>
-      </a>
-    </li>
-    <li class="card" data-pct="36" data-price="8250" data-gap="4650" data-ts="2026-11-02T04:35:39.737848+00:00" data-mall="롯데ON" data-category="식품" data-title="[롯데온] 국내산 알타리무 2단 (8,250원/무배) [롯데온]국내산알타리무2단(8,250원/무배) ㄹㄷㅇㄱㄴㅅㅇㅌㄹㅁㄷㅇㅁㅂ" data-search="[롯데온] 국내산 알타리무 2단 (8,250원/무배) 롯데on [롯데온]국내산알타리무2단(8,250원/무배)롯데on ㄹㄷㅇㄱㄴㅅㅇㅌㄹㅁㄷㅇㅁㅂㄹㄷ" data-id="abe73c212c8e">
-      <button class="fav-btn" type="button" hidden data-fav="abe73c212c8e" aria-label="찜하기" aria-pressed="false"><span class="fav-ico" aria-hidden="true">♡</span></button>
-      <a class="card-link" href="https://ssantime.com/deals/abe73c212c8e.html">
-        <div class="thumb-wrap">
-        <img class="thumb" src="https://ssantime.com/img/abe73c212c8e.jpg" alt="국내산 알타리무 2단" loading="lazy" decoding="async" onerror="this.classList.add('thumb--broken');this.removeAttribute('src');">
-        <span class="card-badge" aria-label="네이버 최저가 대비 36% 저렴">36%<span class="off">↓</span></span>
-        </div>
-        <div class="card-body">
-          <h2 class="card-title">국내산 알타리무 2단</h2>
-          <div class="card-prices">
-          <div class="card-deal">8,250<span class="won">원</span></div>
-          <div class="card-save"><span class="save-basis">네이버 최저가보다</span><b>−4,650원</b></div>
-          <div class="card-lprice">네이버 <s>12,900</s>원</div>
-          </div>
-          <div class="card-foot">
-            <span class="card-mall card-mall--sell">롯데ON</span>
-            <time class="card-ago" datetime="2026-11-02T04:35:39.737848+00:00" data-ago="2026-11-02T04:35:39.737848+00:00">11-02</time>
-          </div>
-        </div>
-      </a>
-    </li>
   </ul>
   <div class="no-results" id="no-results" hidden>
     <p class="no-results-msg"><b class="no-results-q" id="no-results-q"></b> 딜은 아직 없어요.</p>
@@ -2213,8 +2213,8 @@
 
   </div>
   <div class="more-wrap">
-    <button class="more-btn" id="more-btn" type="button" hidden data-rest="cards-rest.html" data-rest-count="353" data-page-size="100">
-      딜 더 보기 <span class="more-rest">353개 남음</span>
+    <button class="more-btn" id="more-btn" type="button" hidden data-rest="cards-rest.html" data-rest-count="359" data-page-size="100">
+      딜 더 보기 <span class="more-rest">359개 남음</span>
     </button>
     <p class="more-hint" id="more-hint" hidden>불러오는 중…</p>
   </div>
