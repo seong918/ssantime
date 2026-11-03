@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "ae8199699909",
+    "title": "[지마켓] K2 남여공용 롱다운 벤치파카 (128,140원/무료)",
+    "deal_total": 128140,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 139920,
+    "gap": 11780,
+    "mall_name": "네이버",
+    "buy_url": "https://bitl.bz/api@Uc1Gx6Fw",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=118&&no=745575",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5665460/56654601915.20260710071509.jpg?type=f300",
+    "created_iso": "2026-11-03T13:10:05.941481+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/56654601915",
+    "naver_product_id": "56654601915",
+    "buy_url_orig": "https://m.gmarket.co.kr/vi/product/4554491549",
+    "price_label": "",
+    "discount_guide": "1. 빅스마일데이 특가 쿠폰 적용 시 정가 175,950원에서 27% 할인된 128,140원(쿠폰가)\n2. '쿠폰 더받기'로 추가 쿠폰 적용\n3. 꼭 멤버 가입 시 최대 15,376원 적립\n4. 꼭 현대카드 최대 7% 추가 적립 (8,969원)",
+    "product_summary": "K2 남녀공용 롱다운 벤치파카입니다.\n무릎까지 내려오는 롱기장에 블랙 컬러로 구성된 기본형 다운 제품입니다.\n겨울철 등하교·출퇴근 등 일상에서 입기 좋습니다.\n남녀공용 제품으로, 여성분들은 구매 전 사이즈표를 확인하시기 바랍니다.",
+    "source_site": "ppomppu",
+    "category": "의류/잡화",
+    "category_bucket": "패션",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "K2",
+      "롱다운",
+      "벤치파카",
+      "다운점퍼",
+      "롱패딩",
+      "남녀공용",
+      "블랙패딩",
+      "겨울패딩"
+    ]
+  },
+  {
     "deal_id": "96c4e481ece4",
     "title": "AKG N9 하이브리드 블투 헤드폰",
     "deal_total": 214970,
@@ -16950,7 +16986,7 @@
     "category": "기타",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "QCY",
@@ -16985,7 +17021,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "남원추어탕",
@@ -17020,7 +17056,7 @@
     "category": "기타",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "경량패딩",
@@ -17057,7 +17093,7 @@
     "category": "생활용품",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "스탠리",
