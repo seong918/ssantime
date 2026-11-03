@@ -1,5 +1,44 @@
 [
   {
+    "deal_id": "8f287c2af79a",
+    "title": "[오늘의집] 깨끗한나라 순수 프리미엄 더클래스 화장지 30m 30롤x2팩(24,900원/무료)",
+    "deal_total": 24900,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 28880,
+    "gap": 3980,
+    "mall_name": "네이버",
+    "buy_url": "https://store.ohou.se/goods/3598081",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=118&&no=745606",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5248018/52480186768.20250114100416.jpg?type=f300",
+    "created_iso": "2026-11-03T15:03:19.985532+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/52480186768",
+    "naver_product_id": "52480186768",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. 선착순 장바구니쿠폰 7% 적용\n2. 토스페이 10% 적용 → 24,900원\n※ 네이버페이 기프티콘 2,000원 사은품 증정\n※ GS편의점 2천원 상품권 증정",
+    "product_summary": "깨끗한나라 순수 프리미엄 더클래스 3겹 화장지입니다.\n30m 30롤 2팩 구성으로 총 60롤이 제공됩니다.\n100% 천연펄프를 사용했으며 지관까지 무형광 처리되고 피부자극 테스트를 완료했습니다.\n360° 듀얼 소프트 공법으로 부드러움을 더했습니다.",
+    "source_site": "ppomppu",
+    "category": "기타",
+    "category_bucket": "생활",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [
+      "https://store.ohou.se/today_deals?activeIndex=2"
+    ],
+    "tags": [
+      "깨끗한나라",
+      "순수프리미엄",
+      "더클래스",
+      "화장지",
+      "두루마리휴지",
+      "3겹화장지",
+      "30롤",
+      "천연펄프",
+      "60롤"
+    ]
+  },
+  {
     "deal_id": "38daf2822de9",
     "title": "[11번가] 언더아머 UA 루던 웨이스트백 외 가방 할인모음전 (18,620원/2,500원)",
     "deal_total": 18620,
