@@ -1,5 +1,43 @@
 [
   {
+    "deal_id": "1e3909b89ae3",
+    "title": "[오늘의집] 리챔오리지널 200g x 8캔+리챔 더블라이트 200g x8캔 (22,794원) (무료배송)",
+    "deal_total": 22794,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 26000,
+    "gap": 3206,
+    "mall_name": null,
+    "buy_url": "https://store.ohou.se/goods/4161729",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=118&&no=745639",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_4252647/42526478094.2.jpg?type=f300",
+    "created_iso": "2026-11-03T19:06:59.095431+00:00",
+    "naver_url": null,
+    "naver_product_id": "42526478094",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. 중복쿠폰 받기(최저가보상제 7%)\n2. 카카오페이로 결제",
+    "product_summary": "리챔 오리지널과 리챔 더블라이트 런천미트 캔을 함께 구성한 가공식품입니다.\n리챔 오리지널 200g 8캔과 리챔 더블라이트 200g 8캔으로 총 16캔이 들어 있습니다.\n무료배송으로 제공됩니다.",
+    "source_site": "ppomppu",
+    "category": "기타",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [
+      "https://store.ohou.se/today_deals?activeIndex=2"
+    ],
+    "tags": [
+      "리챔",
+      "리챔오리지널",
+      "리챔더블라이트",
+      "런천미트",
+      "통조림햄",
+      "가공식품",
+      "스팸",
+      "캔햄"
+    ]
+  },
+  {
     "deal_id": "7df3c4171ea9",
     "title": "[온누리쇼핑] 귀뚜라미 27년형 3세대 카본매트 (346,500원/무료)",
     "deal_total": 346500,
