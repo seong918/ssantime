@@ -1,5 +1,80 @@
 [
   {
+    "deal_id": "9e9f953a0986",
+    "title": "[쿠팡] 마레주로 절전형 가정용 오방난로 전기히터 (89,800원 / 무배)",
+    "deal_total": 89800,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 92800,
+    "gap": 3000,
+    "mall_name": null,
+    "buy_url": "https://link.coupang.com/a/inne2jhqN2",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=118&&no=745527",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5736386/57363861550.11.jpg?type=f300",
+    "created_iso": "2026-11-03T10:14:16.986483+00:00",
+    "naver_url": null,
+    "naver_product_id": "57363861550",
+    "buy_url_orig": "https://www.coupang.com/vp/products/9140837205?vendorItemId=93877215986",
+    "price_label": "",
+    "discount_guide": "1. 쿠폰할인 -66,200원이 적용되어 89,800원\n※ 쿠폰 할인은 5일 남음",
+    "product_summary": "마레주로 절전형 가정용 오방난로 전기히터입니다.\n카본 결정 발열체를 사용하여 소음 없이 빠르게 따뜻해집니다.\n5면 개별 온도 조절이 가능해 원하는 방향만 켜두고 효율적으로 사용할 수 있습니다.\n상부받침대가 증정으로 함께 제공됩니다.",
+    "source_site": "ppomppu",
+    "category": "가전/가구",
+    "category_bucket": "전자",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "마레주로",
+      "MAREZZURO",
+      "오방난로",
+      "전기히터",
+      "난방기",
+      "카본히터",
+      "발터치",
+      "가정용히터",
+      "절전형히터"
+    ]
+  },
+  {
+    "deal_id": "4fafb16338e8",
+    "title": "할리스 행운 담은 수능 찹쌀떡 세트 찹쌀떡 8개 + 텀블러 1개 + 포토카드",
+    "deal_total": 24000,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 27000,
+    "gap": 3000,
+    "mall_name": null,
+    "buy_url": "https://gift.kakao.com/product/14489548",
+    "source_url": "https://www.fmkorea.com/10514710280",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6214844/62148442478.1.jpg?type=f300",
+    "created_iso": "2026-11-03T10:15:56.409863+00:00",
+    "naver_url": null,
+    "naver_product_id": "62148442478",
+    "buy_url_orig": "",
+    "price_label": "24,000원",
+    "discount_guide": "1. 할인가 14% 24,000원 (정상가 28,000원)\n2. 쿠폰받기 (상품 상세의 '쿠폰받기'로 쿠폰 받기)\n3. 2개 이상 구매 시 적용 가능한 쿠폰이 있어요\n※ 사전예약 상품으로 4일 10시까지 사전예약입니다.",
+    "product_summary": "할리스 '행운 담은 수능 찹쌀떡 세트'입니다.\n찹쌀떡 8개와 더 가벼운 텀블러 1개, 리센느(RESCENE) 행운부적 포토카드 1매로 구성됩니다.\n찹쌀떡은 플레인·호박·쑥 맛으로 구성되며, 텀블러는 색상이 랜덤으로 발송됩니다.\n사전예약 및 한정수량 상품이며 원산지는 상세설명에 표시됩니다.",
+    "source_site": "fmkorea",
+    "category": "먹거리",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "할리스",
+      "HOLLYS",
+      "찹쌀떡",
+      "수능 찹쌀떡",
+      "수능선물",
+      "텀블러",
+      "리센느",
+      "RESCENE",
+      "포토카드",
+      "행운부적"
+    ]
+  },
+  {
     "deal_id": "2956b46f9cc4",
     "title": "[11번가] 브라운 전기면도기 7시리즈+11PAY1만+레디백(139,000원/무료)",
     "deal_total": 139000,
@@ -1051,7 +1126,7 @@
     "source_site": "quasarzone",
     "category": "PC/하드웨어",
     "category_bucket": "전자",
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [],
     "tags": [
@@ -17012,7 +17087,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "훈제란",
@@ -17048,7 +17123,7 @@
     "category": "기타",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "감귤",
@@ -17084,7 +17159,7 @@
     "category": "기타",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://shopping.naver.com/event/6abdb73814c78778b14ed16c"
     ],
@@ -17123,7 +17198,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "비첸향",
@@ -17160,7 +17235,7 @@
     "category": "가전/가구",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "파인뷰",
@@ -17198,7 +17273,7 @@
     "category": "기타",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://shopping.naver.com/event/6abdb73814c78778b14ed16c"
     ],
@@ -17238,7 +17313,7 @@
     "category": "전자제품",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "카시오",
@@ -17274,7 +17349,7 @@
     "category": "PC/하드웨어",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "HP",
@@ -17312,7 +17387,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://shopping.naver.com/event/6aa11c29c7bdbd78c0cb8c33"
     ],
