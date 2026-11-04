@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "3106e7f586fb",
+    "title": "[롯데온] 1++등급 한우 살치살 400g (59,080원/무료배송)",
+    "deal_total": 59080,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 88000,
+    "gap": 28920,
+    "mall_name": null,
+    "buy_url": "https://www.lotteon.com/m/product/LO2605837181",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=118&&no=745951",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_8719845/87198450590.1.jpg?type=f300",
+    "created_iso": "2026-11-04T14:25:44.675538+00:00",
+    "naver_url": null,
+    "naver_product_id": "87198450590",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. 결제 시 온누리상품권으로 결제하면 더 저렴하게 구매할 수 있습니다",
+    "product_summary": "1++등급 한우 살치살 400g 상품입니다.\n마블링이 풍부하고 부드러운 식감을 지닌 부위입니다.\n기름진 풍미가 있어 와사비 등과 함께 곁들이기 좋습니다.",
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "한우",
+      "살치살",
+      "1++등급",
+      "1++한우",
+      "소고기",
+      "구이용",
+      "한우구이",
+      "마블링"
+    ]
+  },
+  {
     "deal_id": "b14fdc731c33",
     "title": "[네이버] 서연 종이컵 1000개 한박스(7,990원/3,000원)",
     "deal_total": 7990,
@@ -2211,7 +2247,7 @@
     "source_site": "ppomppu",
     "category": "기타",
     "category_bucket": "식품",
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [
       "https://store.ohou.se/today_deals?activeIndex=2"
@@ -16739,7 +16775,7 @@
     "category": "의류/잡화",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "내손에",
@@ -16776,7 +16812,7 @@
     "category": "기타",
     "category_bucket": "기타",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "써브웨이",
