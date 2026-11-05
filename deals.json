@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "dd9631a13f70",
+    "title": "브리타 정수기 필터 막스트라 프로 퓨어 퍼포먼스 4p",
+    "deal_total": 22180,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 30200,
+    "gap": 8020,
+    "mall_name": "네이버",
+    "buy_url": "https://link.coupang.com/a/iraaKSdcOG",
+    "source_url": "https://www.fmkorea.com/10523671709",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5781171/57811710078.20251118173725.jpg?type=f300",
+    "created_iso": "2026-11-05T17:01:49.292989+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/57811710078",
+    "naver_product_id": "57811710078",
+    "buy_url_orig": "https://link.coupang.com/a/iq8fdHXVp6",
+    "price_label": "22,180원",
+    "discount_guide": "1. 쿠폰 적용 시 8,020원 할인되어 22,180원(1개당 22,180원)\n2. 490원 캐시적립\n※ 최대 712원 쿠팡캐시 적립",
+    "product_summary": "브리타 정수기 필터 막스트라 프로 퓨어 퍼포먼스 4개입입니다.\n1세트에 필터 본품 4개가 포함된 구성입니다.\n제품 1개 기준 가로길이 10cm, 높이 7.6cm이며 재질은 아크릴입니다.",
+    "source_site": "fmkorea",
+    "category": "생활용품",
+    "category_bucket": "생활",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "브리타",
+      "BRITA",
+      "정수기필터",
+      "막스트라프로",
+      "퓨어퍼포먼스",
+      "MAXTRA",
+      "교체필터",
+      "정수필터"
+    ]
+  },
+  {
     "deal_id": "b36e13034c52",
     "title": "[오늘의집] 폰타나 파스타소스 2+1 골라담기 + 스파게티면 500g 증정 (11,702원/무배)",
     "deal_total": 11702,
@@ -17331,7 +17367,7 @@
     "category": "게임S/W",
     "category_bucket": "전자",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://ssg.li/rT6QUmtEN7"
     ],
@@ -17369,7 +17405,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "아이더",
@@ -17406,7 +17442,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "생굴",
