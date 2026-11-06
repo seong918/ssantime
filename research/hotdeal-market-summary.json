@@ -2,10 +2,10 @@
   "schema_version": "1.0",
   "dataset_name": "싼타임 현재 활성 온라인 핫딜 가격 비교 스냅샷",
   "canonical_url": "https://ssantime.com/research/",
-  "snapshot_updated_at": "2026-11-06T06:06:38.826048+00:00",
+  "snapshot_updated_at": "2026-11-06T07:33:08.200486+00:00",
   "active_record_span": {
-    "from": "2026-10-30T06:37:53.249532+00:00",
-    "to": "2026-11-06T06:06:38.826048+00:00",
+    "from": "2026-10-30T07:51:19.073112+00:00",
+    "to": "2026-11-06T07:33:08.200486+00:00",
     "from_date_kst": "2026-10-30",
     "to_date_kst": "2026-11-06",
     "retention_policy_days": 7
@@ -18,14 +18,14 @@
   },
   "metrics": {
     "active_verified_deals": 470,
-    "strict_comparable_deals": 220,
+    "strict_comparable_deals": 221,
     "median_savings_krw": 6190,
     "median_discount_percent": 23.9,
-    "shipping_known_deals": 220,
-    "shipping_unknown_deals": 250,
+    "shipping_known_deals": 221,
+    "shipping_unknown_deals": 249,
     "coupang_deals": 68,
     "coupang_share_percent": 14.5,
-    "identified_marketplace_labels": 48,
+    "identified_marketplace_labels": 46,
     "marketplace_unknown_deals": 0
   },
   "categories": [
@@ -36,13 +36,13 @@
     },
     {
       "name": "식품",
-      "count": 222,
-      "share_percent": 47.2
+      "count": 223,
+      "share_percent": 47.4
     },
     {
       "name": "생활",
-      "count": 52,
-      "share_percent": 11.1
+      "count": 51,
+      "share_percent": 10.9
     },
     {
       "name": "패션",
@@ -58,8 +58,8 @@
   "marketplaces": [
     {
       "name": "롯데ON",
-      "count": 78,
-      "share_percent": 16.6
+      "count": 80,
+      "share_percent": 17.0
     },
     {
       "name": "네이버 스마트스토어",
@@ -118,8 +118,8 @@
     },
     {
       "name": "기타 판매처",
-      "count": 57,
-      "share_percent": 12.1
+      "count": 55,
+      "share_percent": 11.7
     }
   ],
   "source_communities": [
@@ -130,13 +130,13 @@
     },
     {
       "name": "에펨코리아",
-      "count": 130,
-      "share_percent": 27.7
+      "count": 129,
+      "share_percent": 27.4
     },
     {
       "name": "아카라이브",
-      "count": 73,
-      "share_percent": 15.5
+      "count": 74,
+      "share_percent": 15.7
     },
     {
       "name": "퀘이사존",
