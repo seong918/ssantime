@@ -17731,7 +17731,7 @@
     "category": "기타",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "프롬비",
@@ -17768,7 +17768,7 @@
     "category": "기타",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "순천 알밤",
@@ -17805,7 +17805,7 @@
     "category": "생활용품",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "스탠리",
