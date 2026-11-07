@@ -1,5 +1,44 @@
 [
   {
+    "deal_id": "b5a55ed76a9f",
+    "title": "[네이버] 애슐리 시그니처 스테이크 부채 2팩+큐브2팩+소스 (30,410원/무료)",
+    "deal_total": 30410,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 48630,
+    "gap": 18220,
+    "mall_name": null,
+    "buy_url": "https://brand.naver.com/ashley/products/6095452836",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=118&&no=746832",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6200275/62002756945.jpg?type=f300",
+    "created_iso": "2026-11-07T10:49:42.030909+00:00",
+    "naver_url": null,
+    "naver_product_id": "62002756945",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. 상품 페이지에서 쿠폰을 받습니다 (쿠폰링크: https://shopping.naver.com/event/6ae922e1a231930f2ae0c826)\n2. 할인 적용 시 43,600원 → 19% 34,900원, 멤버십쿠폰가 30,410원으로 구매합니다\n※ 멤버십쿠폰가이며 무료배송입니다\n※ 멤버십은 1회 무료교환반품",
+    "product_summary": "애슐리 시그니처 스테이크(홈스토랑 by ASHLEY) 홈파티·캠핑용 밀키트입니다.\n부채살 스테이크 2팩과 큐브 스테이크 2팩으로 총 4팩 구성이며, 소스가 동봉됩니다.\n한 팩당 중량은 200g입니다.\n원산지는 상세설명에 표시되어 있습니다.",
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [
+      "https://shopping.naver.com/event/6ae922e1a231930f2ae0c826"
+    ],
+    "tags": [
+      "애슐리",
+      "시그니처 스테이크",
+      "부채살 스테이크",
+      "큐브 스테이크",
+      "밀키트",
+      "홈스토랑",
+      "ASHLEY",
+      "스테이크",
+      "캠핑 밀키트"
+    ]
+  },
+  {
     "deal_id": "09f9290036e7",
     "title": "[롯데온] 국내산 족히한상 한돈몽둥이 통족발 (1.2kg내외/4인분) (15,630원/무료)",
     "deal_total": 15630,
@@ -17613,7 +17652,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "아이더",
@@ -17651,7 +17690,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "수미칩",
@@ -17687,7 +17726,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "롯데",
