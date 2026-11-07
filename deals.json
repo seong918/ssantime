@@ -1,5 +1,40 @@
 [
   {
+    "deal_id": "373ab9b1c99e",
+    "title": "[롯데온] 르젠 퓨어미스트 가열식 가습기 (174,040원/무료)",
+    "deal_total": 174040,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 192000,
+    "gap": 17960,
+    "mall_name": "네이버",
+    "buy_url": "https://www.lotteon.com/p/product/LO2790111469",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=118&&no=746796",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5957192/59571923524.20261104121017.jpg?type=f300",
+    "created_iso": "2026-11-07T08:08:02.890846+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/59571923524",
+    "naver_product_id": "59571923524",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. 온누리상품권으로 결제 (온누리 7% 혜택)\n※ 정상가 229,000원 → 혜택가 174,040원",
+    "product_summary": "르젠 퓨어미스트 가열식 가습기 LZHD-HV5입니다.\n물을 끓여 분무하는 가열식 방식의 가습기입니다.\n대용량 물탱크를 갖춰 밤새 켜두고 사용하기에 적합합니다.\n온누리상품권으로도 결제할 수 있습니다.",
+    "source_site": "ppomppu",
+    "category": "가전/가구",
+    "category_bucket": "전자",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "르젠",
+      "LEZEN",
+      "퓨어미스트",
+      "가습기",
+      "가열식가습기",
+      "LZHD-HV5",
+      "대용량가습기"
+    ]
+  },
+  {
     "deal_id": "6ba389ec4766",
     "title": "[G마켓] 아이더 키즈 26 신상 롱다운 (102,170원 / 무배)",
     "deal_total": 102170,
@@ -17652,7 +17687,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://www.hfashionmall.com/event/EV202610070009025/view"
     ],
@@ -17691,7 +17726,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "진미채",
