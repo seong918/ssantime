@@ -1,5 +1,42 @@
 [
   {
+    "deal_id": "71ff8f47ec52",
+    "title": "맥콜 제로 250ml 60개 네이버멤버십",
+    "deal_total": 20500,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 25010,
+    "gap": 4510,
+    "mall_name": "네이버",
+    "buy_url": "https://m.brand.naver.com/ilhwa/products/8283509216",
+    "source_url": "https://arca.live/b/hotdeal/188390212",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5387739/53877396086.20250331174022.jpg?type=f300",
+    "created_iso": "2026-11-07T13:40:21.345161+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/53877396086",
+    "naver_product_id": "53877396086",
+    "buy_url_orig": "",
+    "price_label": "20,500원",
+    "discount_guide": "1. 정상가 34,800원에서 22% 할인된 26,800원(1개당 447원)\n2. 네이버 멤버십쿠폰 적용 시 20,500원(멤버십쿠폰가)\n3. 무료배송\n4. 최대 적립 포인트 3,635원",
+    "product_summary": "맥콜 제로 250ml 60개 세트입니다.\n보리 함량 약 10%의 제로 슈가 보리탄산음료입니다.\n1캔 용량은 250mL, 열량은 5kcal입니다.\n원산지는 국산입니다.",
+    "source_site": "arca",
+    "category": "식품",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "맥콜",
+      "맥콜제로",
+      "McCOL Zero",
+      "보리탄산음료",
+      "제로음료",
+      "제로슈가",
+      "탄산음료",
+      "250ml",
+      "60개"
+    ]
+  },
+  {
     "deal_id": "ba1f206b94b9",
     "title": "[지마켓] K2 남녀공용 씬에어 헤비다운 코트형패딩 (201,060원/무료)",
     "deal_total": 201060,
@@ -17535,7 +17572,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "매일",
@@ -17572,7 +17609,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "안국약품",
@@ -17609,7 +17646,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://on.lotteon.com/5t2vp0y",
       "https://s.lotteon.com/UbpWWTdCIf"
@@ -17649,7 +17686,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "케이스위스",
