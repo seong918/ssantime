@@ -17000,7 +17000,7 @@
     "category": "게임S/W",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -17027,7 +17027,7 @@
     "category": "해외핫딜",
     "category_bucket": null,
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
