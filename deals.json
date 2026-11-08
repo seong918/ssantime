@@ -1,5 +1,42 @@
 [
   {
+    "deal_id": "cd5156dae5cd",
+    "title": "아디다스 아디제로 보스턴13 JS4932",
+    "deal_total": 74560,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 83500,
+    "gap": 8940,
+    "mall_name": null,
+    "buy_url": "https://bitl.bz/api@WdbeFIoL",
+    "source_url": "https://www.fmkorea.com/10532946960",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5931762/59317621043.1.jpg?type=f300",
+    "created_iso": "2026-11-08T09:54:18.054176+00:00",
+    "naver_url": null,
+    "naver_product_id": "59317621043",
+    "buy_url_orig": "https://display.cjonstyle.com/p/item/2093862198",
+    "price_label": "74,560원",
+    "discount_guide": null,
+    "product_summary": "아디다스 아디제로 보스턴 13(JS4932) 러닝화입니다.\n라이트스트라이크 프로 폼이 적용된 쿠셔닝 러닝화입니다.\n화이트 바탕에 레드·그린 포인트가 들어간 색상 구성입니다.",
+    "source_site": "fmkorea",
+    "category": "먹거리",
+    "category_bucket": "패션",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "아디다스",
+      "adidas",
+      "아디제로",
+      "adizero",
+      "보스턴13",
+      "러닝화",
+      "마라톤화",
+      "JS4932",
+      "라이트스트라이크"
+    ]
+  },
+  {
     "deal_id": "b887866baeb0",
     "title": "[카카오] 브리츠 최신 6.0V 블루투스 이어링 오픈형 이어폰 (23,560원/무료)",
     "deal_total": 23560,
@@ -17267,7 +17304,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "알래스카",
@@ -17304,7 +17341,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "스노우피크",
@@ -17341,7 +17378,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "한우",
@@ -17377,7 +17414,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "크리넥스",
