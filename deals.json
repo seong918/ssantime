@@ -1,5 +1,43 @@
 [
   {
+    "deal_id": "ffc2ac35a03a",
+    "title": "247시리즈 TORAY DELFY 구스 다운 파카 (urban)",
+    "deal_total": 287280,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 347490,
+    "gap": 60210,
+    "mall_name": "네이버",
+    "buy_url": "https://brand.naver.com/247series/products/13808728603?NaPm=ct%3Dmw833sle%7Cci%3Dcheckout%7Ctr%3Dppc%7Ctrx%3Dnull%7Chk%3D275cc2c48618e392b72522226a5987a7825fce39",
+    "source_url": "https://arca.live/b/hotdeal/188511422",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6216569/62165696609.20261030080913.jpg?type=f300",
+    "created_iso": "2026-11-08T17:25:17.573595+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/62165696609",
+    "naver_product_id": "62165696609",
+    "buy_url_orig": "",
+    "price_label": "287,280원",
+    "discount_guide": "1. 네이버 멤버쉽이 있으면 추가 적립을 받을 수 있습니다(작성 기준 26,000원가량 적립).",
+    "product_summary": "247시리즈 TORAY DELFY 구스 다운 파카(urban)입니다.\n헝가리산 구스다운에 필파워 700, 도레이(TORAY)의 방수원단을 사용한 제품입니다.\n색상은 블랙·차콜·그레이가 있으며, 그레이는 일부 사이즈가 품절입니다.\n캐리오버 제품이며 한 사이즈 다운해서 선택하는 것을 권장합니다.",
+    "source_site": "arca",
+    "category": "의류",
+    "category_bucket": "패션",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "247시리즈",
+      "TORAY",
+      "도레이",
+      "DELFY",
+      "구스다운파카",
+      "구스다운",
+      "다운파카",
+      "필파워700",
+      "방수원단",
+      "패딩"
+    ]
+  },
+  {
     "deal_id": "60388272bdfb",
     "title": "[지마켓] 밍크털 수면바지 1+1/상하세트 (8,930원/무료)",
     "deal_total": 8930,
@@ -351,7 +389,7 @@
     "source_site": "fmkorea",
     "category": "먹거리",
     "category_bucket": "식품",
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [],
     "tags": [
@@ -17116,7 +17154,7 @@
     "category": "게임S/W",
     "category_bucket": null,
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -17143,7 +17181,7 @@
     "category": "식품/건강",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://shopping.naver.com/festa/onsale/699ceb9398f1530c6f40ef49",
       "https://brand.naver.com/cheiljedang/products/9536267231",
@@ -17174,7 +17212,7 @@
     "category": "식품/건강",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://shopping.naver.com/festa/onsale/699ceb9398f1530c6f40ef49"
     ],
@@ -17203,7 +17241,7 @@
     "category": "기타",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -17230,7 +17268,7 @@
     "category": "식품/건강",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -17257,7 +17295,7 @@
     "category": "기타",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -17284,7 +17322,7 @@
     "category": "PC/하드웨어",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -17311,7 +17349,7 @@
     "category": "생활/식품",
     "category_bucket": null,
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -17338,7 +17376,7 @@
     "category": "식품",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -17365,7 +17403,7 @@
     "category": "식품",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://shopping.naver.com/festa/onsale/699ceb9398f1530c6f40ef49"
     ],
@@ -17394,7 +17432,7 @@
     "category": "먹거리",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -17421,7 +17459,7 @@
     "category": "PC제품",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
@@ -17448,7 +17486,7 @@
     "category": "먹거리",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://store.ohou.se/exhibitions/13062"
     ],
