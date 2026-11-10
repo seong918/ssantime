@@ -1,5 +1,43 @@
 [
   {
+    "deal_id": "62a6b44ad0fe",
+    "title": "(코인) 아트뮤 Qi2.2 25W 3in1 폴더블 맥세이프 초고속 무선 충전기 QW110",
+    "deal_total": 33453,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 45700,
+    "gap": 12247,
+    "mall_name": "네이버",
+    "buy_url": "https://bitl.bz/api@z0GIXbzu",
+    "source_url": "https://www.fmkorea.com/10541511273",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6009578/60095788412.20260610100320.jpg?type=f300",
+    "created_iso": "2026-11-10T17:08:53.494570+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/60095788412",
+    "naver_product_id": "60095788412",
+    "buy_url_orig": "https://www.aliexpress.com/item/1005012186071637.html",
+    "price_label": "33,453원",
+    "discount_guide": "1. 할인코드 6,000원 적용: FMKR04 / KAKA04 / LJMW04\n2. 장바구니에 담은 뒤 계정 - 코인샵 - 최근 본 상품 - 장바구니 탭에서 '신청됨'을 눌러 결제로 들어가면 코인샵 할인 4,876원이 적용됩니다\n→ 할인코드 6,000원 + 코인샵 4,876원 적용 시 최종 33,453원",
+    "product_summary": "아트뮤 QW110은 Qi2.2 25W를 지원하는 3in1 폴더블 맥세이프 초고속 무선 충전기입니다.\n스마트폰·스마트워치·이어버드를 한 번에 올려 충전할 수 있는 3in1 거치 구조로, 접이식(폴더블) 디자인을 적용했습니다.\n전면 냉각과 후면 방열을 결합한 액티브 쿨링 시스템(Polar Active Cooling System)과 MPP 마그네틱 정렬을 갖췄습니다.\nQi2.2 25W 공식 인증 제품으로 QI ID는 27497이며, 한국 발송·무료 배송입니다.",
+    "source_site": "fmkorea",
+    "category": "가전제품",
+    "category_bucket": "전자",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "아트뮤",
+      "ASTMU",
+      "QW110",
+      "무선충전기",
+      "3in1 충전기",
+      "맥세이프",
+      "MagSafe",
+      "Qi2.2",
+      "폴더블 충전기",
+      "25W 고속충전"
+    ]
+  },
+  {
     "deal_id": "473f1bee902e",
     "title": "[토스] 바로드숑 닭가슴살 12팩 (19,570원/무료배송)",
     "deal_total": 19570,
@@ -17229,7 +17267,7 @@
     "category": "기타",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "귀뚜라미",
@@ -17267,7 +17305,7 @@
     "category": "PC/하드웨어",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "삼성전자",
@@ -17304,7 +17342,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "삼립",
@@ -17341,7 +17379,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://store.ohou.se/exhibitions/13062"
     ],
@@ -17379,7 +17417,7 @@
     "category": "전자제품",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://shopping.naver.com/event/6abdb73814c78778b14ed16c"
     ],
@@ -17418,7 +17456,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "초코송이",
