@@ -1,5 +1,43 @@
 [
   {
+    "deal_id": "71ba8d8997e6",
+    "title": "[sk스토아] 루카스나인 더블샷라떼50Tx2/총100T (34,010원/무료)",
+    "deal_total": 34010,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 40330,
+    "gap": 6320,
+    "mall_name": null,
+    "buy_url": "https://www.skstoa.com/display/goods/35129569",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=118&&no=748079",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5546578/55465785627.16.jpg?type=f300",
+    "created_iso": "2026-11-11T12:06:23.085465+00:00",
+    "naver_url": null,
+    "naver_product_id": "55465785627",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. [식품] BEST 7% 쿠폰 -2,550원 적용 (상품금액 36,560원 → 34,010원)\n2. 적립 20% (최대 6,802원, 적립 예정 금액 +7,002원) ※ 주문 후 신청 필수\n3. KB국민카드 5% 청구할인 (5만원 이상)\n4. 신규 15% 할인 제휴 쿠폰\n※ 적립은 아래 20% 적립 링크를 통해 신청: https://abr.ge/jato1wu\n※ 배송비 무료",
+    "product_summary": "루카스나인(LOOKAS9) 시그니처 더블샷 라떼 스틱 커피입니다.\n50T 2개로 구성되어 총 100T입니다.\n제조사는 남양에프엔비이며, 남양 공식 판매점 상품입니다.",
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [
+      "https://abr.ge/jato1wu"
+    ],
+    "tags": [
+      "루카스나인",
+      "LOOKAS9",
+      "더블샷라떼",
+      "스틱커피",
+      "믹스커피",
+      "라떼",
+      "남양",
+      "커피"
+    ]
+  },
+  {
     "deal_id": "e2a069df1413",
     "title": "[11번가] 프로스펙스 남성 방수 워킹화 데이라이크 (44,280원/무배)",
     "deal_total": 44280,
