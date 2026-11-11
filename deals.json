@@ -1,5 +1,44 @@
 [
   {
+    "deal_id": "446e837bcb24",
+    "title": "푸마 매그맥스 나이트로2",
+    "deal_total": 119310,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 147900,
+    "gap": 28590,
+    "mall_name": null,
+    "buy_url": "https://www.29cm.co.kr/products/4056654",
+    "source_url": "https://www.fmkorea.com/10545846787",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_9130034/91300348854.jpg?type=f300",
+    "created_iso": "2026-11-11T23:43:52.045463+00:00",
+    "naver_url": null,
+    "naver_product_id": "91300348854",
+    "buy_url_orig": "",
+    "price_label": "119,310원",
+    "discount_guide": "1. 15% 쿠폰을 적용합니다.\n2. 14% 쿠폰을 중복으로 적용합니다.\n3. 하나카드 할인을 받습니다.\n4. 쿠폰받기로 40% 142,210원, 중복 쿠폰 적용 시 50% 119,310원까지 적용됩니다.\n5. 무신사 삼성카드 결제 시 92,310원까지 할인됩니다.",
+    "product_summary": "푸마 매그맥스 나이트로2 러닝화입니다.\n정가 239,000원 제품으로, NITRO 폼이 적용된 미드솔을 갖추고 있습니다.\n푸마 블랙:플랫 다크 그레이, 써니 라임-푸마 실버, 바이브런트 실버:럭스 라임 등 여러 컬러로 구성됩니다.\n사이즈는 280까지 선택 가능합니다.",
+    "source_site": "fmkorea",
+    "category": "의류",
+    "category_bucket": "패션",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [
+      "https://www.29cm.co.kr/products/3661427"
+    ],
+    "tags": [
+      "푸마",
+      "puma",
+      "매그맥스 나이트로2",
+      "매그맥스",
+      "MagMax",
+      "나이트로2",
+      "Nitro",
+      "러닝화",
+      "운동화"
+    ]
+  },
+  {
     "deal_id": "a79be7f86573",
     "title": "[지마켓] 강화도 순무김치 1.5kg (13,500원/무료)",
     "deal_total": 13500,
@@ -167,7 +206,7 @@
     "source_site": "fmkorea",
     "category": "먹거리",
     "category_bucket": "식품",
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [],
     "tags": [
@@ -17429,7 +17468,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "광천김",
@@ -17465,7 +17504,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "새우깡",
@@ -17501,7 +17540,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "하늘보리",
