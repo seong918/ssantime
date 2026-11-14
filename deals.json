@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "803356c5c42e",
+    "title": "[네이버] 하동악양대봉감 5킬로 22,000원",
+    "deal_total": 22000,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 30000,
+    "gap": 8000,
+    "mall_name": null,
+    "buy_url": "https://naver.me/xEXypKJh",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=118&&no=748874",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_9136646/91366460572.3.jpg?type=f300",
+    "created_iso": "2026-11-14T11:25:40.260254+00:00",
+    "naver_url": null,
+    "naver_product_id": "91366460572",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": null,
+    "product_summary": "경남 하동 악양에서 재배한 대봉감입니다.\n5킬로 단위로 구성된 상품입니다.",
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "대봉감",
+      "하동대봉감",
+      "악양대봉감",
+      "하동악양대봉감",
+      "감",
+      "홍시",
+      "대봉",
+      "과일"
+    ]
+  },
+  {
     "deal_id": "433d057b684b",
     "title": "[롯데온] 지오지아 맥 구스다운 패딩 코트 (93,290원/무료)",
     "deal_total": 93290,
@@ -16518,7 +16554,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://shopping.naver.com/event/6ae922e1a231930f2ae0c826"
     ],
