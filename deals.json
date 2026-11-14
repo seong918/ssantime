@@ -1,5 +1,42 @@
 [
   {
+    "deal_id": "002b0dad068f",
+    "title": "[네이버] 히든 퍼퓸 스프레이 바디로션 1+1 (19,900원 / 무배)",
+    "deal_total": 19900,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 29600,
+    "gap": 9700,
+    "mall_name": "네이버",
+    "buy_url": "https://smartstore.naver.com/salim84/products/13873812683",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=118&&no=748914",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5423997/54239979857.20250416164747.jpg?type=f300",
+    "created_iso": "2026-11-14T17:14:13.393962+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/54239979857",
+    "naver_product_id": "54239979857",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": null,
+    "product_summary": "hedn(히든) 퍼퓸 스프레이 바디로션으로, 뿌려서 사용하는 스프레이 타입 제품입니다.\n은은한 그레이스 올리브(Grace Olive) 향으로, 무화과·베티버·시더우드 계열의 향을 담고 있습니다.\n250ml 용량 2개로 구성된 1+1 상품입니다.",
+    "source_site": "ppomppu",
+    "category": "기타",
+    "category_bucket": "생활",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "hedn",
+      "히든",
+      "바디로션",
+      "퍼퓸바디로션",
+      "스프레이바디로션",
+      "그레이스올리브",
+      "Grace Olive",
+      "무화과향",
+      "바디케어"
+    ]
+  },
+  {
     "deal_id": "f830bf832cba",
     "title": "[롯데온] 낫소 패딩 방한슬립온 (13,710원/무배)",
     "deal_total": 13710,
@@ -1607,7 +1644,7 @@
     "source_site": "ppomppu",
     "category": "식품/건강",
     "category_bucket": "식품",
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [],
     "tags": [
@@ -16479,7 +16516,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://shopping.naver.com/event/6ae1abb4a231930f2ac8b71a"
     ],
@@ -16517,7 +16554,7 @@
     "category": "상품권/쿠폰",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "로블록스",
@@ -16552,7 +16589,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "래핑카우",
