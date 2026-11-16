@@ -4,7 +4,7 @@
   "canonical_url": "https://ssantime.com/research/",
   "snapshot_updated_at": "2026-11-16T17:12:11.964205+00:00",
   "active_record_span": {
-    "from": "2026-11-09T17:26:04.521726+00:00",
+    "from": "2026-11-09T23:35:29.051023+00:00",
     "to": "2026-11-16T17:12:11.964205+00:00",
     "from_date_kst": "2026-11-10",
     "to_date_kst": "2026-11-17",
@@ -17,12 +17,12 @@
     "comparison_baseline": "수집 시점에 같은 상품 후보로 자동 매칭한 네이버 쇼핑 비교가"
   },
   "metrics": {
-    "active_verified_deals": 436,
+    "active_verified_deals": 435,
     "strict_comparable_deals": 209,
     "median_savings_krw": 6230,
     "median_discount_percent": 24.7,
     "shipping_known_deals": 209,
-    "shipping_unknown_deals": 227,
+    "shipping_unknown_deals": 226,
     "coupang_deals": 43,
     "coupang_share_percent": 9.9,
     "identified_marketplace_labels": 61,
@@ -31,13 +31,13 @@
   "categories": [
     {
       "name": "전자",
-      "count": 75,
-      "share_percent": 17.2
+      "count": 74,
+      "share_percent": 17.0
     },
     {
       "name": "식품",
       "count": 234,
-      "share_percent": 53.7
+      "share_percent": 53.8
     },
     {
       "name": "생활",
@@ -64,12 +64,12 @@
     {
       "name": "네이버 스마트스토어",
       "count": 63,
-      "share_percent": 14.4
+      "share_percent": 14.5
     },
     {
       "name": "11번가",
-      "count": 51,
-      "share_percent": 11.7
+      "count": 50,
+      "share_percent": 11.5
     },
     {
       "name": "쿠팡",
@@ -119,19 +119,19 @@
     {
       "name": "기타 판매처",
       "count": 72,
-      "share_percent": 16.5
+      "share_percent": 16.6
     }
   ],
   "source_communities": [
     {
       "name": "뽐뿌",
       "count": 218,
-      "share_percent": 50.0
+      "share_percent": 50.1
     },
     {
       "name": "에펨코리아",
       "count": 126,
-      "share_percent": 28.9
+      "share_percent": 29.0
     },
     {
       "name": "아카라이브",
@@ -140,8 +140,8 @@
     },
     {
       "name": "퀘이사존",
-      "count": 22,
-      "share_percent": 5.0
+      "count": 21,
+      "share_percent": 4.8
     },
     {
       "name": "루리웹",
