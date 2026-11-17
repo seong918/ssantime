@@ -1,5 +1,80 @@
 [
   {
+    "deal_id": "bd225755e01b",
+    "title": "[아디다스] 삼바 OG 브라운 KJ8902 (67,600원/무료배송)",
+    "deal_total": 67600,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 74490,
+    "gap": 6890,
+    "mall_name": null,
+    "buy_url": "https://bitl.bz/api@6xlgkvtK",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=118&&no=749424",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_9141044/91410445204.jpg?type=f300",
+    "created_iso": "2026-11-17T02:29:47.961343+00:00",
+    "naver_url": null,
+    "naver_product_id": "91410445204",
+    "buy_url_orig": "https://www.adidas.co.kr/%EC%82%BC%EB%B0%94-og/KJ8902.html",
+    "price_label": "",
+    "discount_guide": "1. 블랙 프라이데이 할인가 67,600원(정상가 169,000원, -60%)에 구매합니다.\n2. 장바구니에 담으면 블랙 프라이데이 특별 할인된 전 제품에 추가 30% 할인이 적용됩니다.\n※ 행사는 11월 20일까지입니다.\n※ 색상·사이즈별 재고와 최종 결제가격은 직접 확인하세요.",
+    "product_summary": "아디다스 삼바 OG 브라운(KJ8902) 스니커즈입니다.\n레더 갑피와 고무 아웃솔을 적용한 클래식 삼바 OG 모델입니다.\n색상은 Fox Brown / Sandy Beige / Gum 구성입니다.",
+    "source_site": "ppomppu",
+    "category": "기타",
+    "category_bucket": "패션",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "아디다스",
+      "adidas",
+      "삼바",
+      "samba",
+      "삼바 OG",
+      "KJ8902",
+      "스니커즈",
+      "운동화",
+      "브라운"
+    ]
+  },
+  {
+    "deal_id": "199f6b9160a0",
+    "title": "26년 농협 햅쌀 락미미 10kg 새청무",
+    "deal_total": 25873,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 30969,
+    "gap": 5096,
+    "mall_name": null,
+    "buy_url": "https://store.ohou.se/goods/3933319",
+    "source_url": "https://www.fmkorea.com/10564835433",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6128462/61284620243.jpg?type=f300",
+    "created_iso": "2026-11-17T02:30:32.387101+00:00",
+    "naver_url": null,
+    "naver_product_id": "61284620243",
+    "buy_url_orig": "",
+    "price_label": "25,873원",
+    "discount_guide": "1. 상품쿠폰 7% 적용\n2. 장바구니쿠폰 10% 적용\n3. 토스페이 할인 -2,000원 적용 (토스 → 쇼핑 → '오집' 검색)\n세 가지를 모두 적용하면 10kg 25,873원입니다.",
+    "product_summary": "2026년 햅쌀 농협 락미미 10kg입니다.\n새청무 단일품종으로 구성되어 있습니다.\n주문 시 당일도정으로 제공됩니다.",
+    "source_site": "fmkorea",
+    "category": "먹거리",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [
+      "https://events.ohou.se/promotion-pages/big-promotion"
+    ],
+    "tags": [
+      "락미미",
+      "농협쌀",
+      "햅쌀",
+      "새청무",
+      "단일품종",
+      "10kg",
+      "당일도정",
+      "백미"
+    ]
+  },
+  {
     "deal_id": "d29c90b244e8",
     "title": "[29CM] 푸마 H-스트리트 코드 (39,900원/무료)",
     "deal_total": 39900,
@@ -16018,7 +16093,7 @@
     "category": "기타",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "떡국떡",
@@ -16054,7 +16129,7 @@
     "category": "기타",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "어묵탕",
@@ -16091,7 +16166,7 @@
     "category": "기타",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "완숙토마토",
@@ -16127,7 +16202,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "블루베리",
@@ -16162,7 +16237,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "스프라이트",
@@ -16198,7 +16273,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "해남절임배추",
@@ -16235,7 +16310,7 @@
     "category": "PC제품",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "수월우",
@@ -16272,7 +16347,7 @@
     "category": "의류",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://brand.naver.com/ilcorso/products/13823204843"
     ],
@@ -16312,7 +16387,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "몽쉘",
@@ -16348,7 +16423,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "더프레시",
