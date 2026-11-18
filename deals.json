@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "780ab9c4c0b0",
+    "title": "[토스쇼핑] 대식가 일키로 부대찌개, 1kg, 2팩(11,900원/무배)",
+    "deal_total": 11900,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 15720,
+    "gap": 3820,
+    "mall_name": null,
+    "buy_url": "https://toss.shopping/t/78577209",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=118&&no=749939",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6031998/60319989701.jpg?type=f300",
+    "created_iso": "2026-11-18T16:29:56.541966+00:00",
+    "naver_url": null,
+    "naver_product_id": "60319989701",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": null,
+    "product_summary": "대식가 일키로 부대찌개 밀키트로, 1kg 2팩 구성입니다.\n페퍼로니, 프레스햄, 프랑크소세지 등 햄과 넓적 당면, 떡국떡이 들어 있습니다.\n1팩은 2~3인분 분량이며, 무료배송으로 제공됩니다.\n하루 최대 1개까지 구매할 수 있으며, 원산지는 상세페이지를 참조하시면 됩니다.",
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "부대찌개",
+      "밀키트",
+      "즉석탕",
+      "찌개",
+      "부대찌개밀키트",
+      "대식가일키로",
+      "햄",
+      "당면"
+    ]
+  },
+  {
     "deal_id": "d984552aeb22",
     "title": "[11번가] 프로즌 원팩 마라탕 보통맛 450g 2팩 (13,880원/무료)",
     "deal_total": 13880,
@@ -15370,7 +15406,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "순무김치",
@@ -15406,7 +15442,7 @@
     "category": "생활용품",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "도루코",
@@ -15443,7 +15479,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "통삼겹살",
@@ -15481,7 +15517,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "족발",
@@ -15516,7 +15552,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "비비고",
