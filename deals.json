@@ -1,5 +1,42 @@
 [
   {
+    "deal_id": "4855555a5d4a",
+    "title": "아디다스 아디제로 또보스 KI9874",
+    "deal_total": 86000,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 93390,
+    "gap": 7390,
+    "mall_name": null,
+    "buy_url": "https://www.lotteon.com/p/product/PD66555290",
+    "source_url": "https://www.fmkorea.com/10571239905",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6177519/61775192678.jpg?type=f300",
+    "created_iso": "2026-11-18T14:20:33.293650+00:00",
+    "naver_url": null,
+    "naver_product_id": "61775192678",
+    "buy_url_orig": "",
+    "price_label": "86,000원",
+    "discount_guide": "1. 92,470원(20% 할인가)에서 카카오페이 머니로 결제하면 86,000원이 됩니다\n2. 롯데카드로 결제해도 86,000원이 적용됩니다\n3. L.POINT 최대 246P 적립, 리뷰 작성 이벤트(11/1~11/30) 200P 적립\n4. L.POINT 충전결제 시 2% 적립, 롯데오너스 추가 0.45% 적립\n5. 무이자 할부 최대 6개월·특별금리 최대 24개월",
+    "product_summary": "아디다스 아디제로 EVO SL(KI9874) 남성 러닝화입니다.\n아디제로 라인의 경량 러닝·워킹화로 그레이 컬러에 삼선 디자인이 적용된 모델입니다.\n정가 117,040원에서 20% 할인된 92,470원이며, 결제 혜택 적용 시 86,000원입니다.",
+    "source_site": "fmkorea",
+    "category": "의류",
+    "category_bucket": "패션",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "아디다스",
+      "adidas",
+      "아디제로",
+      "adizero",
+      "EVO SL",
+      "KI9874",
+      "러닝화",
+      "운동화",
+      "남성신발"
+    ]
+  },
+  {
     "deal_id": "917f902e5ef9",
     "title": "[지마켓] 에디션 브러시드 사방스판 슬랙스 (20,660원/무배)",
     "deal_total": 20660,
@@ -15479,7 +15516,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "무신사",
@@ -15515,7 +15552,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "마른오징어",
@@ -15551,7 +15588,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "유귀열",
@@ -15588,7 +15625,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "진미채",
@@ -15624,7 +15661,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "슈퍼비",
