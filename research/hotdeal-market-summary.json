@@ -2,12 +2,12 @@
   "schema_version": "1.0",
   "dataset_name": "싼타임 현재 활성 온라인 핫딜 가격 비교 스냅샷",
   "canonical_url": "https://ssantime.com/research/",
-  "snapshot_updated_at": "2026-11-19T14:39:20.659193+00:00",
+  "snapshot_updated_at": "2026-11-19T15:07:26.088962+00:00",
   "active_record_span": {
-    "from": "2026-11-12T15:07:58.585603+00:00",
-    "to": "2026-11-19T14:39:20.659193+00:00",
+    "from": "2026-11-12T15:08:10.703835+00:00",
+    "to": "2026-11-19T15:07:26.088962+00:00",
     "from_date_kst": "2026-11-13",
-    "to_date_kst": "2026-11-19",
+    "to_date_kst": "2026-11-20",
     "retention_policy_days": 7
   },
   "scope": {
@@ -36,8 +36,8 @@
     },
     {
       "name": "식품",
-      "count": 192,
-      "share_percent": 48.5
+      "count": 193,
+      "share_percent": 48.7
     },
     {
       "name": "생활",
@@ -46,8 +46,8 @@
     },
     {
       "name": "패션",
-      "count": 72,
-      "share_percent": 18.2
+      "count": 71,
+      "share_percent": 17.9
     },
     {
       "name": "기타",
