@@ -1,5 +1,44 @@
 [
   {
+    "deal_id": "34b40cf8b8dc",
+    "title": "[오늘의집] 베베앙 82평량 골드 블랙 캡형 70매 20팩 (17,465원/무배)",
+    "deal_total": 17465,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 21300,
+    "gap": 3835,
+    "mall_name": null,
+    "buy_url": "https://store.ohou.se/goods/3827559",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=118&&no=750559",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6017840/60178406253.jpg?type=f300",
+    "created_iso": "2026-11-20T16:57:26.646631+00:00",
+    "naver_url": null,
+    "naver_product_id": "60178406253",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. 오늘의집 프로모션 페이지 하단 '쿠폰 뽑기'에서 랜덤 장바구니 쿠폰을 뽑으세요 (7% 받으면 17,465원, 뽑는 쿠폰에 따라 가격이 조금 달라집니다)\n2. 상품 쿠폰 적용 (상품 쿠폰 -20,700원)\n3. 장바구니 쿠폰 적용 (장바구니 쿠폰 -1,477원)\n4. 카카오페이로 결제 (카카오페이 할인 -2,158원, 최대 967P 적립)\n※ 상품쿠폰 + 장바구니 쿠폰 + 카카오페이 결제를 모두 적용해야 최종 금액이 나옵니다",
+    "product_summary": "베베앙 아기물티슈 두꺼운 82g 골드 블랙 캡형 제품입니다.\n70매 20팩 구성입니다.\n뚜껑이 달린 캡형 타입입니다.\n배송은 무료배송입니다.",
+    "source_site": "ppomppu",
+    "category": "기타",
+    "category_bucket": "생활",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [
+      "https://events.ohou.se/promotion-pages/big-promotion"
+    ],
+    "tags": [
+      "베베앙",
+      "Bebeen",
+      "아기물티슈",
+      "물티슈",
+      "캡형물티슈",
+      "골드블랙",
+      "70매",
+      "82g",
+      "유아물티슈"
+    ]
+  },
+  {
     "deal_id": "9507d297940b",
     "title": "[플레이스테이션] PS5 GTA6(다운로드DLC버전)+포스터(80,820원/무료)",
     "deal_total": 80820,
@@ -15259,7 +15298,7 @@
     "category": "가전/가구",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://store.ohou.se/goods/3371744"
     ],
@@ -15297,7 +15336,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "아이러브베베",
@@ -15335,7 +15374,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "특이점이 온다",
@@ -15372,7 +15411,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "오리온",
