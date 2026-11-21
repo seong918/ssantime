@@ -1,5 +1,43 @@
 [
   {
+    "deal_id": "15227be07cfd",
+    "title": "클룹 애사비소다 화이바 제로 탄산음료 500ml 20개",
+    "deal_total": 15170,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 23900,
+    "gap": 8730,
+    "mall_name": "네이버",
+    "buy_url": "https://link.coupang.com/a/iQEFp7n8Xk",
+    "source_url": "https://arca.live/b/hotdeal/189806057",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5861375/58613751345.20260907153211.jpg?type=f300",
+    "created_iso": "2026-11-21T01:38:41.561945+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/58613751345",
+    "naver_product_id": "58613751345",
+    "buy_url_orig": "https://www.coupang.com/vp/products/9251258998?itemId=27363815735&vendorItemId=94329848088",
+    "price_label": "15,170원",
+    "discount_guide": null,
+    "product_summary": "클룹 애사비소다 화이바 제로 탄산음료입니다.\n사과식초(애플 사이더 비니거)를 담은 제로 탄산음료로, 개당 용량은 500ml이며 총 20개로 구성되어 있습니다.\n식이섬유 성분이 함유되어 있으며 원산지는 상품 상세설명을 참조하셔야 합니다.",
+    "source_site": "arca",
+    "category": "식품",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "클룹",
+      "CLOOP",
+      "애사비",
+      "애사비소다",
+      "사과식초",
+      "애플사이더비니거",
+      "탄산음료",
+      "제로",
+      "화이바",
+      "식이섬유음료"
+    ]
+  },
+  {
     "deal_id": "2dc5ebf3e9fa",
     "title": "Crusader Kings III",
     "deal_total": 16500,
@@ -133,7 +171,7 @@
     "source_site": "fmkorea",
     "category": "의류",
     "category_bucket": "패션",
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [],
     "tags": [
@@ -15338,7 +15376,7 @@
     "category": "가전/가구",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "대웅",
@@ -15373,7 +15411,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "아임닭",
@@ -15408,7 +15446,7 @@
     "category": "생활용품",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "그랜즈레미디",
@@ -15446,7 +15484,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "쌀로별",
