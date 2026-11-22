@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "b3d1391e1989",
+    "title": "해태제과 크림 웨하스, 50g, 24개",
+    "deal_total": 11250,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 17800,
+    "gap": 6550,
+    "mall_name": null,
+    "buy_url": "https://link.coupang.com/a/iStBFPVIPs",
+    "source_url": "https://arca.live/b/hotdeal/189907051",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_3921180/39211804040.42.jpg?type=f300",
+    "created_iso": "2026-11-22T03:59:07.742079+00:00",
+    "naver_url": null,
+    "naver_product_id": "39211804040",
+    "buy_url_orig": "https://www.coupang.com/vp/products/1274806014?itemId=14149105703&vendorItemId=85322105430",
+    "price_label": "11,250원",
+    "discount_guide": "1. 25% 할인 적용가 11,250원 (정가 15,090원)\n2. 3,840원 쿠폰할인 적용",
+    "product_summary": "해태제과 크림 웨하스 24개입 세트입니다.\n개당 중량은 50g입니다.\n부드럽고 바삭한 식감의 크림 웨하스 오리지널 제품입니다.",
+    "source_site": "arca",
+    "category": "식품",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "해태제과",
+      "해태",
+      "크림웨하스",
+      "웨하스",
+      "크림웨이퍼",
+      "과자",
+      "오리지널",
+      "haitai"
+    ]
+  },
+  {
     "deal_id": "d76bb88870c6",
     "title": "[오늘의집] 아크네 바디워시 1050ml (6,900원/무료)",
     "deal_total": 6900,
@@ -15048,7 +15084,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "보드레",
@@ -15085,7 +15121,7 @@
     "category": "가전제품",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "하만카돈",
@@ -15121,7 +15157,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "종가",
@@ -15157,7 +15193,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "쿡솜씨",
@@ -15193,7 +15229,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://shopping.naver.com/event/6ae922e1a231930f2ae0c826?"
     ],
@@ -15232,7 +15268,7 @@
     "category": "가전제품",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "온열매트",
