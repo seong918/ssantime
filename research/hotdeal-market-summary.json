@@ -2,10 +2,10 @@
   "schema_version": "1.0",
   "dataset_name": "싼타임 현재 활성 온라인 핫딜 가격 비교 스냅샷",
   "canonical_url": "https://ssantime.com/research/",
-  "snapshot_updated_at": "2026-11-22T04:45:00.364209+00:00",
+  "snapshot_updated_at": "2026-11-22T05:31:12.272506+00:00",
   "active_record_span": {
-    "from": "2026-11-15T05:05:26.446720+00:00",
-    "to": "2026-11-22T04:45:00.364209+00:00",
+    "from": "2026-11-15T08:24:21.631268+00:00",
+    "to": "2026-11-22T05:31:12.272506+00:00",
     "from_date_kst": "2026-11-15",
     "to_date_kst": "2026-11-22",
     "retention_policy_days": 7
@@ -23,8 +23,8 @@
     "median_discount_percent": 24.3,
     "shipping_known_deals": 203,
     "shipping_unknown_deals": 192,
-    "coupang_deals": 56,
-    "coupang_share_percent": 14.2,
+    "coupang_deals": 55,
+    "coupang_share_percent": 13.9,
     "identified_marketplace_labels": 55,
     "marketplace_unknown_deals": 0
   },
@@ -63,13 +63,13 @@
     },
     {
       "name": "네이버 스마트스토어",
-      "count": 61,
-      "share_percent": 15.4
+      "count": 62,
+      "share_percent": 15.7
     },
     {
       "name": "쿠팡",
-      "count": 56,
-      "share_percent": 14.2
+      "count": 55,
+      "share_percent": 13.9
     },
     {
       "name": "11번가",
