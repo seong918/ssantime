@@ -1,5 +1,42 @@
 [
   {
+    "deal_id": "c4cfaee68e6f",
+    "title": "HP 옴니북 5 16-bm0011TU 512GB/16GB/win11 home",
+    "deal_total": 1249000,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 1549000,
+    "gap": 300000,
+    "mall_name": "네이버",
+    "buy_url": "https://link.coupang.com/a/iUD06A4IY8",
+    "source_url": "https://www.fmkorea.com/10588614799",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6003898/60038987412.20260514121102.jpg?type=f300",
+    "created_iso": "2026-11-23T11:20:00.974300+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/60038987412",
+    "naver_product_id": "60038987412",
+    "buy_url_orig": "https://link.coupang.com/a/iUDDeEfjhY",
+    "price_label": "1,249,000원",
+    "discount_guide": "1. 와우쿠폰할인 적용 시 300,000원 할인되어 1,249,000원 (정상가 1,549,000원, 19% 할인)\n※ 와우쿠폰 할인 3시간 남음",
+    "product_summary": "HP 옴니북 5 16-bm0011TU 16인치 노트북입니다.\n인텔 코어 Ultra 7 355 프로세서와 16GB 메모리, 512GB 저장용량, OLED 패널을 탑재했습니다.\n윈도우11 홈이 설치되어 있으며, NPU 49 TOPS AI 성능과 무게 1680g, EPEAT Gold 등록 사양입니다.",
+    "source_site": "fmkorea",
+    "category": "PC제품",
+    "category_bucket": "전자",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "HP",
+      "옴니북",
+      "HP Omnibook",
+      "노트북",
+      "OLED",
+      "코어Ultra7",
+      "16인치",
+      "WIN11",
+      "인텔"
+    ]
+  },
+  {
     "deal_id": "eef6f1911722",
     "title": "[토스] 골드 키위 대과 2kg 11~15과 (12,882원/무배)",
     "deal_total": 12882,
@@ -15654,7 +15691,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "시오리스",
@@ -15691,7 +15728,7 @@
     "category": "생활/식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "묵은지",
@@ -15727,7 +15764,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "불닭볶음탕면",
@@ -15764,7 +15801,7 @@
     "category": "생활용품",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "도루코",
