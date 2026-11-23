@@ -1,5 +1,43 @@
 [
   {
+    "deal_id": "5ec569b8361c",
+    "title": "[오늘의집] 1+1 샤토 커트러리 풀세트 2인 8P 스푼/젓가락/포크/나이프 (18,900원/무배)",
+    "deal_total": 18900,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 29250,
+    "gap": 10350,
+    "mall_name": null,
+    "buy_url": "https://store.ohou.se/goods/3133081",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=118&&no=750984",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_8860177/88601778196.jpg?type=f300",
+    "created_iso": "2026-11-23T03:02:03.139993+00:00",
+    "naver_url": null,
+    "naver_product_id": "88601778196",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. 상품쿠폰: 26,900원에서 5천원 쿠폰 할인되어 21,900원\n2. 장바구니쿠폰 적용: 18,900원\n3. 결제할인 적용 시 최종 18,900원 결제\n4. 결제 시 최대 619P 적립\n※ 평일 12:00까지 결제 시 오늘출발\n※ 오전 11시부터 오후 8시까지 진행하는 한정수량 특가",
+    "product_summary": "샤토 커트러리 2인 풀세트 8P입니다.\n스푼, 젓가락, 포크, 나이프로 구성된 양식 커트러리 세트입니다.\n1+1 구성으로 총 2인 8P가 제공됩니다.\n무료배송으로 받아보실 수 있습니다.",
+    "source_site": "ppomppu",
+    "category": "기타",
+    "category_bucket": "생활",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "샤토",
+      "커트러리",
+      "커트러리세트",
+      "수저세트",
+      "양식커트러리",
+      "스푼",
+      "포크",
+      "나이프",
+      "젓가락",
+      "달팽이리빙"
+    ]
+  },
+  {
     "deal_id": "5261045e7cb4",
     "title": "[네이버]펄스 익스플로어(롯데카드 최대 165,630원)",
     "deal_total": 165630,
@@ -15637,7 +15675,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "트웬티",
@@ -15673,7 +15711,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "지오다노",
@@ -15709,7 +15747,7 @@
     "category": "기타",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "풀무원",
@@ -15746,7 +15784,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "주원산오리",
@@ -15781,7 +15819,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "삼양식품",
@@ -15818,7 +15856,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://shopping.naver.com/festa/onsale/699ceb9398f1530c6f40ef49"
     ],
@@ -15857,7 +15895,7 @@
     "category": "PC제품",
     "category_bucket": null,
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": []
   },
