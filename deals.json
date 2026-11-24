@@ -1,5 +1,44 @@
 [
   {
+    "deal_id": "fb6082148865",
+    "title": "[네이버] 농심 신라면 10개+너구리 10개 / 신라면 30개 / 너구리 20개",
+    "deal_total": 12310,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 19290,
+    "gap": 6980,
+    "mall_name": null,
+    "buy_url": "https://brand.naver.com/nongshim/products/12242603787",
+    "source_url": "https://quasarzone.com/bbs/qb_saleinfo/views/2004045",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_9088149/90881499958.jpg?type=f300",
+    "created_iso": "2026-11-24T17:47:35.378232+00:00",
+    "naver_url": null,
+    "naver_product_id": "90881499958",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. 농심 선착순 15% 쿠폰 적용 (신라면10+너구리10: -2,560원 / 신라면 30개: -3,750원)\n2. 스토어 전 고객 15% 쿠폰 적용 (신라면10+너구리10: -2,180원 / 신라면 30개: -3,190원)\n3. 네이버 현대카드 Ed3 결제 시 최대 15% 포인트 적립\n4. 행사카드 결제 시 최대 50,000원 추가 할인\n5. 네이버 멤버십 최대 적립 포인트 2,313원\n※ 신라면 10개+너구리 10개 최대할인가 12,310원, 신라면 30개(120g×30) 최대할인가 18,030원\n※ 쿠폰은 쿠폰 받기 후 적용되며 '오늘까지' 한정입니다",
+    "product_summary": "농심 신라면과 너구리 라면을 묶음으로 판매하는 상품입니다.\n구성은 신라면 10개+너구리 10개, 신라면 30개(120g×30), 너구리 20개 중에서 선택할 수 있습니다.\n원산지는 상세설명에 표시되어 있으며, 무료배송으로 제공됩니다.",
+    "source_site": "quasarzone",
+    "category": "생활/식품",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [
+      "https://brand.naver.com/nongshim/products/13808033803",
+      "https://shopping.naver.com/event/6ac7321c6bd75204c2b3f775"
+    ],
+    "tags": [
+      "농심",
+      "신라면",
+      "너구리",
+      "라면",
+      "봉지라면",
+      "인스턴트라면",
+      "농심라면",
+      "라면묶음"
+    ]
+  },
+  {
     "deal_id": "2ed1f88e3449",
     "title": "[토스] 베네틴 ISP 프로틴 2kg 초코맛 (21,900원/무배)",
     "deal_total": 21900,
