@@ -1,5 +1,80 @@
 [
   {
+    "deal_id": "4addcc446f4d",
+    "title": "[오늘의집] 피에브 에어워셔 고체 탈취제 250g 2개 세트 (29,900원/무료)",
+    "deal_total": 29900,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 38900,
+    "gap": 9000,
+    "mall_name": null,
+    "buy_url": "https://store.ohou.se/goods/4079383",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=119&&no=751938",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6158618/61586186829.1.jpg?type=f300",
+    "created_iso": "2026-11-26T03:20:54.891717+00:00",
+    "naver_url": null,
+    "naver_product_id": "61586186829",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. 상품 페이지에서 '쿠폰 받기'를 눌러 쿠폰을 적용합니다 (특별인증가 38,900원 → 나의 할인가 29,900원)\n2. 결제 시 최대 1,827P 적립",
+    "product_summary": "피에브 에어워셔 고체 탈취제 250g 2개 세트입니다.\n한 세트에 고체 탈취제 2개가 포함되며, 원하는 향으로 2개를 선택할 수 있습니다.\n사용 적합성 검증을 받아 반려동물을 키우거나 아토피가 있어도 사용할 수 있습니다.",
+    "source_site": "ppomppu",
+    "category": "기타",
+    "category_bucket": "생활",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "피에브",
+      "PIEV",
+      "에어워셔",
+      "고체 탈취제",
+      "탈취제",
+      "방향제",
+      "냄새 제거",
+      "반려동물",
+      "아토피"
+    ]
+  },
+  {
+    "deal_id": "ba7b78d46f7b",
+    "title": "로지텍코리아 공식 G304 LIGHTSPEED 무선 게이밍마우스 + 파우치 증정",
+    "deal_total": 32910,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 39900,
+    "gap": 6990,
+    "mall_name": "네이버",
+    "buy_url": "https://store.ohou.se/goods/739439",
+    "source_url": "https://arca.live/b/hotdeal/190326949",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5279772/52797722869.20250204105423.jpg?type=f300",
+    "created_iso": "2026-11-26T03:21:17.203189+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/52797722869",
+    "naver_product_id": "52797722869",
+    "buy_url_orig": "",
+    "price_label": "32,910원",
+    "discount_guide": "1. 오늘의집 빅프로모션 페이지에서 3만원 이상 10% 장바구니 쿠폰을 받습니다.\n2. 토스앱 > 쇼핑 > 오늘의집 검색 후 3,000원 쿠폰을 받습니다.\n3. 토스페이로 결제하면 토스페이 할인 -3,000원이 적용되어 결제창에서 32,910원(35,910원에서 할인)이 됩니다.",
+    "product_summary": "로지텍코리아 공식 G304 LIGHTSPEED 무선 게이밍마우스입니다.\nLIGHTSPEED 무선 연결 방식을 지원하는 게이밍 마우스이며, 화이트·퍼플·블랙·블루·민트 등 여러 색상으로 구성되어 있습니다.\n구매 시 마우스 파우치가 함께 증정됩니다.\n로지텍코리아 공식판매점 상품으로 무료배송으로 제공됩니다.",
+    "source_site": "arca",
+    "category": "전자제품",
+    "category_bucket": "전자",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [
+      "https://events.ohou.se/promotion-pages/big-promotion"
+    ],
+    "tags": [
+      "로지텍",
+      "logitech",
+      "G304",
+      "LIGHTSPEED",
+      "무선마우스",
+      "게이밍마우스",
+      "무선 게이밍마우스",
+      "마우스"
+    ]
+  },
+  {
     "deal_id": "b6e609b341f4",
     "title": "[29CM] 타이거모닝 모닝샷 3종 세트 (58,900원/7만이상무료)",
     "deal_total": 58900,
@@ -768,7 +843,7 @@
     "source_site": "quasarzone",
     "category": "PC/하드웨어",
     "category_bucket": "전자",
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [],
     "tags": [
@@ -14147,7 +14222,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "아이엠듀",
@@ -14185,7 +14260,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "인디안밥",
@@ -14220,7 +14295,7 @@
     "category": "가전제품",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "듀플렉스",
@@ -14258,7 +14333,7 @@
     "category": "음식",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "고등어",
@@ -14294,7 +14369,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "내셔널지오그래픽",
@@ -14330,7 +14405,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "유정란",
@@ -14366,7 +14441,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "광동",
@@ -14402,7 +14477,7 @@
     "category": "가전/TV",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://events.ohou.se/promotion-pages/big-promotion"
     ],
@@ -14440,7 +14515,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "신세계푸드",
@@ -14476,7 +14551,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://m.brand.naver.com/pulmuonehealth/products/13341286295"
     ],
@@ -14516,7 +14591,7 @@
     "category": "의류",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "쌤소나이트",
