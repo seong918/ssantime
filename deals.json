@@ -13910,7 +13910,7 @@
     "category": "기타",
     "category_bucket": "패션",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "카시오",
