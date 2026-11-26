@@ -1,5 +1,32 @@
 [
   {
+    "deal_id": "553e1e6b8667",
+    "title": "[무신사] 베리클로젯 키즈 기모 스코어 맨투맨 (15,810원/무배)",
+    "deal_total": 15810,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 23020,
+    "gap": 7210,
+    "mall_name": "네이버",
+    "buy_url": "https://www.musinsa.com/products/5638944",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=119&&no=752112",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6252541/62525413101.20261124074937.jpg?type=f300",
+    "created_iso": "2026-11-26T12:44:36.984848+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/62525413101",
+    "naver_product_id": "62525413101",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": null,
+    "product_summary": null,
+    "source_site": "ppomppu",
+    "category": "의류/잡화",
+    "category_bucket": null,
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": []
+  },
+  {
     "deal_id": "0bf459b0e57a",
     "title": "[11번가] 국산 한돈 삼겹살 500g 2팩 총1kg (15,900원/무료)",
     "deal_total": 15900,
@@ -14071,7 +14098,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "도한청명주",
@@ -14106,7 +14133,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "컬럼비아",
@@ -14143,7 +14170,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "송병장",
@@ -14178,7 +14205,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "올리오올리바",
@@ -14215,7 +14242,7 @@
     "category": "가전/가구",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "블랑가또",
@@ -14251,7 +14278,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "블랙야크",
@@ -14288,7 +14315,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "밀카",
