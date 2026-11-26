@@ -14021,7 +14021,7 @@
     "category": "상품권/쿠폰",
     "category_bucket": "기타",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "뚜레쥬르",
@@ -14057,7 +14057,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "암대하",
