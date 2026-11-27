@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "1f12ff502607",
+    "title": "마른 오징어 5미 소 150g 내외",
+    "deal_total": 12940,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 16380,
+    "gap": 3440,
+    "mall_name": null,
+    "buy_url": "https://brand.naver.com/hunhunsusan/products/11792042709",
+    "source_url": "https://www.fmkorea.com/10601856018",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6180976/61809765642.1.jpg?type=f300",
+    "created_iso": "2026-11-27T11:44:56.387171+00:00",
+    "naver_url": null,
+    "naver_product_id": "61809765642",
+    "buy_url_orig": "",
+    "price_label": "12,940원",
+    "discount_guide": "1. 상품 페이지에서 쿠폰을 받으면 23% 할인된 16,800원에서 최대 12,940원(최대할인가)에 구매할 수 있습니다\n※ 무료배송",
+    "product_summary": "마른 오징어 건오징어 반건조 피데기 건어물입니다.\n5미 소 기준 150g 내외로 구성됩니다.\n원산지는 상세설명에 표시되며, 맥주 안주로 즐기기 좋습니다.",
+    "source_site": "fmkorea",
+    "category": "먹거리",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "마른오징어",
+      "건오징어",
+      "오징어",
+      "반건조",
+      "피데기",
+      "건어물",
+      "오징어안주",
+      "술안주"
+    ]
+  },
+  {
     "deal_id": "1a8036eb9e94",
     "title": "[롯데온] 1++등급 한우등심 600g (44,140원/무료)",
     "deal_total": 44140,
@@ -13817,7 +13853,7 @@
     "category": "게임S/W",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [
       "https://store.kakao.com/playshop/products/807492265?_=1795170989526&ref=shopping_customtab&docId=80288b97ffd1442ab797ee457c829966&fromExternal=%7B%22p_id%22:%2280288b97ffd1442ab797ee457c829966%22%7D"
     ],
@@ -13857,7 +13893,7 @@
     "category": "컴퓨터",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "게이밍PC",
@@ -13894,7 +13930,7 @@
     "category": "PC/하드웨어",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "PS5",
@@ -13930,7 +13966,7 @@
     "category": "PC제품",
     "category_bucket": "전자",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "GMKtec",
@@ -13966,7 +14002,7 @@
     "category": "화장품",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "맨소래담",
