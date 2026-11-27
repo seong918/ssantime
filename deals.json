@@ -1,5 +1,41 @@
 [
   {
+    "deal_id": "bb905c023a45",
+    "title": "[롯데온] 웅진식품 유기농 어린이 차음료 2종 혼합 200ml 24페트 (11,480원/무료)",
+    "deal_total": 11480,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 15420,
+    "gap": 3940,
+    "mall_name": "네이버",
+    "buy_url": "https://www.lotteon.com/p/product/LO2765451293",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=2&divpage=119&&no=752193",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_5362718/53627187269.20250318152936.jpg?type=f300",
+    "created_iso": "2026-11-27T01:55:05.479214+00:00",
+    "naver_url": "https://search.shopping.naver.com/catalog/53627187269",
+    "naver_product_id": "53627187269",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. 웅진20% 할인쿠폰 적용 -3,280원\n2. 웅진식품 주말쿠폰 11월4주차_5% 적용 -1,040원\n3. (결제할인) 삼성카드 5% 즉시할인 -600원\n4. (결제할인) 카카오페이 롯데카드 5% 즉시할인 -600원\n5. (결제할인) 롯데카드 3% 즉시할인 (주문금액부족)\n※ 하늘보리 단독 구성으로 구매 후 삼성카드/롯데카드를 사용하면 11,000원대에 구매 가능하며, 2종을 섞어 담으면 가격이 조금 더 올라갑니다.",
+    "product_summary": "웅진식품 유기농 어린이 차음료 2종 혼합 상품입니다.\n하늘보리와 작두콩차로 구성되어 있습니다.\n용량은 200ml이며 24페트로 구성되어 있습니다.",
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "웅진식품",
+      "하늘보리",
+      "작두콩차",
+      "유기농",
+      "어린이 차음료",
+      "차음료",
+      "웅진",
+      "페트음료"
+    ]
+  },
+  {
     "deal_id": "bd46afa321e0",
     "title": "[토스] 호리온 식물성 멜라토닌 2mg 30정 x 2개 (15,050원/무배)",
     "deal_total": 15050,
@@ -13877,7 +13913,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": true,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "떡국떡",
@@ -13913,7 +13949,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "글라스락",
@@ -13951,7 +13987,7 @@
     "category": "기타",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "크록스",
@@ -13987,7 +14023,7 @@
     "category": "세일정보",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "베베앙",
@@ -14060,7 +14096,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "연세두유",
@@ -14097,7 +14133,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "비비고",
@@ -14133,7 +14169,7 @@
     "category": "생활용품",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "메디안",
