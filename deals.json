@@ -205,7 +205,7 @@
     "source_site": "quasarzone",
     "category": "기타",
     "category_bucket": "패션",
-    "is_end": false,
+    "is_end": true,
     "is_expired": false,
     "coupon_urls": [],
     "tags": [

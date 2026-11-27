@@ -17,14 +17,14 @@
     "comparison_baseline": "수집 시점에 같은 상품 후보로 자동 매칭한 네이버 쇼핑 비교가"
   },
   "metrics": {
-    "active_verified_deals": 350,
+    "active_verified_deals": 349,
     "strict_comparable_deals": 175,
     "median_savings_krw": 7000,
     "median_discount_percent": 24.1,
     "shipping_known_deals": 175,
-    "shipping_unknown_deals": 175,
+    "shipping_unknown_deals": 174,
     "coupang_deals": 53,
-    "coupang_share_percent": 15.1,
+    "coupang_share_percent": 15.2,
     "identified_marketplace_labels": 52,
     "marketplace_unknown_deals": 0
   },
@@ -37,17 +37,17 @@
     {
       "name": "식품",
       "count": 153,
-      "share_percent": 43.7
+      "share_percent": 43.8
     },
     {
       "name": "생활",
       "count": 40,
-      "share_percent": 11.4
+      "share_percent": 11.5
     },
     {
       "name": "패션",
-      "count": 86,
-      "share_percent": 24.6
+      "count": 85,
+      "share_percent": 24.4
     },
     {
       "name": "기타",
@@ -59,17 +59,17 @@
     {
       "name": "쿠팡",
       "count": 53,
-      "share_percent": 15.1
-    },
-    {
-      "name": "네이버 스마트스토어",
-      "count": 47,
-      "share_percent": 13.4
+      "share_percent": 15.2
     },
     {
       "name": "롯데ON",
       "count": 47,
-      "share_percent": 13.4
+      "share_percent": 13.5
+    },
+    {
+      "name": "네이버 스마트스토어",
+      "count": 46,
+      "share_percent": 13.2
     },
     {
       "name": "무신사",
@@ -89,7 +89,7 @@
     {
       "name": "오늘의집",
       "count": 18,
-      "share_percent": 5.1
+      "share_percent": 5.2
     },
     {
       "name": "토스쇼핑",
@@ -126,7 +126,7 @@
     {
       "name": "뽐뿌",
       "count": 184,
-      "share_percent": 52.6
+      "share_percent": 52.7
     },
     {
       "name": "에펨코리아",
@@ -140,8 +140,8 @@
     },
     {
       "name": "퀘이사존",
-      "count": 21,
-      "share_percent": 6.0
+      "count": 20,
+      "share_percent": 5.7
     },
     {
       "name": "루리웹",
