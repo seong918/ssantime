@@ -1,5 +1,45 @@
 [
   {
+    "deal_id": "cdce281b500d",
+    "title": "컨버스 척 70 X 블랙 A24228C",
+    "deal_total": 59400,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 79200,
+    "gap": 19800,
+    "mall_name": null,
+    "buy_url": "https://www.musinsa.com/products/6625294",
+    "source_url": "https://www.fmkorea.com/10605712632",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6063992/60639925393.jpg?type=f300",
+    "created_iso": "2026-11-28T16:43:14.526170+00:00",
+    "naver_url": null,
+    "naver_product_id": "60639925393",
+    "buy_url_orig": "",
+    "price_label": "59,400원",
+    "discount_guide": "1. 컨버스 브랜드 첫구매 쿠폰을 받아 적용합니다 (무신사 온보딩 페이지: https://www.musinsa.com/onboarding/engagement/footwearbrandnew)\n2. 쿠폰받기 적용 시 20% 할인되어 99,000원 → 79,200원\n3. 무신사 삼성카드 결제 시 25,250원 추가 할인\n4. Money 무신사머니 첫 결제 시 10% 추가 적립\n5. 주말 깜짝 7천원 장바구니 쿠폰 (2개 + 20만원 이상 구매 시 7천원 추가 할인)\n※ 파란색(파치먼트) 색상은 가격이 더 비쌉니다",
+    "product_summary": "컨버스 척 70 X 로우 캔버스 스니커즈입니다.\n블랙(A24228C)·오트밀·화이트 등 색상 구성으로 제공됩니다.\n정가 99,000원 기준 상품입니다.",
+    "source_site": "fmkorea",
+    "category": "의류",
+    "category_bucket": "패션",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [
+      "https://www.musinsa.com/products/6625312",
+      "https://www.musinsa.com/onboarding/engagement/footwearbrandnew"
+    ],
+    "tags": [
+      "컨버스",
+      "converse",
+      "척70",
+      "chuck70",
+      "스니커즈",
+      "캔버스화",
+      "A24228C",
+      "단화",
+      "블랙스니커즈"
+    ]
+  },
+  {
     "deal_id": "b44d12ff9baa",
     "title": "[네이버] 국내산 간장찜닭 1kg 2팩 (12,500원/멤버십무료)",
     "deal_total": 12500,
