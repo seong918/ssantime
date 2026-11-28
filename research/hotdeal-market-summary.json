@@ -17,12 +17,12 @@
     "comparison_baseline": "수집 시점에 같은 상품 후보로 자동 매칭한 네이버 쇼핑 비교가"
   },
   "metrics": {
-    "active_verified_deals": 351,
+    "active_verified_deals": 350,
     "strict_comparable_deals": 176,
     "median_savings_krw": 6875,
     "median_discount_percent": 24.3,
     "shipping_known_deals": 176,
-    "shipping_unknown_deals": 175,
+    "shipping_unknown_deals": 174,
     "coupang_deals": 53,
     "coupang_share_percent": 15.1,
     "identified_marketplace_labels": 49,
@@ -36,8 +36,8 @@
     },
     {
       "name": "식품",
-      "count": 152,
-      "share_percent": 43.3
+      "count": 151,
+      "share_percent": 43.1
     },
     {
       "name": "생활",
@@ -47,7 +47,7 @@
     {
       "name": "패션",
       "count": 86,
-      "share_percent": 24.5
+      "share_percent": 24.6
     },
     {
       "name": "기타",
@@ -68,13 +68,13 @@
     },
     {
       "name": "롯데ON",
-      "count": 47,
-      "share_percent": 13.4
+      "count": 46,
+      "share_percent": 13.1
     },
     {
       "name": "네이버 스마트스토어",
       "count": 44,
-      "share_percent": 12.5
+      "share_percent": 12.6
     },
     {
       "name": "11번가",
@@ -89,7 +89,7 @@
     {
       "name": "오늘의집",
       "count": 17,
-      "share_percent": 4.8
+      "share_percent": 4.9
     },
     {
       "name": "토스쇼핑",
@@ -119,19 +119,19 @@
     {
       "name": "기타 판매처",
       "count": 51,
-      "share_percent": 14.5
+      "share_percent": 14.6
     }
   ],
   "source_communities": [
     {
       "name": "뽐뿌",
       "count": 184,
-      "share_percent": 52.4
+      "share_percent": 52.6
     },
     {
       "name": "에펨코리아",
-      "count": 87,
-      "share_percent": 24.8
+      "count": 86,
+      "share_percent": 24.6
     },
     {
       "name": "아카라이브",
