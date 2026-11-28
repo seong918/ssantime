@@ -1,5 +1,43 @@
 [
   {
+    "deal_id": "5a3be25afa55",
+    "title": "[오늘의집] 캐치웰 CX PRO 매직타워 N 기본세트 오늘의딜 (251,100원/무배)",
+    "deal_total": 251100,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 284000,
+    "gap": 32900,
+    "mall_name": null,
+    "buy_url": "https://store.ohou.se/goods/1404699",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=119&&no=752456",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6151835/61518353771.jpg?type=f300",
+    "created_iso": "2026-11-28T02:17:51.053959+00:00",
+    "naver_url": null,
+    "naver_product_id": "61518353771",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "1. 오전 11시 선착순 장바구니 쿠폰 2만원과 상품쿠폰 10%를 함께 적용하면 251,100원에서 2만원이 더 빠져 체감가 20만원대 초반입니다.\n2. 특별인증가 기준 44% 279,000원에서 나의 할인가 251,100원까지 적용되며, 결제 시 최대 5,873P 적립됩니다.\n3. 리뷰 작성 시 N페이 2만원(N pay 10,000원 쿠폰 포함)이 지급됩니다.\n4. 집요한세일 블랙프라이데이 장바구니 쿠폰: 최대 5천원 / 최대 8천원 / 최대 2만원 (매일 00시·11시·20시 오픈)\n※ 쿠폰은 소진 시 조기 종료되며 오후 8시에 한 번 더 발급됩니다.\n※ 52대 한정 판매이며, 구매자 전원 먼지봉투와 필터세트가 증정됩니다.",
+    "product_summary": "캐치웰 CX PRO 매직타워 N 자동먼지비움 무선청소기입니다.\n충전 거치대에서 먼지를 자동으로 비워 주는 매직타워 방식의 유·무선청소기입니다.\n구매자 전원에게 먼지봉투와 필터세트가 사은품으로 제공됩니다.\n52대 한정 수량으로 판매되는 구성입니다.",
+    "source_site": "ppomppu",
+    "category": "가전/가구",
+    "category_bucket": "전자",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [
+      "https://events.ohou.se/promotion-pages/big-promotion"
+    ],
+    "tags": [
+      "캐치웰",
+      "CX PRO",
+      "매직타워 N",
+      "무선청소기",
+      "자동먼지비움",
+      "스틱청소기",
+      "catchwell",
+      "무선 진공청소기"
+    ]
+  },
+  {
     "deal_id": "955be1fba064",
     "title": "[롯데온] 완도 햇 산모미역 330g (9,980원/무료)",
     "deal_total": 9980,
