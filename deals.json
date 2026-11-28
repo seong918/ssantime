@@ -1,5 +1,40 @@
 [
   {
+    "deal_id": "ea02f6570270",
+    "title": "[카카오] 국내산 동해안 양미리 한두름 20미 (14,150원/무료)",
+    "deal_total": 14150,
+    "shipping_known": true,
+    "shipping_fee": 0,
+    "lprice": 18910,
+    "gap": 4760,
+    "mall_name": null,
+    "buy_url": "https://store.kakao.com/bongyi/products/815444782",
+    "source_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=119&&no=752514",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6236068/62360684401.jpg?type=f300",
+    "created_iso": "2026-11-28T08:19:15.508229+00:00",
+    "naver_url": null,
+    "naver_product_id": "62360684401",
+    "buy_url_orig": "",
+    "price_label": "",
+    "discount_guide": "※ 오후 7시까지 적용되는 쿠폰가입니다.",
+    "product_summary": "국내산 동해안 양미리 한두름(20미) 상품입니다.\n암수 랜덤으로 20미가 구성되어 있습니다.\n구워서 드시기 좋은 생선입니다.",
+    "source_site": "ppomppu",
+    "category": "식품/건강",
+    "category_bucket": "식품",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "양미리",
+      "국내산양미리",
+      "동해안양미리",
+      "한두름",
+      "생선",
+      "구이용생선",
+      "수산물"
+    ]
+  },
+  {
     "deal_id": "2b0aea376c4c",
     "title": "[무신사] 헌터 키즈 익스플로러 온 펄라이즈드 겨울부츠 (83,330원/무배)",
     "deal_total": 83330,
@@ -13567,7 +13602,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "설향딸기",
@@ -13602,7 +13637,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "지오다노",
@@ -13639,7 +13674,7 @@
     "category": "먹거리",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "청국장",
