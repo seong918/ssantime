@@ -1,5 +1,42 @@
 [
   {
+    "deal_id": "1e1fe4be257d",
+    "title": "시티즌 전자복어 프로마스터 에코드라이브",
+    "deal_total": 261820,
+    "shipping_known": false,
+    "shipping_fee": null,
+    "lprice": 281230,
+    "gap": 19410,
+    "mall_name": null,
+    "buy_url": "https://link.coupang.com/a/i226dC2zf2",
+    "source_url": "https://www.fmkorea.com/10604891148",
+    "image_src_url": "https://shopping-phinf.pstatic.net/main_6245257/62452570328.jpg?type=f300",
+    "created_iso": "2026-11-28T12:51:51.384618+00:00",
+    "naver_url": null,
+    "naver_product_id": "62452570328",
+    "buy_url_orig": "https://link.coupang.com/a/i20QG90pzg",
+    "price_label": "261,820원",
+    "discount_guide": null,
+    "product_summary": "시티즌 프로마스터(PROMASTER) 에코드라이브 마린 시리즈 다이버 손목시계입니다.\n빛으로 충전해 구동하는 에코드라이브(Eco-Drive) 방식이며, 다이버용으로 200m 방수를 지원합니다.\n색상은 블랙이며, 블랙 다이얼과 러버 밴드로 구성됩니다.",
+    "source_site": "fmkorea",
+    "category": "의류",
+    "category_bucket": "패션",
+    "is_end": false,
+    "is_expired": false,
+    "coupon_urls": [],
+    "tags": [
+      "시티즌",
+      "CITIZEN",
+      "프로마스터",
+      "PROMASTER",
+      "에코드라이브",
+      "Eco-Drive",
+      "다이버시계",
+      "손목시계",
+      "200m 방수"
+    ]
+  },
+  {
     "deal_id": "d33007375d42",
     "title": "노티카 시그니처 중목 5족",
     "deal_total": 6900,
@@ -13561,7 +13598,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "동화약품",
@@ -13598,7 +13635,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "보름달김치",
@@ -13635,7 +13672,7 @@
     "category": "기타",
     "category_bucket": "생활",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "가쯔",
@@ -13672,7 +13709,7 @@
     "category": "식품/건강",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "안국약품",
@@ -13709,7 +13746,7 @@
     "category": "의류/잡화",
     "category_bucket": "패션",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "테슬라",
@@ -13747,7 +13784,7 @@
     "category": "식품",
     "category_bucket": "식품",
     "is_end": false,
-    "is_expired": false,
+    "is_expired": true,
     "coupon_urls": [],
     "tags": [
       "감귤",
